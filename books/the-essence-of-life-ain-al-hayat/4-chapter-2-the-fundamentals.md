@@ -389,9 +389,7 @@ Allah has created many instincts and faculties in the human beings. He,
 the Creator, has exhorted the people to use them the way He wants them
 to use. And then Allah promises:
 
-<p dir="rtl">
 ﴿وَمَا أَنفَقْتُمْ مِنْ شَيْءٍ فَهُوَ يُخْلِفُهُ.﴾
-</p>
 
 ***“Whatever you spend in the Way of Allah- He gives you more in
 return”*** **(34:39)**
@@ -404,9 +402,7 @@ unimaginably more than the satisfaction one would derive from acquiring
 and hoarding the transitory material things of this world. Here, a verse
 from the Holy Qur’an is quoted:
 
-<p dir="rtl">
 ﴿ يُجَاهِدُونَ فِي سَبِيلِ اللَّهِ وَلاَ يَخَافُونَ لَوْمَةَ لَائِمٍ.﴾
-</p>
 
 ***“They strive to spend in the way of Allah and are not afraid of
 taunts.”*** **(5:54)**
@@ -759,9 +755,7 @@ way. The situation is similar till the seventh earth”
 
 Then the Prophet (S) recited the following verse:
 
-<p dir="rtl">
 ﴿اللَّهُ الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ وَمِنْ الْأَرْضِ مِثْلَهُنَّ.﴾
-</p>
 
 ***“Allah created seven skies and similarly the earths.”*** **(65:12)**
 
@@ -778,10 +772,8 @@ Region all other things look like rings lying on the floor of a forest.
 
 The Holy Qur’an says:
 
-<p dir="rtl">
 ﴿لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَمَا بَيْنَهُمَا وَمَا
 تَحْتَ الثَّرَى.﴾
-</p>
 
 ***“It is for Him what all is in the skies and on the earth and what all
 is in between them and what is in the Nether Region.”*** **(20:6)**
@@ -798,9 +790,7 @@ with the eyes. All these things are like circles in front of the*Kursi*
 
 The Qur’an says:
 
-<p dir="rtl">
 ﴿وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ.﴾
-</p>
 
 ***“His Chair is more extensive than the skies and the
 earth.”**(2:255)*****
@@ -893,5 +883,4 @@ the darkness of ungodly ways and heresy.”
 One of the most important pillars of Islamic Faith is bearing witness
 that Muhammad Sal Allaho wa Alaihi wa Sallam is the Prophet of Allah.
 This shall be discussed at some length in the next chapter.
-
 

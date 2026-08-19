@@ -10,15 +10,15 @@ kings appeared on the face of al-Hasan.”[^4]
 Ibn al-Zubayr has said: “By Allah, women have never born anyone similar
 to al-Hasan bin Ali in dignity and is high position.”[^5]
 
-[^1] Ibn ‘Asakir, Tarikh, vol. 4, p. 212.
-[^2] Muhammad bin Ali bin al-Husayn bin Musa bin Babawayh al-Qummi is
+[^1]: Ibn ‘Asakir, Tarikh, vol. 4, p. 212.
+[^2]: Muhammad bin Ali bin al-Husayn bin Musa bin Babawayh al-Qummi is
 among the great Shi‘ite figures and head of the traditionists. None
 among the people of Qum was similar to him in his memorizing and
 abundant knowledge. He was the teacher of al-Sheikh al-Mufid. He has
 written three hundred books. He died in al-Ray, in the year 381 A. H.
 This has been mentioned in the book al-Kuna wa al-Alqab, vol. 1, p.
 212.
-[^3] Wasil bin Ataa’ al-Basri was a declamatory, eloquent theologian. He
+[^3]: Wasil bin Ataa’ al-Basri was a declamatory, eloquent theologian. He
 lisped the letter r. It has been narrated from him that he abandoned and
 avoided the letter r during his orations. It has been said in respect of
 him:
@@ -35,8 +35,8 @@ Mu‘tazilites and was among their great figures. He was born in Yathrib
 (Medina) in the year 80 AH. He died in the year 131 A. H. This has been
 mentioned in the book Lisan al-Mizan, vol., 6, p. 214.
 
-[^4] A‘yan al-Shi‘a, vol. 4, p. 12. Al-Manaqibin
-[^5] Ibn Kuthayr, Tarikh, vol. 8, p. 37.
+[^4]: A‘yan al-Shi‘a, vol. 4, p. 12. Al-Manaqibin
+[^5]: Ibn Kuthayr, Tarikh, vol. 8, p. 37.
 
 Imam al-Hasan was so dignified that some rugs were spread at the door
 of his house. When he went out and sat down, none would walk through the
@@ -76,9 +76,9 @@ painful chastisement, you would see that you were in a wide garden and
 an inclusive blessing.[^3] Then the Imam went away, while the Jew was
 bursting with rage and malice.
 
-[^1] A‘lam al-Wara fi A‘lam al-Huda, p. 125.
-[^2] Al-Manaqib, vol. 2, p. 142. A‘yan al-Shi‘a, vol. 4, p. 20.
-[^3] Ibn al-Sabbagh, al-Fusool al-Muhimma, p. 161.
+[^1]: A‘lam al-Wara fi A‘lam al-Huda, p. 125.
+[^2]: Al-Manaqib, vol. 2, p. 142. A‘yan al-Shi‘a, vol. 4, p. 20.
+[^3]: Ibn al-Sabbagh, al-Fusool al-Muhimma, p. 161.
 
 A stupid, spiteful person saw the Imam’s veneration and dignity, and
 then he said to him: “You have greatness (haughtiness)!” The Imam
@@ -122,9 +122,9 @@ eloquent, wise sayings containing the principles of social morals,
 advice, guidance, and immortal preachments. They have been inlaid with
 pretty pronunciation and high meaning. We will mention some of them.
 
-[^1] Qur’an, 63, 8.
-[^2] Al-Manaqib, vol. 2, p. 149.
-[^3] An-Nihaya by Ibnul Atheer.
+[^1]: Qur’an, 63, 8.
+[^2]: Al-Manaqib, vol. 2, p. 149.
+[^3]: An-Nihaya by Ibnul Atheer.
 
 **Social manners**
 
@@ -150,7 +150,7 @@ soul is satisfied with what Allah apportions even if it is little, for
 riches is that of the soul. -What is poverty? -It is that the soul is
 greedy toward all things.
 
-[^1] Al-Bustani, Da’irat al-Ma‘arif, vol. 7, p. 39. -What is power?
+[^1]: Al-Bustani, Da’irat al-Ma‘arif, vol. 7, p. 39. -What is power?
 
 -It is strong courage and fighting with strong people. -What is
 humiliation? -It is the fear during telling the truth. -What is
@@ -211,8 +211,8 @@ religion; and Iblis was cursed because of it. As for greediness, it is
 the enemy of soul; and because of it Adam was taken out of the Garden.
 As for envy, it is the pioneer
 
-[^1] Al-Ya‘qubi, Tarikh, vol. 2, p. 201.
-[^2] Ibid., p. 202.
+[^1]: Al-Ya‘qubi, Tarikh, vol. 2, p. 201.
+[^2]: Ibid., p. 202.
 
 of evil deeds; and because of it Qabil (Cain) killed Habil (Abel).”[^1]
 Without doubt these vices, which Imam al-Hasan has urged people to avoid
@@ -249,13 +249,13 @@ door to response. When He opens for someone the door to deed, he does
 not close the door to acceptance. When He opens to someone the door to
 giving thanks, He does not close the door to an increase.”[^7]
 
-[^1] Noor al-Absar, p. 110.
-[^2] Ibn al-Sabbagh, al-Fusool al-Muhimma, p. 142.
-[^3] Al-Ithna ‘Ashariya, p. 37.
-[^4] Noor al-Absar, p. 110.
-[^5] A‘yan al-Shi‘a, vol. 4, p. 88.
-[^6] Kashf al-Ghumma, p. 171.
-[^7] A‘yan al-Shi‘a, vol. 4, p. 88.
+[^1]: Noor al-Absar, p. 110.
+[^2]: Ibn al-Sabbagh, al-Fusool al-Muhimma, p. 142.
+[^3]: Al-Ithna ‘Ashariya, p. 37.
+[^4]: Noor al-Absar, p. 110.
+[^5]: A‘yan al-Shi‘a, vol. 4, p. 88.
+[^6]: Kashf al-Ghumma, p. 171.
+[^7]: A‘yan al-Shi‘a, vol. 4, p. 88.
 
 **Politics**
 
@@ -302,8 +302,8 @@ it was for a profit. He did not complain nor did he grumble. He always
 kept silent. When he spoke, he surpassed and overcame the speakers. He
 was weak and was deemed as weak.
 
-[^1] Al-‘Urfan Magazine, vol. 40, part 3.
-[^2] Al-Ya‘qubi, Tarikh, vol. 2, p. 202.
+[^1]: Al-‘Urfan Magazine, vol. 40, part 3.
+[^2]: Al-Ya‘qubi, Tarikh, vol. 2, p. 202.
 
 When seriousness came, he was a running lion. When scientists gathered,
 he listened more than he spoke. When his speech was overcome, his
@@ -340,11 +340,11 @@ that which is not preceded by postponement and not followed by
 reminding, and the giving before asking is the greatest kind of
 righteousness.”[^4]
 
-[^1] Ibn Qutayba, ‘Uyun al-Akhbar, vol. 2, p. 55. Others have mentioned
+[^1]: Ibn Qutayba, ‘Uyun al-Akhbar, vol. 2, p. 55. Others have mentioned
 it in a different expression.
-[^2] Tuhaf al-‘Uqool, p. 55.
-[^3] Majjma‘ al-Bahrain, Chapter on Munificence.
-[^4] A‘yan al-Shi‘a, vol. 4, p. 88.
+[^2]: Tuhaf al-‘Uqool, p. 55.
+[^3]: Majjma‘ al-Bahrain, Chapter on Munificence.
+[^4]: A‘yan al-Shi‘a, vol. 4, p. 88.
 
 **Miserliness**
 
@@ -375,10 +375,10 @@ Most surely Allah is not obeyed unwillingly, nor is He disobeyed out of
 overcoming. He possesses what He has made them possess and the Powerful
 over that which He has
 
-[^1] Nihayat al-Irab fi Funun al-Adab, vol. 3, p. 398.
-[^2] Warram, Majjmu‘a, p. 312.
-[^3] Ibn Kuthayr, Tarikh, vol. 8, p. 39.
-[^4] The research on compulsion (jabr) and authorization (tafwidh) is
+[^1]: Nihayat al-Irab fi Funun al-Adab, vol. 3, p. 398.
+[^2]: Warram, Majjmu‘a, p. 312.
+[^3]: Ibn Kuthayr, Tarikh, vol. 8, p. 39.
+[^4]: The research on compulsion (jabr) and authorization (tafwidh) is
 among the most important and difficult theologian problems. In respect
 of them the scientists’ viewpoints are disorderly and different. The
 thought of compulsion (jabr) was famous in Basra because of al-Hasan
@@ -435,10 +435,10 @@ made prohibited by Allah, and you are a worshiper. Be satisfied with
 what Allah apportions, and you are rich. Neighbor well those who
 neighbor you, and you
 
-[^1] Rasa’il Jamharat al-‘Arab, vol. 2, p. 25.
-[^2] Qur’an, 78, 31.
-[^3] Ibid., 39, 61.
-[^4] Tuhaf al-‘Uqool, p. 55.
+[^1]: Rasa’il Jamharat al-‘Arab, vol. 2, p. 25.
+[^2]: Qur’an, 78, 31.
+[^3]: Ibid., 39, 61.
+[^4]: Tuhaf al-‘Uqool, p. 55.
 
 are a Muslim. Associate with people in the same manner you want them to
 associate with you, and you are just. The people before you collected
@@ -479,10 +479,10 @@ his pleasure. Some people preceded and succeeded. Some other people fell
 short and failed. Therefore, I fully wonder at one who laughs and plays
 on the day when good-doers are rewarded, and evil-doers
 
-[^1] Qur’an, 2, p. 197.
-[^2] Tuhaf al-‘Uqool, p. 56.
-[^3] Warm, Majjmu‘a, p. 411.
-[^4] Al-Ya‘qubi, Tarikh, vol. 2, p. 202.
+[^1]: Qur’an, 2, p. 197.
+[^2]: Tuhaf al-‘Uqool, p. 56.
+[^3]: Warm, Majjmu‘a, p. 411.
+[^4]: Al-Ya‘qubi, Tarikh, vol. 2, p. 202.
 
 lose. By Allah, if the cover (between them and the unseen) was removed,
 they came to know that the good-doer is busy performing his good deeds,
@@ -515,13 +515,13 @@ greediness is similar to using sins.”[^5] Mosques He (a.s) has said:
 word leading him to guidance or preventing him from misguidance, and
 giving up sins out of shyness or fear.”[^6]
 
-[^1] Jaami‘ al-Sa‘adat, vol. 3, p. 376. Tuhaf al-‘Uqool, p. 56. Warm,
+[^1]: Jaami‘ al-Sa‘adat, vol. 3, p. 376. Tuhaf al-‘Uqool, p. 56. Warm,
 Majjmu‘a, p. 54.
-[^2] Warm, Majjmu‘a, p. 37.
-[^3] Al-Jahiz, al-Mahasin wa al-Masawi‘, p. 256.
-[^4] Al-Ithna ‘Ashariya, p. 37.
-[^5] Tuhaf al-‘Uqool, p. 55.
-[^6] Ibn Qutayba, ‘Uyoon al-Akhbar, vol. 3, p. 3.
+[^2]: Warm, Majjmu‘a, p. 37.
+[^3]: Al-Jahiz, al-Mahasin wa al-Masawi‘, p. 256.
+[^4]: Al-Ithna ‘Ashariya, p. 37.
+[^5]: Tuhaf al-‘Uqool, p. 55.
+[^6]: Ibn Qutayba, ‘Uyoon al-Akhbar, vol. 3, p. 3.
 
 **The manners of Having Food**
 
@@ -563,11 +563,11 @@ answer the prayer of the suppliant when he calls on Me, so they should
 answer My call and believe in Me that they may walk in the right way.[^4]
 Therefore, respond to Allah and
 
-[^1] Al-Ithna ‘Ashariya, p. 37.
-[^2] Abdullah Shubbar, Masabeeh al-Anwar fi Hal Mushkilat al-Akhbar,
+[^1]: Al-Ithna ‘Ashariya, p. 37.
+[^2]: Abdullah Shubbar, Masabeeh al-Anwar fi Hal Mushkilat al-Akhbar,
 vol. 2, p. 271.
-[^3] Warm, Majjmu‘a, p. 301.
-[^4] Qur’an, 2, 186.
+[^3]: Warm, Majjmu‘a, p. 301.
+[^4]: Qur’an, 2, 186.
 
 believe in Him, for whoever knows His Greatness should not show
 greatness (before Him). Indeed the highness of those who know Allah’s
@@ -606,7 +606,7 @@ is Friday, and al-Mashhood is the Day of Arafat.” Then the man went to
 the second person and asked him the same question. He said to him:
 “Al-Shahid is Friday, and al-Mashhood is the Day of Immolation.” Then
 the man went to the third person and asked him his question.
-[^1] Tuhaf al-‘Uqool, p. 53.
+[^1]: Tuhaf al-‘Uqool, p. 53.
 
 He said to him: “Al-Shahid is Allah’s Apostle (a.s), and al-Mashhood is
 the Day of Resurrection.” He confirmed his speech with some proofs,
@@ -619,7 +619,7 @@ The man asked about the first person, and it was said to him that he
 was Abdullah bin Abbas.[^1] He asked about the second person, and it was
 said to him that he was Abdullah bin Umar.[^2]
 
-[^1] His full name is Abdullah bin Abbas bin Abd al-Muttalib bin Hashim,
+[^1]: His full name is Abdullah bin Abbas bin Abd al-Muttalib bin Hashim,
 the uncle of the Prophet (a.s.). His mother is Umm al-Fadhl, daughter of
 al-Harith al-Hilali. He was born three years before the emigration, and
 it was said that he was born five years before it. Allah’s Apostle
@@ -647,7 +647,7 @@ takbeer (Allah is great!) over him four times. He said: “Today the
 divine person of this community has died.” This has been mentioned in
 the book al-Isti‘ab, vol. 2, p. 350.
 
-[^2] His full name is Abdullah bin Umar bin al-Khattab. He was born
+[^2]: His full name is Abdullah bin Umar bin al-Khattab. He was born
 three years before the day when the Prophet was appointed as a prophet.
 He died in the year 84 A. H. Other than that has been said. This has
 been mentioned in the book al-Isaba, vol. 2, p. 347. It has been
@@ -702,13 +702,13 @@ right, Allah decreases his lifetime equal to that. When the time turns
 against us, the end will be to us. And most certainly you will come to
 know about it after a time.[^6] ”[^7]
 
-[^1] Ibn al-Sabbagh, al-Fusool al-Muhimma, p. 160.
-[^2] Qur’an, 41, 42.
-[^3] Qur’an, 4, 59.
-[^4] Ibid., 8, 48.
-[^5] Ibid., 6, 158.
-[^6] Qur’an, 38, 88.
-[^7] Al-Mas‘udi, Muruj al-Thahab, vol. 2, p. 306.
+[^1]: Ibn al-Sabbagh, al-Fusool al-Muhimma, p. 160.
+[^2]: Qur’an, 41, 42.
+[^3]: Qur’an, 4, 59.
+[^4]: Ibid., 8, 48.
+[^5]: Ibid., 6, 158.
+[^6]: Qur’an, 38, 88.
+[^7]: Al-Mas‘udi, Muruj al-Thahab, vol. 2, p. 306.
 
 His short, wise Sayings
 
@@ -744,7 +744,7 @@ close in lineage.
 He (a.s) said to a man who recovered from his illness: “Allah
 remembered
 
-[^1] Warram, Majmu‘a, p. 201. Khalid bin Safwan has said: “The most
+[^1]: Warram, Majmu‘a, p. 201. Khalid bin Safwan has said: “The most
 eloquent of people is al-Hasan bin Ali due to his saying this golden
 statement representing inimitability, creation, and conciseness.”
 
@@ -780,6 +780,5 @@ not rejoice at its delight; and every delight that does not last is
 mean. With this subject matter we will end our talk about Imam
 al-Hasan’s inheritance and ideals.
 
-[^1] Al-‘Umda, vol. 1, p. 21.
-
+[^1]: Al-‘Umda, vol. 1, p. 21.
 

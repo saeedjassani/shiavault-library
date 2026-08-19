@@ -66,7 +66,7 @@ Jarrah, third, present emigrants in Saqifa,[^12] and the forth one Salim
 Mawla Hudhayfa who was not of Quraysh.[^13] Surprisingly, despite all
 'Umar's disagreements with Khalid Ibn Walid,[^14] he had been quoted
 saying, “If Khalid Ibn Walid were alive, he would be my successor.”
-[^15] Thus, it becomes obvious if one of these people were alive, it
+[^15]: Thus, it becomes obvious if one of these people were alive, it
 would not be a turn for Shura.[^16]
 
 In fact, all of his candidates for caliphate had passed away. Thus, it
@@ -295,11 +295,7 @@ they are at odds, Mu'awiya would overcome them. He was then in
 Damascus.[^52] After allegiance was sworn, Imam (a) returned home.
 However, 'Ammar said,
 
-<blockquote dir="rtl">
-  <p>
-يا ناعي السلام قم فانعه قد مات عرف وأتى منكر
-  </p>
-</blockquote>
+> يا ناعي السلام قم فانعه قد مات عرف وأتى منكر
 
 'O thou who declare death of religion, rise up because goodness vanished
 and badness ruled.” [^53]  
@@ -584,7 +580,7 @@ completely in Mina, that instigated some people against him.
 “This is my belief”, said 'Uthman when they objected.[^90]
 
 'Ammar, who was one of his known opponents, said, **قتلناه كافراً**
-[^91] “We killed him while being an unbeliever.”
+[^91]: “We killed him while being an unbeliever.”
 
 He stood against rebels in the day of Jamal and asked them, “Why do you
 fight with us?”
@@ -606,12 +602,8 @@ reason of opposing 'Uthman.[^95]
 And it's quoted from him, ”'Uthman has treated unrightfully and
 distorted Qur'an's word.”
 
-<blockquote dir="rtl">
-  <p>
-وَمَنْ لَمْ يَحْكُمْ بِمَا أَنزَلَ اللَّهُ فَأُوْلَئِكَ هُمْ
-الْكَافِرُون
-  </p>
-</blockquote>
+> وَمَنْ لَمْ يَحْكُمْ بِمَا أَنزَلَ اللَّهُ فَأُوْلَئِكَ هُمْ
+> الْكَافِرُون
 
 “Whosoever judges not as to what God has said, he shall be an infidel.”
 َ[^96]611
@@ -761,11 +753,7 @@ Sheikhs' dealing with 'Uthman about Bayt al-Mal in his poem and in the
 end, he mentioned about granting to Marwan the fifth share of African
 booties which were nearly equal to five thousands of Dinars.
 
-<blockquote dir="rtl">
-  <p>
-واَعطيت مروان خمس العباد فهيهات شاَوك ممن سعى
-  </p>
-</blockquote>
+> واَعطيت مروان خمس العباد فهيهات شاَوك ممن سعى
 
 “Thou granted Marwan a share fifth of Allah's servants, thy ideals are
 actually far from those in pursuit of virtues.” [^121]
@@ -1115,11 +1103,7 @@ his killing as an unjust action. In Jariya Ibn Qudama's opinion, 'Uthman
 was killed in the presence of Ansar and Muhajirun, yet they showed no
 reaction against murderers.[^177] In this respect, a poet has said,
 
-<blockquote dir="rtl">
-  <p>
-إن ابن عفان أصيب وحوله إخوانه وجماعة من الأنصار
-  </p>
-</blockquote>
+> إن ابن عفان أصيب وحوله إخوانه وجماعة من الأنصار
 
 ”'Uthman Ibn 'Affan was murdered when his brothers and a group of Ansar
 surrounded him.”[^178]  
@@ -1149,11 +1133,7 @@ one of the tenacious supporters of 'Uthman in these days, points out the
 matter of Ansar's downgrading 'Uthman in his poems. In fact, in addition
 to the following interpretation,
 
-<blockquote dir="rtl">
-  <p>
-خذلته الأنصار اذ حضر الموت وكانت ولاته الأنصار
-  </p>
-</blockquote>
+> خذلته الأنصار اذ حضر الموت وكانت ولاته الأنصار
 
 “Ansar, even though having sainthood, was present when 'Uthman was
 killed, but they left him alone.”[^184]
@@ -3401,5 +3381,4 @@ al-Ya’qubi, vol. II, p. 238
 [^357]: Sharh Nahj al-Balaghah, vol. XII, p. 96
 
 [^358]: Nahj As-Sa‘ada, vol. I, p. 189
-
 

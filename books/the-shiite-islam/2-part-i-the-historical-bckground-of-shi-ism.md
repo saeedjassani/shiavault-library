@@ -67,7 +67,6 @@ Besides all these elements, we see in many sayings of the Prophet
 reference to the "shi'ah of Ali" and the "shi'ah of the Household of the
 Prophet."
 
-
 **The Cause of the Separation of the Shi'ite Minority from the Sunni
 Majority**
 
@@ -130,7 +129,6 @@ surrender to the majority in certain questions of faith and continued to
 hold that the succession to the Prophet and religious authority belonged
 by right to Ali. They believed that all spiritual and religious matters
 should be referred to him and invited people to become his followers.
-
 
 **The Two Problems of Succession and Authority in Religious
 Sciences**
@@ -308,7 +306,6 @@ Marwan ibn Hakam - did not act promptly or decisively to remove the
 causes against which the people were protesting. Sometimes it even
 happened that those who protested were punished and driven away.
 
-
 An incident that happened in Egypt illustrates the nature of the rule
 of the third caliph. A group of Muslims in Egypt rebelled against
 Uthman. Uthman sensed the dander and asked Ali for help, expressing his
@@ -440,5 +437,4 @@ the Holy Prophet and a large number of their followers in the Hijaz, the
 Yemen, Iraq, and other lands, joined the followers of Ali. As a result,
 after the death of the third caliph the people turned to Ali from all
 sides, swore allegiance to him and chose him as caliph.
-
 

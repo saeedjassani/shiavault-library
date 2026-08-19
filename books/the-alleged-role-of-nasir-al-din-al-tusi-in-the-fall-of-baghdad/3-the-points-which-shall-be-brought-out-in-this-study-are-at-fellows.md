@@ -63,7 +63,7 @@ committing idolatry. Others like al Subki [^11]
 
 and Khwand Mir
 
-[^12] have followed suit with Ibn Taymiyyah in blaming the Khwajah of
+[^12]: have followed suit with Ibn Taymiyyah in blaming the Khwajah of
 having brought about the conquest of Baghdad. In modern times, some
 orientalists, like the authors of the Cambridge History of Iran, have
 mentioned the allegations about the role of the Khwajah. [^13]
@@ -112,5 +112,4 @@ al-Din had a hand in the event, any statement to the effect that "the
 hand of Shi'ism came out of the Mongol sleeve" is a regrettable lapse
 for anyone while making a serious historical judgement, and especially
 when made by a researcher.
-
 

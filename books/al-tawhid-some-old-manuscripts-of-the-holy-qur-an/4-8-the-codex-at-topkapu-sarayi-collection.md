@@ -63,7 +63,6 @@ which runs from Surat al-Shams to the end of the Qur'an. 51 Despite all
 this, the authenticity of the attribution of each these codices to 'Ali
 (A) is a matter that requires a separate study.
 
-
 **9. Script of Early Qur'anic Manuscripts**
 
 Doubtlessly the script of the Qur'an in the times of the Prophet (S),
@@ -147,5 +146,4 @@ before him. 60 A study of the aforementioned works and of the Qur'anic
 manuscripts in libraries and museums mentioned above leads us to
 conclude that the Naskhi script was derived from the Kufic, not the
 Nabataean as claimed by some.
-
 

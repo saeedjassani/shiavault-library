@@ -24,4 +24,3 @@ their own tribal positions by joining the movement in favour of
 al-Husayn. Al-Husayn decided to act prudently by sending his cousin
 Muslim b. 'Aqil to al-Kufa to assess the actual situation there.
 
-

@@ -103,4 +103,3 @@ al-'Ayyashi, Abu 'n-Nadr Muhammad ibn Mas'ad as-Sulami as-Samarqandi,
 Tafsiru'l-Ayyashi, 2 vols. (Tehran: al-Maktabatu'lIslamiyyah, n.d.),
 vol. l, p. 45.
 
-

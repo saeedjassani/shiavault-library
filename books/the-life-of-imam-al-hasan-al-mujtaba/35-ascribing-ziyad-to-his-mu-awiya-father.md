@@ -36,11 +36,11 @@ bin ‘Ubayd. Now then, surely you are a salve; you have been ungrateful
 for the blessing and you called for the vengeance. Most certainly
 gratefulness is more
 
-[^1] Qur’an, 5, 50.
-[^2] Al-Harith bin Kildah bin ‘Umar al-Thaqafi was a famous physician
+[^1]: Qur’an, 5, 50.
+[^2]: Al-Harith bin Kildah bin ‘Umar al-Thaqafi was a famous physician
 among the Arabs and he was a poet. This has been mentioned (in the book)
 Mu‘jam al-Shu‘ara’, p. 172.
-[^3] Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 310.
+[^3]: Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 310.
 
 appropriate for you than ungratefulness; surely the tree takes root and
 branches from its origin. You are motherless; rather you have no father.
@@ -126,7 +126,7 @@ Therefore, advise me in respect of the affair! Counsel me with the
 opinion of someone expert! Be for me, and I will be for you! I have
 singled you out with my own secrets and preferred you to my sons!”
 
-[^1] He refers to that which history narrates that (his mother) Hind had
+[^1]: He refers to that which history narrates that (his mother) Hind had
 become pregnant before she married Abu Sufyan. She married him to cover
 her crime. A group of the Bedouins were accused of that.
 
@@ -267,9 +267,9 @@ death of his father. You have no pride! Sufficient unto you is Sumayya,
 and sufficient unto us is Allah’s Apostle, may Allah bless him and his
 family.”[^3]
 
-[^1] Al-Jahidh, al-Taj, p.103.
-[^2] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.4, p.73.
-[^3] Al-Bayqahi, al-Mahasin wa al-Masawi’, vol. 1, p. 58.
+[^1]: Al-Jahidh, al-Taj, p.103.
+[^2]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.4, p.73.
+[^3]: Al-Bayqahi, al-Mahasin wa al-Masawi’, vol. 1, p. 58.
 
 B. Imam al-Husayn
 
@@ -317,8 +317,8 @@ So Mu’awiya turned to Marwan and said to him: “Take this dissolute
 “Yes, by Allah, he is dissolute! I cannot stand him!,” retorted
 Marwan.
 
-[^1] Al-Kashi, Rijal, p. 33.
-[^2] al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 311.
+[^1]: Al-Kashi, Rijal, p. 33.
+[^2]: al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 311.
 
 Mu’awiya said: “Were it not for my clemency and tolerance, I would come
 to know that he was unbearable. Did his poetry about me and Ziyad not
@@ -394,7 +394,7 @@ you two hundred dinars, that you may spend it.” When Abu al-‘Aryan heard
 of that, he became very happy. Then he said: “The link of the blood
 relationship! Yes, by Allah, he is really my cousin!”
 
-[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.4, p.71. Al-Isti‘ab,
+[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.4, p.71. Al-Isti‘ab,
 vol. 1, pp. 552-554.
 
 On the following day Ziyad’s procession passed by him, and Ziyad
@@ -423,8 +423,8 @@ Among those who criticized Mu’awiya for adding Ziyad to himself was Abu
 Bakra[^2] , Ziyad’s brother. He strongly rebuked his brother. He
 boycotted him
 
-[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p.71.
-[^2] Abu Bakra’s name is Nufay‘ bin al-Harith bin Kulidda. It was said
+[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p.71.
+[^2]: Abu Bakra’s name is Nufay‘ bin al-Harith bin Kulidda. It was said
 that his father’s name was Masruh. He was al-Harith’s servant. So
 al-Harith added him, Ziyad’s brother, to himself. He was given the
 nickname of Abu Bakra because he descended from the stronghold of
@@ -482,10 +482,10 @@ sacredness of Islam
 
 father is Masruh al-Habashi.”
 
-[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.4, p.550. In
+[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.4, p.550. In
 Al-Isti‘ab, vol. 1, p. 550, it has been mentioned in a little
 difference.
-[^2] Nihayat al-Irab fi Funun al-‘Arab, vol. 3, p. 281. In another
+[^2]: Nihayat al-Irab fi Funun al-‘Arab, vol. 3, p. 281. In another
 narration: “I have never become sad at a thing severer than Ibn
 al-Mufarragh’s speech!”
 
@@ -522,7 +522,7 @@ Among those who criticized and rebuked Mu’awiya (for his adding Ziyad
 to himself) is al-Hasan al-Basri[^1] . He regarded this adding as one of
 Mu’awiya’s
 
-[^1] Al-Hasan al-Basri’s father was Abu Yasar. He was the retainer of
+[^1]: Al-Hasan al-Basri’s father was Abu Yasar. He was the retainer of
 Zayd bin Thabit al-Ansari. His mother Khayyarah was the female servant
 of Umm Salama, the wife of the Prophet, may Allah bless him and his
 family. He was born in Medina two years before the end of the caliphate
@@ -576,9 +576,9 @@ sword, the Marwani state would be buried in its grave and was taken from
 its den.” Al-Hafiz has mentioned that al-Hasan was fraud in his
 (reporting) traditions.
 
-[^1] Al-Tabari, Tarikh, vol. 6, p. 157. Abu al-Fida’, Tarikh, vol. 1, p.
+[^1]: Al-Tabari, Tarikh, vol. 6, p. 157. Abu al-Fida’, Tarikh, vol. 1, p.
 196.
-[^2] Muhadarat al-Awaa’il, p. 136.
+[^2]: Muhadarat al-Awaa’il, p. 136.
 
 and heresies of the pre-Islamic era. In the meantime he tried to deaden
 the Islamic duties. He responded to his urgent sentiments in controlling
@@ -624,8 +624,8 @@ disorder included all the Muslim countries.
 Among the aspects of that social oppression is that Mu’awiya empowered
 on
 
-[^1] Al-Nasaa’ih, p. 58.
-[^2] Al-Tabari, Tarikh, vol. 6, p. 123.
+[^1]: Al-Nasaa’ih, p. 58.
+[^2]: Al-Tabari, Tarikh, vol. 6, p. 123.
 
 the Muslims some ignoble people from among the devious headsmen and
 blood-shedders. They went too far in shedding blood, intentionally
@@ -666,6 +666,5 @@ exhausted the Muslims. We will give a brief account on the biographies
 of these blood-shedders along with an explanation to what issued from
 them from among the barbaric deeds. That is up to readers:
 
-[^1] Al-Bayan, vol. 1, p. 95.
-
+[^1]: Al-Bayan, vol. 1, p. 95.
 

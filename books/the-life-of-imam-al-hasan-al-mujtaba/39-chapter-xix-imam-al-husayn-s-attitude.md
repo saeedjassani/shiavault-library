@@ -41,7 +41,7 @@ respect of it.” Abdullah bin Ja‘far asked him: “What is it?”
 has been shed because of it. kinship have been cut off, and the
 fortified borderline cities have been closed.”
 
-[^1] Usd al-Ghaba, and the like.
+[^1]: Usd al-Ghaba, and the like.
 
 Abdullah bin Ja‘far confirmed his viewpoint saying: “May Allah reward
 you with good on behalf of the community of Muhammad; and I am with
@@ -82,8 +82,8 @@ was alive frankly indicates that he thought that concluding a truce and
 timely peacemaking was necessary, because the revolt would not succeed
 and the
 
-[^1] Ibn ‘Asakir, Tarikh, vol. 4, p. 21.
-[^2] Al-Shaykh al-Mufid, al-Irshad, p. 206. Others than him have
+[^1]: Ibn ‘Asakir, Tarikh, vol. 4, p. 21.
+[^2]: Al-Shaykh al-Mufid, al-Irshad, p. 206. Others than him have
 mentioned that.
 
 sacrifice would achieve nothing as long as Mu’awiya was alive, for he
@@ -128,7 +128,7 @@ right, so he was loyal to him and obeyed him as he had obeyed his father
 before. I have no doubt that, during these years he spent in Medina
 after the peace his brother made, he felt burning desire for the
 opportunity that would enable him
-[^1] Ibn Shahrashub, al-Manaqib, vol. 2, p. 143.
+[^1]: Ibn Shahrashub, al-Manaqib, vol. 2, p. 143.
 
 to resume the jihad (in the place) where his father had left.”[^1]
 
@@ -173,7 +173,7 @@ Abu Muhammad (al-Hasan) this vague error in the souls of those unable to
 understand history with a correct understanding. Many of these people do
 not resort to a science source as to weigh this group
 
-[^1] Al-Fitnatu al-Kubra, vol. 2, p. 213. Professor Mahmud al-‘Aqqad has
+[^1]: Al-Fitnatu al-Kubra, vol. 2, p. 213. Professor Mahmud al-‘Aqqad has
 depended on these fabricated narrations in his researches on the father
 of martyrs (Imam al-Husayn).
 
@@ -311,7 +311,7 @@ people between me and him….” Mu’awiya had such abilities through which
 he would show himself as just and fair. In this manner al-Hasan’s
 sacrifice would be useless.
 
-[^1] Al-Saa‘a Newspaper, no. 908 (concerning Imam al-Husayn, the master
+[^1]: Al-Saa‘a Newspaper, no. 908 (concerning Imam al-Husayn, the master
 of martyrs, peace be on him), the third year. The article was also
 published in al-Ghari Magazine, no. 11 (regarding Imam al-Husayn, peace
 be on him), the ninth year.
@@ -354,5 +354,4 @@ Likewise, through his sacrifice and martyrdom, al-Husayn (a.s) destroyed
 the Umayyad state. He put an end to it and to all the oppressive
 dictators. He gave creative lessons to all the reformers who want to
 revolt against oppression, tyranny, and selfishness.
-
 

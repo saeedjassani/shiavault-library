@@ -38,4 +38,3 @@ deliberate disavowal of political action.
 Thus the martyrdom of al-Husayn has had profound effects on the history
 of Islam and particularly the history of the Shi'a.
 
-

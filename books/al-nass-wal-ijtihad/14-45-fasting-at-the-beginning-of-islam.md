@@ -9,11 +9,11 @@ to sleep with his wife or to do other things that were not permissible
 
 --------------------------------------------------------------------------------
 
-[^1] Vol.1 p.20.
-[^2] Suffa means shed, in which the neediest people lived at that time.
+[^1]: Vol.1 p.20.
+[^2]: Suffa means shed, in which the neediest people lived at that time.
 It was erected beside the mosque of the Prophet (s).
-[^3] Al-Bukhari's Sahih, vol. 1 p.19.
-[^4] Tareekh Falsafatul Islam (history of the philosophy of Islam) by
+[^3]: Al-Bukhari's Sahih, vol. 1 p.19.
+[^4]: Tareekh Falsafatul Islam (history of the philosophy of Islam) by
 Muhammad Lutfi, p.301.
 
 (278)
@@ -84,7 +84,7 @@ kill him and if any one of you meets Abul Bukhturi bin
 
 --------------------------------------------------------------------------------
 
-[^1] Al-Mustatraf fee Kulli Fanin Mustadhraf by Shihabuddeen
+[^1]: Al-Mustatraf fee Kulli Fanin Mustadhraf by Shihabuddeen
 al-Absheehi, vol.3 chap.74. It has also been quoted by some scholars
 from Rabee’ul Abrar by az-Zamakhshari. Al-Fakhr ar-Razi has referred to
 some of this event in his Tafsee al-Kabeer, vol.3 p.446 when
@@ -99,7 +99,7 @@ games of chance, and to keep you off from the remembrance of Allah and
 from prayer. Will you then desist) was revealed, Umar said: “O our Lord,
 we desist!”
 
-[^2] The Prophet (s) has forbidden from killing al-Abbas (the Prophet’s
+[^2]: The Prophet (s) has forbidden from killing al-Abbas (the Prophet’s
 uncle). It has been mentionen in many true traditions and the books of
 Hadith are full of such traditions. All the historians, who have
 recorded the history of the battle of Badr, have mentioned this and
@@ -131,7 +131,7 @@ The Prophet (s) heard the moaning of al-Abbas and he could not
 
 --------------------------------------------------------------------------------
 
-[^1] Al-Bidayeh wen-Nihayeh by ibn Katheer, vol.3 p.284 and other books
+[^1]: Al-Bidayeh wen-Nihayeh by ibn Katheer, vol.3 p.284 and other books
 of history like Seera of ibn Isshaq. The Prophet (s) has forbidden his
 companions from killing Abul Bukhturi because he was one of those who
 had broken the bond (as-Saheefa) of the blockade against the Hashimites
@@ -152,7 +152,7 @@ to him: “I swear by Him, Who has sent you with the truth! I have
 insisted on him to be as prisoner to bring him to you but he refused
 except to fight me. We fought each other until I killed him.”
 
-[^2] It has been mentioned by the historians who have recorded the
+[^2]: It has been mentioned by the historians who have recorded the
 events of the battle of Badr.
 
 (281)
@@ -194,8 +194,8 @@ would he become if his
 
 --------------------------------------------------------------------------------
 
-[^1] Kanzol Ummal, vol. 5 p.272, also mentioned by ibn Asakir.
-[^2] Al-Bidayeh wen-Nihayeh, vol.3 p.285.
+[^1]: Kanzol Ummal, vol. 5 p.272, also mentioned by ibn Asakir.
+[^2]: Al-Bidayeh wen-Nihayeh, vol.3 p.285.
 
 (282)
 
@@ -207,7 +207,7 @@ umma.[^1]
 **48. Taking ransom from the prisoners of Badr**
 
 --------------------------------------------------------------------------------
-[^1] Ahmad Zayni Dahlan, the Mufti of the Shafiites, said in his book
+[^1]: Ahmad Zayni Dahlan, the Mufti of the Shafiites, said in his book
 as-Seera an-Nabawiyya, vol.1 p.504 when mentioning al-Abbas during the
 battle of Badr: “Al-Abbas, according to what the scholars and historians
 had said, had become a Muslim a long time ago but he had concealed his
@@ -297,7 +297,7 @@ with a great torment because we have
 
 --------------------------------------------------------------------------------
 
-[^1] Ad-Dahlani in his as-Seera an-Nabawiyya, vol.1 p.512.
+[^1]: Ad-Dahlani in his as-Seera an-Nabawiyya, vol.1 p.512.
 
 (284)
 
@@ -337,7 +337,7 @@ Othman
 
 --------------------------------------------------------------------------------
 
-[^1] As-Seera an-Nabawiyya by ad-Dahlani, vol.1 p.512, other traditions
+[^1]: As-Seera an-Nabawiyya by ad-Dahlani, vol.1 p.512, other traditions
 having somehow the same meaning mentioned in as-Seera by al-Halabi and
 al-Bidayeh wen-Nihayeh quoted from Ahmad bin Hanbal, Muslim, Abu Dawood
 and at-Tarmithi all narrated from Umar bin al-Khattab.
@@ -383,7 +383,7 @@ the
 
 --------------------------------------------------------------------------------
 
-[^1] Al-Halabi’s Seera, ad-Dahlani’s Seera and other books of history.
+[^1]: Al-Halabi’s Seera, ad-Dahlani’s Seera and other books of history.
 
 (286)
 
@@ -422,8 +422,8 @@ of that, he scolded them for doing that and said: “Have I not ordered
 you not to kill any captive?”[^2]
 
 --------------------------------------------------------------------------------
-[^1] Chap.8.
-[^2] Sheikh al-Mufeed’s Irshad, chap. the battle of Hunayn.
+[^1]: Chap.8.
+[^2]: Sheikh al-Mufeed’s Irshad, chap. the battle of Hunayn.
 
 (287)
 
@@ -465,8 +465,8 @@ a company, then he, indeed, becomes deserving of
 
 --------------------------------------------------------------------------------
 
-[^1] Sheikh al-Mufeed’s Irshad, chap. the battle of Hunayn.
-[^2] Al-Bidayeh wen-Nihayeh by ibn Katheer, chap. The battle of
+[^1]: Sheikh al-Mufeed’s Irshad, chap. the battle of Hunayn.
+[^2]: Al-Bidayeh wen-Nihayeh by ibn Katheer, chap. The battle of
 Hunayn.
 
 (288)
@@ -509,7 +509,7 @@ the polytheists and fought them until he was
 
 --------------------------------------------------------------------------------
 
-[^1] These details have been mentioned by all the historians who have
+[^1]: These details have been mentioned by all the historians who have
 talked about the Battle of Uhud.
 
 (289)
@@ -546,13 +546,13 @@ were defeated and came back; one cowarding the other…”[^4]
 
 --------------------------------------------------------------------------------
 
-[^1] This story has been mentioned by the historians who have detailed
+[^1]: This story has been mentioned by the historians who have detailed
 the events of the battle of Uhud.
-[^2] Vol.3 p.46. Al-Bidayeh wen-Nihayeh by ibn Katheer, vol.4 p.329 from
+[^2]: Vol.3 p.46. Al-Bidayeh wen-Nihayeh by ibn Katheer, vol.4 p.329 from
 al-Bukhari, Muslim and others.
-[^3] Mustadrak of al-Hakim, vol.3 p.37, Talkhees al-Mustadrak by
+[^3]: Mustadrak of al-Hakim, vol.3 p.37, Talkhees al-Mustadrak by
 ath-Thahabi.
-[^4] Mustadrak of al-Hakim, Talkhees al-Mustadrak of ath-Thahabi.
+[^4]: Mustadrak of al-Hakim, Talkhees al-Mustadrak of ath-Thahabi.
 
 (290)
 
@@ -594,8 +594,8 @@ back defeated with his army.
 
 --------------------------------------------------------------------------------
 
-[^1] Vol.3 p.38.
-[^2] Mustadrak of al-Hakim, who said it was a true tradition according
+[^1]: Vol.3 p.38.
+[^2]: Mustadrak of al-Hakim, who said it was a true tradition according
 to the conditions of al-Bukhari and Muslim. So was said by ath-Thahabi
 in his Talkhees.
 
@@ -636,9 +636,9 @@ others.[^3] The
 
 --------------------------------------------------------------------------------
 
-[^1] Refer to al-Irshad by Sheikh al-Mufeed for more details.
-[^2] Vol.3 p.43.
-[^3] Once al-Hasan al-Basri was asked about Imam Ali (s) and he said:
+[^1]: Refer to al-Irshad by Sheikh al-Mufeed for more details.
+[^2]: Vol.3 p.43.
+[^3]: Once al-Hasan al-Basri was asked about Imam Ali (s) and he said:
 “What shall I say about one, who has obtained the four aspects; being
 entrusted with the sura of Bara’a, what the Prophet (s) has said about
 him in the battle of Tabook… if he missed any thing of virtues other
@@ -676,7 +676,7 @@ appointed Abu Bakr and then Umar as the leaders but he was not under
 their leaderships but when he appointed Imam Ali (s) as the leader, they
 both were under his leadership. Praise be to Allah for all of that!
 
-[^2] Ahmad bin Hanbal mentioned in his Musnad, vol.5 p.356 that Burayda
+[^2]: Ahmad bin Hanbal mentioned in his Musnad, vol.5 p.356 that Burayda
 had said: “The Prophet (s) had sent two armies to Yemen; one of them was
 under the leadership of Ali bin Abu Talib and the other was under the
 leadership of Khalid bin al-Waleed. He said to them: “If you meet
@@ -694,7 +694,7 @@ and I am from him and he is your guardian after me.” This tradition has
 been mentioned by other scholars of Hadith. Refer to our book
 al-Muraja’at, no.36.
 
-[^3] As in the battle of Khaybar and the battle of Thaat as-Salasil
+[^3]: As in the battle of Khaybar and the battle of Thaat as-Salasil
 mentioned above.
 
 (293)
@@ -735,7 +735,7 @@ struck him and his leg was cut. He fell to the ground and his private
 parts appeared. He begged Ali and Ali left him alone. He
 
 --------------------------------------------------------------------------------
-[^1] We have written a good research on this subject in our book Abu
+[^1]: We have written a good research on this subject in our book Abu
 Hurayra. Please refer to p.157-188, tradition no.18.
 
 (294)
@@ -818,12 +818,11 @@ said: “Is Muhammad among you?” He repeated that three times. The Prophet
 
 --------------------------------------------------------------------------------
 
-[^1] That the enemy might hear him and might attack the Prophet (s)
+[^1]: That the enemy might hear him and might attack the Prophet (s)
 again.
-[^2] Thul Faqar was the name of the famous sword of Imam Ali (s).
-[^3] After that Fatima (s) burnt a piece of a straw mat and put some of
+[^2]: Thul Faqar was the name of the famous sword of Imam Ali (s).
+[^3]: After that Fatima (s) burnt a piece of a straw mat and put some of
 the ash on the wound and then the bleeding stopped. She had attended the
 event. She embraced her father while he was wounded and she was
 crying.
-
 

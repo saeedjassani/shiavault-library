@@ -199,4 +199,3 @@ of 4,000 men. However, 'Ubaid Allah then ordered him to march against
 al-Husayn. This he was reluctant to do but when 'Ubaid Allah threatened
 to dismiss him from his new office if he did not go, he agreed43 .
 
-

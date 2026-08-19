@@ -271,11 +271,9 @@ and his*Ahl-ul-Bayt.* ”
 Imam Ja’far As-Sadiq (as) says that one who says the benediction like
 this,
 
-<p dir="rtl">
 صَلَواتُ اللهِ وَصَلَواتُ مَلائِكَتِهِ وَأنْبِياءِهِ وَرُسُلِهِ
 وَجَمِيعِ خَلْقِهِ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ، وَالسَّلامُ عَلَيْهِ
 وَعَلَيْهِمْ وَرَحْمَةُ اللهِ وَبَرَكاتُهُ.
-</p>
 
 *May Allah send His blessings and His angles, His prophets, His
 messengers, and all of His creatures send their blessings upon Mohammad
@@ -288,10 +286,8 @@ birth.
 Imam Muhammad Al-Baqir (as) is quoted by an authentic source as having
 said: When one gets a sneeze, he should say:
 
-<p dir="rtl">
 اَلحَمْدُ للهِ رَبِّ العَالَمِينَ وَصَلَّى اللهُ عَلَى مُحَمَّدٍ وَأهْلِ
 بَيْتِهِ.
-</p>
 
 *Praise to Allah the Lord of the worlds and may Allah send his blessings
 upon Mohammad and the progeny of Mohammad?*
@@ -450,10 +446,8 @@ ready to trust the word of a creature like you, will you not believe in
 the promises that Allah has made to you?” Then the Imam (as) added, “It
 is necessary that you believe in Allah’s promises. He has promised:
 
-<p dir="rtl">
 ﴿وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ
 الدَّاعِي إِذَا دَعَانِي.﴾
-</p>
 
 ****My creatures ask you questions about me; tell them I am near them. I
 accept the prayer of one who prays.* (2:186)***
@@ -577,9 +571,7 @@ their prayers have remained unanswered!”
 
 Therefore Allah says:
 
-<p dir="rtl">
 ﴿إِنَّ الإِنسَانَ لِرَبِّهِ لَكَنُودٌ﴾
-</p>
 
 *Truly man manifests ungratefulness to his Creator (100:6)*
 
@@ -733,9 +725,7 @@ people of the Firmament as if it is a shining star.
 It is recorded that the Prophet of Allah (S) said while making a
 commentary on the verse:
 
-<p dir="rtl">
 ﴿إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ.﴾
-</p>
 
 ***No doubt virtues obliterate the sins (11:114)***
 
@@ -933,9 +923,7 @@ exchange secrets and Allah wishes to keep them from others hearing!” The
 narrator asked: Do the angels not record these exchanges despite Allah
 observing,
 
-<p dir="rtl">
 ﴿مَا يَلْفِظُ مِنْ قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ﴾
-</p>
 
 ****No person utters a word which our chroniclers don’t record.*
 (50:18)***
@@ -1619,5 +1607,4 @@ Muslim. Respect those who follow the precepts set by the Holy Qur’an.
 Respect the just ruler. All these acts are akin to showing respect to
 Allah. We are describing these as three*Yanabeeh* or streams in the
 following chapter.
-
 

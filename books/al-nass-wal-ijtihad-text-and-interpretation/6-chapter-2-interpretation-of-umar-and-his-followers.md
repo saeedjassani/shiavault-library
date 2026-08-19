@@ -34,7 +34,7 @@ Prophet (S) is raving” but they used “the Prophet (S) has been overcome
 by pain” in order to soften the horrible statement of Umar.
 
 Abu Bakr Ahmad bin Abdul Aziz al-Jawhari mentioned in *Kitab as-Saqeefa*
-[^4] that Ibn Abbas had said: “When the Prophet (S) was about to die, he
+[^4]: that Ibn Abbas had said: “When the Prophet (S) was about to die, he
 said, while there were some men in the house among them was Umar: “Bring
 me an inkpot and a piece of paper to write you a book after which you
 will never go astray.” Umar said a word which meant that the Prophet (S)
@@ -754,7 +754,7 @@ except swords in the sheaths.
 The war between them had to stop for ten years [^28] during which people
 would live peacefully. They had to avoid provoking each other. Whoever
 of (other tribes of) the Arabs wanted to conclude peace with Muhammad,
-[^29] could do that and whoever wanted to ally with Quraysh could do
+[^29]: could do that and whoever wanted to ally with Quraysh could do
 that. The two sides had not to have hidden grudge in their hearts
 against each other. They had to refrain from robbery and treason.
 
@@ -1358,7 +1358,7 @@ Ibn Abdul Birr al-Qurtubi said: “There is no disagreement between the
 ulama that this verse ***(whoever profits by*** ***combining the
 umra***[^46] ***with the pilgrimage…)*** refers to the umra that is
 practiced during the months of the hajj but before the (great) hajj.”
-[^47] Umra is obligatory on the people who live forty-eight miles from
+[^47]: Umra is obligatory on the people who live forty-eight miles from
 Mecca from every direction.
 
 In this kind of hajj, pleasure (sleeping with one’s wife or practicing
@@ -1693,7 +1693,7 @@ besides his severity towards the unbelievers and that the Arabs began to
 become Muslims group by group, all that forced Abu Mahthoora and his
 likes to announce shahada by their tongues whereas their hearts were
 still occupied by the idols. He did not emigrate until he died in Mecca.
-[^77] Allah is more aware of his inners!
+[^77]: Allah is more aware of his inners!
 
 The Prophet (S) had said a word about three men; Abu Mahthoora, Abu
 Hurayra and Samra bin Jundub. He warned them by saying: “The last to die
@@ -2347,7 +2347,7 @@ Ahmad bin Hanbal has mentioned this tradition of Ibn Abbas in his
 their books. [^102]
 
 Sheikh Rasheed Redha has mentioned this tradition in al-Manar Magazine
-[^103] from Abu Dawood, an-Nassa’iy, al-Hakim and al-Bayhaqi and then he
+[^103]: from Abu Dawood, an-Nassa’iy, al-Hakim and al-Bayhaqi and then he
 said: “From among the judgments of the Prophet (S) was the tradition
 that al-Bayhaqi had mentioned from Ibn Abbas.[^104] Ibn Abbas said:
 “Rukana has divorced his wife three times in one occasion. He became too
@@ -2886,7 +2886,7 @@ entered into faith.”
 
 But Malik bin Anas has mentioned in his *Muwatta’* that Sa’eed bin
 al-Musayyab had said: “Umar bin al-Khattab refused to give the non-Arabs
-[^135] their inheritances except one who was born from Arab parents.”
+[^135]: their inheritances except one who was born from Arab parents.”
 Malik added: “If a pregnant woman comes from the land of the enemy and
 gives birth to her child in the land of the Arabs, then her child will
 inherit her when she dies and she will inherit her child when he dies
@@ -2969,7 +2969,7 @@ to this opinion.
 ### Note
 
 The Muslims have disagreed on the beginning of the *iddah* of death,
-[^141] which is four months and ten days. The Sunni believe that the
+[^141]: which is four months and ten days. The Sunni believe that the
 *iddah* of death begins since the husband dies whether the wife knows of
 her husband’s death or she does not know because of his being far away
 from her or because of any other reason.
@@ -4298,7 +4298,7 @@ When Umar heard the answer of the Prophet (S) to Abdullah, he knelt down
 before the Prophet (S) and said admiring the answer of the Prophet (S)
 that approved the claim of Abdullah’s mother: “We have been satisfied
 with Allah as god, Islam as a religion and Muhammad as a prophet.”
-[^219] Umar said that joyfully because the Prophet (S) had covered many
+[^219]: Umar said that joyfully because the Prophet (S) had covered many
 mothers, who had committed adultery in the pre-Islamic time;
 nevertheless believing in Islam cancelled (forgave) the sins committed
 before.
@@ -4382,7 +4382,7 @@ such as Umm Jameel bint Amr from the tribe of Qays and this event was
 one of the most famous events in the history of the Arabs. It was in the
 seventeenth year of hijra. All the historians, who had recorded the
 events of that year, had mentioned this event in their books. Abu Bakra,
-[^223] who was one of pious companions of the Prophet (S) and one of the
+[^223]: who was one of pious companions of the Prophet (S) and one of the
 keepers of the prophetic traditions, Nafi’ bin al-Harith, who was also
 one of the Prophet’s companions, and Shibl bin Ma’bad had witnessed
 against al-Mugheera in this case.
@@ -4983,7 +4983,7 @@ He often ordered of some things against the *Shari’ah* and then he gave
 up after being reminded.
 
 First: Muhammad bin Mukhallad al-Attar mentioned in his *Fawa’id*:
-[^238] “Once Umar has ordered a pregnant women to be stoned. Ma’ath bin
+[^238]: “Once Umar has ordered a pregnant women to be stoned. Ma’ath bin
 Jabal denied that and said to Umar: “If you have an evidence against
 her, you have no evidence against the one in her abdomen.” Umar annulled
 his judgment and said: “Women have become unable to beget one like
@@ -6535,5 +6535,4 @@ caliphate. In fact the very caliphate of Othman would take Mo’awiya to
 the throne! The outset is from you and the vicissitudes of time is from
 you, Storm is from you and rain is from you. You have ordered the emir
 to be killed, and said to us that he has disbelieved!
-
 

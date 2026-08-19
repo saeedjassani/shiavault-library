@@ -250,9 +250,9 @@ not that of a prisoner with his prison; or that of one entrapped in a
 well with the well; rather it is the kind of relation that exists
 between a peasant and his farm
 
-[^1] , or a horse and the racecourse
-[^2] , or a merchant and the marketplace
-[^3] , or a devotee and his temple
+[^1]: , or a horse and the racecourse
+[^2]: , or a merchant and the marketplace
+[^3]: , or a devotee and his temple
 [^4]. The world, from the Islamic point of view, is a school for man,
 his training ground, and the place where he can acquire perfection.
 There is an anecdote related in the Nahj al-balaghah of a man who
@@ -451,5 +451,4 @@ and progressive teachings of Islam and one of the most glorious of human
 ideas. It is here that the sublimity of the logic of Islam and the
 insignificance and pettiness of other ideologies becomes evident. We
 shall answer these queries in the following sections.
-
 

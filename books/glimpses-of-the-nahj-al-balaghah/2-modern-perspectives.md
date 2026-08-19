@@ -249,7 +249,7 @@ to a particular domain but encompasses various spheres and he is in the
 terminology of the Islamic mystics, al-'insan al-kamil (a perfect man),
 al-kawn al jami' (a complete microcosm) and jami' kullal-hadarat,
 
-[^32] the possessor of all higher virtues, so his speech is not limited
+[^32]: the possessor of all higher virtues, so his speech is not limited
 to any one particular sphere. Accordingly, as we should say, in terms
 current today, that 'Ali's merit lies in the multidimensional nature of
 his speech, that it is different from one-dimensional works. The
@@ -391,104 +391,103 @@ assistance and help is the best.
 
 **Notes:**
 
-[^1] This is a reference to the following words of Ali, taken from Nahj
+[^1]: This is a reference to the following words of Ali, taken from Nahj
 al-balaghah, (ed. Subhi al Salih, Beirut 1387), Hikam, No 147 "O Kumayl,
 the mankind consists of three kinds of people: the sage adept in the
 knowledge of the Divine (alim rabbani), the novice of the path of
 deliverance (muta'allim 'ala sabili najat) and the vulgar populace'.
 
-[^2] Faqih means an expert in Islamic Law, the Shariah, whose study is
+[^2]: Faqih means an expert in Islamic Law, the Shariah, whose study is
 called fiqh. Equivalent terms are mufti, mujtahid, and ayatullah.
 (Tr.)
 
-[^3] Nahj al-balaghah, Khutab, No. 193
+[^3]: Nahj al-balaghah, Khutab, No. 193
 
-[^4] Minbar is a raised platform with steps, the Islamic pulpit.
+[^4]: Minbar is a raised platform with steps, the Islamic pulpit.
 Traditionally as a rule, the function at speaking at mourning
 gatherings, the majalis, has been performed in Iran by the Mullahs, or
 ruhaniyyun, as they are called in Iran. (Tr.)
 
-[^5] Husayniyyeh Irshad is a building in Tehran founded by the late Dr.
+[^5]: Husayniyyeh Irshad is a building in Tehran founded by the late Dr.
 Ali Shariati. (Tr.)
 
-[^6] This is in reference to an Arabic maxim: That which cannot be
+[^6]: This is in reference to an Arabic maxim: That which cannot be
 attained in entirety is not to be abandoned completely.
 
-[^7] Here it is not clear whether al Masudi means that Ali's sermons
+[^7]: Here it is not clear whether al Masudi means that Ali's sermons
 were recorded in writing, in books, or if he implies that people
 preserved them by memorizing them, or if he means both.
 
-[^8] al Masudi, Muruj al dhahab, (Beirut, 1983), vol II, p. 431
+[^8]: al Masudi, Muruj al dhahab, (Beirut, 1983), vol II, p. 431
 
-[^9] al Tha'alibi quoted by Muhammad Abduh, Sharh Nahj al-balaghah,
+[^9]: al Tha'alibi quoted by Muhammad Abduh, Sharh Nahj al-balaghah,
 Introduction, p. 9
 
-[^10] Nahj means open way, road, course, method or manner; balaghah
+[^10]: Nahj means open way, road, course, method or manner; balaghah
 means eloquence, art of good style and communication, rhetoric etc
 
-[^11] Here the author adds that 'till now four volumes of this have been
+[^11]: Here the author adds that 'till now four volumes of this have been
 published'.
 
-[^12] The arabic is: fawq kalamil makhluq wa duna kalam ul khaliq
+[^12]: The arabic is: fawq kalamil makhluq wa duna kalam ul khaliq
 
-[^13] al Jahiz, al-Bayan wa al-tabyin, vol. I p. 230
+[^13]: al Jahiz, al-Bayan wa al-tabyin, vol. I p. 230
 
-[^14] Nahj al-balaghah, Khutab, No. 3
+[^14]: Nahj al-balaghah, Khutab, No. 3
 
-[^15] Ibid.
+[^15]: Ibid.
 
-[^16] Ibid., Rasail, No. 22
+[^16]: Ibid., Rasail, No. 22
 
-[^17] Ibid., Rasail, No. 83
+[^17]: Ibid., Rasail, No. 83
 
-[^18] According to my own counting, if I have not made a mistake
+[^18]: According to my own counting, if I have not made a mistake
 
-[^19] Nahj al-balaghah, Khutab, No. 193
+[^19]: Nahj al-balaghah, Khutab, No. 193
 
-[^20] Abd al Hamid was a scribe (katib) at the court of the last Umayyad
+[^20]: Abd al Hamid was a scribe (katib) at the court of the last Umayyad
 caliph, Marwan ibn Muhammad. Of Persian origin, he was the teacher of
 the famous Ibn al Muqaffa. It was said of him, 'the art of writing began
 with 'Abd al Hamid and ended with Ibn al Amid'. Ibn al Amid was a
 minister to the Buyids.
 
-[^21] Asla means someone whose frontal position, portion of the head is
+[^21]: Asla means someone whose frontal position, portion of the head is
 bald. Abd al Hamid while confessing the greatness of Imam Ali, mentions
 him in a detracting manner due to his attachment to the Umayyad court
 
-[^22] The other three being: Adab al kitab of Ibn Qutaybah, al Kamil, of
+[^22]: The other three being: Adab al kitab of Ibn Qutaybah, al Kamil, of
 al Mubarrad, and al Nawadir of Abu Ali al Qali: quoted from the
 introduction to al-Bayan wa al-tabyin by Ibn Khaldun in his
 Muqaddamah.
 
-[^23] al-Bayan wa al-tabyin, vol. I p. 202
+[^23]: al-Bayan wa al-tabyin, vol. I p. 202
 
-[^24] Ibid, Vol. I p. 83
+[^24]: Ibid, Vol. I p. 83
 
-[^25] Nahj al-balaghah, Hikam, No. 81. See also al Sayyid al Radi's
+[^25]: Nahj al-balaghah, Hikam, No. 81. See also al Sayyid al Radi's
 comment on this aphorism.
 
-[^26] Sasa'ah ibn Suhan al Abdi was of the eminent companions of Imam
+[^26]: Sasa'ah ibn Suhan al Abdi was of the eminent companions of Imam
 Ali. When after the death of the third Caliph, Ali became the Caliph, it
 was Sa'sa'ah who said to him: You [by assuming the caliphate] have given
 it beauty, while caliphate has not added lustre to your personality. You
 have raised its worth, and it has not raised your station. It stands in
 greater need of you than you need it.
 
-[^27] Nahj al-balaghah, Rasail, No. 35
+[^27]: Nahj al-balaghah, Rasail, No. 35
 
-[^28] This anecdote was related by Muhammad Jawad Mughniyyah, a
+[^28]: This anecdote was related by Muhammad Jawad Mughniyyah, a
 contemporary Lebanese scholar, at the occasion of a reception party
 given in his honor in the holy city of Mashad.
 
-[^29] Nahj al-balaghah, Khutab, No. 230
+[^29]: Nahj al-balaghah, Khutab, No. 230
 
-[^30] al Jahiz, op. cit., vol. II p. 99
+[^30]: al Jahiz, op. cit., vol. II p. 99
 
-[^31] A poetic form much popular in classical Arabic and Persian poetry.
+[^31]: A poetic form much popular in classical Arabic and Persian poetry.
 Ghazal is also another poetic form.
 
-[^32] Umru al Qays (500-540 AD) the famous poet of the pre-Islamic era
+[^32]: Umru al Qays (500-540 AD) the famous poet of the pre-Islamic era
 (Jahiliyyah), the author of the first Mu'allaqat. Al Malik al Dillili is
 his nickname.
-
 

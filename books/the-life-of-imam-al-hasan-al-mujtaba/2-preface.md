@@ -176,8 +176,8 @@ Another poet said:
 driving to Basra her armies.
 As if she, in her deed, was a cat
 Eating, because of hunger, its children.”
-[^1] Usd al-Ghabah, vol. 5 p.81.
-[^2] She referred to Uthman with this surname.
+[^1]: Usd al-Ghabah, vol. 5 p.81.
+[^2]: She referred to Uthman with this surname.
 
 These points, which the pen has oozed with here and which are from the
 minute secrets of history, have come spontaneously and not
@@ -534,7 +534,6 @@ blessings, greetings, and peace be on him) in the year 1373 AH.
 Muhammad al-Husayn Aal Kashiful Ghita’
 in his Seminary (hawza) in Holy Najaf.
 
-[^1] Qur’an, 18:103-104.
-[^2] Qur’an, 22:11.
-
+[^1]: Qur’an, 18:103-104.
+[^2]: Qur’an, 22:11.
 

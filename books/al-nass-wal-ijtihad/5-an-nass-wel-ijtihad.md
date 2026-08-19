@@ -31,7 +31,7 @@ moments in pondering while his sight swam in high spheres and hidden
 worlds. If you talked to him during these moments of inspiration, he
 would not hear you or he would not understand what you said.
 
-[^1] The writer of this word is the author’s son.
+[^1]: The writer of this word is the author’s son.
 
 (82)
 
@@ -289,7 +289,7 @@ after the first age of Islam and that which has led to found it is the
 complexities of life after the arising of some needs that have not been
 before and that the wide spreading of knowledge
 
-[^1] It can be interpreted into more than one meaning.
+[^1]: It can be interpreted into more than one meaning.
 
 (88)
 
@@ -341,7 +341,5 @@ excused failure will be forgiven by the generous people. I have left
 commenting on the book because my comments will not suffice not to read
 it or to ponder on its words!
 
-
 Sadruddeen Sharafuddeen
-
 

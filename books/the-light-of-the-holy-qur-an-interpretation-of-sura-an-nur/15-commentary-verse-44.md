@@ -36,7 +36,7 @@ on it.
 Finally, some say that it refers to the changes such as warmness,
 coldness, and other events that happen during the day and night.[^1]
 
-[^1] The Commentary of: Fakhr-i-Razi, Majma'-ul-Bayan, and
+[^1]: The Commentary of: Fakhr-i-Razi, Majma'-ul-Bayan, and
 Ruh-ul-Ma'ani
 
 It must be mentioned that the above commentaries are not in conflict
@@ -55,7 +55,6 @@ The gradual changes of day and night, which is the factor of formation
 of four seasons, play an important role in the growth of plants, the
 life of all living creatures, the descending of rain, and storing water
 in the ground.
-
 
 **Commentary : Verse 45**
 
@@ -160,7 +159,7 @@ More strange than that is the species of life. There are completely
 various aspects of life; unicellular organisms that are seen only by
 means of microscope unto huge whales that
 
-[^1] The Commentary by QurtAbi, and Fakhr-i-Razi, following the verse
+[^1]: The Commentary by QurtAbi, and Fakhr-i-Razi, following the verse
 
 are more than 30 meters long and they are mountain of floating meet.
 From insects of which hundreds of thousand species are discovered to
@@ -178,7 +177,6 @@ knowledge that He has bestowed them what is needed proportionate to
 their conditions. And it is strange that all of them at first were
 created from water, and some little of the simple materials of the
 earth.
-
 
 **Commentary : Verse 46.47**
 
@@ -243,7 +241,7 @@ guidance is cast on those hearts that are receptive for accepting it;
 that is, they have started spiritual struggle and taken steps towards
 Him.
 
-[^1] Majma'-ul-Bayan, Ruh-ul-Bayan, Tibyan, QurtAbi, Fakhr-i-Razi, Safi,
+[^1]: Majma'-ul-Bayan, Ruh-ul-Bayan, Tibyan, QurtAbi, Fakhr-i-Razi, Safi,
 Nur-uth-Thaqalyn
 
 Then hypocrites, who have no faith and only speak about faith and faith
@@ -260,5 +258,4 @@ It is understood from this verse that if a person's faith remains only
 at the level of tongue and he does not really believe in Allah, he is
 not a believer, for if he were a believer his faith would not be
 rejected in this verse.
-
 

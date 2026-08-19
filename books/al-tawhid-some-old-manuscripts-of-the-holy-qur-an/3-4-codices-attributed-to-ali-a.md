@@ -13,7 +13,6 @@ Ya'la's meeting with Ibn al-Nadim must have preceded his discipleship of
 al Sayyid al Murtada for it is unlikely that Abu Ya'la may have become
 the Sayyid's pupil before the latter had reached the age of 22 years.
 
-
 **5. The Egyptian Codex**
 
 Al-Maqrizi (d. 845/1441) mentions in Khutat Misr 40 a Qur'an written by
@@ -92,5 +91,4 @@ authority and bestow his kindness, justice and goodness upon mankind.
 Amin Rabb al-'Alamin. Written by the dust of the Shrine of al-Rida -
 peace be upon him - the humblest of creatures, Baha' al-Din Muhammad in
 the year 1009.
-
 

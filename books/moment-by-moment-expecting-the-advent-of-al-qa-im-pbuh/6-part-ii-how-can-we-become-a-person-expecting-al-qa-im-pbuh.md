@@ -36,7 +36,6 @@ afflictions of this period, prepares us and makes us worthy of receiving
 Imam al-Mahdi (PBUH), and pave the way for an early implementation of
 the kingdom of justice over the earth, by leave of Allah.
 
-
 **8 True recognition of the Imam (PBUH)
 **
 As the first step, we should strive to have a true recognition
@@ -103,5 +102,4 @@ The religion belongs to Allah and any one who has really acknowledged
 this fact, seeks the knowledge of religion only through His vice-
 regents. Seeking guidance and religious knowledge from other than Ahl
 al-Bait (PBUT) is equivalent to denying them as His vice-regents.
-
 

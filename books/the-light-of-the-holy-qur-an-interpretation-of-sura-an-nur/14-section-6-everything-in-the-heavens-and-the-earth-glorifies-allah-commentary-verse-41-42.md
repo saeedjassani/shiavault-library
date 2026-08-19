@@ -51,7 +51,6 @@ mentioned, and this holy verse refers to His justice court in the next
 world, Allah's ownership of the heavens and the earth and His right to
 judge.
 
-
 **Notes:**
 
 First: The meaning of the Qur'anic sentence /'alam tara/ means as it is
@@ -93,9 +92,9 @@ geographical position of the earth at the time of traveling and
 migrating from a continent to another continent and even from the north
 polar areas to the south polar parts,
 
-[^1] Sura Isra', No. 17, verse 44
+[^1]: Sura Isra', No. 17, verse 44
 
-[^2] The Commentary Fakhr-i-Razi and Ruh ul-Bayan
+[^2]: The Commentary Fakhr-i-Razi and Ruh ul-Bayan
 
 and a strange system that guides them in this long journey, even when
 the sky is cloudy, are of surprising issues and of the obvious reasons
@@ -127,7 +126,6 @@ His magnificent court and yield to the rules of creation. On the other
 hand they declare Allah's attributes of perfection with their whole
 entity and negate any shortcoming about Him. Thus, their four worships
 are completed by: praising, glorification, prayer, and prostration.
-
 
 **Commentary : Verse 43**
 
@@ -260,7 +258,7 @@ mountains of ice, or, in other words, mountains in which there is a kind
 of ice, and this is very interesting.For after invention of aircraft and
 the possibility of
 
-[^1] Frpm Encyclopedia Britannica
+[^1]: Frpm Encyclopedia Britannica
 
 high flight, man's knowledge was developed and scientists found clouds
 that consist of icy pillars and so the appellation 'mountains of ice' is
@@ -271,5 +269,4 @@ there are really mountains of ice in the heaven. This is the miracle of
 the holy Qur'an that, 14 centuries before, it said: "... And He sends
 down from the heaven from the (clouds like) mountains wherein is
 hail..."
-
 

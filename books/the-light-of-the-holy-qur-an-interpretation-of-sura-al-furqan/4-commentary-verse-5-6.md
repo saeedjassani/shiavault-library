@@ -91,7 +91,6 @@ In agreement with His Mercy, He has sent prophets and heavenly Books,
 and in agreement with His forgiveness, He pardons our countless sins in
 the light of faith and penance.
 
-
 **Commentary : Verse 6.7.8**
 
 7. وَقَالُوا مَالِ هَذَا الرَّسُولِ يَأْكُلُ الطَّعَامَ وَيَمْشِي فِي
@@ -192,5 +191,4 @@ he is a prophet.
 
 As a conclusion, they said that his great claim in such conditions is
 the sign of insanity!!
-
 

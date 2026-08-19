@@ -102,7 +102,7 @@ deeds, while whatever the servants have belongs to Him; even the
 strength for performing the righteous deeds has also been given from His
 side.
 
-[^1] Majma'-ul-Baya-n, Vol. 8, P. 408
+[^1]: Majma'-ul-Baya-n, Vol. 8, P. 408
 
 A more affectionate meaning is the sentence which says: “… and increase
 of His grace unto them, …”. This gives them glad tidings that besides
@@ -129,8 +129,7 @@ this chewed morsel (of the world) to those who like it? Certainly, the
 only price for your selves is Paradise. Therefore, do not sell your
 selves except for it.” [^1]
 
-[^1] Nahj-ul-Bala-qah, saying No. 456
-
+[^1]: Nahj-ul-Bala-qah, saying No. 456
 
 **Commentary : Verse 31**
 
@@ -194,6 +193,5 @@ Some other commentators believe that the word /xabi-r/ refers to the
 principle of the creation of man, and /bas?i-r/ refers to his deeds and
 states.
 
-[^1] Tafsi-r-i-Kabi-r, by Fakhr-i-Ra-zi-, following the verse.
-
+[^1]: Tafsi-r-i-Kabi-r, by Fakhr-i-Ra-zi-, following the verse.
 

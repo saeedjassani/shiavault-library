@@ -65,8 +65,8 @@ A very fine saying was said by Sayyid Sharafuddeen in the beginning of
 his book al-Muraja’at about these meetings. He said: “How well it is
 when the ulama meet with pure spirits, pleasing sayings and
 
-[^1] Ahlul Bayt: the Prophet’s progeny (s).
-[^2] Al-Azhar is a centre of Islamic and Arabic learning centered on the
+[^1]: Ahlul Bayt: the Prophet’s progeny (s).
+[^2]: Al-Azhar is a centre of Islamic and Arabic learning centered on the
 mosque of that name in Cairo, Egypt. Muraja’at means reviews.
 
 (15)
@@ -137,7 +137,7 @@ The lineage of Sayyid Sharafuddeen[^2] from his two parents reaches to
 Imam Musa al-Kadhim[^3] (s). Muhammad al-Awwal (the first) is the [^1] In
 Iraq.
 
-[^2] He is Sayyid Sharafuddeen bin (the son of) Sayyid Yousuf bin Sayyid
+[^2]: He is Sayyid Sharafuddeen bin (the son of) Sayyid Yousuf bin Sayyid
 Jawad bin Sayyid Issma’eel bin Muhammad the grandfather of the two
 families aal (the family of) as-Sadr and aal Sharafuddeen bin Sayyid
 Ibraheem (surnamed as Sharafuddeen) bin Sayyid Zaynul Aabideen bin
@@ -154,7 +154,7 @@ bin Imam as-Sadiq bin Imam al-Baqir bin Imam Zaynul Aabideen (as-Sajjad)
 bin Imam Abu Abdullah al-Husayn bin Imam Ali bin Abu Talib (peace be
 upon them all).
 
-[^3] He is the Seventh imam of the Shia.
+[^3]: He is the Seventh imam of the Shia.
 
 (17)
 
@@ -175,10 +175,10 @@ Sharafuddeen’s) youngest aunt[^3] participating them their learning,
 studying and discussing. Sayyid Sharafuddeen often mention that with too
 much pride.
 
-[^1] Aal means “the family of”.
-[^2] He was born in Kadhimiyya in 1288 A.H. and died in it in 1330
+[^1]: Aal means “the family of”.
+[^2]: He was born in Kadhimiyya in 1288 A.H. and died in it in 1330
 A.H.
-[^3] She (may Allah have mercy upon her) was an example of virtue,
+[^3]: She (may Allah have mercy upon her) was an example of virtue,
 intelligence, good memory, quick-witted, honesty and piety. She composed
 poetry in standard and colloquial Arabic. She was interested in holding
 meeting of consolation in Ashura (the tenth day of Muharram when Imam
@@ -230,16 +230,16 @@ deliberations. He became famous in deciding lessons of Fiqh and Usool
 profoundly, quick-wittedly and quick-derivationally. He solved difficult
 questions in a shortest way leading to the intended aim.
 
-[^1] In Lebanon.
-[^2] In Islamic law, the independent or original interpretation of
+[^1]: In Lebanon.
+[^2]: In Islamic law, the independent or original interpretation of
 problems not precisely covered by the Qur’an, Hadith (traditions
 concerning the Prophet's life and utterances), and scholarly consensus;
 therefore the mujtahids (qualified jurists) had the right to give their
 personal judgments on the problems, after trying their best in
 researching, depending on firm evidences and proofs derived from the
 legal sources of the Shariah.
-[^3] Fiqh: jurisprudence, Usool: basic principles of religion.
-[^4] He was one of the prominent scholars. He was born in Najaf (in
+[^3]: Fiqh: jurisprudence, Usool: basic principles of religion.
+[^4]: He was one of the prominent scholars. He was born in Najaf (in
 Iraq) in 1318 A.H. and died in Mountain Aamil (in Lebanon) after a long
 disease. He wrote an important book called Sheikhul Abtah about the
 biography of Abu Talib (Imam Ali’s father) and the evidences that proved
@@ -281,7 +281,7 @@ Hasan as-Sadr was born in Kadhimiyya in 1272 A.H. and died in 1354 A.H.
 Each of them was a general imam and authority for the Shia allover the
 Islamic world.
 
-[^3] He was born in 1235 A.H. and died in 1316. He was buried in his
+[^3]: He was born in 1235 A.H. and died in 1316. He was buried in his
 private graveyard in the yard of the holy shrine of Imam Kadhim (s) in
 Kadhimiyya-Baghdad. His biography had been mentioned in al-Bughya in
 details and also had been mentioned in Takmilatul Amal written by his
@@ -330,7 +330,7 @@ people.
 His learning was not limited in Najaf, but he often moved between
 Najaf, Kadhimiyya, Samarra’ and Kerbala’[^1] and met with the ulama,
 
-[^1] Najaf, Kadhimiyya, Samarra’ and Kerbala’ are religious centers in
+[^1]: Najaf, Kadhimiyya, Samarra’ and Kerbala’ are religious centers in
 Iraq.
 
 (21)
@@ -407,9 +407,9 @@ The moon shone to us from Thaniyyatul Wada’
 Thanking (Allah) became due as long as a caller would
 
 invite for Allah
-[^1] Nowadays Damascus. But then, Sham encompassed the present Syria,
+[^1]: Nowadays Damascus. But then, Sham encompassed the present Syria,
 Jordan, Lebanon and Palestine.
-[^2] There is no God but Allah and Allah is great.
+[^2]: There is no God but Allah and Allah is great.
 
 (23)
 
@@ -560,7 +560,7 @@ there and then he left towards Sham disguisedly and he reached there
 peacefully. King Faysal the First welcomed his guest warmly and honored
 him in a good way.
 
-[^1] It is said that this is the same cave, in which one of Sayyid
+[^1]: It is said that this is the same cave, in which one of Sayyid
 Sharafuddeen’s grandfathers has hidden when fleeing from al-Haza’ir, the
 famous tyrant, and Allah has saved him from the injustice of the
 arrogant when he has set out towards Iraq resorting to his infallible
@@ -676,7 +676,7 @@ in his book Bughyatur Raghibeen when talking about the history of that
 period. He said under the title of (as-Sadr in Damascus): “When he
 found
 
-[^1] Mawlood Basha came to Alma wearing ordinary Arabic cloths
+[^1]: Mawlood Basha came to Alma wearing ordinary Arabic cloths
 pretending as if he was a merchant of sheep. He went to Sayyid
 Sharafuddeen’s house as a guest. No one of the people of the village
 felt anything about this guest because they had accustomed to see guests
@@ -801,7 +801,7 @@ most eloquent letters that had ever been written by the Arabs. It was a
 long letter having a historical record of what Ahlul Bayt (s) had
 faced
 
-[^1] In Holy Najaf there were Sayyid Sharafuddeen’s sons; the great
+[^1]: In Holy Najaf there were Sayyid Sharafuddeen’s sons; the great
 allama Sayyid Muhammad Ali and his two brothers the genius poet Sayyid
 Muhammad Redha and the famous writer of the Arabs Sayyid Sadruddeen and
 their cousin allama Sayyid Nooruddeen Sharafuddeen, who was the prime
@@ -886,6 +886,5 @@ of them at that time. Some of them were published in the newspapers.
 They were available with his secretary, who had added them to the
 letters we mentioned previously.
 
-[^1] Aal means the family or the progeny of.
-
+[^1]: Aal means the family or the progeny of.
 

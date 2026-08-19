@@ -105,7 +105,7 @@ killing the caliph. He merely cites the statements of Badr al-Din Lu'
 Lu', king of Mosul, who with other unbelievers told Hulagu that if the
 caliph remained alive, all the Muslims amongst the soldiers as well as
 other people would set out to rescue the caliph and kill Hulagu Khan.
-[^60] Actually, such a consultation - even if it had occurred, with the
+[^60]: Actually, such a consultation - even if it had occurred, with the
 Khwajah giving his opinion - came at a time when Hulagu Khan had already
 made up his mind, to the extent that he was not prepared to pay heed to
 Husam al-Din, who was appointed by his brother as his aid-decamp to
@@ -120,7 +120,7 @@ predictions which turned out to be untrue. [^61] Hulagu Khan, however,
 evidenced a measure of caution when he ordered that "the caliph be
 wrapped up in a cloth and his blessed body be kicked until he died."
 
-[^62] Dr. Ha'iri has commented on the foregoing report. Apart from the
+[^62]: Dr. Ha'iri has commented on the foregoing report. Apart from the
 points already mentioned, he points out that: (1) the Mongol khan had
 been assigned the execution of this task by his brother; (2) a
 philosopher like the Khwajah could not have confirmed such superstitious
@@ -139,5 +139,4 @@ provided Ibn Taymiyyah and others with a ground for making an
 unwarranted inference and accusation, such as had not been made by any
 historian of insight from among those whose names have been mentioned
 above.
-
 

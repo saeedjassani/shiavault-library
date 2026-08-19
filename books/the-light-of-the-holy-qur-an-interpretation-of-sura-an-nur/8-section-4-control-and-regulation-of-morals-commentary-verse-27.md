@@ -27,7 +27,7 @@ greeting calling hello, and the like.[^1]
 Some one asked the Prophet (p.b.u.h.) whether he had to ask permission
 for entering his mother's house. He said:
 
-[^1] Nur-uth-Thaqalyn, the Commentary
+[^1]: Nur-uth-Thaqalyn, the Commentary
 
 “Yes.” That man said: “Except her no one lives in the house, and except
 me no servant she has!” The Prophet (p.b.u.h.) said: “Do you like to see
@@ -61,11 +61,11 @@ she veiled herself in an Islamic way, the Prophet (p.b.u.h.) made
 salutation again and Fatimah (a.s.) answered. Again he (p.b.u.h.) asked
 permission for himself. And after her
 
-[^1] Nur-uth-Thaqalyn
+[^1]: Nur-uth-Thaqalyn
 
-[^2] Tafsir-i-KAbir by Fakhr-i-Razi
+[^2]: Tafsir-i-KAbir by Fakhr-i-Razi
 
-[^3] Tafsir-i-KAbir, and Fi Zilal
+[^3]: Tafsir-i-KAbir, and Fi Zilal
 
 agreement, he asked permission for his companion, Jabir Ibn
 ‘Abdullah.
@@ -131,8 +131,7 @@ enter common centers, we must remember Allah and we must know that Allah
 watches our thoughts and behaviour. The Qur’an says: “... and Allah
 knows what you proclaim reveal what you conceal.”[^1]
 
-[^1] Sura Al-Ma'idah, No. 5, verse 99
-
+[^1]: Sura Al-Ma'idah, No. 5, verse 99
 
 **Commentary : Verse 28**
 
@@ -180,7 +179,6 @@ house; at the end of the verse, it says:
 
 "... and Allah is cognizant of what you do."
 
-
 **Commentary : Verse 29**
 
 29. لَّيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَدْخُلُوا بُيُوتاً غَيْرَ
@@ -215,5 +213,4 @@ are inhabited. But Allah (s.w.t.) is aware of all of these affairs and
 knows well about those who misuse. Thus, going to public centers while
 having no beneficial aim and only for wandering or meandering is often
 forbidden.
-
 

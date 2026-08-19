@@ -235,4 +235,3 @@ of the principles of jurisprudence upon a new foundation and formulated
 the practical principles of this science. For over a century his school
 has been followed diligently by Shi'ite scholars.
 
-

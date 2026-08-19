@@ -225,7 +225,7 @@ A group of historians have confirmed that heresy or Manichean heresy
 was prevalent among the people of Quraysh who had received it from the
 people of Hirah.
 
-[^148] This clarifies the fact that by heresy, we mean dualism, because
+[^148]: This clarifies the fact that by heresy, we mean dualism, because
 Hirah used to be a protégé and neighbor of Iran and Iranian sects which
 were based on dualism.Star Worshipping During the Ignorance Era, a group
 of the people of the Arabian Peninsula, like many of other areas,
@@ -240,7 +240,7 @@ of the maternal ancestors of the Holy Prophet, was one of the
 worshippers of this star.[^149] A group of tayy tribe used to worship a
 star called Thurayya or the Pleiades.
 
-[^150] The worship of skies and stars was so prevalent that its
+[^150]: The worship of skies and stars was so prevalent that its
 repercussions are visible in the Arab literature, romance and
 superstitions.[^151] Besides the Sebians who worshipped the sun and the
 moon, these two heavenly bodies were sanctified and worshipped by all
@@ -266,5 +266,4 @@ And that He is the Lord of the Sirius. (53:49)
 These sacred verses depict the fact that at the time of the Holy
 Prophet, the worshipping of these celestial bodies was a common
 practice.
-
 

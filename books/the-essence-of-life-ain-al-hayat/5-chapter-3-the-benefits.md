@@ -825,4 +825,3 @@ my followers is the love and affection for my Ahl-ul-Bayt.” Therefore
 the verse of Tatheer has been revealed as a part of the Holy Qur’an in
 the praise of the Ahl-ul-Bayt.
 
-

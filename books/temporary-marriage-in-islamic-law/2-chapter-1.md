@@ -39,7 +39,7 @@ derived from the words 'I have married you' (ankahtu-ka) or 'I have
 espoused you' (zawwajtu-ka) are valid. The Malikis maintain that if the
 amount of the dower to be paid to the wife (see IlA below) has been
 specified, the woman may also say 'I give myself to you' (wahabtu-ka).
-[^1] The Shi'is do not include the verb 'to give', but they add the
+[^1]: The Shi'is do not include the verb 'to give', but they add the
 formula, 'I surrender myself to your pleasure' (matta'tu-ka). [^2] The
 Hanafi school is the freest in respect of the formula, allowing any
 number of expressions to be employed, even certain indirect formulas.
@@ -120,7 +120,7 @@ marriage. For the Hanafis, unmarriageability is established by a valid
 marriage contract, sexual intercourse in whatever context (i.e. whether
 as the result of a valid contract, an invalid one, or fornication), love
 play, or looking at the private parts of a person of the opposite sex.
-[^9] The Shafi'is hold that unmarriageability is established only by a
+[^9]: The Shafi'is hold that unmarriageability is established only by a
 valid marriage contract or by the consummation of an invalid marriage
 contract. They do not consider any other factors, such as fornication or
 love play, as sufficient to establish unmarriageability. [^10] The Maliki
@@ -128,7 +128,7 @@ position is the same as the Hanafi, except in the case of fornication;
 like the Shafi'is, the Malikis hold that no honour or respect can be
 paid to fornication. [^11] In the Hanbali view an invalid contract, like
 a valid one, results in unmarriageability, as does sexual intercourse.
-[^12] The Shi'is hold the same position as the Shafi'is except that the
+[^12]: The Shi'is hold the same position as the Shafi'is except that the
 opinion of the 'ulama's split on fornication; one group says that it
 results in unmarriageability, another group says it does not. [^13]
 
@@ -242,7 +242,7 @@ virgin in marriage without her consent, whether or not she is of age.
 But a woman or girl who has been married before may not be given in
 marriage without her permission. [^33] The Hanafis and Shi'is hold that
 only a girl not of age may be given in marriage without her consent.
-[^34] The Shafi'is add here that if an underage girl has already been
+[^34]: The Shafi'is add here that if an underage girl has already been
 married, she may not be given in marriage again until she comes of age.
 [^35]
 
@@ -284,7 +284,7 @@ time.
 According to four of the schools, as soon as the marriage contract is
 concluded, the woman becomes the owner of the whole dower; the Malikis
 maintain that only one-half of the dower belongs to her at this point.
-[^40] Should the wife demand the dower from her husband immediately, he
+[^40]: Should the wife demand the dower from her husband immediately, he
 must pay it to her; but if he should divorce her before consummation and
 she has not yet taken the dower, he only has to pay her one-half.
 
@@ -292,7 +292,7 @@ In all schools, consummation of the marriage or the death of one of the
 spouses necessitates payment of the full dower. The Malikis add that if
 the wife should live with her husband at least one year, there being no
 hindrance to consummation of the marriage, he must pay the full dower.
-[^41] The Hanafis maintain that it is sufficient for the man to be alone
+[^41]: The Hanafis maintain that it is sufficient for the man to be alone
 with his wife on one occasion when there is no hindrance to
 consummation. [^42] According to the Hanbalis, being alone with the wife,
 love play, and seeing her private parts are all sufficient cause for the
@@ -508,7 +508,7 @@ result of 'forswearing' (I'la, below V), and divorce ordered by a qadi
 have no temporal conditions. The Malikis and Shi'is hold that these are
 types of traditional divorce with the same temporal conditions.
 
-[^65] For a divorce to become final, in most cases the man must
+[^65]: For a divorce to become final, in most cases the man must
 pronounce the formula on three different occasions, as described below.
 Technically, his first and second pronouncements are also divorces, but
 they are 'revocable' (rij'i). Hence, divorce may be divided into the
@@ -647,5 +647,4 @@ reference to any other female forbidden to him-sexual intercourse with
 his wife is forbidden to him. Zihar's conditions are the same as those
 of divorce; hence in Shi'ism two witnesses must hear the formula
 recited.
-
 

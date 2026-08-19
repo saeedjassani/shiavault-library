@@ -1114,7 +1114,7 @@ authority from among you***,[^87] and
 authority among them***,[^88] and,
 
 ***Surely Allah commands you to make over trusts to their owners***,
-[^89] and,
+[^89]: and,
 
 S***o ask the followers of the reminder if you do not know***? [^90]
 
@@ -1866,7 +1866,7 @@ imposed the hajj and zakat on poor people. He says,
 
 ***And pilgrimage to the House is incumbent upon men for the sake of
 Allah, (upon) everyone who is able to undertake the journey to it)***,
-[^129] and, ***(Those who put away their wives (by saying they are as
+[^129]: and, ***(Those who put away their wives (by saying they are as
 their mothers) and afterward would go back on that which they have said,
 (the penalty) in that case (is) the freeing of a slave…and for him who
 is unable to do so (the penance is) the feeding of sixty needy ones***.
@@ -3325,5 +3325,4 @@ after the Prophet (a.s) due to the decree of the Prophet (a.s) himself.
 Bihubil Ashraf, Bihar al-Anwar, al-Amali of Sheikh at-Tusi, Aa’yan
 ash-Shi’a, Nuzhat an-Nadhir, Tuhaf al-Uqul, al-Amali of Sheikh al-Mufid,
 Ma’ani al-Akhbar of Sheikh as-Saduq, Ma’athir al-Kubara’.
-
 

@@ -167,8 +167,8 @@ Then he said to the candidates: “Bring with you some Sheikhs of the
 Ansar, and they have nothing (to do) in respect of your affair. Bring
 with you al-
 
-[^1] Al-Isti‘ab, vol. 3, p. 5.
-[^2] Ibn Abi al-Haddeed, Sharh Nahjj al-Balagha, vol. 1, p. 185-186.
+[^1]: Al-Isti‘ab, vol. 3, p. 5.
+[^2]: Ibn Abi al-Haddeed, Sharh Nahjj al-Balagha, vol. 1, p. 185-186.
 
 Hasan bin Ali and Abdullah bin Abbas, for they have kinship (to the
 Prophet). I hope that you will get blessing through their presence. And
@@ -206,7 +206,7 @@ him when he decided the consultation in this manner, that he might turn
 the caliphate away from him. This painful manner hurt Imam Ali’s heart,
 so he
 
-[^1] Abu Talha al-Ansari is Zayd bin Sahl al-Najjar. He fought alongside
+[^1]: Abu Talha al-Ansari is Zayd bin Sahl al-Najjar. He fought alongside
 the Prophet (a.s.) at the Battle of Badr. When the Prophet (a.s.) made
 his companions associate with each other as brothers, he made him and
 Abu ‘Ubayda al-Jarrah associate as brothers. Abu Talha was among the
@@ -214,7 +214,7 @@ numbered bow men and among the famous brave people. He killed twenty
 people at the Battle of Hunayn. He married Umm Anas bin Malik. He died
 in Medina in the year 31 A. H. at the age of seventy. ‘Uthman bin ‘Affan
 prayed over him. Usd al-Ghaba, vol. 5, p. 334.
-[^2] Al-Tabari, Tarikh, vol. 5, p. 35.
+[^2]: Al-Tabari, Tarikh, vol. 5, p. 35.
 
 said: “When he (Umar) went to his way (died), he placed the affair (of
 the caliphate) among a group of people and claimed that I was among
@@ -385,10 +385,10 @@ said that they held the meeting in the house of Masrur bin Muhrima. Imam
 al-Hasan and Abdullah bin Abbas supervised the election. Amr bin al-‘Aas
 and al-Mughira
 
-[^1] Ibn ‘Abd Rabbih, al-Iqd al-Fareed, vol. 3, pp. 73-74.
-[^2] al-Tulaqa’ are those who converted to Islam at the time of the
+[^1]: Ibn ‘Abd Rabbih, al-Iqd al-Fareed, vol. 3, pp. 73-74.
+[^2]: al-Tulaqa’ are those who converted to Islam at the time of the
 conquest of Mecca.
-[^3] Umar died on Wednesday with four days remaining (in the month) of
+[^3]: Umar died on Wednesday with four days remaining (in the month) of
 Dhi al-Hijja, in the year 23 A. H. His caliphate lasted for ten years,
 six months, and four days. He was sixty-three years old. This has been
 mentioned by al-Mas‘udi in his book Murujj al-Dhahab, vol. 2, p. 198.
@@ -440,7 +440,7 @@ right to Abdurrahman bin Awf, for he was his cousin. As for Abdurrahman
 to whom Umar entrusted the affairs of the Consultative Committee and
 whose opinion he regarded as a decisive criterion, he felt weakness in
 himself and incapability of managing
-[^1] Muhammad Abda, Sharh Nahj al-Balagha, vol. 2, p. 31.
+[^1]: Muhammad Abda, Sharh Nahj al-Balagha, vol. 2, p. 31.
 
 the affairs of the government, so he decided to nominate someone other
 than him. He inclined to Uthman. So he consulted Quraysh, and they made
@@ -479,7 +479,7 @@ Apostle (a.s). When the Prophet (a.s) conquered Mecca, he ordered
 Abdullah bin Abi Sarh to be killed even if he was hanging on to the
 curtains of the Kaaba.[^1] Why did such a rogue intervene in the affairs
 of the Muslims? However, we belong to Allah and to Him is our return!
-[^1] Al-Isti‘ab, vol. 2, p. 375.
+[^1]: Al-Isti‘ab, vol. 2, p. 375.
 
 The Hashimites and the Umayyads talked, and a warm argument took place
 between the two families. Ammar bin Yasir, a loyal Muslim, said: “O
@@ -540,7 +540,7 @@ while he admitted that they were lawful during the time of Allah’s
 Apostle (a.s). He had a religious verdict contrary to Islam in respect
 of the grandmother’s
 
-[^1] Malik bin Nuwayra bin Hamza al-Tamimi, al-Yarbu‘i was given the
+[^1]: Malik bin Nuwayra bin Hamza al-Tamimi, al-Yarbu‘i was given the
 kunya of Abu Hanzala and the nickname of al-Jaful. He was a noble poet
 and knight. His people numbered him as among the knights of Banu Yarbu‘
 during the pre-Islamic period. He was among the followers of the kings.
@@ -580,7 +580,7 @@ him not to be punished with the prescribed punishment. He claimed that
 Khalid interpreted and made a mistake! For more details about this
 painful event, see al-Nass wa al-Ijtihad by Imam Sharaf al-Deen.
 
-[^2] Mutt‘at al-Haj and temporary marriage.
+[^2]: Mutt‘at al-Haj and temporary marriage.
 
 inheritance and the like. Therefore, which method had Ali bin Abi Talib
 to follow, while he was the pioneer of the great social justice on
@@ -617,7 +617,7 @@ this house after their Prophet! I wonder at Quraysh! They have deserted
 the man. I do not say nor do I come to know that there is anyone more
 just, knowledgeable, pious than he is!”
 
-[^1] Minsham is a name of a woman. She was a druggist in Mecca. When
+[^1]: Minsham is a name of a woman. She was a druggist in Mecca. When
 Khuza’a and Juhrum (two tribes) intended to fight against each other,
 they perfumed themselves with her perfume. When they did that, many dead
 were among them. So it was said: “More wicked than Minsham’s perfume!”
@@ -639,6 +639,5 @@ people followed their own interests and ambitions, and that they had no
 relationship with the public interests. Here we will say good-bye to
 Imam al-Hasan and meet him at the time of the Third Caliph!
 
-[^1] Ibn Abi al-Haddeed, Sharh Nahj al-Balagha, vol. 1, p. 194.
-
+[^1]: Ibn Abi al-Haddeed, Sharh Nahj al-Balagha, vol. 1, p. 194.
 

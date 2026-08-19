@@ -30,7 +30,7 @@ The Legislator of Islam (the Aware of the unseen, the Almighty) has not
 left any aim unless He has declared its way and showed to the men of
 understanding its guide. Far be it from Him to leave His
 
-[^1] Not the basic principles of religion like monotheism, justice,
+[^1]: Not the basic principles of religion like monotheism, justice,
 prophethood, resurrection, paradise, hell, rewarding and punishment.
 These principles have been adopted by all the prophets (s) since Adam
 (s) until Prophet Muhammad (s)
@@ -70,15 +70,15 @@ They have done like the all peoples of the different languages, who
 interpret their wordings with the apparent meanings that come to mind.
 They do not interpret them according to their tendencies and
 
-[^1] The “two ropes” or the “two weighty things” refer to the Qur'an and
+[^1]: The “two ropes” or the “two weighty things” refer to the Qur'an and
 the Prophet’s progeny.
-[^2] Ibn Mardwayh mentioned when interpreting this verse: “…acts
+[^2]: Ibn Mardwayh mentioned when interpreting this verse: “…acts
 hostilely to the messenger and “guidance” mentioned in the verse concern
 Ali (s) and what he faces from people”. Al-Ayyashi in his Tafseer
 mentioned the same. The true traditions narrated from Ahlul Bayt (s)
 have confirmed that “the way of the believers” is the way of Ahlul Bayt
 (s).
-[^3] Plural form of “nass”.
+[^3]: Plural form of “nass”.
 
 (93)
 
@@ -143,5 +143,4 @@ to them and then you have the right to give your opinion about them.
 Allah is the Guide to the truth and to the right path and to Him is our
 return. Allah is Sufficient for us! Most Excellent is He, in Whom we
 trust. Most excellent is the Patron and most excellent is the Helper.
-
 

@@ -5,7 +5,7 @@ Endnotes
 
 [^2]. Transpersonal Psychologies.
 
-[^3] Qur'an (al-Baqarah) 2:[^109]:
+[^3]: Qur'an (al-Baqarah) 2:[^109]:
 
 [^41]. Shakespeare, Hamlet.
 
@@ -33,9 +33,9 @@ Endnotes
 
 [^16]. The Cosmic Power by Joseph Murphy.
 
-[^17] Kashf-ul-Mahjub (p.52)
+[^17]: Kashf-ul-Mahjub (p.52)
 
-[^18] Bal-e-Jibril by Allama Iqbal.
+[^18]: Bal-e-Jibril by Allama Iqbal.
 
 [^19]. Qur’an (al-Kahf) 18:[^28]:
 
@@ -57,11 +57,11 @@ Endnotes
 
 [^28].Qur’an (al-Baqarah) 2:[^186]:
 
-[^29] Qur’an (al-Tawbah) 9:24
+[^29]: Qur’an (al-Tawbah) 9:24
 
 [^30].Qur’an (an-Nisaa) 4:[^61]:
 
-[^31] Related by Bukhari as-Sahih, b. of ‘ilum (knowledge) Ch.7
+[^31]: Related by Bukhari as-Sahih, b. of ‘ilum (knowledge) Ch.7
 (1:36\#65)
 
 [^32].Qur’an (al-Tawbah) 9:[^128]:
@@ -119,6 +119,5 @@ and Expansion of Universe is recommended.
 
 (ii) Ahmad bin Hambal in Musnad 3:[^55]:
 
-[^50] Qur'an (al-An‘am) 6:[^122]:
-
+[^50]: Qur'an (al-An‘am) 6:[^122]:
 

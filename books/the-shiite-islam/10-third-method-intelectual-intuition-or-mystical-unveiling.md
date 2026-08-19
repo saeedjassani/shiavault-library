@@ -219,4 +219,3 @@ explain the method of following it? For God says in the Quran, "And We
 reveal the Scripture unto thee as an exposition of all things" (Quran,
 XVI, 89).
 
-

@@ -105,19 +105,19 @@ one of its elements.
 
 **Notes:**
 
-[^1] Al-Nihayah vol. 1, p. 219.
-[^2] Al-Nihayah vol. 1, p. 219.
-[^3] Lisan al-Arab, vol. 3, p. 133.
-[^4] 9:79
-[^5] Lisan al-Arab, vol. 3, p. 133.
-[^6] Ibid.,p.135.
-[^7] Aqrab al-mawarid, vol. 1, p. 144.
-[^8] Aqrab al-mawarid, vol. 1, p. 144.
-[^9] Al Misbah al-munir, vol. 1, p. 144.
-[^10] Al Misbah al-munir, vol. 1, p. 144.
-[^11] Majma' al-bahrayn, vol. 3, p. 32.
-[^12] Majma' al-bahrayn, vol. 3, p. 32.
-[^13] Majma' al-bahrayn, vol. 3, p. 32.
+[^1]: Al-Nihayah vol. 1, p. 219.
+[^2]: Al-Nihayah vol. 1, p. 219.
+[^3]: Lisan al-Arab, vol. 3, p. 133.
+[^4]: 9:79
+[^5]: Lisan al-Arab, vol. 3, p. 133.
+[^6]: Ibid.,p.135.
+[^7]: Aqrab al-mawarid, vol. 1, p. 144.
+[^8]: Aqrab al-mawarid, vol. 1, p. 144.
+[^9]: Al Misbah al-munir, vol. 1, p. 144.
+[^10]: Al Misbah al-munir, vol. 1, p. 144.
+[^11]: Majma' al-bahrayn, vol. 3, p. 32.
+[^12]: Majma' al-bahrayn, vol. 3, p. 32.
+[^13]: Majma' al-bahrayn, vol. 3, p. 32.
 [^14]. Sihah al-lughah, vol.1, p. 457.
 [^15]. Ma'alim al- usul, p. 232.
 [^16]. Kifayat al-'usul, vol. 2, p. 42.
@@ -135,21 +135,21 @@ Hanbal, vol. 3, p.163.
 [^23]. Sahih al-Bukhari, vo1.3, p.136.
 [^24]. Sahih al-Bukhari, kitab al jihad, vo1.2, p. 93; Musnad Ahmad ibn
 Hanbal, vol. 3, pp. 260, 283.
-[^25] Wasa'il al-Shi ah, vol. l,twentieth of abwab muqaddamat
+[^25]: Wasa'il al-Shi ah, vol. l,twentieth of abwab muqaddamat
 al-­ibadat, ahadith 1, 11, 20.
-[^26] Wasa'il al-Shi ah, vol. l,twentieth of abwab muqaddamat
+[^26]: Wasa'il al-Shi ah, vol. l,twentieth of abwab muqaddamat
 al-­ibadat, ahadith 1, 11, 20.
-[^27] Wasa'il al-Shi ah, vol. l,twentieth of abwab muqaddamat
+[^27]: Wasa'il al-Shi ah, vol. l,twentieth of abwab muqaddamat
 al-­ibadat, ahadith 1, 11, 20.
 [^28]. Al-'Ihkam fi usul al-'ahkam, vol. 4, p. 218.18.
 [^29]. Al-Mustusfa fi usul al-fiqh, p. 55.
 [^30]. Al-Madkhal ila \`ilm usul al-fiqh, p. 55.
 [^31]. Majma' al-bahrayn, vol. 3, p. 32.
 [^32]. Ma'alim al-'usul p. 232.
-[^33] Al-Mustasfa fi usul al-fiqh, vol. 2, p. 350.
-[^34] Al-Mustasfa fi usul al-fiqh, vol. 2, p. 350.
-[^35] Usul al-fiqh, p. 357.
-[^36] Usul al-fiqh, p. 357.
+[^33]: Al-Mustasfa fi usul al-fiqh, vol. 2, p. 350.
+[^34]: Al-Mustasfa fi usul al-fiqh, vol. 2, p. 350.
+[^35]: Usul al-fiqh, p. 357.
+[^36]: Usul al-fiqh, p. 357.
 [^37]. The journal Hadarat al-Islam, No. 2, p. 2.
 [^38]. Masadir al-tashri\`, p. 7.
 [^39]. Irshad al-fuhul, p. 250.
@@ -157,5 +157,4 @@ al-­ibadat, ahadith 1, 11, 20.
 [^41]. Al-Risalah, p. 477.
 [^42]. Ibid., p. 504.
 [^43].Tamhid-e ta'rikh-e falsafeh-ye Islami, p. 138.
-
 

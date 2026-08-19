@@ -21,4 +21,3 @@ kawthar in paradise).[^33]
 extensively in the Musnad, e.g. vol. 3, pp. 17, 26 & 59; vol. 4, p. 367;
 vol. 5, pp. 181, 189, 190.
 
-

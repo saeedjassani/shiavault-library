@@ -261,7 +261,7 @@ experience, like other natural events: But the power or energy by which
 this is effected, like that in other natural events, is unknown and
 inconceivable.
 
-[^3] Shall we then assert, that we are conscious of a power or energy in
+[^3]: Shall we then assert, that we are conscious of a power or energy in
 our own minds, when, by an act or command of our will, we raise up a new
 idea, fix the mind to the con- templation of it, turn it on all sides,
 and at last dismiss it for some other idea, when we think that we have
@@ -377,5 +377,4 @@ depends the operation of mind on body, or of body on mind, nor are we
 able, either from our senses or con- sciousness, to assign the ultimate
 principle in one case more than in the other. The same ignorance,
 therefore, reduces them to the same conclusion.
-
 

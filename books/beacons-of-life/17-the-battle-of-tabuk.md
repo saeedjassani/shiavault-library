@@ -905,52 +905,52 @@ commander over me and dismisses me! "
 
 **Notes:**
 
-[^47] See Qur'an 7:73 - 78; .54:23 - 31 and 91:11-15.
-[^48] al-Waqidi, Muhammad ibn \`Umar ibn Waqid, Kitabu 'l-Maghazi, ed.
+[^47]: See Qur'an 7:73 - 78; .54:23 - 31 and 91:11-15.
+[^48]: al-Waqidi, Muhammad ibn \`Umar ibn Waqid, Kitabu 'l-Maghazi, ed.
 B. Marsten Jones, 3 vols. (London: Oxford University Press, 1966), vol.
 1, pp. 197-8.
-[^49] Aban ibn \`Uthman (commonly known as "al-Ahmar"), was a
+[^49]: Aban ibn \`Uthman (commonly known as "al-Ahmar"), was a
 traditionist contemporary with the sixth and seventh Imams and resident
 in Kufah and Basrah. See as-Sayyid Abu 'l-Qasim al-Musawi al-Khui,
 Mu'jam Rijali 'l-Hadith, 23 vols., 3rd ed. (Beirut, 1403/1983), vol. 1,
 pp. 157 - 64; al-A'lam, 10 vols. 3rd ed. (Beirut, 1389/1969), vol. 1, p.
 21.
-[^50] al-Majlisi, Muhammad Baqir, Biharu 'l-Anwar, 110 vols. 2nd ed.
+[^50]: al-Majlisi, Muhammad Baqir, Biharu 'l-Anwar, 110 vols. 2nd ed.
 (Beirut: Mu'assasatu'l-Wafa', 1403/1983), vol. 20, pp. 164-6.
-[^51] See the Arabic text of this book, p. 195.
-[^52] This refers to the narrative in the Qur'an concerning the Jews
+[^51]: See the Arabic text of this book, p. 195.
+[^52]: This refers to the narrative in the Qur'an concerning the Jews
 unlawfully fishing on the Sabbath, upon which they were transformed into
 apes. See Qur'an 2 :65 and 7:166. For a variety of views of the
 commentators on this narrative, see Ayoub, M., The Qur'an and its
 Interpreters, pp. 109-16.
-[^53] This refers to the controversy of hadithu'l-ifk, during the raid
+[^53]: This refers to the controversy of hadithu'l-ifk, during the raid
 of Banu 'l-Mustaliq, where \`A'ishah was suspected of adultery. See Ibn
 Hisham, vol. 3, pp. 341- 55, and Guillaume, pp. 493- 9.
-[^54] The reference here is to \`Umar ibn al-Khattab and his protest
+[^54]: The reference here is to \`Umar ibn al-Khattab and his protest
 against the truce of Hudaybiyyah between the Muslims and the Quraysh,
 represented by Suhayl ibn \`Amr. See Ibn Hisham, vol. 3, pp.365-6, and
 Guillaume, p.504.
-[^55] See al-Waqidi; vol. 2, p. 364.
-[^56] See al-Bukhari, vol. 5, p. 87.
-[^57] See Qur'an 9 :60. This is a group of the Quraysh who did not enter
+[^55]: See al-Waqidi; vol. 2, p. 364.
+[^56]: See al-Bukhari, vol. 5, p. 87.
+[^57]: See Qur'an 9 :60. This is a group of the Quraysh who did not enter
 into Islam, but who were sympathetic. The Prophet accorded them special
 treatment in order to win them over.
-[^58] See Qur'an 3:103 and 7:86.
-[^59] This is a reference to the Khawarij (seceders) who rebelled
+[^58]: See Qur'an 3:103 and 7:86.
+[^59]: This is a reference to the Khawarij (seceders) who rebelled
 against 'Ali after the Battle of Siffin. The Hadithu'l-Khawarij is a
 well known tradition reported in many versions in all the major books of
 hadith. See for example, Muslim, vol. 7, pp. 169-75. For the version
 here quoted, see al-Bukhari, vol. 8, pp. 52- 53.
-[^60] See al-Bukhari, vol. 8, p. 53.
-[^61] See Qur'an 9 :38 - 57.
-[^62] See al-Bayhaqi, vol. [? ] , (not printed).
-[^63] See note 53 above.
-[^64] The question of who led the prayers during the Prophet's illness
+[^60]: See al-Bukhari, vol. 8, p. 53.
+[^61]: See Qur'an 9 :38 - 57.
+[^62]: See al-Bayhaqi, vol. [? ] , (not printed).
+[^63]: See note 53 above.
+[^64]: The question of who led the prayers during the Prophet's illness
 became crucial in choosing his successor. Shi'i sources have insisted
 that Abu Bakr was not allowed to lead the prayers as long as the Prophet
 lived. Thus the Prophet compared \`A'ishah, daughter of Abu Bakr, and
 Hafsah, daughter of \`Umar, to the foolish women who jealously taunted
 the wife of the Egyptian ruler for her infatuation with Joseph's beauty.
 See Qur'an 12 : 30 - 31.
-[^65] See Qur'an 2:126.
+[^65]: See Qur'an 2:126.
 

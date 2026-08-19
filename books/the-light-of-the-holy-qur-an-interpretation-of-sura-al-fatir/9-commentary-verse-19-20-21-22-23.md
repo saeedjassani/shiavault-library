@@ -84,7 +84,6 @@ harmful and fatal winds which blow during the day, while the Arabic word
 at might.” Anyhow, how different is this wind and the cold cheerful
 shade which gives rest to both soul and body?
 
-
 And finally through the last similitude in the fourth verse, the
 Qur’a-n says:
 
@@ -117,7 +116,6 @@ should not be worried and anxious about the lack of faith in them, his
 duty was to convey it and to warn them. The verse says:
 
 “You are naught but a Warner.”
-
 
 **Two Points:**
 
@@ -181,7 +179,7 @@ we cannot communicate with the dead.
 Another Question is: If our sound does not reach the dead, what is the
 meaning of our greeting to the Prophet (p.b.u.h.)
 
-[^1] Tafsi-r-i-Rauh-ul-Baya-n, under the verse, and Sah)i-h)-Bukha-ri-,
+[^1]: Tafsi-r-i-Rauh-ul-Baya-n, under the verse, and Sah)i-h)-Bukha-ri-,
 Vol. 5, P. 97
 
 and to the Imams (a.s.), resorting to them, visiting of their tombs,
@@ -191,7 +189,6 @@ relying on this very imagination, without considering other verses of
 the Qur’a-n, and without having any veneration for the abundant
 traditions narrated from the Prophet (p.b.u.h.), have negated the
 subject of resorting and, as they think, they have nullified it.
-
 
 **Commentary : Verse 24.25.26**
 
@@ -297,7 +294,7 @@ punishment.
 
 However, Allah caused some pagans to be faced with a tempest, another
 group with a destructive hurricane, and some
-[^1] The Arabic word /zubur/ is the plural form of /zabu-r/ which means
+[^1]: The Arabic word /zubur/ is the plural form of /zabu-r/ which means
 the books the scriptures of which have been written to be permanent
 (like writings on the stone, and the likes that here it indicates to the
 firmness of their matters.
@@ -321,5 +318,4 @@ And, on the other side, it is a threat against these aberrant opponents
 that they should know that they cannot continue their disgraceful and
 destructive deeds forever. Soon or late, the divine punishments will
 encompass them.
-
 

@@ -12,4 +12,3 @@ and large, he follows Abu Mikhnaf in hostility both to Yazid and to Ibn
 Ziyad. He does however supplement Abu Mikhnaf's reports, which we have
 already discussed.
 
-

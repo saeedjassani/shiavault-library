@@ -308,8 +308,8 @@ statement, saying: “O Abu Bahr, surely I know that the wickedest of
 those Allah created is this (Mu’awiya) and his son (Yazid). But they
 have made sure of these properties with the doors and the locks. So none
 craves after taking them out except through what you have heard.”[^2]
-[^1] Al-Imama wa al-Siyasa, vol. 1, pp. 174-180.
-[^2] Ibn Khullikan, Tarikh, vol. 1, p. 230. Al-Tamadun al-Islami, vol.
+[^1]: Al-Imama wa al-Siyasa, vol. 1, pp. 174-180.
+[^2]: Ibn Khullikan, Tarikh, vol. 1, p. 230. Al-Tamadun al-Islami, vol.
 4, pp. 76-77.
 
 Through this ill-omened pledge of allegiance (to Yazid), Mu’awiya
@@ -350,7 +350,7 @@ them.”
 Mu’awiya hurried to deceive him with soft words, saying: “You are the
 equal of the Commander of the faithful, his equipment in his hardship,
 his upper arm, and the second after his heir apparent.”
-[^1] Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 339.
+[^1]: Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 339.
 
 He gave him regency with trick and cunning. He honorably took him out
 of his capital. However he removed him from his office when he had
@@ -529,9 +529,9 @@ great figures from among the children of the Muhajireen and the Ansar
 and summoned them to that. The historians have mentioned the texts of
 his letters along with their answers to him. Mu’awiya wrote Imam
 al-Husayn a letter
-[^1] Al-Bayqahi, Sunan, vol. 8, p. 159. Ibn Katheer, Tarikh, vol. 8, p.
+[^1]: Al-Bayqahi, Sunan, vol. 8, p. 159. Ibn Katheer, Tarikh, vol. 8, p.
 137. Fath al-Baari, vol. 13, p. 59.
-[^2] Al-Imama wa al-Siyasa, vol. 1, pp. 180-183. Jamharat al-Khutab,
+[^2]: Al-Imama wa al-Siyasa, vol. 1, pp. 180-183. Jamharat al-Khutab,
 vol. 2, pp. 233-236.
 
 whose text is as follows: “Some affairs from you have come to me. I do
@@ -577,7 +577,7 @@ Neither this advice nor the warning against Allah’s punishment was
 useful to Mu’awiya. He went on practicing his pre-Islamic beliefs to
 destroy Islam and to force the Muslims to pay homage to Yazid, who
 violated all what Allah had prohibited.
-[^1] Al-Imama wa al-Siyasa, vol. 1, pp. 188-190.
+[^1]: Al-Imama wa al-Siyasa, vol. 1, pp. 188-190.
 
 **Mu’awiya’s second Journey to Yathrib**
 
@@ -670,7 +670,7 @@ Apostle, one of the people who were under the cloak (kisa), and among
 the purified house. He said that about what you wanted. That is because
 there are some people who convince you until Allah judges with His
 command, and He is the best of judges.”[^1]
-[^1] Al-Imama wa al-Siyasa, vol. 1, pp. 195-196.
+[^1]: Al-Imama wa al-Siyasa, vol. 1, pp. 195-196.
 
 Imam al-Husayn went away and made sadness hurt Mu’awiya’s soul. After
 that Mu’awiya depended on all means of violence and terrorism. The
@@ -713,9 +713,9 @@ that he was a transgressor, that he played with the leopards and the
 dogs, and regarded as lawful what Allah made unlawful. Indeed man stands
 perplexed before this attitude of her and her attitude toward the pledge
 of allegiance to Imam Ali
-[^1] Ibn al-Athir, al-Kamil. Some other historians have also narrated
+[^1]: Ibn al-Athir, al-Kamil. Some other historians have also narrated
 it.
-[^2] Al-Imama wa al-Siyasa.
+[^2]: Al-Imama wa al-Siyasa.
 
 (a.s), who was the brother of the Prophet, the father of his grandsons,
 and the gate of the city of his knowledge. That is because when she was
@@ -759,5 +759,4 @@ historians say that he went too far in killing them because he wanted to
 take revenge on the Prophet for the Battle of Badr. This disaster was
 the most dangerous thing by which the Muslims were stricken throughout
 the times.
-
 

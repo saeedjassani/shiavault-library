@@ -271,4 +271,3 @@ cities. The majority of Shi'ites were forced to disown and even curse
 Ali and to express their disdain for him. If they refused, they were put
 to death.
 
-

@@ -223,4 +223,3 @@ the same, praise be to Him. Very few, however, realize this simple and
 pristine fact. the same, but the lack of space does not allow me to
 provide the reader with more.
 
-

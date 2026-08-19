@@ -488,7 +488,7 @@ situation which permits the gluttony of the rich oppressor and the
 hunger of the oppressed, in accordance with the covenant of God with the
 learned men of the Ummah.
 
-[^11] In the second place, he strives to ameliorate the state of affairs
+[^11]: In the second place, he strives to ameliorate the state of affairs
 through altruism and self-sacrifice, by sharing whatever he possesses
 with the needy and the deprived. But when he sees that the situation has
 deteriorated beyond reparation and it is practically impossible to
@@ -566,5 +566,4 @@ and readiness to share the sufferings of others, has nothing common with
 monastic asceticism. It is not based on escapism from society. The
 Islamic conception of zuhd is a means of alleviating the sufferings of
 society.
-
 

@@ -124,7 +124,7 @@ the same manner you have written. He has rebuked me through that which
 has not brought about mistrust and an opinion of me. You have not got
 the like of me
 
-[^1] In his book al-Bidaya wa al-Nihaya, Ibn Katheer has said: “Mu‘awiya
+[^1]: In his book al-Bidaya wa al-Nihaya, Ibn Katheer has said: “Mu‘awiya
 showed sadness, sorrow, and pain at the murder of Imam (‘Ali).” I (the
 author) say: “Firstly, (this statement) does not agree with what
 Mu‘awiya mentioned regarding his showing no sadness at the death of Imam
@@ -132,7 +132,7 @@ Mu‘awiya mentioned regarding his showing no sadness at the death of Imam
 his flagrant enmity towards the Imam, for he regarded cursing him (Imam
 Ali) as one of the religious duties. He chased his followers and
 companions, and killed them everywhere.”
-[^2] Abu al-Farajj al-Asfahani, al-Aghani, vol. 8, p. 62. Ibn Abi
+[^2]: Abu al-Farajj al-Asfahani, al-Aghani, vol. 8, p. 62. Ibn Abi
 al-Hadeed, Sharh Nahjj al-Balagha, vol. 4, p. 12.
 
 and the like of you. Verily, our like is just as what Tariq al-Khaza‘i
@@ -221,7 +221,7 @@ based on the pure truth and on condemning all means that did not agree
 with the Islamic principles even if success and victory depended on
 them. We will mention that in detail when we deal with the reasons of
 the peacemaking.
-[^1] Ibn Abi al-Hadeed, Sharh Nahjj al-Balagha, vol. 4, p. 8. Rasa’il
+[^1]: Ibn Abi al-Hadeed, Sharh Nahjj al-Balagha, vol. 4, p. 8. Rasa’il
 Jamharat al-‘Arab, vol. 2, p. 1.
 
 3. This letter includes all the true reasons that led to deserting Imam
@@ -294,7 +294,7 @@ the Arabs disputed with each other about the authority after him.
 Quraysh have said: ‘We are his tribe and his friends. Therefore, do not
 dispute with us about his supreme authority.’ So the Arabs acknowledged
 that
-[^1] Al-Harith bin Suwayyid al-Tamimi had the kunya of Abu A’isha
+[^1]: Al-Harith bin Suwayyid al-Tamimi had the kunya of Abu A’isha
 al-Kufi. He narrated traditions on the authority of the trustworthy
 companions (of the Prophet) of whom were Imam ‘Ali and Ibn Mas‘ud. Some
 reliable traditionists narrated (traditions) on his authority. The
@@ -305,7 +305,7 @@ praised and lauded him. It is sufficient for him that Imam al-Hasan
 trusted and depended on him. That was when he sent him to Mu‘awiya
 during the last days of Abdullah bin al-Zubayr. This has been mentioned
 in (the book) Tahdhib al-Tahdhib, vol. 2, p. 173.
-[^2] Jundub al-Azdi al-‘Amiri was surnamed as Abu Abdullah. He was a
+[^2]: Jundub al-Azdi al-‘Amiri was surnamed as Abu Abdullah. He was a
 companion of the Prophet (a.s.). He narrated from the Prophet, may Allah
 bless him and his family, that he has said: “The prescribed punishment
 for a magician is striking him with the sword.” He narrated traditions
@@ -315,7 +315,7 @@ on his authority. Ibn Hayyan has mentioned him as one of the trustworthy
 (traditionists) of the second generation. He (Jundub al-Azdi) died at
 the end of Mu‘awiya’s caliphate. This has been mentioned in the book
 Tahdhib al-Tahdhib, vol. 2, p. 118.
-[^3] Qur’an, 43, 44.
+[^3]: Qur’an, 43, 44.
 
 for Quraysh, while Quraysh have denied (to acknowledge for) us what the
 Arabs have acknowledged for them. How far! Quraysh have not treated us
@@ -361,8 +361,8 @@ Helper!
 supreme authority of our House. We refrained from disputing with them
 out of fear for
 
-[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 9.
-[^2] Qur’an, 36, 70.
+[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 9.
+[^2]: Qur’an, 36, 70.
 
 the religion lest the hypocrites and the allies[^1] should find through
 that a shortcoming through which they defile the religion, or they may
@@ -405,12 +405,12 @@ the Islamic caliphate. He thought that it was among the rights of the
 Prophet’s Household, peace be on them, that none had the right to share
 them their
 
-[^1] The allies were those who gathered to battle against Allah’s
+[^1]: The allies were those who gathered to battle against Allah’s
 Apostle, may Allah bless him and his family. They were from Quraysh,
 Ghattfan, Bani Murrah, Bani Ashja‘, Bani Saleem, and Bani Asad. That was
 at the Battle of al-Khandaq (trench). Their commander-in-chief was Abu
 Sufyan. That was in the year 5 A. H.
-[^2] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 12.
+[^2]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 12.
 
 right, and that whoever usurped it from them aggressed against them and
 plundered their inheritance. The Imam showed his firm opinion in the
@@ -542,7 +542,7 @@ Ansar. So I hated that for you. Most surely you are a man (who is) with
 us and the people, not accused, nor a wrong doer, nor ignoble. I love
 for you the right saying and the beautiful fame.
 
-[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 9.
+[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 9.
 
 “Most surely when this community differed, they did not ignore your
 excellence, or your precedence, or your kinship to your Prophet nor your
@@ -587,7 +587,7 @@ without you, and you will not be disobeyed in any affair through which
 you want to obey Allah. May Allah help us and you obey Him. Most surely
 He is All-hearing and He responds to supplication. With Greetings.”[^1]
 
-[^1] Sharh Nahjol Balagha, vol. 4, p. 13.
+[^1]: Sharh Nahjol Balagha, vol. 4, p. 13.
 
 According to both narrations, the letter contains Mu’awiya’s lying,
 cunning, and fallacies, as Dr. Ahmed Rifa’i says. [^1] It is necessary
@@ -632,7 +632,7 @@ detail in the first part of the book. The result of Quraysh’s choice was
 that the Muslims were ruled by Mu’awiya, Yazid, al-Waleed, and the like
 of them from among the oppressive, tyrannical leaders, who drowned the
 country into tragedies and
-[^1] ‘Asr al-Ma’mun, vol. 1, p. 17.
+[^1]: ‘Asr al-Ma’mun, vol. 1, p. 17.
 
 sorrows, and went too far in abasing and exhausting the Muslims who
 subserviently paid homage to Yazid. This is what the righteous people
@@ -692,5 +692,4 @@ because of which Mu’awiya came to know that his deception, falsehood,
 and fallacies were useless. In the meantime he came to know that Imam
 al-Hasan was determined on warring against him. After that he headed for
 war and prepared its means and requirements.
-
 

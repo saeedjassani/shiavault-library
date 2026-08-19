@@ -80,9 +80,7 @@ Going into the details of the steps of prayer is not in the purpose of
 this book. But briefly, the most important aspect of prayer is the
 intent of the worshipper who offers prayer. The Prophet (S) has said,
 
-<p dir="rtl">
 إنَّمَا الأَعْمَالُ بِالنِّيَّاتِ.
-</p>
 
 *“The actions of a person depend on his intentions.”*
 
@@ -470,10 +468,8 @@ said, “the way to achieve nearness of the Creator is to talk more of
 Him. The best prayer is the supplication of the pious person!”
 Amir’ul-Mu’mineen ‘Ali (as) said,
 
-<p dir="rtl">
 مَا عَبَدْتُكَ خَوْفاً مِنْ نَارِكَ وَلا طَمَعاً فِي جَنَّتِكَ، وَلَكِنْ
 وَجَدْتُكَ أهْلاً لِلْعِبادَةِ فَعَبَدْتُكَ.
-</p>
 
 “*I don’t worship Allah with the desire for the Heaven nor for the fear
 of the Hell! I Worship Him because I found Him deserving of Worship!”*
@@ -751,9 +747,7 @@ prayer the words*Allah O Akbar* are repeated seven times.
 Now the person is ready for the conversation, that is, for offering his
 prayer to Allah. At this stage, he should say
 
-<p dir="rtl">
 أعُوذُ بِاللهِ السَّمِيعِ العَلِيمِ مِنَ الشَّيْطانِ الرَّجِيمِ.
-</p>
 
 *“I seek refuge in Allah the all-hearing all-knowing from the cursed
 devil?” to ward off the Satan. Now that the time to go to the presence
@@ -778,13 +772,11 @@ wrath has fallen!”
 
 Now we quote Amir’ul-Mu’mineen ‘Ali’s (as) eloquent saying,
 
-<p dir="rtl">
 واعْلَمْ أَنَّ أَوَّلَ عِبادَةِ اللهِ المَعْرِفَةُ بِهِ، أنَّهُ
 الأَوَّلُ قَبْلَ كُلِّ شَيْءٍ، فَلا شَيْءَ قَبْلَهُ، وَالفَرْدُ فَلاَ
 ثَانِيَ لَهُ، وَالبَاقِي لاَ إلَى غَايَةٍ، فَاطِرُ السَّمَاوَاتِ
 وَالأَرْضِ وَمَا فِيهِمَا وَمَا بَيْنَهُمَا مِنْ شَيْءٍ، وَهُوَ
 اللَّطِيفُ الخَبِيرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.
-</p>
 
 *“The best prayer is Knowledge of Allah (Ma’rifa) and Identification
 that He is ahead of everything and nothing was there before Him. He is
@@ -792,5 +784,4 @@ the only One and has none like Him. He is Immortal and has no end. He is
 the Creator of the Universe and everything that is found on the earth
 and in the sky. He is Omniscient (Khabeer ) and Gentle (Lateef) and he
 isOmnipotent; that He has control over all things!”*
-
 

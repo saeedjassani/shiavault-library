@@ -52,7 +52,7 @@ God to water these two,[^158] Jurhum, a southern tribe whose individuals
 had moved towards the north due to famine and drought, came to settle
 there.
 
-[^159] Reaching the age of adulthood, Isma\`il married a girl from this
+[^159]: Reaching the age of adulthood, Isma\`il married a girl from this
 tribe.[^160] Prophet Abraham was commanded by Allah to build up the Kaaba
 with the assistance of his son, Isma\`il. (2:127) When it was built, the
 city of Mecca came into being and Isma\`il's offspring gradually settled
@@ -81,7 +81,7 @@ unwanted hairs and the like.[^165] They believed, as well, in the
 prohibitions imposed on the four months which was one of Prophet
 Abraham’s traditions.
 
-[^166] If for any reason, there occurred a fight among them; they called
+[^166]: If for any reason, there occurred a fight among them; they called
 it a sinful and obnoxious war.[^167] Thus, monotheism had a long history
 with the Arabs of that region and their idolatry entered there only
 later and drove them astray from monotheism.
@@ -246,7 +246,7 @@ whistling and hand-clapping. During Hajj time and at the time of
 uttering the expression at Thy service, they used to call the names of
 their idols besides Allah's name.
 
-[^180] In this way, they mingled the Hajj of Prophet Abraham, which is
+[^180]: In this way, they mingled the Hajj of Prophet Abraham, which is
 one of the most sublime manifestations of monotheism, with polytheism.
 The two tribes, Aws and Khazraj, instead of head-shaving at the land of
 Mina, carried out this ceremony on their way back to Medina at the foot
@@ -342,5 +342,4 @@ Being located eighty-three kilometers away from the Red Sea, the city
 of Mecca, in the south of Hijaz, was the most important in the region;
 it had attracted a lot of settlers some decades prior to the advent of
 Islam. There were two reasons for the development of Mecca:
-
 

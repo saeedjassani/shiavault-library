@@ -321,4 +321,3 @@ household and a small number of companions were encircled by an army of
 thirty thousand soldiers. During these days the Imam fortified his
 position and made a final selection of his companions.
 
-

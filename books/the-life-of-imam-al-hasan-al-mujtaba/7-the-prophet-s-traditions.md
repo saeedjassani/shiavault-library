@@ -26,7 +26,7 @@ him; and so You love him.’”[^2]
 embraced him, and then he said: ‘O Allah, this is my (grand) son; and I
 love him; therefore love him and love those who love him.”[^3]
 
-[^1] Al-Bara’ bin Aazib was given the kunya of Abu Imara. He fought
+[^1]: Al-Bara’ bin Aazib was given the kunya of Abu Imara. He fought
 alongside Allah’s Apostle (a.s.) at the Battle of Badr. The Prophet did
 not permit him to wage jihad (against the polytheists) because he was
 still young. He fought alongside Allah’s Apostle (a.s.) in fourteen
@@ -37,12 +37,12 @@ al-Jamal, Siffin, and al-Nahrawan. He lived in Kufa and built a house
 therein. He died during the days of Mas‘ab bin al-Zubayr. This has been
 mentioned in the books Usd al-Ghaba, vol. 1, p. 171, and al-Isti‘abin
 
-[^2] Al-Bukhari, Saheeh, Chapter on the Beginning of Creation.
+[^2]: Al-Bukhari, Saheeh, Chapter on the Beginning of Creation.
 Al-Turmidhi, Saheeh, vol. 2, p. 307. Muslim, Saheeh, Chapter on the
 Merits of the Companions of the Prophet. Ibn Kuthayr, al-Bidaya wa
 al-Nihaya, vol. 8, p. 34.
 
-[^3] Kanz al-‘Ummal, vol. 7, p. 104. Al-Haythemi has mentioned it in his
+[^3]: Kanz al-‘Ummal, vol. 7, p. 104. Al-Haythemi has mentioned it in his
 book al-
 
 3. Zuhayr bin al-Aqmar has narrated, saying: “After the martyrdom of
@@ -78,10 +78,10 @@ In his book al-Hulya, Abu Na‘eem has narrated on the authority of Abu
 Hurayra that the Prophet (a.s.) said: “O Allah, I love him; therefore
 love him and those who love him.” He said that three times.
 
-[^1] Tahdhib al- Tahdhib, vol. 2, p. 297. Imam Ahmed bin Hanbel, vol. 5,
+[^1]: Tahdhib al- Tahdhib, vol. 2, p. 297. Imam Ahmed bin Hanbel, vol. 5,
 p. 366. Al-Sawa‘iq al-Muhriqa, p. 82.
 
-[^2] Al-Isaba, vol. 1, p. 330. In his book al-Saheeh, al-Bukhari has
+[^2]: Al-Isaba, vol. 1, p. 330. In his book al-Saheeh, al-Bukhari has
 mentioned it in the Chapter on al-Sulh (Making Peace). In his book
 al-Musnad, vol. 5, p. 44, Imam Ahmed bin Hanbal has narrated it on the
 authority of al-Mubarak, on the authority of al-Hasan bin Abi Bakra, who
@@ -97,7 +97,7 @@ al-Hasan, who was then a child, playing before her. He said to her:
 ‘Most surely, Allah will make peace between two great groups of the
 Muslims at the hands of this son of yours.’”
 
-[^3] Al-Sawa‘iq al-Muhriqa, p. 82. Hulyat al-Awliya.
+[^3]: Al-Sawa‘iq al-Muhriqa, p. 82. Hulyat al-Awliya.
 
 was al-Hasan. I saw al-Hasan (when he) came and rode on the Prophet’s
 neck while he was prostrating himself in prayer. He did not make him go
@@ -143,12 +143,12 @@ them as follows:
 walking to Allah’s Apostle (a.s). He took one of them and pressed him to
 his
 
-[^1] Al-Isaba, vol. 2, p. 11.
-[^2] Al-Bidaya wa al-Nihaya, vol. 8, p. 33.
-[^3] Bihar al-Anwar, vol. 6 p. 58.
-[^4] Fada’il al-Ashab, p. 165. Al-Bidaya wa al-Nihaya, vol. 8, p. 35.
-[^5] Al-Isti‘ab, vol. 2, p. 369.
-[^6] Kanz al-‘Ummal, vol. 6, p. 222.
+[^1]: Al-Isaba, vol. 2, p. 11.
+[^2]: Al-Bidaya wa al-Nihaya, vol. 8, p. 33.
+[^3]: Bihar al-Anwar, vol. 6 p. 58.
+[^4]: Fada’il al-Ashab, p. 165. Al-Bidaya wa al-Nihaya, vol. 8, p. 35.
+[^5]: Al-Isti‘ab, vol. 2, p. 369.
+[^6]: Kanz al-‘Ummal, vol. 6, p. 222.
 
 armpit, and then he took the other and pressed him to his other armpit.
 He said: ‘They are my two darlings. Whoever loves me, let him love
@@ -175,8 +175,8 @@ loves makes him enter the Garden. Whoever hates them hates me, whoever
 hates me, Allah hates him, and whomever Allah hates makes him enter the
 Fire.”[^5]
 
-[^1] Dhakha’ir al-Uqba, p. 124.
-[^2] In his book Hulyat al-Awliya’, vol. 13, p. 201, Abu Na‘eem has
+[^1]: Dhakha’ir al-Uqba, p. 124.
+[^2]: In his book Hulyat al-Awliya’, vol. 13, p. 201, Abu Na‘eem has
 narrated on the authority of Jabir that Allah’s Apostle (a.s.) said to
 Ali bin Abi Talib, peace be on him: “Assalamu ‘alayka, O father of the
 two plants of sweet basil. I ask you to do good to my two plants of
@@ -192,12 +192,12 @@ al-Husayn were playing on his back. So I said: ‘Allah’s Apostle, do you
 love them?’ ‘And what reason have I that I should not love them,’ he
 replied, ‘they my two plants of sweet basil (to sweeten) the world.”
 
-[^3] Al-Tirmidhi, Saheeh, vol. 2, p. 306. Fayd al-Qadeer, vol. 1, p.
+[^3]: Al-Tirmidhi, Saheeh, vol. 2, p. 306. Fayd al-Qadeer, vol. 1, p.
 148.
-[^4] Al-Tirmidhi, Saheeh, vol. 2, p. 240. Kanz al-‘Ummal, vol. 7, p.
+[^4]: Al-Tirmidhi, Saheeh, vol. 2, p. 240. Kanz al-‘Ummal, vol. 7, p.
 110. Ibn Hajar has mentioned the end of the tradition in his book
 al-Sawa‘iq al-Muhriqa.
-[^5] Al-Hakim, Mustadrak, vol. 3, p. 166. Al-Haythemi has been narrated
+[^5]: Al-Hakim, Mustadrak, vol. 3, p. 166. Al-Haythemi has been narrated
 the tradition in a slight change in his book al-Majjma‘; similarly, it
 has been mentioned in Kanz al-‘Ummal, vol. 6, p. 221.
 
@@ -236,7 +236,7 @@ their father is better than them.’ He reached the mosque and stood while
 they were on his shoulders. Then he said: ‘O Communities of the Muslims,
 shall I tell you of the best of
 
-[^1] Al-Hakim, Mustadrak, vol. 3, p. 167. Ibn Maja, Saheeh. The
+[^1]: Al-Hakim, Mustadrak, vol. 3, p. 167. Ibn Maja, Saheeh. The
 traditions reported from the Prophet (a.s.) in respect of that his two
 grandsons are the two masters of the youths of the Garden are ensured by
 many lines of transmission. In his book al-Saheeh, p. 2, vol. 306,
@@ -248,7 +248,7 @@ vol. 1, p. 140, al-Khateeb al-Baghdadi has narrated on the authority of
 Ali, peace be on him, who said: [Allah’s Apostle (a.s.) said:] “Al-Hasan
 and al-Husayn are the two masters of the youths of the Garden.”
 
-[^2] Al-Turmidhi, Saheeh, vol. 2, p. 306. Al-Nisa’i, Saheeh, vol. 1, p.
+[^2]: Al-Turmidhi, Saheeh, vol. 2, p. 306. Al-Nisa’i, Saheeh, vol. 1, p.
 209.
 
 the people in grandfather and grandmother?’ ‘Yes, O Allah’s Apostle,’
@@ -291,10 +291,10 @@ He pressed them to the bosom and risked his life for them. They were
 with him in that place. They passed; and his two shoulders were beneath
 them. Therefore, he was the best mount, and they were the best riders!
 
-[^1] Dhakha’ir al-Uqba, p. 130.
-[^2] Kanz al-‘Ummal, vol. 7, p. 108. Al-Haythemi, Majjma‘, vol. 9, p.
+[^1]: Dhakha’ir al-Uqba, p. 130.
+[^2]: Kanz al-‘Ummal, vol. 7, p. 108. Al-Haythemi, Majjma‘, vol. 9, p.
 182.
-[^3] Al-Haythemi, Majjma‘, vol. 9, p. 181. Kanz al-‘Ummal, vol. 7, p.
+[^3]: Al-Haythemi, Majjma‘, vol. 9, p. 181. Kanz al-‘Ummal, vol. 7, p.
 106.
 
 9. Ya‘la bin Murra al-Thaqafi[^1] has reported, saying: “Al-Hasan and
@@ -334,12 +334,12 @@ him. He was present with the Prophet (a.s.) at al-Hudaybiya Peace
 Treaty. He made al-Ridwan allegiance (to the Prophet). He fought at the
 Battles of Khaybar, al-Fath, Hozan, and al-Ta’if.
 
-[^2] Al-Hakim, Mustadrak, vol. 3, p. 168. Imam Ahmed bin Hanbal, Musnad,
+[^2]: Al-Hakim, Mustadrak, vol. 3, p. 168. Imam Ahmed bin Hanbal, Musnad,
 vol. 4, p. 172.
-[^3] Al-Sawa‘iq al-Muhriqa, p. 114. Kanz al-‘Ummal, vol. 6, p. 221.
-[^4] Hulyat al-Awliya’, vol. 5, p. 44. Al-Fada’il al-Khamsa mina
+[^3]: Al-Sawa‘iq al-Muhriqa, p. 114. Kanz al-‘Ummal, vol. 6, p. 221.
+[^4]: Hulyat al-Awliya’, vol. 5, p. 44. Al-Fada’il al-Khamsa mina
 al-Sihah al-Sitta, vol. 3, p. 177.
-[^5] Bihar al-Anwar, vol. 10, p. 78. In the books Nazhat al-Majalis,
+[^5]: Bihar al-Anwar, vol. 10, p. 78. In the books Nazhat al-Majalis,
 vol. 2, p. 184, and al-Ithaf bi Hub al-Ashraf, p. 129, it has been
 mentioned that Allah’s Apostle (a.s.) said to al-Hasan and al-Husayn:
 “You are two Imams; and your mother has the right of intercession.” In
@@ -389,15 +389,14 @@ created from one tree. I am its origin and you are its branch. Al-Hasan
 and al-Husayn are its twigs. So whoever clings to a twig of it, Allah
 makes him enter the Garden.”[^5]
 
-[^1] Qur’an, 1, 124.
-[^2] Kanz al-Ummal, vol. 7, p. 102. Ibn Maja, Sunan, p. 14. In his book
+[^1]: Qur’an, 1, 124.
+[^2]: Kanz al-Ummal, vol. 7, p. 102. Ibn Maja, Sunan, p. 14. In his book
 al-Bidaya wa al-Nihaya, Ibn Kuthayr has narrated the tradition on the
 authority of Abu Hurayra.
-[^3] Al-Riyad al-Nadira, vol. 2, p. 252.
-[^4] Ahmed, Musnad, vol. 1, p. 77. Yanabee‘ al-Mawada, p. 164.
+[^3]: Al-Riyad al-Nadira, vol. 2, p. 252.
+[^4]: Ahmed, Musnad, vol. 1, p. 77. Yanabee‘ al-Mawada, p. 164.
 al-Tirmidhi, Saheeh, vol. 2, p. 301.
-[^5] Ahmed, Musnad, vol. 1, p. 77.
-
+[^5]: Ahmed, Musnad, vol. 1, p. 77.
 
 5. Ibn Abbas narrated: “Allah’s Apostle (a.s) has said: ‘The stars are
 security for the inhabitants of the earth from drowning, and my
@@ -443,11 +442,11 @@ Noah: whoever boards it is saved, and whoever lags behind it is drowned.
 And the similitude of my household among you is like the Gate of
 Salvation of the Israelites: whoever enters it is forgiven.”[^4]
 
-[^1] Al-Hakim, Mustadrak, vol. 3, p. 12.
-[^2] Al-Turmidhi, Saheeh, vol. 2, p. 308. Usd al-Ghaba, vol. 2, p. 12.
-[^3] Al-Muraja‘at, pp. 49-52. Al-Usool al-‘Aama lil Fiqh al-Muqaran, pp.
+[^1]: Al-Hakim, Mustadrak, vol. 3, p. 12.
+[^2]: Al-Turmidhi, Saheeh, vol. 2, p. 308. Usd al-Ghaba, vol. 2, p. 12.
+[^3]: Al-Muraja‘at, pp. 49-52. Al-Usool al-‘Aama lil Fiqh al-Muqaran, pp.
 164-187.
-[^4] Majjma‘ al-Zawa’id, vol. 9, p. 168. In his Mustadrak, al-Hakim has
+[^4]: Majjma‘ al-Zawa’id, vol. 9, p. 168. In his Mustadrak, al-Hakim has
 narrated on the In his valuable Muraja‘at, Imam Sharaf al-Deen has
 explained the tradition, saying: “You know that likening them with the
 Ark of Noah implies that whoever resorts to them in matters related to
@@ -494,8 +493,8 @@ is that of the Ark of Noah: whoever boards it is saved, and whoever lags
 behind it is drowned.’” Many traditions have been mentioned in this
 regard.
 
-[^1] Al-Muraja‘at, p. 54.
-[^2] Ibid., p. 58, quoted from the book al-Shafa’, p. 40.
+[^1]: Al-Muraja‘at, p. 54.
+[^2]: Ibid., p. 58, quoted from the book al-Shafa’, p. 40.
 
 Muhammad’s children will be given the glad tiding of entering the
 Garden by the angel of death, then by Munkar and Nakeer. Whoever dies
@@ -537,10 +536,10 @@ over him, and let him follow the example of my household after me, for
 they are my progeny; they are created from my own mould and blessed with
 my own
 
-[^1] Al-Muraja‘at, p. 59, quoted from al-Tafseer al-Kabeer by Imam
+[^1]: Al-Muraja‘at, p. 59, quoted from al-Tafseer al-Kabeer by Imam
 al-Tha‘labi, commentary on the Verse al-Mawadda.
-[^2] Al-Muraja’at., quoted from al-Sharaf al-Mu‘abbad, p. 58.
-[^3] Ibid., quoted from Ihya’ al-Mayyat by al-Sayuti, and al-Arba‘eeniya
+[^2]: Al-Muraja’at., quoted from al-Sharaf al-Mu‘abbad, p. 58.
+[^3]: Ibid., quoted from Ihya’ al-Mayyat by al-Sayuti, and al-Arba‘eeniya
 by al-Nabahani.
 
 comprehension and knowledge. Woe unto those who reject them and
@@ -572,11 +571,10 @@ him because he saw Allah’s Apostle (a.s) doing that.[^4] The Muslims had
 the right to honor al-Hasan, for the Prophet (a.s) honored him and
 raised his position.
 
-[^1] Kanz al-‘Ummal, vol. 6, p. 217.
-[^2] Ibn Asakir, vol. 4, p. 212. Ibn Shahrashub, al-Manaqib, vol. 2, p.
+[^1]: Kanz al-‘Ummal, vol. 6, p. 217.
+[^2]: Ibn Asakir, vol. 4, p. 212. Ibn Shahrashub, al-Manaqib, vol. 2, p.
 143.
-[^3] Al-Bidaya wa al-Nihaya, vol. 8, p. 37.
-[^4] Imam Ahmed bin Hanbal, al-Musnad, vol. 2, p. 255. Al-Baladhiri,
+[^3]: Al-Bidaya wa al-Nihaya, vol. 8, p. 37.
+[^4]: Imam Ahmed bin Hanbal, al-Musnad, vol. 2, p. 255. Al-Baladhiri,
 Ansab al-Ashraf.
-
 

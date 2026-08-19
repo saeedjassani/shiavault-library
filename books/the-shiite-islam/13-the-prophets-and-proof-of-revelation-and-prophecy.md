@@ -96,7 +96,6 @@ Prophets, and from thee (O Muhammad) and from Noah and Abraham and Moses
 and Jesus son of Mary, We took from them a solemn covenant" (Quran,
 XXXIII,7 ).
 
-
 **The Prophecy of Muhammad**
 
 The last prophet of God is Hadrat-i Muhammad - upon whom be blessings
@@ -347,5 +346,4 @@ verses and there is no difference between the beginning and the end of
 the Quran. The Quran is a book whose parts resemble each other and whose
 awe-inspiring power of expression is of the same style and quality
 throughout.
-
 

@@ -169,7 +169,7 @@ I should not believe such a story were it told me by Cato, was a
 proverbial saying in Rome, even during the lifetime of that
 philosophical patriot.
 
-[^1] The incredibility of a fact, it was allowed, might invalidate so
+[^1]: The incredibility of a fact, it was allowed, might invalidate so
 great an authority.
 
 The Indian prince, who refused to believe the first re- lations
@@ -182,7 +182,7 @@ uniform experience.
 Though they were not contrary to his experience, they were not
 conformable to it.
 
-[^2] But in order to encrease the probability against the testimony of
+[^2]: But in order to encrease the probability against the testimony of
 witnesses, let us suppose, that the fact, which they affirm, instead of
 being only marvellous, is really miraculous; and suppose also, that the
 testimony considered apart and in itself, amounts to an entire proof; in
@@ -214,7 +214,7 @@ fact, against the existence of any miracle; nor can such a proof be
 destroyed, or the miracle rendered credible, but by an opposite proof,
 which is superior.
 
-[^3] The plain consequence is (and it is a general maxim worthy of our
+[^3]: The plain consequence is (and it is a general maxim worthy of our
 attention), 'that no testimony is sufficient to establish a miracle,
 unless the testimony be of such a kind, that its falsehood would be more
 miraculous, than the fact, which it endeavors to establish; and even in
@@ -321,5 +321,4 @@ evidence, or which detect themselves by their absurdity, prove
 sufficiently the strong propensity of mankind to the extraordinary and
 the marvellous, and ought reasonably to beget a suspicion against all
 relations of this kind.
-
 

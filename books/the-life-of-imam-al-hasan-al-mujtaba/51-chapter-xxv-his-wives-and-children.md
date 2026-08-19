@@ -38,8 +38,8 @@ hundred free women and three hundred bondmaids. Therefore, according to
 the Islamic law and other than it, it is not forbidden to marry many
 women. So why is Imam al-Hasan criticized for that?
 
-[^1] Al-Isti‘ab, vol. 4, p. 370.
-[^2] Ali al-Qari’, Sharh al-Shafa’, vol. 1, p. 208.
+[^1]: Al-Isti‘ab, vol. 4, p. 370.
+[^2]: Ali al-Qari’, Sharh al-Shafa’, vol. 1, p. 208.
 
 2. Imam al-Hasan married many women to be strong enough to face the
 Umayyads, who spared no effort to put an end to the Hashimites, to
@@ -85,7 +85,7 @@ her. This does not agree with Imam al-Hasan who took great care of
 delighting the people, turned away from treating them badly and hurting
 their feelings.
 
-[^1] Wasa’il al-Shia, vol. 15, p. 15, pp. 267-268.
+[^1]: Wasa’il al-Shia, vol. 15, p. 15, pp. 267-268.
 
 3. Imam al-Hasan was distracted from that. He was distracted from such
 affairs by serving Allah, clinging to Him, his constant action in the
@@ -126,11 +126,11 @@ his properties and wealth. Ahmed bin Abi Khuthayma has narrated, saying:
 “My father, Yahya bin Ma‘een, and Mus‘ab al-Zubayri used to sit down at
 the door of Mus‘ab. A man passed by them. The man was riding a mule and
 wearing good clothes. He greeted and singled out Yahya with his
-[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p.8.
-[^2] Mizan al-I‘tidal, vol. 3, p. 138. Printed by Daar Ihya’ al-Kutub
+[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p.8.
+[^2]: Mizan al-I‘tidal, vol. 3, p. 138. Printed by Daar Ihya’ al-Kutub
 al-‘Arabiya.
-[^3] Lisan al-Mizan, vol. 4, p. 252.
-[^4] Mizan al-I‘tidal, vol. 3, p. 139.
+[^3]: Lisan al-Mizan, vol. 4, p. 252.
+[^4]: Mizan al-I‘tidal, vol. 3, p. 139.
 
 greeting, who said to him: ‘O Abu al-Hasan, where are you going?’ The
 man replied: ‘To the house of Ishaq al-Mousili, the generous one who
@@ -171,15 +171,15 @@ say to (the people of) Hamadan : ‘Enter it with peace!’
 Allah’s Apostle, peace be on him. He was similar to him in form and
 manner. Allah’s
 
-[^1] Lisan al-Mizan, vol. 4, p. 253. Mu‘jam al-Udaba’, vol. 12, p.
+[^1]: Lisan al-Mizan, vol. 4, p. 253. Mu‘jam al-Udaba’, vol. 12, p.
 126.
-[^2] Lisan al-Mizan, vol. 4, p. 386.
-[^3] Mu‘jam al-Udaba’, vol. 14, p. 124. In the book Lisan al-Mizan, vol.
+[^2]: Lisan al-Mizan, vol. 4, p. 386.
+[^3]: Mu‘jam al-Udaba’, vol. 14, p. 124. In the book Lisan al-Mizan, vol.
 4, p. 253, it has been mentioned: “He (al-Mada‘ini) was the retainer of
 ‘Abd al-Rahman bin Samra.”
-[^4] Noor al-Absar, p. 111.
-[^5] Bihar al-Anwar, vol. 10, p. 137.
-[^6] Al-Manaqib, vol. 2, p. 246.
+[^4]: Noor al-Absar, p. 111.
+[^5]: Bihar al-Anwar, vol. 10, p. 137.
+[^6]: Al-Manaqib, vol. 2, p. 246.
 
 Apostle, may Allah bless him and his family, said to him: ‘You are
 similar to me in form and manner.’ He also said: ‘Al-Hasan belongs to
@@ -222,8 +222,8 @@ such narrations because they face many suspicions and criticisms. The
 following points indicate that Imam al-Hasan married many women was
 fabricated:
 
-[^1] Qoot al-Quloob, vol. 2, p. 246.
-[^2] Al-Bidaya wa al-Nihaya, vol. 11, p. 319. Lisan al-Mizan, vol. 5, p.
+[^1]: Qoot al-Quloob, vol. 2, p. 246.
+[^2]: Al-Bidaya wa al-Nihaya, vol. 11, p. 319. Lisan al-Mizan, vol. 5, p.
 300. Al-Kuna wa al-Alqaab, vol. 1, p. 106. Ibn al-Jawzi, al-Muntazam,
 vol. 7, p. 190.
 
@@ -317,8 +317,8 @@ Imam to give this plentiful a mount of money as a dowry to one of his
 wives. That is because this is a kind of wastefulness and extravagance.
 Islam has prohibited the Muslims for
 
-[^1] Bihar al-Anwar.
-[^2] Al-Bidaya wa al-Nihaya, vol. 8, p. 38. Al-Shaheed al-Thani,
+[^1]: Bihar al-Anwar.
+[^2]: Al-Bidaya wa al-Nihaya, vol. 8, p. 38. Al-Shaheed al-Thani,
 al-Masalik.
 
 giving such a kind of dowry. It has ordered them to confine themselves
@@ -362,7 +362,7 @@ to him (Mu’awiya). Then he occupied himself with women. He married a
 woman today and divorced another tomorrow. He was so until he died on
 his bed.”[^1]
 
-[^1] Al-Mas‘udi, Murujj al-Dhahab, vol. 3, p. 226.
+[^1]: Al-Mas‘udi, Murujj al-Dhahab, vol. 3, p. 226.
 
 Al-Mansur’s speech is full of fallacies and lies. He has mentioned:
 
@@ -406,7 +406,7 @@ he unjustly took the caliphate, for it was the ‘Alawids who revolted
 against the Umayyads and overthrew their government to regain their
 usurped right.
 As for the Abbasids, they did not take any part in the revolt.
-[^1] Subh al-A‘sha, vol. 1, p. 233. Jamharat Rasa’il al-‘Arab, vol. 3,
+[^1]: Subh al-A‘sha, vol. 1, p. 233. Jamharat Rasa’il al-‘Arab, vol. 3,
 p. 92.
 
 **Lamens’s Lies**
@@ -454,7 +454,7 @@ with the criticisms and doubts about them. Then we have to mention the
 names of his wives the historians have mentioned along with explaining
 what we have mentioned as to their biographies. That is as follows:
 
-[^1] Da’irat al-Ma‘arif, vol. 7, p. 400.
+[^1]: Da’irat al-Ma‘arif, vol. 7, p. 400.
 
 1. Khawla al-Fazariyya
 
@@ -499,8 +499,8 @@ you.’ Imam al-Hasan, his brother al-Husayn, and Abdullah bin Abbas
 followed him. When they reached him, he welcomed and honored them, and
 then he returned her to
 
-[^1] Ibn ‘Asakir, Tarikh, vol. 4, p. 216.
-[^2] Al-Zajjajj, al-Amali, p. 7.
+[^1]: Ibn ‘Asakir, Tarikh, vol. 4, p. 216.
+[^2]: Al-Zajjajj, al-Amali, p. 7.
 
 the Imam.” Then she remained with Imam al-Hasan until she became old.
 When the Imam died, she did not get married. It was said that she
@@ -544,7 +544,7 @@ her cousin? She belongs to him, and he belongs to her.”
 “Who is he?” asked Sa‘eed? “Muhammad bin al-Ash‘ath,” replied
 al-Ash‘ath. So this stupid (Sa‘eed) was deceived by al-Ash‘ath’s
 statement and said: “I accept to marry my daughter to him.”
-[^1] Maqatil al-Talibiyyin, p. 33. Other sources have mentioned that.
+[^1]: Maqatil al-Talibiyyin, p. 33. Other sources have mentioned that.
 
 Then al-Ash‘ath quickly went to Imam Ali (a.s), and asked him: -Have
 you proposed to Sa‘eed’s daughter (to marry her to) al-Hasan? -Yes. -Do
@@ -579,7 +579,7 @@ came to know that she gloated over his father death, he said to her:
 She wrapped herself with her clothes until her waiting period was over.
 Then Imam al-Hasan sent her
 
-[^1] Ibn al-Jawzi, al-Adhkiya’, p. 27.
+[^1]: Ibn al-Jawzi, al-Adhkiya’, p. 27.
 
 the rest of her dowry along with ten thousand dinars, that she might
 satisfy her needs with. When the money reached her, she said: “Little
@@ -630,9 +630,9 @@ married which is too different from that which some historians had
 claimed. With this we will end our speech about Imam al-Hasan’s wives.
 Now, we have to mention the number of his children both male and female.
 The historians have differed on
-[^1] Ibn ‘Asakir, Tarikh, vol. 4, p. 216.
-[^2] Al-Isti‘ab, vol. 3, p. 204.
-[^3] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p.8.
+[^1]: Ibn ‘Asakir, Tarikh, vol. 4, p. 216.
+[^2]: Al-Isti‘ab, vol. 3, p. 204.
+[^3]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p.8.
 
 that very much. They have narrated that there number is:
 
@@ -662,9 +662,9 @@ him to permit him to defend him, and the Imam permitted him. As for how
 he was martyred, it is very sorrowful. The historians and biographers
 have mentioned it in detail.
 
-[^1] Al-Mufid, al-Irshad.
-[^2] Al-Nafha al-‘Ambariya.
-[^3] Al-‘Abdali, Zaynab wa al-Zaynabiyyat. Al-Maqrizi, Itti‘ad
+[^1]: Al-Mufid, al-Irshad.
+[^2]: Al-Nafha al-‘Ambariya.
+[^3]: Al-‘Abdali, Zaynab wa al-Zaynabiyyat. Al-Maqrizi, Itti‘ad
 al-Hunafa’ fi Akhbar al-Khulafa’. Al-Majjdi. He (al-Majdi) has mentioned
 their names. The males are Zayd, al-Hasan, al-Hasan al-Athram, Talha,
 Isma‘il, Abdullah, Hamza, Ya‘qub, ‘Abd al-Rahman, Abu Bakr, and ‘Umar.
@@ -679,9 +679,9 @@ slave wife. The mother of Talha was from Taym, from Quraysh. He
 at al-Abwa’ while he was in the state of ritual consecration. So his
 paternal uncle shrouded him. He did not rub him with camphor nor did he
 cover his face.
-[^4] Abu Nasr al-Bukhari, Sir al-Silsila al-‘Alawiya.
-[^5] Ibn al-Jawzi, Tadhkirat al-Khawas.
-[^6] Al-Hada’iq al-Wardiya, p. 107.
+[^4]: Abu Nasr al-Bukhari, Sir al-Silsila al-‘Alawiya.
+[^5]: Ibn al-Jawzi, Tadhkirat al-Khawas.
+[^6]: Al-Hada’iq al-Wardiya, p. 107.
 
 2. Abu Bakr
 
@@ -725,12 +725,12 @@ have come.
 (He is) meek before those who seek the blood-price just as if he was a
 sun amid darkness as if its stars were joined to him.[^5]
 
-[^1] Al-Tabari, Tarikh, vol. 6, p. 269.
+[^1]: Al-Tabari, Tarikh, vol. 6, p. 269.
 
-[^2] Al-Hada’iq al-Wardiya, p. 107.
-[^3] Al-Tabari, Tarikh, vol. 6, p. 259.
-[^4] Al-Luhuf, p. 68.
-[^5] Bihar al-Anwar, vol. 10, p. 180.
+[^2]: Al-Hada’iq al-Wardiya, p. 107.
+[^3]: Al-Tabari, Tarikh, vol. 6, p. 259.
+[^4]: Al-Luhuf, p. 68.
+[^5]: Bihar al-Anwar, vol. 10, p. 180.
 
 He rode (his horse) and came to the market of al-Zahar. He stopped, and
 the people crowded to look at him. They admired his manners. They said:
@@ -764,10 +764,9 @@ have the honor of writing a research on their manners and the
 reformative revolts of their grandsons against the oppressors and
 dictators of the Umayyad and Abbasid caliphs.
 
-[^1] Ibn Sa‘d, Tabaqat, vol. 10, p. 34.
-[^2] Al-Hada’iq al-Wardiya, p. 107.
-[^3] Bihar al-Anwar, vol. 10, p. 138. Tanqeeh al-Maqal, vol. 1, p.
+[^1]: Ibn Sa‘d, Tabaqat, vol. 10, p. 34.
+[^2]: Al-Hada’iq al-Wardiya, p. 107.
+[^3]: Bihar al-Anwar, vol. 10, p. 138. Tanqeeh al-Maqal, vol. 1, p.
 272.
-[^4] ‘Umdat al-Talib, p. 78.
-
+[^4]: ‘Umdat al-Talib, p. 78.
 

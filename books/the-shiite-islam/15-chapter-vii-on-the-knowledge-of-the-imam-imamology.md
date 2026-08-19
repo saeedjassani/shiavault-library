@@ -676,4 +676,3 @@ Abi Talib; (2) Hasan ibn 'Ali; (3) Husayn ibn 'Ali; (4) 'Ali ibn Husayn;
 'Ali ibn Musa; (9) Muhammad ibn 'Ali; (10) 'Ali ibn Muhammad; (11) Hasan
 ibn 'Ali; and (12) the Mahdi.
 
-

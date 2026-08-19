@@ -67,7 +67,7 @@ is a reminder in this for him who has a heart or he gives ear with full
 intelligence. Qur'an, 50:37” [^1] The deliberations (muraja’at) were one
 hundred and twelve ones.
 
-[^2] The Prophet (s) had invited his close relatives to warn them. The
+[^2]: The Prophet (s) had invited his close relatives to warn them. The
 last of his speech to them was that when he held Ali’s hand and said:
 “This is my brother, my vizier, my guardian and my caliph among you.
 Listen to him and obey him!” Refer to muraja’a no. 20 and the one after
@@ -90,13 +90,13 @@ umma.[^6] As if they had forgotten that the Prophet’s family was to the
 umma as the head to the body and as the two eyes to the head.[^7] In fact
 they were as they had been meant by the saying of the poet:
 
-[^1] Saqeefa means a shed. They (most of the Prophet’s companions) have
+[^1]: Saqeefa means a shed. They (most of the Prophet’s companions) have
 gathered in the shed of Bani Sa’ida on that day to determine that
 caliphate after the Prophet (s).
 
-[^2] Hashem was the Prophet’s ancestor.
+[^2]: Hashem was the Prophet’s ancestor.
 
-[^3] With reference to the clear traditions mentioned in the reliable
+[^3]: With reference to the clear traditions mentioned in the reliable
 books of traditions; those traditions that have made the Prophet’s
 progeny as the equal of the Qur'an to be the example that must be
 followed by the men of understanding. Refer to Muslim’s Sahih (book of
@@ -106,23 +106,23 @@ Talkhees al-Mustadrak, ibn Abu Shayba’s Sunan, Abu Ya’la’s Sunan, ibn
 Sa’d’s Tabaqat and many others. For details refer to muraja’a no.8 in
 our book “al-Muraja’at”.
 
-[^4] Referring to the Prophet’s saying: “My family is security for my
+[^4]: Referring to the Prophet’s saying: “My family is security for my
 umma from being separated. If a tribe of the Arabs objects to them, it
 will separate and then become the party of Iblis”. Refer to al-Hakim’s
 Mustadrak, vol.3 p.149.
 
-[^5] Referring to the Prophet’s saying: “The example of my progeny among
+[^5]: Referring to the Prophet’s saying: “The example of my progeny among
 you is like the Ark of Prophet Noah. Whoever rides on it will be saved
 and whoever lags behind it, will drown”. Refer to al-Hakim’s Mustadrak,
 vol.3 p.151.
 
-[^6] Referring to the Prophet saying: “The example of my progeny is like
+[^6]: Referring to the Prophet saying: “The example of my progeny is like
 the Ark of Prophet Noah. Whoever rides on it will be saved and whoever
 lags behind will drown. The example of my progeny among you is like the
 gate of repentance of the Israelites. Whoever enters into it will be
 forgiven”. Mentioned by at-Tabarani in his al-Awsat.
 
-[^7] Imam as-Sabban in his book Is’af ar-Raghibeen and Sheikh Yousuf
+[^7]: Imam as-Sabban in his book Is’af ar-Raghibeen and Sheikh Yousuf
 an-Nabhani in his book ash-Sharaf al-Mu’ayyad and others mentioned that
 Abu Tharr had narrated the Prophet’s saying: “Make my family among you
 as the head to the body and as the two eyes to the head. The head is not
@@ -158,10 +158,10 @@ the sayer
 I burn your house and let you not alive longer in it
 If you do not pay homage
 
-[^1] One of the great families of Quraysh.
-[^2] The people of Taym.
-[^3] Saqeefa means shed.
-[^4] They had threatened Imam Ali (s) to be burned unless he would pay
+[^1]: One of the great families of Quraysh.
+[^2]: The people of Taym.
+[^3]: Saqeefa means shed.
+[^4]: They had threatened Imam Ali (s) to be burned unless he would pay
 homage. Refer to Abu Bakr Ahmad bin Abdul Aziz al-Jawhari in his book
 as-Saqeefa, p. 130, Sharh Nahjol Balagha, vol. 1, p. 134, Ibn Jareer
 at-Tabari in his book Tareekh al-Umam wel Mulook, ibn Qutayba in his
@@ -207,9 +207,9 @@ umma and would have been nearer to wisdom. But the people had determined
 to turn the caliphate away from the Prophet’s family at any cost. They
 feared that waiting a little might lead them to other
 
-[^1] One of the Prophet’s surnames.
-[^2] It is the surname of Umar bin al-Khattab.
-[^3] Adnan is the ancestor of the Hashemites.
+[^1]: One of the Prophet’s surnames.
+[^2]: It is the surname of Umar bin al-Khattab.
+[^3]: Adnan is the ancestor of the Hashemites.
 
 (100)
 
@@ -246,12 +246,12 @@ Obayda’s hands and ordered the attendants to pay homage to one of them.
 As soon as he said so, Umar and Basheer hastened to pay homage to Abu
 Bakr himself. Then he was paid
 
-[^1] Ansar means helpers: the people of Medina, who had assisted (and
+[^1]: Ansar means helpers: the people of Medina, who had assisted (and
 believed in) the Prophet (s) and his companions when had emigrated from
 Mecca.
-[^2] One of the greatest tribes in Medina.
-[^3] The other greatest tribe in Medina.
-[^4] Muhajireen means the emigrants: the first Muslims, who had
+[^2]: One of the greatest tribes in Medina.
+[^3]: The other greatest tribe in Medina.
+[^4]: Muhajireen means the emigrants: the first Muslims, who had
 emigrated from Mecca to Medina.
 
 (101)
@@ -292,11 +292,11 @@ your father and than you after your father. By Allah, this will not
 prevent me, if these people meet here in your house, from ordering to
 burn the house over them...”
 
-[^2] Mentioned by az-Zubayr bin Bukar in his book al-Muwaffaqiyyat.
+[^2]: Mentioned by az-Zubayr bin Bukar in his book al-Muwaffaqiyyat.
 Refer to Sharh Nahjol Balagha, vol. 2 p.8.
-[^3] Mentioned by Abu Bakr Ahmad bin Abdul Aziz al-Jawhary in his book
+[^3]: Mentioned by Abu Bakr Ahmad bin Abdul Aziz al-Jawhary in his book
 as-Saqeefa. Refer to Sharh Nahjol Balagha, vol. 2 p.5.
-[^4] “Ameerul Mo’mineen” means the commander of the believers. It is the
+[^4]: “Ameerul Mo’mineen” means the commander of the believers. It is the
 title of Imam Ali (s).
 
 (102)
@@ -310,12 +310,12 @@ If you protested against your opponents with kinship, The others were
 worthier of the Prophet and closer than you And if you ruled them by the
 shura,
 
-[^1] For details refer to our thesis Falsafatul Meethaq wel-Wilaya (The
+[^1]: For details refer to our thesis Falsafatul Meethaq wel-Wilaya (The
 Philosophy of the Covenant and guardianship) and refer to al-Muraja’at,
 muraja’a no.82, 84, and refer to chap.8 in our book al-Fusool
 al-Muhimma.
 
-[^2] Abu Bakr al-Jawhari mentioned in his book as-Saqeefa-as in Sharh
+[^2]: Abu Bakr al-Jawhari mentioned in his book as-Saqeefa-as in Sharh
 Nahjol Balagha, vol. 2 p.19- a tradition narrated by ash-Shi’bi saying:
 “Umar and Khalid bin al-Waleed went to Fatima’s house. Umar came into
 and Khalid stayed at the door. Umar said to az-Zubayr: “What is this
@@ -356,7 +356,7 @@ with their collars...” Refer to Sharh Nahjol Balagha, vol. 2 p.19.
 
 How is that while the people of the shura were absent?[^1]
 
-[^1] These two verses are in Nahjol Balagha, the book, in which the
+[^1]: These two verses are in Nahjol Balagha, the book, in which the
 speeches, the letters and the maxims of Imam Ali (s) have been
 collected. Abdul Hameed bin Abul Hadeed and Sheikh Muhammad Abda had
 commented on these two verses in their books. It would be better to the
@@ -447,7 +447,7 @@ Give me your hand to pay homage to you!” Al-Abbas laughed and said: “Ali
 refuses it and al-Abbas asks for it, how far!!!” Abu Sufyan went out
 disappointedly”.
 
-[^1] This is a part of one of Imam Ali’s speeches.
+[^1]: This is a part of one of Imam Ali’s speeches.
 
 (105)
 
@@ -484,7 +484,7 @@ excuse for those who had objected to this order unless it was possible
 for non-infallible one to interpret (change), according to his own
 opinion, a tradition said by an infallible one!!!
 
-[^1] You find them in muraja’a no.8 p.20 (the third edition) until
+[^1]: You find them in muraja’a no.8 p.20 (the third edition) until
 muraja’a no.14. The dispute through the muraja’at between me and Sheikh
 al-Bishri flared up until he said to me in the last of his letters he
 had written about this subject: “You have sublimated and corrected my
@@ -492,7 +492,7 @@ thinking in your last letter, from whose contents the lights of your
 star shone and the signs of your victory appeared”. I said: “Praise be
 to Allah, the Lord of the worlds, for granting success and victory”.
 
-[^2] Sharh Nahjol Balagha, vol. 3 p.607-.
+[^2]: Sharh Nahjol Balagha, vol. 3 p.607-.
 
 (106)
 
@@ -535,7 +535,7 @@ horse in Islam. More than eighty wounds were found on his body.
 It was narrated that the Prophet (s) had said: “Last night (in dream)
 Ja’far and some angels passed by me. He had two wings. His [^1] In
 Syria.
-[^2] One hundred thousand soldiers from the Romans and one hundred
+[^2]: One hundred thousand soldiers from the Romans and one hundred
 thousand from the Arabs from Najm, Jutham and other tribes as mentioned
 by Ibnul Atheer in his al-Kamil and by others.
 
@@ -578,7 +578,7 @@ Allah, he is right”. They went on without feeling weak or submissive. By
 Allah, it is the honor that goes high on the wing of the eagle and
 competes with the Gemini.
 
-[^1] Al-Kamil by Ibnul Atheer (the battle of Mu’ta) and other books of
+[^1]: Al-Kamil by Ibnul Atheer (the battle of Mu’ta) and other books of
 Hadith and history. The surname of Ja’far among all the Muslims is “the
 two-winged” man.
 
@@ -586,5 +586,4 @@ two-winged” man.
 
 Yes! It is the real faith in Allah and His messenger. I wish I were
 with them to get the great victory!
-
 

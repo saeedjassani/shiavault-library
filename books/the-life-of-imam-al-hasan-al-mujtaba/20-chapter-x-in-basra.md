@@ -81,11 +81,11 @@ This initiative indicates that Talha and al-Zubayr were very desirous
 for power and authority, that they moved the displeasure of the people
 with Uthman out of ambition for the caliphate and government, and that
 they were
-[^1] He meant Sa‘d bin Abi Waqqas, who refrained from paying homage to
+[^1]: He meant Sa‘d bin Abi Waqqas, who refrained from paying homage to
 the Imam, and was among the members of the Consultative Committee. The
 reason was that he had harbored malice against the Imam and hated him,
 as Talha said.
-[^2] Al-Imam was al-Siyasa, vol. 1, p. 52.
+[^2]: Al-Imam was al-Siyasa, vol. 1, p. 52.
 
 not moved by the general interests, and love for advising the Muslims.
 Accordingly, they lost the bargain and their efforts were in vain. That
@@ -167,8 +167,8 @@ He met her, and she hurried to ask him:
 
 -What has happened there?
 
-[^1] Al-Ya‘qubi, Tarikh, vol. 2, p. 132.
-[^2] Saraf was a place six miles from Mecca, and it was said that it was
+[^1]: Al-Ya‘qubi, Tarikh, vol. 2, p. 132.
+[^2]: Saraf was a place six miles from Mecca, and it was said that it was
 more than that. At it the Prophet (a.s.) married Maymoona, daughter of
 al-Harith, who died there. The narrators of al-Bukhari have said: “The
 name of the Place was Sharaf.” This has been mentioned in Mu‘jam
@@ -210,7 +210,7 @@ He wears war garments; and the loyal is not like the disloyal.
 She turned away from him and returned to Mecca.[^1] Sadness and
 depression dominated her. Sorrow and astonishment surrounded her.
 
-[^1] Al-Tabari, Tarikh, vol. 3, p. 454. Others have mentioned that.
+[^1]: Al-Tabari, Tarikh, vol. 3, p. 454. Others have mentioned that.
 
 **The Reasons for her Mutiny**
 
@@ -248,15 +248,15 @@ Prophet took great care of Fatima and her husband, and that he turned
 away from her. This thing moved the hidden spites in her soul. She
 confronted Allah’s Apostle (a.s) through that. When Abu Bakr (A’isha’s
 father) asked permission to enter the house of Allah’s Apostle, he heard
-[^1] At the begging of the book we have in detail talked about the
+[^1]: At the begging of the book we have in detail talked about the
 traditions narrated from the Prophet in respect of his love for his
 household. [^2] Al-Bukhari, vol. 2, p. 125, Chapter on Obligatory One
 Fifth (Khums). Muslim, Saheeh, vol. 2, p. 503. It has been mentioned in
 it that he (a.s.) has said: “The head of unbelief (will issue) from here
 where Satan’s horn appears.”
 
-[^3] Ihya’ al-‘Uloom, vol. 2, p. 35, Chapter on Morals of Marriage.
-[^4] Al-Bukhari, Saheeh, vol. 1, p. 143.
+[^3]: Ihya’ al-‘Uloom, vol. 2, p. 35, Chapter on Morals of Marriage.
+[^4]: Al-Bukhari, Saheeh, vol. 1, p. 143.
 
 A’isha speaking loudly and saying to him: “By Allah I have come to know
 that Ali is the most lovable to you of me and my father. She said that
@@ -301,9 +301,9 @@ cousin would undertake the rule, as al-Aqqad sees.[^3] She propagated for
 and lauded him. She was in Mecca. When she heard about Uthman’s murder,
 she said: “The
 
-[^1] Imam Ahmed, Musnad, vol. 4, p. 275.
-[^2] Ibn Abi al-Haddeed, Sharh Nahj al-Balagha.
-[^3] ‘Abqariyat al-Imam Ali, p. 87.
+[^1]: Imam Ahmed, Musnad, vol. 4, p. 275.
+[^2]: Ibn Abi al-Haddeed, Sharh Nahj al-Balagha.
+[^3]: ‘Abqariyat al-Imam Ali, p. 87.
 
 worthiest of people in this matter (the caliphate) is the man of the
 finger (Talha).” Then she quickly came back to Medina. She had no doubt
@@ -346,11 +346,11 @@ unite in a bloc and come together to fight against Ali bin Abi Talib.
 Accordingly, she drowned the nation into a sea of disasters and
 misfortunes.
 
-[^1] Ibn Abi al-Haddeed, Sharh Nahj al-Balagha, vol. 2, p. 76.
-[^2] The Islamic Law requires that the blood heir is at first the
+[^1]: Ibn Abi al-Haddeed, Sharh Nahj al-Balagha, vol. 2, p. 76.
+[^2]: The Islamic Law requires that the blood heir is at first the
 guardian. If there was no blood heir, then the religious judge is the
 guardian, for he is the guardian of those who have no guardian.
-[^3] The Life of al-Husayn, part two, p. 267.
+[^3]: The Life of al-Husayn, part two, p. 267.
 
 **The Declaration of the Rebellion**
 
@@ -397,7 +397,7 @@ With what did the mother of the faithful (A’isha) summon them today? For
 which purpose did she intend to lead them? For the battle against the
 mobs? To advance towards Medina
 
-[^1] Al-Tabari, Tarikh, vol. 3, p. 468.
+[^1]: Al-Tabari, Tarikh, vol. 3, p. 468.
 
 where there was the lawful ruler of the nation?[^1] Through her revolt,
 A’isha brought about division and disagreements among the Muslims,
@@ -437,7 +437,7 @@ By Allah, no one hates him (Ali) unless he is out of faith!’ So you came
 back with regret and disapointment!’”
 
 -Yes, I remember that.
-[^1] Imam Ali, vol. 2, p. 267.
+[^1]: Imam Ali, vol. 2, p. 267.
 
 - shall I remind you? -Yes.
 
@@ -476,7 +476,7 @@ because of it.
 
 Then, Umm Salama went away and wrote a letter to Imam Ali (a.s) about
 that.[^1] She completely advised A’isha and reminded her of what she had
-[^1] Sharh Nahj al-Balagha, vol. 2, p. 79. In his al-Fa’iq, vol. 1, p.
+[^1]: Sharh Nahj al-Balagha, vol. 2, p. 79. In his al-Fa’iq, vol. 1, p.
 290, al-Zamakhshari has mentioned a speech similar to that.
 
 forgotten from among the merits of the Commander of the Faithful and
@@ -515,7 +515,7 @@ Umayyads. She led the large crowd. She led them to divide the Islamic
 unity and to fight against the legal government. When she arrived at Dhi
 Qaar, Sa’eed bin al-
 
-[^1] Ya‘la bin Umayya bin Abi ‘Ubayda al-Tamimi was the governor over a
+[^1]: Ya‘la bin Umayya bin Abi ‘Ubayda al-Tamimi was the governor over a
 district in Yemen. He was appointed there by Umar. And he was appointed
 as a governor over Sana’a’ by Uthman. Al-Mada’ini has said: “Ya‘la was
 an Emir over the troops in Yemen. When he heard of the murder of Uthman,
@@ -555,7 +555,7 @@ A’isha’s caravan set off and covered the desert. It passed by a place
 called al-Haw’ab.[^3] The dogs of the district received the caravan with
 growl and howl.
 
-[^1] Sa’eed bin al-Aas al-Umawi was born in the Year of Emigration. His
+[^1]: Sa’eed bin al-Aas al-Umawi was born in the Year of Emigration. His
 father was killed by (Imam) Ali at the Battle of Badr. He was among the
 eloquent of Quraysh. Uthman appointed him as a governor over Kufa, and
 then he deposed him. Then he appointed al-Waleed as a governor over it.
@@ -568,8 +568,8 @@ over Medina. Then he appointed Marwan bin al-Hakam over it. Then he
 alternated them in the authority over it. He died during the caliphate
 of Mu‘awiya in the year 59. Al-Isti‘ab, vol. 2, p. 8.
 
-[^2] Al-Imam wa al-Siyasa, vol. 1, p. 63.
-[^3] Al-Haw’ab is the place of wide valleys and big hills. It was a
+[^2]: Al-Imam wa al-Siyasa, vol. 1, p. 63.
+[^3]: Al-Haw’ab is the place of wide valleys and big hills. It was a
 place on the road to
 
 A’isha was afraid of that barking which the dogs made at the caravan.
@@ -593,7 +593,7 @@ return home and not to lead Basrah. Abu Mansur has said: “Al-Haw’ab is
 the place of a well where the dogs barked at ‘Aa’isha when she went to
 Basrah. He composed, saying: “It is nothing but a drink in al-Haw’ab;
 therefore, ascend after it or aim!” Mu‘jam al-Buldan, vol. 3, p. 355.
-[^1] Muhammad bin Talha al-Qarashi, al-Tamimi was born during the
+[^1]: Muhammad bin Talha al-Qarashi, al-Tamimi was born during the
 lifetime of the Prophet (a.s.). It was he (the Prophet) who named him
 Muhammad and gave him the kunya of Abu al-Qasim. He was killed at the
 Battle of al-Jamal. He inclined to (Imam) Ali. The Imam passed by him
@@ -607,7 +607,7 @@ It was said that he was killed by Ka‘ab bin Mudlij, it was said he was
 killed by Mu‘awiya bin Shaddad, and it was said other than them.
 Al-Isti‘ab, vol. 3, p. 349.
 
-[^2] Abdullah bin Abbas narrated on the authority of Allah’s Apostle
+[^2]: Abdullah bin Abbas narrated on the authority of Allah’s Apostle
 that he some day said to his wives: “Which one of you will be the rider
 (on the hairy) camel. Al-Haw’ab dogs will bark at her. Many people will
 be killed at her right and left (hand), and they will be all in the
@@ -615,8 +615,7 @@ fire. And she will be safe after what she will plot.” Sharh Nahj
 al-Balagha, vol. 2, p. 497. This tradition is among the things predicted
 by the Prophet.
 
-[^3] Muruj al-Dhahab, vol. 2, p. 342. Al-Ya‘qubi, Tarikh.
+[^3]: Muruj al-Dhahab, vol. 2, p. 342. Al-Ya‘qubi, Tarikh.
 
 the troops to fight against the brother of Allah’s Apostle.
-
 

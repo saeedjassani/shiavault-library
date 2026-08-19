@@ -72,11 +72,11 @@ the like of them, I would be not afraid!”[^3] Abu Sawar al-‘Adawi[^4]
 said: “In one morning, Samra killed forty-seven people from my people
 who gathered the Qur’an.”[^5] ‘Awf narrated about Samra’s
 
-[^1] Ahmed bin Hanbel, Musnad, vol. 1, p. 25. In his book al-Fa’iq,
+[^1]: Ahmed bin Hanbel, Musnad, vol. 1, p. 25. In his book al-Fa’iq,
 al-Zamakhshari has narrated: “Allah cursed the Jews. It was forbidden
 for them to sell fat. But they melt and sold it.”
 
-[^2] Anas bin Sireen al-Ansari was born one or two years before the end
+[^2]: Anas bin Sireen al-Ansari was born one or two years before the end
 of the caliphate of ‘Uthman. He narrated (traditions) on the authority
 of some companions of the Prophet, and a group of traditionists narrated
 on his authority. Ibn Ma‘een and the like said: “Surely he is
@@ -86,9 +86,9 @@ is trustworthy.” He died in the year 118. A. H. It was said that he died
 in the year 120 A. H. This has been mentioned in Tahdhib al-Tahdhib,
 vol. 1, p.374.
 
-[^3] Al-Kamil, vol. 3, p. 183. Al-Tabari, vol. 6, p. 132.
+[^3]: Al-Kamil, vol. 3, p. 183. Al-Tabari, vol. 6, p. 132.
 
-[^4] It was said that the name of Sawar al-‘Adawi was Hassan bin
+[^4]: It was said that the name of Sawar al-‘Adawi was Hassan bin
 Hurayth; and it was said that his name was Hurayth bin Hassan; and it
 was said that it was Munqidh. He narrated traditions from Imam Ali, the
 Commander of the faithful, peace be on him, and from Imam al-Hasan.
@@ -98,7 +98,7 @@ In his book al-Kuna, al-Nisaa’i has said: “Abu Sawar, Hassan bin Hurayth
 al-‘Adawi is trustworthy.” This has been mentioned in Tahdhib
 al-Tahdhib, vol. 12, p. 123.
 
-[^5] Al-Tabari, Tarikh, vol. 6, p. 132. Others than him have also
+[^5]: Al-Tabari, Tarikh, vol. 6, p. 132. Others than him have also
 mentioned that.
 
 crimes, saying: “Samra came to Medina. When he was near the houses of
@@ -142,8 +142,8 @@ Samra went on accompanying Ziyad. When Ziyad died, Samra was at the
 service of the sinful one, Ubaydillah, Ziyad’s son. He was the commander
 of [^1] Al-Kamil, vol. 3, p. 183. Imam Sharaf al-Deen has mentioned it in
 his book al-Fusool al-Muhimma, p. 122.
-[^2] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.363.
-[^3] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.363.
+[^2]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.363.
+[^3]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.363.
 
 his policemen. He took part in the most horrible crime history has ever
 written-that was the murder of Imam al-Husayn, the best of blessings and
@@ -184,9 +184,9 @@ they come to know that you will kill them, then refrain from them. Then
 go and come into Mecca and do not interfere with anyone. Terrify the
 people
 
-[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.363.
-[^2] Al-Nasaa’ih, p. 54.
-[^3] Ibid. It is strange that al-Bukhari depended on Samra’s speech and
+[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.363.
+[^2]: Al-Nasaa’ih, p. 54.
+[^3]: Ibid. It is strange that al-Bukhari depended on Samra’s speech and
 traditions in his Saheeh, vol. 8, p. 138. According to these crimes
 mentioned by the traditionists, Samra is regarded as among those who
 renounced the religion. So none has the right to depend on his
@@ -226,10 +226,10 @@ in Islam did not kill (children). By Allah, O Ibn Abi Arta’a, the
 supreme authority that which stands on nothing except killing children,
 old men, mercilessness, disobedience to relatives is bad!”[^4]
 
-[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.117.
-[^2] Al-Isti‘ab, vol. 1, p. 165. Al-‘Alam al-Shamikh, p. 570.
-[^3] Al-Nasaa’ih, p. 54.
-[^4] Al-Kamil, vol. 3, p. 194. Al-Tabari, Tarikh, vol. 6, p. 80. In his
+[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.117.
+[^2]: Al-Isti‘ab, vol. 1, p. 165. Al-‘Alam al-Shamikh, p. 570.
+[^3]: Al-Nasaa’ih, p. 54.
+[^4]: Al-Kamil, vol. 3, p. 194. Al-Tabari, Tarikh, vol. 6, p. 80. In his
 book Sharh Nahj al-Balagha, vol. 1, p. 120, Ibn Abi al-Hadeed has
 mentioned: “Surely Bisr turned to the womenfolk of Kinana and said to
 them: ‘By Allah, I have intended to put the sword into you.’ So one of
@@ -271,8 +271,8 @@ He said to him: “You came to know that I had appointed you as a governor
 over Bahrain while you had no sandals. Then I have heard that you sold
 some horses for a thousand and six hundred dinars.”
 
-[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.120.
-[^2] Al-Ma‘arif, vol. 1, p. 93. It has been mentioned in it: “Surely Abu
+[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.120.
+[^2]: Al-Ma‘arif, vol. 1, p. 93. It has been mentioned in it: “Surely Abu
 Hurayra said: ‘I have been given the Kunya of Abu Hurayra (the father of
 the kitten) because of a small cat with which I used to play.” As he was
 so fond of the cat, he narrated a tradition from Allah’s Apostle, may
@@ -280,13 +280,13 @@ Allah bless him and his family: “Surely a woman entered the fire because
 of the cat she tied and did not leave it to eat of the things in the
 earth.” The tradition has been mentioned by al-Bukhari in his book
 al-Saheeh, vol. 2, p. 149.
-[^3] Al-Isaba, vol. 4, p. 207. This has been mentioned by: Abu Na‘eem in
+[^3]: Al-Isaba, vol. 4, p. 207. This has been mentioned by: Abu Na‘eem in
 his book al-Hulya, and Ibn Sa‘d in his book al-Tabaqat.
-[^4] Al-Sifa was a shady place of the Mosque of the Prophet, may Allah
+[^4]: Al-Sifa was a shady place of the Mosque of the Prophet, may Allah
 bless him and his family. The guests of Islam spent the night in it.
 This has been mentioned by al-Fayruzi in his al-Qamoos, entry al-Saf.
-[^5] Al-Bukhari, Saheeh, vol. 2, p. 1.
-[^6] Al-Isaba, vol. 4, p. 204.
+[^5]: Al-Bukhari, Saheeh, vol. 2, p. 1.
+[^6]: Al-Isaba, vol. 4, p. 204.
 
 Abu Hurayra fearfully said: “O Commander of the faithful, I had horses
 that reproduced and gifts followed one another!” ‘Umar angrily said to
@@ -321,12 +321,12 @@ tried to please him with all means possible. He narrated to the people
 of Sham traditions from Allah’s Apostle, may Allah bless him and his
 family, saying: [Allah’s Apostle, may Allah bless him and
 
-[^1] Abu Hurayra’s mother.
-[^2] Al-‘Aqd al-Fareed, vol. 1, p. 25.
-[^3] Al-Dhahabi has mentioned it in his Mizan al-I‘tidal, in the
+[^1]: Abu Hurayra’s mother.
+[^2]: Al-‘Aqd al-Fareed, vol. 1, p. 25.
+[^3]: Al-Dhahabi has mentioned it in his Mizan al-I‘tidal, in the
 biography of Ishaq bin Nujayh. He has decided that the tradition is
 false.
-[^4] Al-Dhahabi has mentioned it in his Mizan al-I‘tidal, in the
+[^4]: Al-Dhahabi has mentioned it in his Mizan al-I‘tidal, in the
 biography of ‘Uthman bin Khalid. He has regarded the tradition as among
 the denied traditions.
 
@@ -368,11 +368,11 @@ Hurayra. He has said that Abu Hurayra was on the top of those who
 fabricated traditions and distorted the Holy Islamic Law. The Muslims
 are in urgent need of such free
 
-[^1] Al-Khateeb al-Baghdadi has narrated the tradition in his book
+[^1]: Al-Khateeb al-Baghdadi has narrated the tradition in his book
 Tarikh. In his book Abu Hurayra, p. 27, His Eminence Imam Sharaf al-Deen
 has established that the tradition is among the fabricated ones.
-[^2] Al-Bukhari, Saheeh, vol. 1, p. 175.
-[^3] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.358.
+[^2]: Al-Bukhari, Saheeh, vol. 1, p. 175.
+[^3]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.358.
 
 researches that uncover such swindlers who spared no effort to scheme
 against Islam and plot against Muslims through the narrations they
@@ -413,10 +413,10 @@ crime. So whoever drowns people, we will drown him! Whoever burns
 people, we will burn him! Who ever bores a house (to rob it), we will
 bore his heart! Whoever digs a grave, we will bury him alive!”
 
-[^1] Al-Kamil, vol. 10, p. 183.
-[^2] Subh al-A‘sha, vol. 1, p. 416.
-[^3] Al-Tabari, Tarikh, vol. 6, p. 416.
-[^4] It has been called al-battra’ because he has not praised Allah in
+[^1]: Al-Kamil, vol. 10, p. 183.
+[^2]: Subh al-A‘sha, vol. 1, p. 416.
+[^3]: Al-Tabari, Tarikh, vol. 6, p. 416.
+[^4]: It has been called al-battra’ because he has not praised Allah in
 it.
 
 Then he said: “By Allah, I will kill many of you! Therefore each one of
@@ -459,9 +459,9 @@ policemen arrested a Bedouin. The Bedouin was brought to him, and he
 asked him:
 
 -Have you heard the call?
-[^1] Al-Kamil, vol. 3, p. 226.
-[^2] Qur’an, 53, 37, 38, 39.
-[^3] Al-Tabari, Tarikh, vol. 6, p. 135.
+[^1]: Al-Kamil, vol. 3, p. 226.
+[^2]: Qur’an, 53, 37, 38, 39.
+[^3]: Al-Tabari, Tarikh, vol. 6, p. 135.
 
 -No by Allah, I brought a cow. It got dark, so I was forced to go to a
 place to spend the night there till morning. I had no knowledge of what
@@ -500,12 +500,12 @@ them, ‘Abd al-Malik said: “The most comfortable of the people in life is
 he who has that which suffices him, a wife who pleases him, and does not
 know our wicked doors that hurts him!”[^6]
 
-[^1] Al-Tabari, Tarikh, vol. 6, p. 135.
-[^2] Al-Tabari, Tarikh, vol. 6 p. 132.
-[^3] Al-Bayqahi, al-Mahasin wa al-Masawi’, vol. 1, p. 39.
-[^4] Al-Ya‘qubi, Tarikh, vol. 1, p. 210.
-[^5] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.3, p.15.
-[^6] Al-Kamil, vol. 10, p. 183.
+[^1]: Al-Tabari, Tarikh, vol. 6, p. 135.
+[^2]: Al-Tabari, Tarikh, vol. 6 p. 132.
+[^3]: Al-Bayqahi, al-Mahasin wa al-Masawi’, vol. 1, p. 39.
+[^4]: Al-Ya‘qubi, Tarikh, vol. 1, p. 210.
+[^5]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.3, p.15.
+[^6]: Al-Kamil, vol. 10, p. 183.
 
 The governors went too far in wronging and persecuting the people. They
 unjustly plundered their properties. They were strict in the affair of
@@ -549,7 +549,7 @@ governors disobeyed you on the day when you commanded them, and brought,
 if you knew, low misfortunes. They took the noble master standing and
 shackled, and cut off the middle of his chest with the whip.
 
-[^1] Al-Siyada al-‘Arabiya, p. 28.
+[^1]: Al-Siyada al-‘Arabiya, p. 28.
 
 When they left nothing of his flesh on his bones and nothing reasonable
 in his heart, they brought their title deed to a plump one whom the
@@ -584,9 +584,9 @@ unless you cut off heads with the sword. Through the hands of brave ones
 endowed with insight; in their striking there are restraints and
 punishment.[^2]
 
-[^1] Tabaqat Fuhool al-Shu‘ara, pp. 439-441. Jamharat Ash‘ar al-‘Arab,
+[^1]: Tabaqat Fuhool al-Shu‘ara, pp. 439-441. Jamharat Ash‘ar al-‘Arab,
 p. 341.
-[^2] Al-Jahiz, al-Bayan wa al-Tabiyin, vol. 3, p. 358.
+[^2]: Al-Jahiz, al-Bayan wa al-Tabiyin, vol. 3, p. 358.
 
 While ‘Umar bin ‘Abd al-’Aziz was delivering a sermon on the pulpit, a
 man interrupted him, saying: Surely those whom you have sent in the
@@ -612,5 +612,4 @@ light of the people’s rights. We are satisfied with this brief account
 of Mu’awiya’s serious offences that have blackened the face of history.
 Imam al-Hasan (a.s) has shown them through his making peace with
 Mu’awiya.
-
 

@@ -43,7 +43,7 @@ of one apartment in a building naturally introduces an enquiry or
 discourse concerning the others:[^2] and if we think of a wound, we can
 scarcely forbear reflecting on the pain which follows it.
 
-[^3] But that this enumeration is complete, and that there are no other
+[^3]: But that this enumeration is complete, and that there are no other
 principles of association except these, may be difficult to prove to the
 satisfaction of the reader, or even to a man's own satisfaction.
 
@@ -52,22 +52,21 @@ examine carefully the principle which binds the different thoughts to
 each other, never stopping till we render the principle as general as
 possible.
 
-[^4] The more instances we examine, and the more care we employ, the
+[^4]: The more instances we examine, and the more care we employ, the
 more assurance shall we acquire, that the enumeration, which we form
 from the whole, is com- plete and entire.
 
-[^1] Resemblance.
+[^1]: Resemblance.
 
-[^2] Contiguity.
+[^2]: Contiguity.
 
-[^3] Cause and effect.
+[^3]: Cause and effect.
 
-[^4] For instance, Contrast or Contrariety is also a connexion among
+[^4]: For instance, Contrast or Contrariety is also a connexion among
 Ideas: but it may perhaps, be considered as a mixture of Causation and
 Resem- blance.
 
 Where two objects are contrary, the one destroys the other; that is,
 the cause of its annihilation, and the idea of the annihilation of an
 object, implies the idea of its former existence.
-
 

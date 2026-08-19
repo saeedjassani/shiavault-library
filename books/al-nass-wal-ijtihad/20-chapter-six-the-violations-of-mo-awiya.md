@@ -24,8 +24,8 @@ you become delighted when it is said he is an adulterer?”
 
 --------------------------------------------------------------------------------
 
-[^1] Al-Mukhtasar by ibn Shuhna.
-[^2] It means that the illegitimate child is to be ascribed to the
+[^1]: Al-Mukhtasar by ibn Shuhna.
+[^2]: It means that the illegitimate child is to be ascribed to the
 husband, on whose bed his wife has committed adultery, while the
 adulterous wife must be stoned.
 
@@ -60,7 +60,7 @@ Muhajireen and the Ansar were violated.[^2] On that day ten thousand
 
 --------------------------------------------------------------------------------
 
-[^1] Ibn Jareer at-Tabari in his Tareekh, vol.7 p.63, ibn Abd Rabbih in
+[^1]: Ibn Jareer at-Tabari in his Tareekh, vol.7 p.63, ibn Abd Rabbih in
 al-Iqd al-Fareed, vol. 2 when mentioning the event of al-Harrah. Neither
 Yazeed nor his father had paid any attention to the saying of the
 Prophet (s) “Whoever frightens Medina Allah will frighten him and the
@@ -68,7 +68,7 @@ curse of Allah, the angels and all the people will be on him. Allah will
 not forgive him on the Day of Resurrection.” Mentioned by Ahmad bin
 Hanbal in his Musnad, vol.4 p.96.
 
-[^2] Tareekh al-Khulafa’ by as-Sayooti. Ibn at-Taqtaqi said in his book
+[^2]: Tareekh al-Khulafa’ by as-Sayooti. Ibn at-Taqtaqi said in his book
 at-Tareekh al-Fakhri, p.107: “…it has been said that after this event
 when a daughter wanted to get married, her father could not guarantee
 her virginity and he said that she might be violated during the event of
@@ -119,8 +119,8 @@ after this event of al-Harrah more than one thousand virgins of Medina
 have become pregnant because of libertinism that has spread by the army
 of Yazeed.”
 
-[^1] Ibn Qutayba in his book al-Imama wes-Siyasa and other historians.
-[^2] Al-Imama wes-Siyasa by ibn Qutayba, p.200.
+[^1]: Ibn Qutayba in his book al-Imama wes-Siyasa and other historians.
+[^2]: Al-Imama wes-Siyasa by ibn Qutayba, p.200.
 
 (380)
 
@@ -161,8 +161,8 @@ first Muslim women that had been taken as captives in
 
 --------------------------------------------------------------------------------
 
-[^1] Sahih of al-Bukhari, vol.4 p.155, Sahih of Muslim, vol.1 p.67.
-[^2] Musnad of Ahmad, vol.1 p.6.
+[^1]: Sahih of al-Bukhari, vol.4 p.155, Sahih of Muslim, vol.1 p.67.
+[^2]: Musnad of Ahmad, vol.1 p.6.
 
 (381)
 
@@ -205,9 +205,9 @@ hundred thousand (dirhams or
 
 --------------------------------------------------------------------------------
 
-[^1] Al-Istee’ab by ibn Abdul Birr, biography of Bisr.
-[^2] Tareekh of ibnul Atheer, al-Istee’ab of ibn Abdul Birr.
-[^3] Tareekh of ibnul Atheer.
+[^1]: Al-Istee’ab by ibn Abdul Birr, biography of Bisr.
+[^2]: Tareekh of ibnul Atheer, al-Istee’ab of ibn Abdul Birr.
+[^3]: Tareekh of ibnul Atheer.
 
 (382)
 
@@ -249,9 +249,9 @@ Ali (s), who had loved Allah and His messenger and Allah and
 
 --------------------------------------------------------------------------------
 
-[^1] Sharh Nahjol Balagha, vol. 4 p.4.
-[^2] Sharh Nahjol Balagha, vol. 4 p.70.
-[^3] Ibid. vol.4 p.17.
+[^1]: Sharh Nahjol Balagha, vol. 4 p.4.
+[^2]: Sharh Nahjol Balagha, vol. 4 p.70.
+[^3]: Ibid. vol.4 p.17.
 
 (383)
 
@@ -291,7 +291,7 @@ loves Ali, loves me and he, who hates Ali, hates me.”[^1]
 
 --------------------------------------------------------------------------------
 
-[^1] Al-Hakim mentioned it in his Mustadrak, vol.3 p.130 and said that
+[^1]: Al-Hakim mentioned it in his Mustadrak, vol.3 p.130 and said that
 it was a true tradition according to the conditions of al-Bukhari and
 Muslim but they had not mentioned it in their Sahihs. Ath-Thahabi
 mentioned it in his Talkhees al-Mustadrak and said that it was a true
@@ -332,16 +332,16 @@ The memorizer bin Abdul Aziz said-as in Imam Ali’s biography in al-
 
 --------------------------------------------------------------------------------
 
-[^1] Mustadrak of al-Hakim, vol.3 p.135.
-[^2] Ibid. vol.3 p.150, Talkhees al-Mustadrak by ath-Thahabi.
-[^3] Mustadrak of al-Hakim, vol.
-[^4] Al-Hakim mentioned it in his Mustdrak, vol.3 p.128 and said that it
+[^1]: Mustadrak of al-Hakim, vol.3 p.135.
+[^2]: Ibid. vol.3 p.150, Talkhees al-Mustadrak by ath-Thahabi.
+[^3]: Mustadrak of al-Hakim, vol.
+[^4]: Al-Hakim mentioned it in his Mustdrak, vol.3 p.128 and said that it
 was a true tradition according to the conditions of al-Bukhari and
 Muslim. Ath-Thahabi mentioned it in his Talkhees al-Mustadrak and said
 that all its narrators were trusted.
-[^5] Mustadrak of al-Hakim, vol.3 p.122, Talkhees al-Mustadrak of
+[^5]: Mustadrak of al-Hakim, vol.3 p.122, Talkhees al-Mustadrak of
 ath-Thahabi.
-[^6] Mustadrak of al-Hakim, vol.3 p.124.
+[^6]: Mustadrak of al-Hakim, vol.3 p.124.
 
 (385)
 
@@ -462,14 +462,14 @@ heard the Prophet
 
 --------------------------------------------------------------------------------
 
-[^1] Refer to the speech of the interpreters of Nahjol Balagha when
+[^1]: Refer to the speech of the interpreters of Nahjol Balagha when
 mentioning the saying of Imam Ali (s) “After me a man with a big throat
 and a large abdomen will appear to you. He will order you to curse me
 and to disavow me…” Refer to Sharh Nahjol Balagha, vol. 1 p.463 and the
 later pages to see the wonders.
-[^2] Ibnul Atheer in Al-Kamil, ibn Jareer in Tareekh al-Umam wel-Mulook,
+[^2]: Ibnul Atheer in Al-Kamil, ibn Jareer in Tareekh al-Umam wel-Mulook,
 Abul Fida’ and ibn al-Shuhna.
-[^3] Mentioned by abul Fida’ when talking about the events of the year
+[^3]: Mentioned by abul Fida’ when talking about the events of the year
 67 A.H.
 
 (388)
@@ -510,12 +510,12 @@ said: “Once I came to Umm Salama and she asked me:
 
 --------------------------------------------------------------------------------
 
-[^1] Sahih of Muslim, al-Khasa’is al-Alawiyya by an-Nassa’iy, Sahih of
+[^1]: Sahih of Muslim, al-Khasa’is al-Alawiyya by an-Nassa’iy, Sahih of
 at-Tarmithi, al-Jam’ bayn as-Sahihayn, al-Jam’ bayn as-Sihah
 as-Sittah.
-[^2] Sharh Nahjol Balagha, vol. 1 p.463.
-[^3] Mustadrak of al-Hakim.
-[^4] Vol.6 p.323.
+[^2]: Sharh Nahjol Balagha, vol. 1 p.463.
+[^3]: Mustadrak of al-Hakim.
+[^4]: Vol.6 p.323.
 
 (389)
 
@@ -557,10 +557,10 @@ Ibn Abdul Birr said in al-Istee’ab, biography of Imam Ali (s): “Some
 
 --------------------------------------------------------------------------------
 
-[^1] Among the killed ones were many of the great companions of the
+[^1]: Among the killed ones were many of the great companions of the
 Prophet (s).
-[^2] Sahih of al-Bukhari, vol. 4 p.147, Sahih of Muslim, vol.1 p.44.
-[^3] Sahih of Muslim.
+[^2]: Sahih of al-Bukhari, vol. 4 p.147, Sahih of Muslim, vol.1 p.44.
+[^3]: Sahih of Muslim.
 
 (390)
 
@@ -605,7 +605,7 @@ whoever supports him and disappoint
 
 --------------------------------------------------------------------------------
 
-[^1] Sahih of al-Bukhari, vol.2 p.93, vol.1 p.61.
+[^1]: Sahih of al-Bukhari, vol.2 p.93, vol.1 p.61.
 
 (391)
 
@@ -685,8 +685,8 @@ what a (great) reverse they will be overturned 26:227.”
 
 --------------------------------------------------------------------------------
 
-[^1] Sharh Nahjol Balagha, vol. 1 p.358.
-[^2] Sharh Nahjol Balagha, vol. 1 p.360.
+[^1]: Sharh Nahjol Balagha, vol. 1 p.358.
+[^2]: Sharh Nahjol Balagha, vol. 1 p.360.
 
 (393)
 
@@ -724,11 +724,11 @@ of people who had come to celebrate the treaty
 
 --------------------------------------------------------------------------------
 
-[^1] Refer to the introduction of Sulh al-Hasan by Sheikh Radhy aal
+[^1]: Refer to the introduction of Sulh al-Hasan by Sheikh Radhy aal
 Yaseen.
-[^2] Like ibn Jareer in Tareekh al-Umam wel-Mulook, vol.6 p.93 and Ibnul
+[^2]: Like ibn Jareer in Tareekh al-Umam wel-Mulook, vol.6 p.93 and Ibnul
 Atheer in his Tareekh, vol.3 p.162.
-[^3] Al-Imamah wes-Siyasa by ibn Qutayba, p.200.
+[^3]: Al-Imamah wes-Siyasa by ibn Qutayba, p.200.
 
 (394)
 
@@ -764,11 +764,10 @@ and the earth is split asunder and the mountains fall in ruins. Quran;
 
 --------------------------------------------------------------------------------
 
-[^1] Mo’awiya surprised the people with this slighting and indifference
+[^1]: Mo’awiya surprised the people with this slighting and indifference
 to them, to the religion, to the Prophet (s) and to the Lord of the
 worlds but this impudence did not affect the patience and the great
 personality of Imam Hasan (s) who ascended the minbar and declared the
 truth and its people and exposed the untruth and its people. Refer to
 Sulh al-Hasan by Sheikh Radhy aal Yaseen, p.279-282.
-
 

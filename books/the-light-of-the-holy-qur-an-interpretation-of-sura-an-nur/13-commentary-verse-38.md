@@ -49,7 +49,6 @@ and generosity come in, bounties and remittal are without stint, since
 His Pure Essence is infinite and His bless is unlimited and His
 generosity is endless.
 
-
 **Commentary : Verse 39**
 
 39. وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ
@@ -106,13 +105,12 @@ refraction of light rays from the object through layers of air having
 different densities as the result of unequal temperature
 distribution.'
 
-[^1] Imam Ali (a.s.) was asked about how Allah reckons all people
+[^1]: Imam Ali (a.s.) was asked about how Allah reckons all people
 together. He said: "As He provides all sustenance in one time." (Majma'
 ul- Bayan)
 
-[^2] Majma' ul-Bayan, Ruh ul-Ma'ani, the Commentary by QurtAbi, and
+[^2]: Majma' ul-Bayan, Ruh ul-Ma'ani, the Commentary by QurtAbi, and
 Tafsir-i-Fakhr-i-Razi
-
 
 **Commentary : Verse 40**
 
@@ -219,7 +217,7 @@ and ignorant. He can neither find the way, nor does he have any fellow
 traveler, nor does not know his status, and he does not have any means,
 because he has not enjoyed the
 
-[^1] Tafsir-i-Fakhr-i-Razi, following the verse
+[^1]: Tafsir-i-Fakhr-i-Razi, following the verse
 
 source of light, that is Allah, and he has covered with the veil of
 ignorance and conceit.
@@ -252,15 +250,15 @@ know him by his name and family."[^4]
 5. Imam Ali (a.s.) said: "There is truth with any right matter and
 there is light with any right thing."[^5]
 
-[^1] 'Ilal-ush-Sharayi', Vol. 1, p. 366
+[^1]: 'Ilal-ush-Sharayi', Vol. 1, p. 366
 
-[^2] Bihar, Vol. 41, p. 71, and 'Allhar us-Sadiqin, Vol. 11, p. 91
+[^2]: Bihar, Vol. 41, p. 71, and 'Allhar us-Sadiqin, Vol. 11, p. 91
 
-[^3] At-Taqib wat-tarhib, Vol. 1, p. 156
+[^3]: At-Taqib wat-tarhib, Vol. 1, p. 156
 
-[^4] Bihar, 104/311/9
+[^4]: Bihar, 104/311/9
 
-[^5] Kafi, 2/54/04
+[^5]: Kafi, 2/54/04
 
 6. A man said to the Prophet (p.b.u.h.) that I would like to be
 mustered on the Day of Hereafter luminously. The Prophet (p.b.u.h.)
@@ -276,8 +274,7 @@ those who disbelieve, their guardians are false-deities (taqut). They
 bring them out of the light into the darkness; they are the inhabitants
 of the Fire, wherein shall they abide forever."
 
-[^1] Kanz ul-Abraham'mal
+[^1]: Kanz ul-Abraham'mal
 
-[^2] 'Usul Kafi, Vol. 4, p. 17
-
+[^2]: 'Usul Kafi, Vol. 4, p. 17
 

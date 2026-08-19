@@ -146,17 +146,17 @@ dignity of the Muslims and are ready to sacrifice everything for it.
 
 All praise be to Allah, Lord of the Worlds!
 
-[^1] (a.s) is an acronym for ‘\`alayhi (\`alyhum, \`alyhima, or \`layha)
+[^1]: (a.s) is an acronym for ‘\`alayhi (\`alyhum, \`alyhima, or \`layha)
 al-salam.’ It is used throughout this book after mentioning the names of
 holy people to denote ‘May Almighty Allah bless him, her or them.’
-[^2] “The Holy Sunnah” refers to the Prophet Muhammad’s words, deeds,
+[^2]: “The Holy Sunnah” refers to the Prophet Muhammad’s words, deeds,
 and confirmations.
 
-[^3] The acronym (s) stands for ‘salla allahu \`alayhi wa alihi.’ It is
+[^3]: The acronym (s) stands for ‘salla allahu \`alayhi wa alihi.’ It is
 used throughout this book next to the name of the Holy Prophet Muhammad
 and it translates as ‘May Almighty Allah bless him and his Household.’
 
-[^4] This is an indication of the Holy Prophet’s famous saying, “Muslims
+[^4]: This is an indication of the Holy Prophet’s famous saying, “Muslims
 are just like a single body; when one of its organs feels pain, the
 other organs share it with sleeplessness and fever.” (Riyaz al-salihin,
 pp. 167)
@@ -165,37 +165,37 @@ He—peace be upon him and his Household—is also reported to have said,
 “Verily the Muslims are one hand against their enemies.” (Bihar
 al-Anwar, 28:104)
 
-[^5] Tafsir al-tabari.
+[^5]: Tafsir al-tabari.
 
-[^6] Musnad Ahmad, 1:215.
+[^6]: Musnad Ahmad, 1:215.
 
-[^7] sahih al-Bukhari, Kitab al-Adab, pp. 27.
+[^7]: sahih al-Bukhari, Kitab al-Adab, pp. 27.
 
-[^8] Refer to Sayyid Hasan al-sadr: Ta’sis al-Shi\`ah li-\`Ulum al-Islam
+[^8]: Refer to Sayyid Hasan al-sadr: Ta’sis al-Shi\`ah li-\`Ulum al-Islam
 (The Shi\`ah: the Founders of Islamic Sciences).
 
-[^9] Whenever they pray to Almighty Allah for sending blessings upon the
+[^9]: Whenever they pray to Almighty Allah for sending blessings upon the
 Holy Prophet Muhammad (s), the Imamite Shi\`ah abide by attaching his
 Household to him, because according to some of the most reliable Sunnite
 reference books of traditions, and many other books, the Prophet himself
 ordered the Muslims to do so.
 
-[^10] Refer to the following books: Shaykh al-Mufid: Kitab al-Irshad,
+[^10]: Refer to the following books: Shaykh al-Mufid: Kitab al-Irshad,
 al-tabrisi: I\`lam al-Wara bi-A\`lam al-Huda, al-Majlisi: Bihar al-Anwar
 (a 110-volume encyclopedic book), Sayyid Muhsin al-Khatami: al-Rasul
 al-Mustafa (a currently published encyclopedia).
 
-[^11] sahabah are the companions of the Holy Prophet (s) and,
+[^11]: sahabah are the companions of the Holy Prophet (s) and,
 terminologically, all those who saw, heard, or witnessed the Holy
 Prophet (s) regardless of their age. However, various opinions have been
 expressed in this regard. For more information, see Ahmad Husayn
 Ya\`qub: The Conception of the sahabah’s Ultimate Decency; translated by
 Badr Shahin, Ansariyan Publications - Qum, 1999.
 
-[^12] Refer to the following books: al-Zanjani: Tarikh al-Qur’an,
+[^12]: Refer to the following books: al-Zanjani: Tarikh al-Qur’an,
 Muhammad Hadi Ma\`rifat: al-Tamhid fi \`Ulum al-Qur'an.
 
-[^13] The Qur'anic verses revealed on this occasion were as follows:
+[^13]: The Qur'anic verses revealed on this occasion were as follows:
 
 “O Messenger! Make known that which has been revealed to you from your
 Lord, for if you do it not, you will not have conveyed His message.
@@ -208,35 +208,35 @@ to you, and have chosen for you as religion al-Islam. (5/3)”
 “A questioner questioned concerning the doom about to fall upon the
 disbelievers, which none can repel. (70/1-2)
 
-[^14] Refer to \`Allamah al-Amini: al-Ghadir, as quoted from several
+[^14]: Refer to \`Allamah al-Amini: al-Ghadir, as quoted from several
 reference books of history and exegesis of the Holy Qur'an.
 
-[^15] In this respect, Shi\`ite authors have written many books of
+[^15]: In this respect, Shi\`ite authors have written many books of
 various sizes and styles.
 
-[^16] Because they acknowledge twelve Imams, the Ja\`fariyyah Shi\`ah
+[^16]: Because they acknowledge twelve Imams, the Ja\`fariyyah Shi\`ah
 are also called the Twelver Shi\`ah.
 
-[^17] Refer to al-Ha'iri al-Bahrani: Khulafa’ al-Nabi (The Vicegerents
+[^17]: Refer to al-Ha'iri al-Bahrani: Khulafa’ al-Nabi (The Vicegerents
 of the Holy Prophet).
 
-[^18] Refer to the various reference books of Prophetic traditions,
+[^18]: Refer to the various reference books of Prophetic traditions,
 exegesis of the Holy Qur'an and virtues that are dependent upon al-sihah
 al-Sittah (the six most reliable reference books of Hadith that the
 Sunnites consider most reliable) as well as other independent books of
 both Sunnite and Shi\`ite authors.
 
-[^19] For more details, refer to Asad Haydar: al-Imam al-sadiq
+[^19]: For more details, refer to Asad Haydar: al-Imam al-sadiq
 wa’l-Madhahib al-Arba\`ah.
 
-[^20] Refer to al-Washnawiy: Risalat Hadith al-Thaqalayn, which was
+[^20]: Refer to al-Washnawiy: Risalat Hadith al-Thaqalayn, which was
 certified by the al-Azhar University about three decades ago.
 
-[^21] Refer to al-Mas\`udiy: Ithbat al-Wasiyyah, as well as the
+[^21]: Refer to al-Mas\`udiy: Ithbat al-Wasiyyah, as well as the
 reference books of traditions, tafsir and history written by both
 Shi\`ite and Sunnite scholars.
 
-[^22] It has been cited in the reference books of hadith (sihah), as
+[^22]: It has been cited in the reference books of hadith (sihah), as
 well as many other books of Sunnite and Shi\`ite authors, that the Holy
 Prophet said,
 
@@ -244,32 +244,32 @@ Prophet said,
 epithet, shall appear to fill the earth with justice and fairness as it
 will be filled with injustice and prejudice.”
 
-[^23] In the Shi\`ite jurisprudence, ijtihad means making all possible
+[^23]: In the Shi\`ite jurisprudence, ijtihad means making all possible
 efforts to deduct religious laws from their sources.
 
-[^24] This fact has been narrated in sahih Muslim as well as other
+[^24]: This fact has been narrated in sahih Muslim as well as other
 reference books of traditions.
 
-[^25] This issue is mentioned in al-Qawshaji al-Ash\`ari’s book ‘Sharh
+[^25]: This issue is mentioned in al-Qawshaji al-Ash\`ari’s book ‘Sharh
 Tajrid al-I\`tiqad’. It is also mentioned in other books, such as
 ‘al-Musannaf’ by al-Kindi, ‘Kanz al-\`Ummal’ by al-Muttaqi al-Hindi, and
 others.
-[^26] Refer to reference books of hadith and the history of Islam.
+[^26]: Refer to reference books of hadith and the history of Islam.
 
-[^27] For more details, refer to the following reference books: sahih
+[^27]: For more details, refer to the following reference books: sahih
 al-Bukhari, Kanz al-\`Ummal by al-Muttaqi al-Hindi, al-Musannaf by \`Abd
 al-Razzaq al-san\`ani, and al-Sujud \`ala al-Arz by Kashif al-Ghita'.
-[^28] Refer to al-Yawaqit wa’l-Jawahir by al-Sha\`rani al-Ansari (An
+[^28]: Refer to al-Yawaqit wa’l-Jawahir by al-Sha\`rani al-Ansari (An
 Egyptian writer in the 10th century A.H.).
 
-[^29] Refer to al-Musannaf by al-san\`ani.
+[^29]: Refer to al-Musannaf by al-san\`ani.
 
-[^30] Refer to sahih al-Bukhari, sahih Muslim, and Sunan al-Bayhaqi. For
+[^30]: Refer to sahih al-Bukhari, sahih Muslim, and Sunan al-Bayhaqi. For
 more details about the Malikiyyah’s view concerning this issue, refer to
 Bidayat al-Mujtahid by Ibn Rushd al-Qurtubi or to other books on the
 Malikiyyah jurisprudential school.
 
-[^31] The verse of Ablution reads as follows:
+[^31]: The verse of Ablution reads as follows:
 
 “O you who believe: When you rise up to prayer, wash your faces and
 your hands with the elbows, and wipe your heads and your feet to the
@@ -281,28 +281,28 @@ hands therewith. Allah does not desire to put on you any difficulty, but
 He wishes to purify you and that He may complete His favor on you, so
 that you may be grateful. (5/6)”
 
-[^32] Refer to reference books of hadith as well as al-Fakhr al-Razi’s
+[^32]: Refer to reference books of hadith as well as al-Fakhr al-Razi’s
 book of Tafsir al-Kashshaf; Exegesis of the Verse of Ablution (5:6).
 
-[^33] For more details, refer to the traditions on temporary marriage in
+[^33]: For more details, refer to the traditions on temporary marriage in
 the reliable reference books of hadith of the various Muslim sects.
 
-[^34] This supplication comprises one thousand of Almighty Allah’s
+[^34]: This supplication comprises one thousand of Almighty Allah’s
 attributes, ordered so nicely and properly.
 
-[^35] All these supplications, as well as many others, have been
+[^35]: All these supplications, as well as many others, have been
 compiled in an encyclopedic book entitled ‘Mawsu\`at al-Ad\`iyah
 al-Jami\`ah (Encyclopedia of Comprehensive Supplications),’ which has
 been lately published. They are also available in the books of
 supplications well known and currently held by the Shi\`ah.
 
-[^36] This event is mentioned in the books of history of Islam and
+[^36]: This event is mentioned in the books of history of Islam and
 biography of the Holy Prophet (s).
 
-[^37] Refer to al-Sabki al-Shafi\`i: Shifa’ al-Asqam, pp. 107, and Sunan
+[^37]: Refer to al-Sabki al-Shafi\`i: Shifa’ al-Asqam, pp. 107, and Sunan
 Ibn Majah, 1:117.
 
-[^38] It is necessary to allude to the fact that the Imamite Shi\`ites
+[^38]: It is necessary to allude to the fact that the Imamite Shi\`ites
 are also ahl al-Sunnah, because they accept the words, deeds, acts, and
 confirmations confirmed by the Holy Sunnah, including the Holy Prophet’s
 frequent commandments concerning the abidance by his Household. The
@@ -313,7 +313,6 @@ comprising the traditions of the Holy Prophet (s) in the Shi\`ite
 reference books, has been published. This book is entitled ‘Sunan
 al-Nabiy’.
 
-[^39] For more details, refer to the argumentative proofs on the
+[^39]: For more details, refer to the argumentative proofs on the
 obligation of khums presented by books of Shi\`ite jurisprudence.
-
 

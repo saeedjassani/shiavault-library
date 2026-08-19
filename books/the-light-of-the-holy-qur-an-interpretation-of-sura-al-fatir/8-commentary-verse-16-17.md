@@ -41,7 +41,6 @@ However, if Allah (s.w.t.) commands you concerning Faith, obedience,
 and worship, all are for your own benefit, and the advantages and
 blessings of them all return to you.
 
-
 **Commentary : Verse 18**
 
 (18) وَلاَ تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَي وَإِن تَدْعُ مُثْقَلَةٌ
@@ -164,5 +163,4 @@ this world, it does not matter because the return of all is to Him. It
 says:
 
 “… And Unto Allah (alone) is the destination (of all).”
-
 

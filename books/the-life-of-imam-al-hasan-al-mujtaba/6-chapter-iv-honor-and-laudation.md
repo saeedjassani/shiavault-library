@@ -38,12 +38,12 @@ verse. He (a.s) has mentioned that during one of his sermons: “I am
 among Ahlul Bayt whom Allah has made obligatory on Muslims the love to
 them. He,
 
-[^1] Qur’an, 42, 23.
-[^2] Al-Fakhr al-Razi, Tafseer, vol. 7, p. 406. Al-Durr al-Manthur, vol.
+[^1]: Qur’an, 42, 23.
+[^2]: Al-Fakhr al-Razi, Tafseer, vol. 7, p. 406. Al-Durr al-Manthur, vol.
 7, p. 7. Al-Nisaburi, Tafseer. Ibn Jareer al-Tabari, Tafseer, vol. 5, p.
 16. Al-Kashif. Al-Sawa‘iq al-Muhriqa, p. 102. Dhakha‘ir al-Uqba, p. 25.
 Noor al-Absar, p. 100.
-[^3] Hulyat al-Awliya, vol. 3, p. 201.
+[^3]: Hulyat al-Awliya, vol. 3, p. 201.
 
 the Blessed and Most High, has said: I do not ask of you any reward for
 it except love for (my) kin; and whoever earns good, We will give him
@@ -85,13 +85,13 @@ great position. For this reason the supplication is regarded as the end
 of al-tashahud in prayer; that is his words: “O Allah, bless Muhammad
 and the family of Muhammad, and have mercy on
 
-[^1] Al-Hakim, Mustadrak, vol. 3, p. 172. Majjma‘ al-Zawa’id, vol. 9, p.
+[^1]: Al-Hakim, Mustadrak, vol. 3, p. 172. Majjma‘ al-Zawa’id, vol. 9, p.
 146. al-Sawa‘iq al-Muhriqa, p. 101. Majjma‘ al-Bayan fi Tafseer Surat
 al-Shura, vol. 9, p. 29.
-[^2] Qur’an, 7, 158.
-[^3] Ibid., 24, 63.
-[^4] Ibid., 3, 31.
-[^5] Ibid., 33, 21.
+[^2]: Qur’an, 7, 158.
+[^3]: Ibid., 24, 63.
+[^4]: Ibid., 3, 31.
+[^5]: Ibid., 33, 21.
 
 Muhammad and the family of Muhammad! None has such magnification except
 the Ahlul Bayt (a.s).”[^1]
@@ -135,10 +135,10 @@ the faithful (a.s) Fatima, al-Hasan, and al-Husayn, peace be on them.
 None associated with them in this excellence.[^4] Al-Hakim has narrated
 on the authority of Umm
 
-[^1] Al-Razi, Tafseer.
-[^2] Qur’an, 33, 33.
-[^3] Ibid., 36, 82.
-[^4] al-Fakhr, Tafseer, vol. 6, p. 783. Al-Nisaburi, Tafseer. Muslim,
+[^1]: Al-Razi, Tafseer.
+[^2]: Qur’an, 33, 33.
+[^3]: Ibid., 36, 82.
+[^4]: al-Fakhr, Tafseer, vol. 6, p. 783. Al-Nisaburi, Tafseer. Muslim,
 Saheeh, vol. 2, p. 331. Al-Khasa’is al-Kubra, vol. 2, p. 264. Al-Riyad
 al-Nadira, vol. 2, p. 188. Al-Nisa’i, Khasa’is. Ibn Jareer, Tafseer,
 vol. 22, p. 5. Imam Ahmed Ibn Hanbal, Musnad, vol. 4, p. 107.
@@ -181,10 +181,10 @@ of the House and to purify you a (thorough) purifying. (Perform) the
 prayer, may Allah have mercy upon you! (He did that) five times a
 day.”[^4]
 
-[^1] Al-Hakim, Mustadrak, vol. 2, p. 416. Usd al-Ghaba, vol. 5, 521.
-[^2] Al-Durr al-Manthur, vol. 5, p. 199.
-[^3] Tarikh Baghdad, vol. 10, p 278.
-[^4] Al-Durr al-Manthur.
+[^1]: Al-Hakim, Mustadrak, vol. 2, p. 416. Usd al-Ghaba, vol. 5, 521.
+[^2]: Al-Durr al-Manthur, vol. 5, p. 199.
+[^3]: Tarikh Baghdad, vol. 10, p 278.
+[^4]: Al-Durr al-Manthur.
 
 Ibn Jareer and Ibn Mardawayh have reported the following on the
 authority of Abu al-Hamra’, who said: “In Medina, for eight months, I
@@ -227,10 +227,10 @@ wife. Zayd bin Arqam has emphasized this meaning. He was asked: “Who are
 the family of the Prophet (a.s)? (Are they) his wives?” “No,” he
 replied, “by Allah, the wife
 
-[^1] Al-Durr al-Manthur.
-[^2] Majjma‘ al-Zawa’id, vol. 9, p. 169.
-[^3] Dhakha’ir al-Uqba, p. 24.
-[^4] Al-Hakim, Mustadrak, vol. 3, p. 172.
+[^1]: Al-Durr al-Manthur.
+[^2]: Majjma‘ al-Zawa’id, vol. 9, p. 169.
+[^3]: Dhakha’ir al-Uqba, p. 24.
+[^4]: Al-Hakim, Mustadrak, vol. 3, p. 172.
 
 remains with her husband for a period of time. Then he divorces her,
 and she returns to her father and her people. His family are his origin
@@ -274,15 +274,15 @@ called al-Aahaad. Even if they are not afflicted with weakness, they are
 not good to oppose the authentic traditions ensured by many ways of
 transmission.
 
-[^1] Muslim, Saheeh, vol. 2, p. 238. Ibn Kuthayr, Tafseer, vol. 3, p.
+[^1]: Muslim, Saheeh, vol. 2, p. 238. Ibn Kuthayr, Tafseer, vol. 3, p.
 486.
-[^2] Al-Wahidi, Asbab al-Nizool, p. 268.
-[^3] Al-Durr al-Manthur, vol. 5, p. 198.
-[^4] Tabaqat al-Qurra’, vol. 1, p. 15. Ibn Sa‘d, Tabaqat, vol. 5, p.
+[^2]: Al-Wahidi, Asbab al-Nizool, p. 268.
+[^3]: Al-Durr al-Manthur, vol. 5, p. 198.
+[^4]: Tabaqat al-Qurra’, vol. 1, p. 15. Ibn Sa‘d, Tabaqat, vol. 5, p.
 216.
-[^5] Imam Sharaf al-Deen, al-Kalima al-Gharra’.
-[^6] Mu‘jam al-Udaba’.
-[^7] Tahdhib al-Tahdhib, vol. 7, p. 263.
+[^5]: Imam Sharaf al-Deen, al-Kalima al-Gharra’.
+[^6]: Mu‘jam al-Udaba’.
+[^7]: Tahdhib al-Tahdhib, vol. 7, p. 263.
 
 **The Verse of Mubahala**
 
@@ -372,7 +372,7 @@ One of the blessed Suras (chapters) of the Holy Qur’an was revealed in
 respect of the Ahlul Bayt, peace be on them. The Sura is Hal Ata. Most
 of commentators (of the Qur’an) and traditionists have narrated that it
 was
-[^1] Noor al-Absar, p. 100.
+[^1]: Noor al-Absar, p. 100.
 
 revealed in respect of them.[^1] The reason behind revealing this sura
 was that once al-Hasan and al-Husayn became ill. So their grandfather
@@ -414,10 +414,10 @@ forth. They fulfill vows and fear a day the evil of which shall be
 spreading far and wide. And they give food out of love for Him to the
 poor and the orphan and the captive.[^2]
 
-[^1] Al-Fakhr, Tafseer, vol. 8, p. 392. Al-Nisaburi, Ruh al-Bayyan, vol.
+[^1]: Al-Fakhr, Tafseer, vol. 8, p. 392. Al-Nisaburi, Ruh al-Bayyan, vol.
 6, p. 546. Al-Wahidi, Asbab al-Nizool, p. 331. Al-Durr al-Manthur.
 Yanabee‘ al-Mawada, vol. 1, p. 93. Al-Riyad al-Nadira, vol. 2, p. 227.
-[^2] Qur’an, 76, 5-8.
+[^2]: Qur’an, 76, 5-8.
 
 Allah thanked them for their selflessness, which had no match in the
 world of kindness. He made them inherit Paradise in the next world. He
@@ -426,5 +426,4 @@ He has made them Imams until He inherits the earth and those on it. With
 this verse we will end our speech about some verses revealed in respect
 of the Ahlul Bayt. Without doubt the verses that deal with Imam al-Hasan
 (a.s) indicate his important affair and his high position with Allah.
-
 

@@ -110,9 +110,9 @@ Or do they envy the people for what Allah has granted them of His
 grace? Indeed We have given Abraham's children the Book and wisdom, and
 We have given them a great kingdom. (Holy Qur'an, 4:54)
 
-[^292] He says so on p. 23 of his book Al-Imama.
+[^292]: He says so on p. 23 of his book Al-Imama.
 
-[^293] His statement , "I do not wish people to say that Muhammad kills
+[^293]: His statement , "I do not wish people to say that Muhammad kills
 his companions. Rather, we will deal with them beautifully, etc."
 contains an evident proof that the hypocrites were, indeed, among the
 sahaba. The claim put forth by "Ahl al-Sunnah wal Jama\`ah" that the
@@ -120,23 +120,23 @@ hypocrites were not among the sahaba is rejected because this claim is
 contradicted by the statement of the Messenger of Allah who refers to
 them as his companions.
 
-[^294] In Arabic, she is called al-humayraa which means: the woman the
+[^294]: In Arabic, she is called al-humayraa which means: the woman the
 color of whose complexion is slightly red. \_\_ Tr.
 
-[^295] These were the Meccans who remained heathen till the conquest of
+[^295]: These were the Meccans who remained heathen till the conquest of
 Mecca.
 
-[^296] Refer to the book Ma\`a al-Sadiqeen (With the Truthful) by the
+[^296]: Refer to the book Ma\`a al-Sadiqeen (With the Truthful) by the
 same author.
 
-[^297] This is so because all "Ahl al-Sunnah wal Jama\`a" favor Abu
+[^297]: This is so because all "Ahl al-Sunnah wal Jama\`a" favor Abu
 Bakr, Umar, and Uthman over Ali ibn Abu Talib . Since the latter is the
 master of the \`Itrat and the best of Ahl al-Bayt after the Prophet ,
 "Ahl al-Sunnah wal Jama\`a" place Ahl al-Bayt in the second place in
 their esteem. They prefer over them the first sahaba to whom they refer
 as the "righteous caliphs."
 
-[^298] Nowadays, they claim saying, "We are more worthy of Ali and Ahl
+[^298]: Nowadays, they claim saying, "We are more worthy of Ali and Ahl
 al-Bayt from the Shi\`as." If so, why did their scholars and the Imams
 of their sects abandon the fiqh of Ahl al-Bayt and forgot it completely?
 They, instead, followed sects which they invented and for which Allah
@@ -144,6 +144,6 @@ sent no proof. The Most Exalted One has said, "The most worthy among
 people of Ibrahim are those who followed him." As for those who did not
 follow him, they clearly are not worthy of him.
 
-[^299] The author is from Tunisia where a good number of Jews have been
+[^299]: The author is from Tunisia where a good number of Jews have been
 living for centuries. \_\_ Tr.
 

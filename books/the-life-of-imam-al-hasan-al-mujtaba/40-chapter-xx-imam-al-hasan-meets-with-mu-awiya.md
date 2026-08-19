@@ -38,10 +38,10 @@ contempt, and Allah has given me that against your wishes. Rest assured
 that whoever killed any of us will himself be killed. And the treaty
 between us of amnesty is under my feet.[^3] Nothing
 
-[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.4, p.16. He has
+[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.4, p.16. He has
 mentioned that the following speech of Mo’awiya was at al-Nukhaylah.
-[^2] Al-Ya‘qubi, Tarikh, vol. 2, p. 192. Al-Mufid, al-Irshad, p. 170.
-[^3] In the narration of Abi Ishaq al-Subay’i: “All the things I had
+[^2]: Al-Ya‘qubi, Tarikh, vol. 2, p. 192. Al-Mufid, al-Irshad, p. 170.
+[^3]: In the narration of Abi Ishaq al-Subay’i: “All the things I had
 given to al-Hasan bin
 
 will set right the people except three things: giving salaries in time,
@@ -86,7 +86,7 @@ mentioned by Ibn Abi al-Hadeed in his book Sharh Nahj al-Balagha. A
 narration similar to that has been mentioned by al-Mufid in his
 al-Irshad.
 
-[^1] ‘Abd al-Rahman bin Shurayk al-Nakha‘i al-Kufi narrated on the
+[^1]: ‘Abd al-Rahman bin Shurayk al-Nakha‘i al-Kufi narrated on the
 authority of his father, and al-Bukhari narrated on his authority in his
 Kitab al-Adabin Ibn Habban regarded him as among the trustworthy. He
 said: “Perhaps, he made a mistake.” He (‘Abd al-Rahman bin Shurayk) died
@@ -121,12 +121,12 @@ is better than shedding it. Through that I do not want anything except
 setting you right and your survival. I know that that may be a trial for
 you and a provision for a time.”[^4]
 
-[^1] Al-Mufid, al-Irshad, p. 169.
-[^2] It has been narrated on the authority of Ibn ‘Abbas that Jabliq was
+[^1]: Al-Mufid, al-Irshad, p. 169.
+[^2]: It has been narrated on the authority of Ibn ‘Abbas that Jabliq was
 (a place) in the Far West, and that its inhabitants belonged to ‘Ad’s
 children. This has been mentioned in the book Mu‘jam al-Buldan, vol. 3,
 p. 32.
-[^3] Jabris was a city in the Far East. The Jews claimed that the
+[^3]: Jabris was a city in the Far East. The Jews claimed that the
 children of their Prophet Musa, peace be on him, escaped either during
 the Battle of Taloot or during the Battle of Bucht Nussar. So Allah made
 them walk to it and made them live in this place, so none reached them.
@@ -136,7 +136,7 @@ number but Allah. When a Jew went to them, they killed the Jew and said:
 “You have come to us because your law has become corrupt!” According to
 this consideration they regarded as lawful killing him. This has been
 mentioned in the book al-Mu‘jam, vol. 3, p. 33.
-[^4] Kashf al-Ghumma, p. 170.
+[^4]: Kashf al-Ghumma, p. 170.
 
 Then he (a.s) mentioned the persecutions from which Ahl al-Bayt
 suffered, saying: “And that Mu’awiya has told you that I have seen him
@@ -183,7 +183,7 @@ after a time.”
 
 Then he (a.s) turned to Mu’awiya and denied his cursing his father,
 saying to
-[^1] Bihar al-Anwar, vol.10 p. 114.
+[^1]: Bihar al-Anwar, vol.10 p. 114.
 
 him: “O you who mention Ali, I am al-Hasan and Ali is my father. You
 are Mu’awiya and your father is Sakhr (Abu Sufyan). My mother is Fatim
@@ -220,7 +220,7 @@ silent.[^1] Defeat overcame him. Impatience and astonishment prevailed
 over him. He turned to the troops and said to them with a faint voice
 and sad tones:
 
-[^1] Al-Manaqib, vol. 2, p. 167.
+[^1]: Al-Manaqib, vol. 2, p. 167.
 
 “Choose between two! Either you fight without an Imam or you pledge
 allegiance (to Mu’awiya) with pledge of misguidance!” Abasement and
@@ -303,12 +303,12 @@ walking heavily, being unable to see his way because of sorrow and
 abasement, and sighing deeply. When he sat down, he turned to the groups
 of people and said to them: “O people, you have replaced evil by
 
-[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.4, p.15. In his book
+[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.4, p.15. In his book
 Murujj al-Dhahab, vol. 2, p. 319, al-Mas‘udi has mentioned: “This speech
 occurred between Mo’awiya and Qays during the lifetime of (Imam Ali),
 the Commander of the faithful, peace be on him. That was when Qays was
 his governor over Egypt.”
-[^2] Al-Kamil, vol. 3, p. 207. Al-Tabari, Tarikh, vol. 6, p. 94.
+[^2]: Al-Kamil, vol. 3, p. 207. Al-Tabari, Tarikh, vol. 6, p. 94.
 
 good, abasement by glory, and unbelief by belief. After the authority
 of (Imam Ali) the Commander of the faithful, the lord of the Muslims,
@@ -345,5 +345,4 @@ Iraqis remembered the days of their life under the Hashimite government.
 They grieved very much and strongly repented of their deserting (Imam
 Ali) the Commander of the faithful and his son al-Hasan, peace be on
 them.
-
 

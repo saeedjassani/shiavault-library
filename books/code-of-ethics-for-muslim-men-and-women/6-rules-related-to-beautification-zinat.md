@@ -214,7 +214,6 @@ AGK
 In itself, going (to such a place) is not a problem, but she must
 observe the proper clothing so as to not make others fall into sin. B
 
-
 **Covering of a Woman in the Presence of Other Women**
 
 143 – Rule: A woman must cover her private parts from other women
@@ -592,22 +591,21 @@ symbol for the Christians. L
 
 **Notes:**
 
-[^3] In the following rulings, the spouse is an exception.
+[^3]: In the following rulings, the spouse is an exception.
 
-[^4] The Chador is the type of ‘hijab’ that is commonly worn by Iranian
+[^4]: The Chador is the type of ‘hijab’ that is commonly worn by Iranian
 women and consists of a large, usually black cloth wrapped around the
 body.
 
-[^5] A long overcoat type covering for women that is commonly worn in
+[^5]: A long overcoat type covering for women that is commonly worn in
 Iran.
 
-[^6] It should be noted that the meaning of Z¢nat refers to those
+[^6]: It should be noted that the meaning of Z¢nat refers to those
 decorations and beautification that a woman applies to herself, and not
 that which is natural. (Translator)
 
-[^7] Please note that the term Lib?s al-Shuhrah has been translated here
+[^7]: Please note that the term Lib?s al-Shuhrah has been translated here
 as Notorious Clothing for lack of a better term in English. Please refer
 to the list of definitions at the end of this book for a detailed
 explanation.
-
 

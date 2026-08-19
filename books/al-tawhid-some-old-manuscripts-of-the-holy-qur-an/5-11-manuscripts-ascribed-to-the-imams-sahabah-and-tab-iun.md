@@ -118,4 +118,3 @@ of the Astaneh-ye Quds-e Radawi, the Iran Bastan Museum, the museum of
 the shrine at Qumm, the library and museum of Shiraz and Kitabkhanehye
 Waziri at Yazd, as well as several libraries abroad.
 
-

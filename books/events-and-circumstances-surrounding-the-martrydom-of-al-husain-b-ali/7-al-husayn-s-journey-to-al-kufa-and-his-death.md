@@ -82,4 +82,3 @@ him51 .
 The heads of all the 72 supporters of al-Husayn were cut off and carried
 by the tribes.
 
-

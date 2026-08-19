@@ -67,9 +67,9 @@ classes used to attend his meetings. Some merchants of Muscat saw how
 much money Sayyid Sharafuddeen had spent. They offered to him one
 hundred Ottoman liras, which Sayyid
 
-[^1] Hawza is a theological college, where students can specialize in
+[^1]: Hawza is a theological college, where students can specialize in
 Islamic law, philosophy, theology, and logic.
-[^2] It was in 1340 A.H. He went by sea to offer the hajj. With him
+[^2]: It was in 1340 A.H. He went by sea to offer the hajj. With him
 there were a great number of people from his country Aamila. He led
 those people crowded in al-Masjid al-Haram in offering the prayer. He
 might be the first Shia imam who could lead the great masses of people
@@ -436,9 +436,9 @@ saying “Guidance does not spread except from where deviation has
 spread”; therefore he determined to fight deviation by himself to spread
 guidance among people. He determined to walk in
 
-[^1] It is the third month in the Islamic calendar.
+[^1]: It is the third month in the Islamic calendar.
 
-[^2] Some Shia ulama thought that the birth of the Prophet (s) was on
+[^2]: Some Shia ulama thought that the birth of the Prophet (s) was on
 the twelfth of Rabee’ul Awwal whereas most of them believed that the
 birth was on the seventeenth of the same month. Sayyid Sharafuddeen
 preferred the first opinion, which most of the Sunni ulama believed in.
@@ -486,7 +486,7 @@ No one came to his mind save his followers in the African countries of
 emigrations, who were as sons for him and he was for them as a father
 and a higher religious authority.
 
-[^1] Referring to the Shia and the name “Ja’fari” is derived from the
+[^1]: Referring to the Shia and the name “Ja’fari” is derived from the
 Name of Imam Ja’far as-Sadiq (s), the founder of the Shiite school.
 
 (47)
@@ -565,8 +565,8 @@ admiration and high regards.
 
 The attendants admired Sayyid as-Sadr very much for they thought
 
-[^1] Aal means the family of.
-[^2] He was born in Kadhimiyya in 1300 A.H. and died in 1375. He was
+[^1]: Aal means the family of.
+[^2]: He was born in Kadhimiyya in 1300 A.H. and died in 1375. He was
 buried in the graveyard of Aal as-Sadr beside the tomb of his father
 ayatollah Sayyid Hasan as-Sadr, the patriot leader, who was well-known
 of his bright situations towards his country and people. He was really a
@@ -735,8 +735,8 @@ Wednesday, the first of January, 1958/ the tenth of Jumada ath-Thaniyya,
 The crowds of people cried and sighed bitterly over the great loss of
 this great man.
 
-[^1] The sixth months in the Islamic calendar.
-[^2] Taqlid: accepting and following the opinions of a mujtahid or a
+[^1]: The sixth months in the Islamic calendar.
+[^2]: Taqlid: accepting and following the opinions of a mujtahid or a
 religious authority concerning the religious affairs.
 
 (53)
@@ -756,9 +756,7 @@ loss. (The contentment of Allah is our contentment; Ahlul Bayt. We
 became patient before His affliction and He will reward us with the
 reward of the patient).
 
-
 7-1-1964 AD. / 1383 A.H.
 Kadhimiyya-Baghdad
 Muhammad Sadiq as-Sadr
-
 

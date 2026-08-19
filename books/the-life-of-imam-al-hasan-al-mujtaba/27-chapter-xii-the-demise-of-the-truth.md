@@ -86,7 +86,7 @@ sacredness with Allah, that it has been ascribed to Him and called the
 Month of Allah. When this month came, the Imam knew that he would depart
 to Allahin this month. He had supper one evening with al-Hasan, one
 evening
-[^1] Al-Mas‘udi, Muruj al-Dhahab, vol. 2, p. 289. It has been mentioned
+[^1]: Al-Mas‘udi, Muruj al-Dhahab, vol. 2, p. 289. It has been mentioned
 in (the book) al-Akhbar al-Tiwal, p. 197: “(Abdurrahman) bin Muljim
 proposed to al-Rabab, Qatam’s daughter.”
 
@@ -126,8 +126,8 @@ entered all the houses in Mecca and Medina.
 -If my vision was true, then your father would be killed. Worry and
 sadness for me would enter all the houses in Mecca and Medina. [^1] Ibn
 Kuthayr, Tarikh, vol. 3, p. 168.
-[^2] Al-Sawa‘iq al-Muhriqa, p. 80.
-[^3] Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 291.
+[^2]: Al-Sawa‘iq al-Muhriqa, p. 80.
+[^3]: Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 291.
 
 Al-Hasan became sad. He asked his father: -When will that happen? -
 Allah, the Exalted, says: “And no one knows what he shall earn tomorrow,
@@ -158,10 +158,10 @@ inevitable end came while he was before Allah, and His Name was between
 his lips in one of the most sacred houses of Allah (the mosque of Kufa)
 and in the greatest month to Allah (Ramadan)!
 
-[^1] Qur’an, 31, 34.
-[^2] It has been mentioned in al-Isti‘ab: “Al-Hasan went out along with
+[^1]: Qur’an, 31, 34.
+[^2]: It has been mentioned in al-Isti‘ab: “Al-Hasan went out along with
 his father and did not separate from him.”
-[^3] This sinful person (Abdurrahman) did not kill the Imam by himself.
+[^3]: This sinful person (Abdurrahman) did not kill the Imam by himself.
 Shabeeb bin Buhayrah and Mujashi‘ bin Wardan were with him. They went to
 Qatam, and she put silk turbans on their heads. Qatam was in the mosque.
 These three men took their swords and sat opposite to the gate of
@@ -207,7 +207,7 @@ asked him:
 -Let none go to seek him. He is coming to you through that gate (he
 indicated with his hand to the gate of Kinda).
 
-[^1] Ju‘da bin Hubayra al-Makhzumi, son of Umm Hani, daughter of Abi
+[^1]: Ju‘da bin Hubayra al-Makhzumi, son of Umm Hani, daughter of Abi
 Talib, was a companion of the Prophet. Ibn Ma‘een has said: “He heard
 nothing of the Prophet.” Al-‘Ijli has said: “He is a trustworthy
 successor.” This has been mentioned in Tahthib al-Kamal, p. 53. It has
@@ -216,7 +216,7 @@ appointed him as a governor over Khurasan.” Abu ‘Ubayda has said: “Umm
 Hani’, daughter of Abi Talib, born Hubayra three sons who were Ju‘da,
 Hani’ and Yousuf.”
 
-[^2] Matalib al-Sa‘ool fi Manaqib Aal al-Rasool, p. 63.
+[^2]: Matalib al-Sa‘ool fi Manaqib Aal al-Rasool, p. 63.
 
 The people were busy looking at the gate. After a while, there was an
 outcry indicating that the sinful criminal was arrested.[^1] He was
@@ -252,7 +252,7 @@ His daughters and family received him with crying and wailing. Al-Hasan
 sadly said: “Father, who will be for us after you? Our affliction in you
 is like ours in the messenger of Allah (a.s)!”
 
-[^1] In his book Muruj al-Thahab, vol. 2, p. 290, al-Mas‘udi has
+[^1]: In his book Muruj al-Thahab, vol. 2, p. 290, al-Mas‘udi has
 mentioned: “When the sinful one (Abdurrahman) bin Muljim struck the
 Imam, the people attacked him, threw stones at, and shouted at him.
 Al-Mughira bin Nawfal hit him on the face and knocked him down. Then the
@@ -342,7 +342,7 @@ Then he (a.s) specially advised his son al-Hasan, to cling to the
 principles of the religion and to perform its rites. He said to him: “I
 advise you, O my son, to fear Allah, perform prayer on its time, pay
 zakat when it is due, and to
-[^1] Muhammad ‘Abda, Sharh Nahj al-Balagha, vol. 3, p. 85.
+[^1]: Muhammad ‘Abda, Sharh Nahj al-Balagha, vol. 3, p. 85.
 
 perform the ritual ablution well, for no prayer is accepted except with
 purity. I advise you to forgive (others’) sin, restrain anger, retain
@@ -379,8 +379,8 @@ son, you are the guardian of (my) blood. If you forgive (the man who
 struck me), that is up to you, and if you kill him, then a blow for a
 blow.”[^3]
 
-[^1] Ibn Kuthayr, Tarikh, vol. 3, p. 170.
-[^2] Al-Kulayni is Muhammad bin Ya‘qub bin Ishaq. He is among the
+[^1]: Ibn Kuthayr, Tarikh, vol. 3, p. 170.
+[^2]: Al-Kulayni is Muhammad bin Ya‘qub bin Ishaq. He is among the
 greatest Shi‘ite religious scholars. He was among those who renewed the
 Imami doctrine in the third century of hijra. Among his most famous
 books is al-Kafi. He spent twenty years in writing it. It is among the
@@ -390,7 +390,7 @@ scholars who said that no book similar to it has ben written. He
 (al-Kulayni), may Allah have mercy on him, died in Baghdad, in the year
 329. A. H. Muhammad bin Ja‘far performed the prayer over him. He was
 buried at the gate of Kufa. Al-Kuna wa al-Alqab, vol. 3, p. 98.
-[^3] Al-Kulayni, Usool al-Kafi, vol. 1, pp. 297-298.
+[^3]: Al-Kulayni, Usool al-Kafi, vol. 1, pp. 297-298.
 
 Some Sunnis maintain that Imam Ali (a.s) did not entrust the authority
 after him to his son al-Hasan. They have indicated that through what
@@ -425,21 +425,21 @@ workers work.[^3] Then his pure soul went to the gardens of Paradise and
 rose to the Most High Comrade![^4] That Divine mercy rose to its Source,
 for he was the light that
 
-[^1] Shu‘ayb bin Maymun al-Wasiti, the man of al-buzoor; Abu Hatam has
+[^1]: Shu‘ayb bin Maymun al-Wasiti, the man of al-buzoor; Abu Hatam has
 said: “He (Shu‘ayb bin Maymun al-Wasiti) is unknown.” And so said
 al-‘Ijli. Al-Bukhari has said: “He was suspected.” Abu Hayyan has said:
 “He narrated denied traditions on the authority of the famous
 (traditionists). None uses him as a proof when only he narrates a
 certain tradition.” Tahthib al-Tahthib, vol. 4, p. 357.
 
-[^2] Tahthib al-Tahthib, vol. 4, p. 357. It has been mentioned in it:
+[^2]: Tahthib al-Tahthib, vol. 4, p. 357. It has been mentioned in it:
 “Among his denied traditions is that which he narrated on the authority
 of Husayn al-Sha‘bi, on the authority of Abi Wa’il, who said: ‘Ali was
 asked: ‘Will you not appoint anyone a successor…?’”
 
-[^3] Qur’an, 37, 61.
+[^3]: Qur’an, 37, 61.
 
-[^4] The historians have differed over the night when Abdurrahman bin
+[^4]: The historians have differed over the night when Abdurrahman bin
 Muljim struck Imam Ali. It was said that it was on the 18th of Ramadan.
 This has been mentioned by al-Mas‘udi in his Muruj al-Thahab. It was
 said that it was on the 17th of Ramadan. This has been mentioned by Ibn

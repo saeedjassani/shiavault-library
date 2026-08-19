@@ -3,13 +3,11 @@ Section 2 : the Worthy and Deserving Day of Ghadir
 
 Hadith no. 11: The Day of the Message and the Wilayat
 
-<p dir="rtl">
 قَالَ رَسُولُ اللٌّه : يَا مَعْشَرَ الْمُسْلِمِينَ لِيُبَلِّغَ
 الشَّاهِدُ الْغَائِبَ، أُوْصِي مَنْ آمَنَ بِي وَ صَدَّقَنِي بِوِلاَيَةِ
 عَلِيٍّ، أَلاَ إِنَّ وِلاَيَةِ عَلِيٍّ وِلاَيَتِي وَ وِلاَيَتِي
 وِلاَيَةُ رَبِّي، عَهْداً عَهَّدَهُ إِلـيَّ رَبِّي وَ أَمَرَنِي أَنْ
 أُبَلِغُّكُمُوهُ
-</p>
 
 The Messenger of Allah (blessings of Allah be upon him and his family)
 has said, “O’ assembly of Muslims – those who are present must convey
@@ -23,13 +21,11 @@ Biharul Anwar, Volume 37, Page 131, Hadith 35
 
 Hadith no. 12: The Day of Feeding Others
 
-<p dir="rtl">
 قَالَ أَبُو عَبْدِ اللٌّه: وَ إِنَّهُ الْيَوْمُ الَّذِي أَقَامَ رَسُولُ
 اللٌّهِعَلِياًّلِلنَّاسِ عَلَماً وَ أَبَانَ فِيهِ فَضْلَهُ وَ وَصِيَّهُ
 فَصَامَ شُكْراً لِلٌّهِ عَزَّ وَ جَلَّ ذٌلِكَ الْيَوْمَ وَ أَنَّهُ
 لَيَوْمُ صِيَامٍ وَ إِطْعَامٍ وَ صِلَةِ الإِخْوَانِ وَ فِيهِ مَرْضَاةُ
 الرَّحْمٌنِ، وَ مَرْغَمَةُ الشَّيْطَانِ
-</p>
 
 Abu 'Abdillah [Imam Ja'far ibn Muhammad as-Sadiq] (peace be upon him)
 has said, “…and surely this is the day when the Messenger of Allah
@@ -45,13 +41,11 @@ Wasa'il ash-Shi'a, Volume 7, Page 328, Hadith 12
 
 Hadith no. 13: The Day of Gifts
 
-<p dir="rtl">
 عَنْ أَمِيـرِ الْمُؤْمِنِينَقَالَ: ...إِذَا تَلاَقَيْتُمْ فَتَصَافَحُوا
 بِالتَّسْلِيمِ وَ تَهَابُوا النِّعْمَةَ فِي‏ هٌذَا الْيَوْمِ، وَ
 لِيُبَلِّغَ الْحَاضِرُ الْغَائِبَ، وَالشَّاهِدُ الْبَايِنَ، وَلِيَعِدُ
 الْغَنِيُّ الْفَقِيرَ وَالْقَوِىُّ عَلى الضَّعِيفَ أَمَرَنِي رَسُولُ
 ‏اللٌّهِبِذٌلِكَ
-</p>
 
 It has been narrated from Amirul Mo’minin ['Ali ibn Abi Talib] (peace
 be upon him) that he said, “…when you meet each other (on the Day of
@@ -65,11 +59,9 @@ Wasa'il ash-Shi'a, Volume 7, Page 327
 
 Hadith no. 14: The Day of Protection
 
-<p dir="rtl">
 عَنْ أَمِيـرِ الْمُؤْمِنِينَقَالَ: ... فَكَيْفَ بِمَنْ تَكَفَّلَ
 عَدَداً مِنَ الْمُؤْمِنِينَ وَ الْمُؤْمِنَاتِ وَأَنَا ضَمِينُهُ عَلـى
 ‏اللٌّهِ تَعَالـى الأَمَانَ مِنَ‏ الْكُفْرِ وَالْفَقْرِ.
-</p>
 
 It has been narrated form Amirul Mo’minin ['Ali ibn Abi Talib] (peace
 be upon him) that he said, “…how shall the state of that person be who
@@ -82,11 +74,9 @@ Wasa'il ash-Shi'a, Volume 7, Page 327
 
 Hadith no. 15: The Day of Thanks and Happiness
 
-<p dir="rtl">
 قَالَ أَبُو عَبْدِ اللٌّهِ ... هُوَ يَوْمُ عِبَادَةٍ وَ صَلٌوةٍ وَ
 شُكْرٍ لِلٌّهِ وَ حَمْدٍ لَهُ، وَ سُرُورٍ لِمَا مَنَّ اللٌّهُ بِهِ
 عَلَيْكُمْ مِنْ وِّلاَيَتِنَا،وَ إِنِّي أُحِبُّ لَكُمْ أَنْ تَصُومُوهُ
-</p>
 
 Abu 'Abdillah [Imam Ja'far ibn Muhammad as-Sadiq] (peace be upon him)
 has said: “…this is the day (18th of Dhul Hijjah) of worship and prayers
@@ -112,10 +102,8 @@ Misbahul Mutahajjid, Page 737
 
 Hadith no. 17: The Day of Joy and Happiness
 
-<p dir="rtl">
 قَالَ أَبُو عَبْدِ اللٌّهِ : أَنَّهُ يَوْمُ عِيْدٍ وَ فَرْحٍ وَ سُرُورٍ
 وَ يَوْمُ صَوْمٍ شُكْراً لِلٌّهِ تَعَالـى.
-</p>
 
 Abu 'Abdillah [Imam Ja'far ibn Muhammad as-Sadiq] (peace be upon him)
 has said: “Surely this day [18th of Dhul Hijjah] is a day of festivity,
@@ -126,7 +114,6 @@ Wasa'il ash-Shi'a, Volume 7, Page 326, Hadith 10
 
 Hadith no. 18: The Day of Congratulations and Felicitations
 
-<p dir="rtl">
 قَالَ عَلِىّ:عَوِّدُوا رَحِمَكُمُ اللٌّهُ بَعْدَ انْقِضَاءِ
 مَجْمَعِكُمْ بِالتَّوَسُّعَةِ عَلى عِيَالِكُمْ، وَالْبِرِّ
 بِإِخْوَانِكُمْ وَالشُّكْرِ لِلٌّهِ عَزَّ وَ جَلَّ عَلى مَا مَنَحَكُمْ،
@@ -134,7 +121,6 @@ Hadith no. 18: The Day of Congratulations and Felicitations
 أُلْفَتَكُمْ، وَ تَهَانُؤا نِعْمَةَ اللٌّهِ كَمَا هَنَّأَ كُمُ اللٌّهُ
 بِالثَّوَابِ فِيهِ عَلى أَضْعَافِ الأَعْيَادِ قَبْلَهُ وَ بَعْدَهُ
 إِلاَّ فِي مِثْلِهِ...
-</p>
 
 Imam 'Ali (peace be upon him) said: “When your assembly adjourns, may
 Allah have mercy on you, then show generosity towards your dependants,
@@ -146,5 +132,4 @@ reward many times greater than previous or future 'Eids, except an 'Eid
 like it [when 'Eid falls on a Friday].”
 
 Biharul Anwar, Volume 97, Page 117
-
 

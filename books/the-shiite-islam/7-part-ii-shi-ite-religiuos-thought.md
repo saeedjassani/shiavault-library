@@ -144,7 +144,6 @@ dominion of God Himself - May His Name be Glorified. Whatever He wants
 and not what they want is revealed to them. We will now take up in
 detail the three methods of religious thought in Islam.
 
-
 **First Method : The Formal Aspect of Religion**
 
 **The Different Facets of the Formal Aspect of Religion**
@@ -364,5 +363,4 @@ forth (from it)." (Quran, VII, 58) Thus it becomes evident that the Holy
 Quran has an outward and an inward aspect and the inward aspect itself
 has different levels of meaning. The hadith literature, which explains
 the content of the Quran, also contains these various aspects.
-
 

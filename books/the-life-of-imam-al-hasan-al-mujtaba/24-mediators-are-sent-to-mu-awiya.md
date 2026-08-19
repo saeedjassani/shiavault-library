@@ -11,14 +11,14 @@ blood. And we invite you to the best of the community in precedence and
 deeds in Islam[^2] . The people have gathered for him. Allah has guided
 them through what they
 
-[^1] Abu al-A‘war al-Salami is Amr bin Sufyan. Abu Hatam al-Razi has
+[^1]: Abu al-A‘war al-Salami is Amr bin Sufyan. Abu Hatam al-Razi has
 said: “He (Abu al-A‘war al-Salami) is not regarded as one of the
 companions (of the Prophet), nor his narration is authentic. He was
 present at the Battle of Hunayn while he was an infidel. Then he became
 Muslim. He was the strictest of people against the Imam at the Battle of
 Siffin. And the Imam invoked Allah against him during his private prayer
 (Qunut) in the Morning Prayer.” Al-Isti‘ab, vol. 4, p. 14.
-[^2] It has been mentioned in Tarikh al-Tabari: “Most surely, your
+[^2]: It has been mentioned in Tarikh al-Tabari: “Most surely, your
 cousin the master of the Muslims is the best of it (the community) in
 precedence and deeds in Islam.”
 
@@ -105,7 +105,7 @@ have weak abilities, souls, and reasons.”
 This was the plan that Imam Ali had made to his troops. It represents
 what he had in his soul of mercy, pity, and love for good even to his
 enemies and opponents.
-[^1] Shibth bin Rib‘i al-Tamimi was the caller of Sajah, who claimed
+[^1]: Shibth bin Rib‘i al-Tamimi was the caller of Sajah, who claimed
 that she was a prophet. Then he became Muslim and was among the
 companions of Imam Ali. Then he joined the Kharijites. Then he repented
 of that. This sinful person was among those who killed Imam al-Husayn,
@@ -156,7 +156,7 @@ want to look at one who has showed enmity toward Allah and His Apostle,
 rebelled against the Muslims, and helped the polytheists? When Allah
 wanted to manifest His religion and give victory to His Apostle, he
 (Mu’awiya) came to
-[^1] In another narration he has said: “O people of al-Sham,….”
+[^1]: In another narration he has said: “O people of al-Sham,….”
 
 the Prophet and became Muslim. He, by Allah, as he thinks, was
 unwilling and not willing; and Allah took His Apostle, and we, by Allah,
@@ -196,7 +196,7 @@ Imam al-Hasan angrily and with displeasure looked at him. He told him
 that he would meet his death so soon. He said to him: “It is as if that
 I can see that you will be killed on this day or tomorrow! It is Satan
 who has adorned the
-[^1] Ubaydillah bin Umar bin al-Khattab was born during the time of
+[^1]: Ubaydillah bin Umar bin al-Khattab was born during the time of
 Allah’s Apostle, and he narrated nothing from him. It was he who killed
 al-Hurmuzan and Jufayna. Imam Ali threatened him through administering
 against him the prescribed punishment if he could catch him. Ubaydillah
@@ -247,9 +247,9 @@ The men of Rabee‘a allied with each other for death. They were
 steadfast in the battlefield. They were calm and they paid no attention
 to death. They
 
-[^1] Bihar al-Anwar.
-[^2] Waqi‘at Siffin, p. 334.
-[^3] Muhammad ‘Abda, Sharh Nahj al-Balagha, vol. 2, p. 212.
+[^1]: Bihar al-Anwar.
+[^2]: Waqi‘at Siffin, p. 334.
+[^3]: Muhammad ‘Abda, Sharh Nahj al-Balagha, vol. 2, p. 212.
 
 supported the truth and promised to sacrifice their lives for the Imam.
 Imam Ali was among them. He attacked his enemies while they were
@@ -385,7 +385,7 @@ for the sake of his doctrine and thought. These memories made him yearn
 for meeting Allah. He burst into tears. He addressed Allah, saying: “O
 Allah, You know that if I know that Your good pleasure (is obtained)
 through putting the edge of my sword
-[^1] Ibn Abi al-Haddeed, Sharh Nahj al-Balagha, vol. 1, p. 506.
+[^1]: Ibn Abi al-Haddeed, Sharh Nahj al-Balagha, vol. 1, p. 506.
 
 against my chest, and then I bend against it until it comes out of my
 back, I would do. If I know that Your good pleasure (is obtained)
@@ -457,7 +457,7 @@ make them confess the word of Allah’s Oneness, and today he fought
 against them to make them believe in what was in the Qur’an and what
 Islam had brought.
 
-[^1] Hashim bin Utba bin Abi Waqqas al-Zuhri, al-Qurashi. He was given
+[^1]: Hashim bin Utba bin Abi Waqqas al-Zuhri, al-Qurashi. He was given
 the kunya of Abu Amr, better known as al-Mirqal. He became Muslim on the
 day when Mecca was conquered. He was among the men of virtue and
 religion. He was on top of the brave Arabs. His eye was knocked out at
@@ -511,7 +511,7 @@ you!’”
 He has also said: “My grandfather has said: ‘The Garden yearns for
 three (persons): Ali, Ammar, and Salman!’”
 
-[^1] Abul Aadiya killed him. He came to Mu‘awiya, and said to his
+[^1]: Abul Aadiya killed him. He came to Mu‘awiya, and said to his
 chamberlain: “The killer of Ammar is at the door.” He permitted him. Usd
 al-Ghaba, vol. 5, 267. It has been narrated from the Prophet that he has
 said: “If the people of the earth killed Ammar, they all would enter the
@@ -557,5 +557,4 @@ ones, his incapability of resisting, and the end of his affair, he shook
 all over with fear. He summoned his cunning vizier, Amr bin al-Aas, and
 said to him: “Only this night and he is coming to us early in the
 morning along with the troops! What do you think?”
-
 

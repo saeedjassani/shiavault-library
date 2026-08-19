@@ -138,7 +138,7 @@ Ali (a.s), at the Battle of Siffin. At the battle she made an
 enthusiastic speech in which she urged the fighters of the truth to
 defend Imam Ali, the master of the
 
-[^1] Balaaghaat al-Nisa’, p. 75. Sub al-A‘sha.
+[^1]: Balaaghaat al-Nisa’, p. 75. Sub al-A‘sha.
 
 Muslims and Commander of the faithful (a.s) and to fight against his
 enemies. Bakara came to Mu’awiya after he had become a ruler. She was an
@@ -316,8 +316,8 @@ She vomited what she ate, and then she said: O Hind’s son, do you want
 us to sell you ancestries and religion for honey mixed with saffron? We
 seek refuge with Allah (from that)! How is that while our guardian is
 the Commander of the faithful (Imam Ali)?[^2]
-[^1] Balaaghaat al-Nisa’, p. 27. Al-‘Aqd al-Farid, vol. 1, p. 219.
-[^2] Al-Kuna wa al-Alqaab, vol. 1, p. 8.
+[^1]: Balaaghaat al-Nisa’, p. 27. Al-‘Aqd al-Farid, vol. 1, p. 219.
+[^2]: Al-Kuna wa al-Alqaab, vol. 1, p. 8.
 
 **Ukrisha, daughter of al-Atrash**
 
@@ -469,7 +469,7 @@ retainers, and the Ansar who performed the hajj, and whom al-Husayn
 (a.s) and his household had known. Then he sent some messengers and said
 to them: ‘Gather for me the companions of Allah’s
 
-[^1] Balaaghaat al-Nisa’, p. 72. Al-‘Aqd al-Farid, vol. 1, p. 216. Subh
+[^1]: Balaaghaat al-Nisa’, p. 72. Al-‘Aqd al-Farid, vol. 1, p. 216. Subh
 al-A‘sha.
 
 Apostle, who have performed the hajj this year, and who are famous for
@@ -555,12 +555,12 @@ Allah, he became drunk and left the prayer.’”[^5] Ibn Fulayh has said:
 When he came to Medina, he stood up beside the pulpit. He was good and
 righteous. He addressed the people, saying: ‘Was
 
-[^1] Al-‘Adala al-Ijtima‘iya, p. 180.
-[^2] Al-Nasaa’ih, p. 39.
-[^3] Mulhamat al-Ghadir, p. 227.
-[^4] Ibn ‘Asakir, Tarikh, vol. 7, p. 372. Al-Sayuti, Tarikh al-Khulafa’,
+[^1]: Al-‘Adala al-Ijtima‘iya, p. 180.
+[^2]: Al-Nasaa’ih, p. 39.
+[^3]: Mulhamat al-Ghadir, p. 227.
+[^4]: Ibn ‘Asakir, Tarikh, vol. 7, p. 372. Al-Sayuti, Tarikh al-Khulafa’,
 p. 81.
-[^5] Al-Bidaya wa al-Nihaya, vol. 8, p. 216. Ibn al-Athir, al-Kamil,
+[^5]: Al-Bidaya wa al-Nihaya, vol. 8, p. 216. Ibn al-Athir, al-Kamil,
 vol. 4, p. 45.
 
 I not loved? Was I not honored? By Allah, I saw Yazid bin Mu’awiya
@@ -602,15 +602,14 @@ creative concepts of the caliphate into a hereditary kingdom. All these
 premises Mu’awiya made took place during the lifetime of Imam al-Hasan,
 peace be on him. However he did
 
-[^1] Ibn ‘Asakir, vol. 7, p. 28.
-[^2] Qur’an, 26, 128-129.
-[^3] Subh al-A‘sha, vol. 6, p. 388.
-[^4] Al-‘Aqd al-Farid, vol. 2, p. 302.
-[^5] Al-Tabari, Tarikh, vol. 6, p. 270. Al-‘Aqd al-Farid, vol. 2, p.
+[^1]: Ibn ‘Asakir, vol. 7, p. 28.
+[^2]: Qur’an, 26, 128-129.
+[^3]: Subh al-A‘sha, vol. 6, p. 388.
+[^4]: Al-‘Aqd al-Farid, vol. 2, p. 302.
+[^5]: Al-Tabari, Tarikh, vol. 6, p. 270. Al-‘Aqd al-Farid, vol. 2, p.
 302.
 
 not declare the official pledge of allegiance to Yazid until he
 assassinated the Imam. We have to deal with some preparatory means
 Mu’awiya had done for this purpose.
-
 

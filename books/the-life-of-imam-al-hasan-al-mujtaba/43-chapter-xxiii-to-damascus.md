@@ -39,7 +39,7 @@ creature to ask him for your need and leave asking your Lord?”
 “What shall I do?” asked al-Hasan. Allah’s Apostle, may Allah bless him
 and his family, taught him this supplication: “O Allah, I ask you for
 every affair toward which my strength is
-[^1] Al-Shaykh al-Ansari, al-Makasibin
+[^1]: Al-Shaykh al-Ansari, al-Makasibin
 
 weak, to which my desire does not come, which does not come to my mind
 and does not run through my tongue. That is from among the things You
@@ -81,10 +81,10 @@ aggression toward him. However the Imam gave them strong answers of his
 flowing speech. He defeated them, made shame and disgrace follow them.
 He made them feel their evil deeds,
 
-[^1] Ibn ‘Asakir, Tarikh. Mashariq al-Anwar. Noor al-Abbsar.
-[^2] Jama‘ Asrar al-‘Ulama’. A hand-written book available in the Public
+[^1]: Ibn ‘Asakir, Tarikh. Mashariq al-Anwar. Noor al-Abbsar.
+[^2]: Jama‘ Asrar al-‘Ulama’. A hand-written book available in the Public
 Library of Kashif al-Ghita’.
-[^3] Hayat al-Imam Musa bin Ja‘far, vol. 2, p. 332.
+[^3]: Hayat al-Imam Musa bin Ja‘far, vol. 2, p. 332.
 
 the deviation and corruption for which they were famous. He unwillingly
 answered them. He refuted their obscenity and said: “By Allah, were it
@@ -127,8 +127,8 @@ Allah forbids that I say that I am better than you, for you have no
 good. Surely Allah has cleared me from vices as He has cleared you from
 virtues.”[^2]
 
-[^1] Al-Zarkali, A‘lam, vol. 2, p. 215.
-[^2] Abu Ali al-Nisaburi, Roudat al-Wa‘izeen.
+[^1]: Al-Zarkali, A‘lam, vol. 2, p. 215.
+[^2]: Abu Ali al-Nisaburi, Roudat al-Wa‘izeen.
 
 This is the speech of the free who condemn oppression and resist
 forbidden things; this is not the speech of the one who wants pay and
@@ -174,7 +174,7 @@ So you, O son of Harb, do not mock at the like of me, nor does the
 threat frighten the like of me.
 Slowly! Do not move, from us, affairs that make the newborn child
 white-haired out of fear of them.[^1]
-[^1] Al-Jahiz, al-Mahasin wa al-Azdad, p. 95. Al-Bayqahi, al-Mahasin wa
+[^1]: Al-Jahiz, al-Mahasin wa al-Azdad, p. 95. Al-Bayqahi, al-Mahasin wa
 al-Masawi’,
 
 Imam al-Hasan (a.s) has showed his excellence and achievements, spread
@@ -353,7 +353,7 @@ polytheists was with your father. During all of that Allah granted him
 conquest, showed his proof, supported his summons, and confirmed his
 speech. In all those places Allah’s Apostle, may Allah bless
 
-[^1] Al-Laat and al-‘Uzzaa were two idols.
+[^1]: Al-Laat and al-‘Uzzaa were two idols.
 
 him and his family, was pleased with him and was displeased with you
 and your father. I adjure you before Allah, O Mu’awiya, did you remember
@@ -525,8 +525,8 @@ saying of Nasr bin al-Hajjaj as to you:
 I have been informed that Utba betrayed him as to his wife. (He belongs
 to) a race ignoble in origin from Lahyan.’
 
-[^1] Qur'an, 32, 18.
-[^2] Qur'an, 49, 6.
+[^1]: Qur'an, 32, 18.
+[^2]: Qur'an, 49, 6.
 
 “After this I deem myself as above mentioning it because of its
 atrocity. So how can one fear your sword while you had not killed the
@@ -593,5 +593,4 @@ audacious. So send for them tomorrow, that you may hear our speech.”
 Mu’awiya turned to his minister Amr bin al-‘Aas to consult with him as
 to that: “What do you say?” “Send for them (to come) tomorrow,” replied
 Amr.
-
 
