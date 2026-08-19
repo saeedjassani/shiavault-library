@@ -40,7 +40,6 @@ Revelation. These were different from the secretaries who wrote letters,
 pacts and treaties for the Prophet (S) or wrote agreements and contracts
 between parties in his presence. 1
 
-
 **1. Compilers of the Qur'an**
 
 Ibn al-Nadim writes that from among the Companions of the Prophet (S)
@@ -130,5 +129,4 @@ in the year 22/642, 17 though 'Abd Allah ibn Mas'ud refused to hand over
 his compilation to 'Uthman, who wanted to destroy it. 18 Similarly, the
 compilation made by 'Ali ibn Abi Talib (A) was retained by him and later
 preserved by his family.
-
 

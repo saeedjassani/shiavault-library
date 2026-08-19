@@ -69,8 +69,7 @@ Meanwhile, the Qur'anic word /oubur/ originally means 'decay and
 destruction'. When a man fears from something terrible or horrific, he
 cries: /wa oabura/ which means: 'woe to me.'
 
-[^1] Majma'-ul-Bayan, following the verse
-
+[^1]: Majma'-ul-Bayan, following the verse
 
 **Commentary : Verse 14**
 
@@ -136,23 +135,23 @@ The Prophet (p.b.u.h.) says: "The fire of this world is one part of the
 seventy parts of the Hell Fire. Each of those parts has got its own
 heat."[^9]
 
-[^1] Majma'-ul-Bayan, the commentary, following the verse
+[^1]: Majma'-ul-Bayan, the commentary, following the verse
 
-[^2] Sura Al-'An'am, No. 6, verse 125
+[^2]: Sura Al-'An'am, No. 6, verse 125
 
-[^3] Sura Ta-Ha, No. 20, verse 124
+[^3]: Sura Ta-Ha, No. 20, verse 124
 
-[^4] Sura Furqan, No. 25, verse 13
+[^4]: Sura Furqan, No. 25, verse 13
 
-[^5] Sura Al-Abraham'raf, No. 7, verse 96
+[^5]: Sura Al-Abraham'raf, No. 7, verse 96
 
-[^6] Sura Az-Zumar, No. 39, verse 73
+[^6]: Sura Az-Zumar, No. 39, verse 73
 
-[^7] Sura 'al-i-'Imran, No. 3, verse 162
+[^7]: Sura 'al-i-'Imran, No. 3, verse 162
 
-[^8] Bihar, Vol. 8, p. 261
+[^8]: Bihar, Vol. 8, p. 261
 
-[^9] Kanz-ul-'Ummal, 39477
+[^9]: Kanz-ul-'Ummal, 39477
 
 Imam Ali (a.s.) once says: "One who enters the Hell is miserable for
 ever."[^1]
@@ -165,10 +164,9 @@ Imam Ali(a.s.) says: "Fear the Fire the heat of which is too much,and
 its bottom is very deep and its ornament is iron, and its beverage is
 boiling fetid water (blood mixed with filth)."[^3]
 
-[^1] Qurar-ul-Hikam, 10892
+[^1]: Qurar-ul-Hikam, 10892
 
-[^2] Muhajjat-ul-Bayza, Vol. 8, p. 356
+[^2]: Muhajjat-ul-Bayza, Vol. 8, p. 356
 
-[^3] Bihar, Vol. 8, p. 208, taken from Nahj-ul-Balaqah
-
+[^3]: Bihar, Vol. 8, p. 208, taken from Nahj-ul-Balaqah
 

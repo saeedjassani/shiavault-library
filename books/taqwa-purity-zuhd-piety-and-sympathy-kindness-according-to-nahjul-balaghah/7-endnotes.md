@@ -13,7 +13,7 @@ Endnotes
 
 [^6]Ibid. ,Khutab 157
 
-[^7] SeeGuftar e mah, vol. I, the second speech
+[^7]: SeeGuftar e mah, vol. I, the second speech
 
 [^8]Ibid., Khutab 191
 
@@ -23,7 +23,7 @@ Endnotes
 Rumi in the sixth part of his Mathnawi, refers to this tradition in the
 story of the bird and the hunter.
 
-[^11] This is a reference to toKhutab No. 3 p. 50
+[^11]: This is a reference to toKhutab No. 3 p. 50
 
 [^12]Ibid,.Khutab 209
 
@@ -45,7 +45,7 @@ story of the bird and the hunter.
 
 [^21]Ibid, Kutub, No. 45
 
-[^22] al Kulayni,al Kafi, vol. III p 194-5
+[^22]: al Kulayni,al Kafi, vol. III p 194-5
 
 [^23]Nahj al-balaghah, Hikam , No. 103
 
@@ -53,10 +53,9 @@ story of the bird and the hunter.
 
 [^25]Ibid., 420
 
-[^26] The person referred here is Akbar Parwarish
+[^26]: The person referred here is Akbar Parwarish
 
 [^27]Ibid., Kutub 45
 
 [^28]Usul e Iqtisad e Nuhsin, "Shakl e arzish e pul".
-
 

@@ -13,7 +13,7 @@ al-Hasan ascended the pulpit. He said: “O people, you have said too much
 about these two men. They were sent to act according to the Book against
 the mean desire but they acted according to the mean desire against the
 Book. Whoever is such is not called
-[^1] Al-Mas‘udi has in detail written that in his book Murujj al-Dhahab,
+[^1]: Al-Mas‘udi has in detail written that in his book Murujj al-Dhahab,
 vol. 1, p. 277.
 
 an arbitrator, but a convict. Abdullah bin Qays has made a mistake when
@@ -28,7 +28,7 @@ through it, had not unanimously agreed on him. As for the arbitration,
 it is that the Prophet (a.s) appointed Sa’d bin Mu‘ath[^1] as an
 arbitrator over the Banu Qurayda, and he decided according to
 
-[^1] Sa‘d bin Mu’ath bin al-Nu‘man al-Ansari was from al-Aws Tribe. He
+[^1]: Sa‘d bin Mu’ath bin al-Nu‘man al-Ansari was from al-Aws Tribe. He
 became Muslim at the hand of Mus‘ab bin Umayr. That was when the Prophet
 sent him to teach the Muslims in Medina (to read and write). When Sa‘d
 became Muslim, he said to the Banu al-Ashhal: “It is forbidden for me to
@@ -142,8 +142,8 @@ Muslims to believe in Allah and His Apostle.
 -Abdullah bin Khabbab bin al-Arat, the companion of Allah’s Apostle.
 -Have we terrified you? -Yes.
 
-[^1] Al-Imama wa al-Siyasa, vol. 1, p. 144.
-[^2] Al-Nahrawan was a district between Baghdad and Wasit from the
+[^1]: Al-Imama wa al-Siyasa, vol. 1, p. 144.
+[^2]: Al-Nahrawan was a district between Baghdad and Wasit from the
 eastern side. Its border was connected to Baghdad. It had many towns
 like Iskaf, al-Safiya, and others. The battle between Imam Ali and the
 Kharijites took place there. There was a great river in it. However, the
@@ -154,7 +154,7 @@ the troops. All these reasons required the inhabitants to leave it, that
 destruction dominated it. This has been mentioned in the book Mu‘jam
 al-Buldan.
 
-[^3] Abdullah bin Khabbab bin al-Arat al-Mada’ini was the ally of Banu
+[^3]: Abdullah bin Khabbab bin al-Arat al-Mada’ini was the ally of Banu
 Zahra. He narrated traditions on the authority of his father and Ubay
 bin Abi Ka‘ab. Some traditionists reported on his authority such as
 Abdullah bin al-Harith, ‘Abdurrahman bin Abzi, a companion of the
@@ -295,13 +295,13 @@ the battle came to an end, the Imam asked his companions to look for Thu
 al-Thadya[^3] among the killed. They carefully looked for him but they
 did
 
-[^1] Al-Imam wa al-Siyasa, vol. 1, p. 155.
-[^2] Al-Shahristani, al-Milal wa al-Nihal, vol. 1, p. 159. He has
+[^1]: Al-Imam wa al-Siyasa, vol. 1, p. 155.
+[^2]: Al-Shahristani, al-Milal wa al-Nihal, vol. 1, p. 159. He has
 mentioned: “Two of them escaped to Oman, two of them to Kirman, two of
 them to Sajistan, two of them to al-Jazirah, and one of them to Tal
 Mouzoon. They spread their beliefs in these places where their heresies
 appeared.”
-[^3] In respect of Thi al-Thadya, Anas bin Malik has said: “We admired
+[^3]: In respect of Thi al-Thadya, Anas bin Malik has said: “We admired
 the worship of a man during the time of Allah’s Apostle (a.s.). We
 mentioned that to Allah’s Apostle (a.s.) and gave him the man’s name,
 but he did not recognize him. While we were mentioning him, a man came
@@ -394,7 +394,7 @@ offences! By Allah, they have met Allah, and He has given them their
 rewards! And He has made them live in the Abode of Security after their
 fear! Where are my brothers who walked in the way and followed the
 truth? Where is Ammar? And where is Ibn al-Tayhan?[^1] And
-[^1] Ibn al-Tayhan is Malik bin al-Tayhan bin Malik al-Awsi. He was
+[^1]: Ibn al-Tayhan is Malik bin al-Tayhan bin Malik al-Awsi. He was
 among the six persons who met Allah’s Apostle. He was the first of the
 Ansar to meet him and was the first to pledge allegiance to him on the
 night of al-Aqaba. It was said that he was not the first to pay homage.
@@ -436,7 +436,7 @@ good one, Muhammad bin Abi Bakr in a terrible way. As for the Iraqis,
 they were of Imam Ali at the Battle of Siffin and was killed at it. The
 Imam’s clearly speech indicates that.”
 
-[^1] Thu al-Shahadatayn was Khuzayma bin Thabit bin al-Fakih al-Ansari,
+[^1]: Thu al-Shahadatayn was Khuzayma bin Thabit bin al-Fakih al-Ansari,
 al-Awsi. He was given the kunya of Abu Imarah. Allah’s Apostle (a.s.)
 made his testimony as equal to that of two men. Once, the Prophet bought
 a horse from Sawa’ bin Qays al-Muharibi. Sawa’ denied the purchase.
@@ -452,7 +452,7 @@ Siffin. When Ammar bin Yasir was killed at the Battle of Siffin,
 Khuzayma said: “I heard Allah’s Apostle say: ‘The oppressive party will
 kill Ammar.’” Then he drew his own sword and fought until he was killed.
 This has been mentioned in the book Usd al-Ghaba, vol. 2, p. 114.
-[^2] Muhammad Abda, Sharh Nahj al-Balagha, vol. 2, p. 130.
+[^2]: Muhammad Abda, Sharh Nahj al-Balagha, vol. 2, p. 130.
 
 laggard to respond to the Imam and rise with him to resist this
 aggression. Then, Mu’awiya sent other troops under the leadership of the
@@ -492,7 +492,7 @@ Busr doted at the end of his life and died in Medina. It was said that
 he died in al-Sham during the last days of Mu’awiya’s rule. (This has
 been mentioned in the book) al-Isti‘ab, vol. 1, pp. 154-163.
 
-[^2] Abu Ayyub is Khalid bin Zayd bin Kulayb al-Ansari. He belonged to
+[^2]: Abu Ayyub is Khalid bin Zayd bin Kulayb al-Ansari. He belonged to
 the Banu al-Najjar. He was known for his name and kunya. He was present
 with the Prophet at al-Aqaba, the Battle of Badr, and the battles after
 it. When the Prophet arrived in Medina, he stopped at his house until he
@@ -504,7 +504,7 @@ until he died in Constantinople. He died in the year 50 A. H., and it
 was said that he was died in the year 52 A. H. This has been mentioned
 in (the book) al-Isaba, vol. 1, p. 405.
 
-[^3] Abi al-Fida, Tarikh, vol. 1, p. 180.
+[^3]: Abi al-Fida, Tarikh, vol. 1, p. 180.
 
 them, saying: “I have been informed that Bisr has overpowered Yemen. By
 Allah, I think that those will overcome you by their unity on their
@@ -540,15 +540,15 @@ his companions such as subservience, weakness, and feebleness. He said:
 secretly and openly and exhorted you to attack them before they would
 attack
 
-[^1] The Banu Faras were a tribe famous for bravery. Among them there
+[^1]: The Banu Faras were a tribe famous for bravery. Among them there
 was Alqama, who was delighted when he stabbed. Among them was Rabee‘a
 bin Makdam, the protector of his womenfolk dead and alive. None other
 than him protected his womenfolk.
-[^2] Muhammad Abda, Sharh Nahj al-Belagha, vol. 1, p. 60.
-[^3] It was a village near Baghdad and to the north of al-Anbar. It had
+[^2]: Muhammad Abda, Sharh Nahj al-Belagha, vol. 1, p. 60.
+[^3]: It was a village near Baghdad and to the north of al-Anbar. It had
 a lot of date palms and boons. This has been mentioned in (the book)
 Mu‘jam al-Buldan, vol. 8, p. 486.
-[^4] It is a city at the bank of the Euphrates. It is situated in the
+[^4]: It is a city at the bank of the Euphrates. It is situated in the
 western part of Baghdad. There are ten leagues between them. Sabur bin
 Hurmuz Thul Aktaf, was the first to build it. Then Abu al-Abbas
 al-Saffah, the first Abbasid caliph, renewed it, built palaces therein,
@@ -644,10 +644,9 @@ abilities, and spare no effort to fight against righteousness and all
 good tendencies. The Muslims complained of their tyranny, dictatorship,
 and oppression.
 
-[^1] Al-Khurayt bin Rashid al-Naaji was the leader of all the tribe of
+[^1]: Al-Khurayt bin Rashid al-Naaji was the leader of all the tribe of
 Mudhar at the Battle of al-Jamal. He was appointed as a governor by
 Abdullah bin Aamir over a Persian district. He was with Imam Ali until
 the arbitration took place. So he opposed him, parted with him, and went
 to Persia. Al-Isaba, vol. 1, p. 422.
-
 

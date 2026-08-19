@@ -59,9 +59,9 @@ of association with friends and relatives, the current verse talks about
 the way of Muslims' association with their leader and puts emphasis on
 observing regulations before him so that they obey him in
 
-[^1] Al-Mazan, the Commentary
+[^1]: Al-Mazan, the Commentary
 
-[^2] Fakhr-i-Raza
+[^2]: Fakhr-i-Raza
 
 every thing, and, even in many important affairs, without his
 permission they should not leave the group.
@@ -162,10 +162,10 @@ destiny and Islamic society is under consideration in it. Even, in
 addition to the commandment of the glorious Qur'an, it is based on
 reason
 
-[^1] The commentary of Fakhr-i-Raza, Rah-ul-Bayan, and Qurtaba,
+[^1]: The commentary of Fakhr-i-Raza, Rah-ul-Bayan, and Qurtaba,
 following the verse under discussion
 
-[^2] Fakhr-i-Raza
+[^2]: Fakhr-i-Raza
 
 and logic, for no organization and group remains without observing this
 principle, and correct management is impossible without it.
@@ -180,7 +180,6 @@ and manager in deciding about executive issues is respected, but this
 does not mean that we can use independent reasoning in general
 ordinances of religion and reject or enact an ordinance according to the
 benefit and interest.
-
 
 **Commentary : Verse 63**
 
@@ -280,10 +279,9 @@ those who go against His order beware lest'..." that the commands of the
 Prophet (p.b.u.h.) contains an indication to obligation but this
 argument has got some problems that are referred to in theology.
 
-[^1] If the letter 'L' is used after the word /du'a'/, it means pray and
+[^1]: If the letter 'L' is used after the word /du'a'/, it means pray and
 if the word /'ala/ is used after it, it means curse, and if there is
 none of them after it, it can mean both meanings.
-
 
 **Commentary : Verse 64**
 
@@ -333,7 +331,6 @@ manifest things is hidden from him, this belief and opinion has got a
 very extraordinarily effect on him and it guarantees man to control him
 against these sins and deviations.
 
-
 **Supplication:**
 
 Oh Allah! May illuminate the lamp (Misbah) of our heart with the light
@@ -354,7 +351,5 @@ executing Your prescribed punishments and protect our society from being
 immodest and indecent; and verily You are All-Powerful over
 everything.
 
-
 The End of Sura An-Nur
-
 

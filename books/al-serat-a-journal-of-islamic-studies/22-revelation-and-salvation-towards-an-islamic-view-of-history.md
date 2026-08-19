@@ -567,45 +567,44 @@ will they grieve (2:38).
 
 **Notes:**
 
-[^1] See 2: 30.
-[^2] See 16:68.
-[^3] See 36: 40.
-[^4] See Ayoub, The Qur'an and its Interpreters, 1, New York: SUNY
+[^1]: See 2: 30.
+[^2]: See 16:68.
+[^3]: See 36: 40.
+[^4]: See Ayoub, The Qur'an and its Interpreters, 1, New York: SUNY
 Press, 1983, ad 2: 30-34.
-[^5] Sahih Muslim, 3rd ed.. Beirut: Dar al-Fikr. 1398/1978. XVI, 210
-[^6] See Ayoub, op. cit., 1, ad 2:30-38.
-[^7] See the previous footnote.
-[^8] See also 7: 12.
-[^9] See 2:123.
-[^10] Abu Ja'far Muhammad ibn Ya'qub ibn Ishaq al-Kulayni al-Razi,
+[^5]: Sahih Muslim, 3rd ed.. Beirut: Dar al-Fikr. 1398/1978. XVI, 210
+[^6]: See Ayoub, op. cit., 1, ad 2:30-38.
+[^7]: See the previous footnote.
+[^8]: See also 7: 12.
+[^9]: See 2:123.
+[^10]: Abu Ja'far Muhammad ibn Ya'qub ibn Ishaq al-Kulayni al-Razi,
 Al-Usul min al-kafi, 3rd ed., Tehran: Dar al-Kutub al-lslamiyya. 1388,
 I, 174 6.
-[^11] For a useful summary of the doctrine of the imamate, see M. Ayoub,
+[^11]: For a useful summary of the doctrine of the imamate, see M. Ayoub,
 Redemptive Suffering in Islam: a Study of the Devotional Aspects of
 'Ashura' in Twelver Shi'ism, The Hague: Mouton Publishers, 1978, pp.
 5348; and Henri Corbin, 'De la philosophie prophetique en Islam
 Shi'ite', Eranos Jarbuch, xxx (1962), 49-1 16
-[^12] See 82:18-1 9
-[^13] 3:67. On Abraham in the Islamic tradition see Kenneth Cragg, The
+[^12]: See 82:18-1 9
+[^13]: 3:67. On Abraham in the Islamic tradition see Kenneth Cragg, The
 Privilege of Man, London: University of London, Athlone Press, 1968, ch.
 3; and Youakim Moubarac. Abraham dans le Coran, Paris: Librairie
 Philosophique J. Vrin, 1958.
-[^14] A. Guillaume. The Life of Muhammad: A Translation of Ibn Ishaqs
+[^14]: A. Guillaume. The Life of Muhammad: A Translation of Ibn Ishaqs
 Sirat Rasul Allah. 3rd ed.. Karachi: Oxford University Press, 1970, p.
 170.
-[^15] 'Imad al-Din Abu 'l-Fida' Isma'il b. Kathir, Al-sira al-nabawiya,
+[^15]: 'Imad al-Din Abu 'l-Fida' Isma'il b. Kathir, Al-sira al-nabawiya,
 Beirut: Dar al-Ma'rifa, 1396/1971, I, 421.
-[^16] See Guillaume, op. cit., p. 103; and Ali b. Rabban al-Tabari,
+[^16]: See Guillaume, op. cit., p. 103; and Ali b. Rabban al-Tabari,
 Al-din wa'l dawla, 3rd ed., Beirut: Dar al-Afaq al-Jadida, 1979. (The
 book has also been translated into English under the title Religion and
 the Empire.)
-[^17] See Q. 5:17, 73. and 116.
-[^18] Sahih al-Bukhari, Beirut: Dar al-Fikr, n.d., v, 150.
-[^19] See 15:9 and 21: 105
-[^20] See J. Spencer Trimingham, Christianity among the Arabs in
+[^17]: See Q. 5:17, 73. and 116.
+[^18]: Sahih al-Bukhari, Beirut: Dar al-Fikr, n.d., v, 150.
+[^19]: See 15:9 and 21: 105
+[^20]: See J. Spencer Trimingham, Christianity among the Arabs in
 Pre-Islamic Times, London: Longman, 1979, pp. 41 49. See also Matt 3:
 9.
-[^21] See Guillaume. op. cit., pp. 146-50.
-[^22] See Luke 14:16-24
-
+[^21]: See Guillaume. op. cit., pp. 146-50.
+[^22]: See Luke 14:16-24
 

@@ -18,9 +18,9 @@ alone possessed the jewels in the Public Treasury. He took some of them
 to adorn some of his family, and then he went up on the pulpit and said:
 “We will take our need from this Fay’ in spite of the people.”
 
-[^1] Ibn Abi al-Haddeed, vol. 1, p. 67.
-[^2] Abu al-Fida’, Tarikh, vol. 1, p. 168. Al-Ma‘arif, p. 84.
-[^3] Al-Balathiri, al-Ansab.
+[^1]: Ibn Abi al-Haddeed, vol. 1, p. 67.
+[^2]: Abu al-Fida’, Tarikh, vol. 1, p. 168. Al-Ma‘arif, p. 84.
+[^3]: Al-Balathiri, al-Ansab.
 
 This speech moved the people’s displeasure. Imam Ali (a.s) opposed him,
 saying: “You shall be prevented from that, and we will come between you
@@ -60,7 +60,7 @@ Ali (a.s). He asked him to settle his debts. So the Imam asked him:
 
 - I do not have them. Be patient until I receive my pay, and I will
 give it to you.
-[^1] Al-Ansab, vol. 5, p. 28.
+[^1]: Al-Ansab, vol. 5, p. 28.
 
 -The public treasuries are at your hand, while you delay me to your
 pay. - Do you order me to give you the Muslims’ wealth, while they have
@@ -99,12 +99,12 @@ debt to Uthman for fifty thousand (dinars). Talha said to Uthman: “Your
 money is ready that you may receive it.” Uthman gave him the money as a
 gift and said to him: “It belongs
 
-[^1] Usd al-Ghaba, vol. 3, p. 423.
-[^2] Al-Tabari, Tafseer, vol. 15, p. 77. Al-Qurtubi, vol. 10, p. 283.
-[^3] Al-Durr al-Manthur, vol. 4, p. 191.
-[^4] Qur’an, 58, 22.
-[^5] Ahmed, Musnad, vol. 1, p. 62.
-[^6] Ibn Sa ‘d, Tabaqat.
+[^1]: Usd al-Ghaba, vol. 3, p. 423.
+[^2]: Al-Tabari, Tafseer, vol. 15, p. 77. Al-Qurtubi, vol. 10, p. 283.
+[^3]: Al-Durr al-Manthur, vol. 4, p. 191.
+[^4]: Qur’an, 58, 22.
+[^5]: Ahmed, Musnad, vol. 1, p. 62.
+[^6]: Ibn Sa ‘d, Tabaqat.
 
 to you, O Abu Muhammad, because of your generosity.”[^1] He gave
 al-Zubayr six hundred thousand (dinars). When he received them, he asked
@@ -143,14 +143,14 @@ fodder. With him the children of his father (the Umayyads) also stood up
 swallowing up Allah’s wealth like a camel devouring the foliage of
 spring.”
 
-[^1] Al-Tabari, Tarikh, vol. 5, p. 139.
-[^2] Ibn Sa ‘d, Tabaqat.
-[^3] Al-Bukhari, Saheeh, vol. 5, p. 21.
-[^4] Al-Mas‘udi, Murujj al-Dhahab, vol. 1, p. 334.
-[^5] Al-Ghadir, vol. 8.
-[^6] Al-Mas‘udi, Murujj al-Dhahab, vol. 1, p. 433.
-[^7] Al-Seerah al-Halabiya, vol. 2, p. 87.
-[^8] Ibn Sa‘d, Tabaqat, vol. 3, p. 53.
+[^1]: Al-Tabari, Tarikh, vol. 5, p. 139.
+[^2]: Ibn Sa ‘d, Tabaqat.
+[^3]: Al-Bukhari, Saheeh, vol. 5, p. 21.
+[^4]: Al-Mas‘udi, Murujj al-Dhahab, vol. 1, p. 334.
+[^5]: Al-Ghadir, vol. 8.
+[^6]: Al-Mas‘udi, Murujj al-Dhahab, vol. 1, p. 433.
+[^7]: Al-Seerah al-Halabiya, vol. 2, p. 87.
+[^8]: Ibn Sa‘d, Tabaqat, vol. 3, p. 53.
 
 This is the most wonderful speech through which the devious policy is
 described when it uses authority as means for obtaining wealth, enjoying
@@ -193,8 +193,8 @@ innovation.[^2] And he sometimes becomes straight in his statements. He
 believes that Uthman deviated from Umar’s fiscal policy in maintaining
 the Public Treasury, spending nothing of it except
 
-[^1] Nahj al-Balagha, vol. 1, p. 46.
-[^2] Al-Fitnatu al-Kubra, vol. 1, p. 72.
+[^1]: Nahj al-Balagha, vol. 1, p. 46.
+[^2]: Al-Fitnatu al-Kubra, vol. 1, p. 72.
 
 the amount of need of spending, criticizing Umar’s strictness,
 believing that there was enough (money) in the Public Treasury for
@@ -239,8 +239,8 @@ me. I have come to know them, but my soul have made me desire and it
 deceived me, and my reason has gone astray. I have heard Allah’s Apostle
 (a.s) say: ‘Whoever slips should turn to Allah in
 
-[^1] Al-Fitnatu al-Kubra, vol. 1, p. 77.
-[^2] Al-Fitnatu al-Kubra, vol. 1, p. 77.
+[^1]: Al-Fitnatu al-Kubra, vol. 1, p. 77.
+[^2]: Al-Fitnatu al-Kubra, vol. 1, p. 77.
 
 repentance, and whoever makes a mistake should turn to Allah in
 repentance and should not go too far in destruction. Most surely whoever
@@ -285,8 +285,8 @@ belonged to all the Muslims, and no people had the right to alone
 possess it. It had to be spent on their interests and the reforming of
 their affairs. No tribe, whatever
 
-[^1] Al-Tabari, Tarikh.
-[^2] This was said by ‘Ammar bin Yasir, a great companion of the
+[^1]: Al-Tabari, Tarikh.
+[^2]: This was said by ‘Ammar bin Yasir, a great companion of the
 Prophet. See al-Ghadir, vol. 9, p. 216.
 
 importance it had, had to be singled out with it, and the overwhelming
@@ -420,11 +420,11 @@ believe, if an evil-doer comes to you with a report, look carefully into
 it, lest you harm a people in ignorance, then be sorry for what you have
 done.”[^5]
 
-[^1] Al-Ghadir, vol. 8, p. 273.
-[^2] Qur’an, 32, 18.
-[^3] Al-Tabari, Tafseer, vol. 21, p. 62.
-[^4] Tadhkirat al-Khawas, p. 115.
-[^5] Qur’an, 26, 6. In his book al-Isti‘ab, Ibn ‘Abd al-Bir has said:
+[^1]: Al-Ghadir, vol. 8, p. 273.
+[^2]: Qur’an, 32, 18.
+[^3]: Al-Tabari, Tafseer, vol. 21, p. 62.
+[^4]: Tadhkirat al-Khawas, p. 115.
+[^5]: Qur’an, 26, 6. In his book al-Isti‘ab, Ibn ‘Abd al-Bir has said:
 “As far as I know the
 
 The Qur’an has announced al-Waleed’s transgression and sin. Therefore,
@@ -474,7 +474,7 @@ dangerous with Allah than drinking wine.
 
 men of knowledge have not differed over that the verse was revealed in
 respect of al-Waleed.”
-[^1] Al-Sirah al-Halabiya, vol. 2, p. 314.
+[^1]: Al-Sirah al-Halabiya, vol. 2, p. 314.
 
 He also believes that al-Hutay’a did not satirize al-Waleed through his
 poetry; rather he praised him in his poetry to show love for him and to
@@ -514,8 +514,8 @@ already mentioned. Some Kufans sought the help of the leading
 companions, that they might save them from al-Waleed’s authority and
 dissoluteness; we will mention that. Dr. Taha Husayn has
 
-[^1] Al-Fitnatu al-Kubra, vol. 1, p. 96-97.
-[^2] Ahmed, Musnad, vol. 1, 144. Al-Bayqahi, Sunan, vol. 8, p. 318. Usd
+[^1]: Al-Fitnatu al-Kubra, vol. 1, p. 96-97.
+[^2]: Ahmed, Musnad, vol. 1, 144. Al-Bayqahi, Sunan, vol. 8, p. 318. Usd
 al-Ghaba, vol. 5, pp. 91-92. Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p.
 224. Ibn al-Atheer, al-Kamil, vol. 3, p. 42. Abu al-Fida’, Tarikh, vol.
 2, p. 176. Al-Sayuti, Tarikh al-Khulafa’, p. 104. Al-Ya‘qubi, Tarikh,
@@ -567,7 +567,7 @@ However he saw nobody. When he reached a well, he looked at it and saw
 his face. So he said: I see that I have a face that Allah has deformed;
 how ugly the face is, and how ugly its owner is![^1]
 
-[^1] Al-Aghani, vol. 1, Part One, pp. 76-84 (Daar al-Fikr).
+[^1]: Al-Aghani, vol. 1, Part One, pp. 76-84 (Daar al-Fikr).
 
 This is al-Hutay’a. Is his condition unknown to Dr. Taha Husayn, that
 he may regard as unlikely for him to praise and satirize al-Waleed?
@@ -642,7 +642,7 @@ al-Waleed. Therefore, Uthman had to send al-Waleed far and not to bring
 him near, that al-Waleed and those other than him might refrain from
 committing abominable deeds, and corruption. But shortly after
 
-[^1] In his book al-Aghani, vol. 4, p. 179, Abu al-Faraj has mentioned:
+[^1]: In his book al-Aghani, vol. 4, p. 179, Abu al-Faraj has mentioned:
 “Most surely the people went to Aa’isha and sought protection with her.
 When Uthman woke up, he heard from her room rough voice and words. He
 said: ‘Have the Iraqi renegades and sinners not found a refugee except
@@ -656,7 +656,7 @@ with sandals and small stones. Accordingly, a group of the companions of
 Allah’s Apostle (a.s.) visited Uthman and said to him: ‘Fear Allah! Do
 not cancel the prescribed punishments! And remove your brother!’”
 
-[^2] Saforiya was a village between Akka and al-Lajoon. It was in Jordan
+[^2]: Saforiya was a village between Akka and al-Lajoon. It was in Jordan
 and belonged to Tabariya. Al-Waleed’s father, Dhakkwan, was a Jew from
 there.
 
@@ -704,6 +704,6 @@ fast. Sa’eed bin al-Aas heard of that, and he sent for him, hit him, and
 burnt his house. Through this flagrant aggression against a leading
 Muslim, he made the people angry with him.
 
-[^1] Al-Ya‘qubi, Tarikh, vol. 2, p. 142.
-[^2] Ibn Sa‘d, Tabaqat, vol. 5, p. 21. Ibn ‘Asakir, Tarikh, vol. 6, p.
+[^1]: Al-Ya‘qubi, Tarikh, vol. 2, p. 142.
+[^2]: Ibn Sa‘d, Tabaqat, vol. 5, p. 21. Ibn ‘Asakir, Tarikh, vol. 6, p.
 135.

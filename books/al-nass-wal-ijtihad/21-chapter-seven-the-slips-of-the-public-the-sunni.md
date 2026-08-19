@@ -73,7 +73,7 @@ speak, and certainly
 
 --------------------------------------------------------------------------------
 
-[^1] He, who ponders on this verse and other verses like it, knows well
+[^1]: He, who ponders on this verse and other verses like it, knows well
 that there have been hypocrites whose faith and fairness were unknown.
 
 (397)
@@ -114,7 +114,7 @@ said: (And Muhammad is no more than a messenger; the
 
 --------------------------------------------------------------------------------
 
-[^1] Some ones of the companions had rolled rocks in the night of
+[^1]: Some ones of the companions had rolled rocks in the night of
 al-Aqaba to frighten the she-camel of the Prophet (s) to make him fall
 down. That night the Prophet (s) was coming back from the battle of
 Tabook where he had left Imam Ali (s) in his place in Medina. Ahmad bin
@@ -123,7 +123,7 @@ Abut Tufayl about this calamity and at the end of the tradition it has
 been said that the Prophet (s) had cursed a group of his companions on
 that day.
 
-[^2] Mentioned by all the historians who have recorded the events of
+[^2]: Mentioned by all the historians who have recorded the events of
 Uhud.
 
 (398)
@@ -207,8 +207,8 @@ them…”[^2]
 
 --------------------------------------------------------------------------------
 
-[^1] p.30 chap. (the battle of al-Hudaybiya).
-[^2] Sahih of al-Bukhari, vol.2 p.154.
+[^1]: p.30 chap. (the battle of al-Hudaybiya).
+[^2]: Sahih of al-Bukhari, vol.2 p.154.
 
 (400)
 
@@ -252,7 +252,7 @@ did he mention any tradition from al-Hasan bin
 
 --------------------------------------------------------------------------------
 
-[^1] Who believes in embodiment; ascribing human aspects to Allah, the
+[^1]: Who believes in embodiment; ascribing human aspects to Allah, the
 Almighty.
 
 (401)
@@ -294,13 +294,13 @@ in criticizing some of the companions[^3] and believing in the
 
 --------------------------------------------------------------------------------
 
-[^1] He was the imam after his uncle Imam Husayn (s) according to the
+[^1]: He was the imam after his uncle Imam Husayn (s) according to the
 opinion of the Zaydites and then Zayd and then the others as we have
 arranged them above.
 
-[^2] He was killed in Iraq six years before the death of al-Bukhari.
+[^2]: He was killed in Iraq six years before the death of al-Bukhari.
 
-[^3] I do not know how the jurisprudential doctrines are built on
+[^3]: I do not know how the jurisprudential doctrines are built on
 criticizing some of the companions and I do not know how the legal
 verdicts are derived from criticizing
 
@@ -333,7 +333,7 @@ come back to Egypt…”
 people! Ibn Khaldoon is considered as one of the philosophers…then what
 is this raving of him?!
 
-[^1] The Shia have proved the infallibility of their imams in their
+[^1]: The Shia have proved the infallibility of their imams in their
 books with rational and traditional evidences. Here we cannot discuss
 that because we will be way from the subject of this book. It is enough
 evidence on their infallibility that they are the equal of the Qur'an
@@ -344,16 +344,16 @@ The infallible imams are the ship of rescue and the gate of Hitta
 from being distorted and from being interpreted by the ignorants.
 Blessing and peace be upon them all.
 
-[^2] Ibn Khaldoon has told a lie in this word! He has said that he has
+[^2]: Ibn Khaldoon has told a lie in this word! He has said that he has
 not known anything about their doctrines or their books then how could
 he say that they were irregular, deviate and heretic and how could he
 know that their principles were weak?
 
-[^3] Ar-Rafidha means “the refusers”. The Sunni have called the Shia
+[^3]: Ar-Rafidha means “the refusers”. The Sunni have called the Shia
 with this name claiming that they (the Shia) have refused the first
 three caliphs and the companions.
 
-[^4] He acknowledged that ar-Rafidha (the Shia) had believed in the
+[^4]: He acknowledged that ar-Rafidha (the Shia) had believed in the
 doctrine of Ahlul Bayt (s).
 
 (403)
@@ -377,32 +377,32 @@ when the storms of disagreement blew, who
 
 --------------------------------------------------------------------------------
 
-[^1] With reference to the Qur’anic verse (Allah only desires to keep
+[^1]: With reference to the Qur’anic verse (Allah only desires to keep
 away the uncleanness from you, O people of the House! and to purify you
 a (thorough) purifying) 33:33.
 
-[^2] With reference to the verse (But whoever disputes with you in this
+[^2]: With reference to the verse (But whoever disputes with you in this
 matter after what has come to you of knowledge, then say: Come let us
 call our sons and your sons and our women and your women and our near
 people and your near people, then let us be earnest in prayer, and pray
 for the curse of Allah on the liars) 3:61.
 
-[^3] With reference to the verse (Say: I do not ask of you any reward
+[^3]: With reference to the verse (Say: I do not ask of you any reward
 for it but love for my near relatives) 42:23.
 
-[^4] Ad-Daylami and others have mentioned a tradition narrated by Abu
+[^4]: Ad-Daylami and others have mentioned a tradition narrated by Abu
 Sa’eed al-Khidri that the Prophet (s) had said: “And stop them, for they
 shall be questioned (37:24)… about the guardianship of Ali.” Al-Wahidy
 said-as in as-Sawa’iq al-Muhriqa-when interpreting this verse: “They
 will be asked about the guardianship of Ali and Ahlul Bayt.”
 
-[^5] Ibn Hajar said in his as-Sawa’iq al-Muhriqa, p.93: “It has been
+[^5]: Ibn Hajar said in his as-Sawa’iq al-Muhriqa, p.93: “It has been
 narrated from many ways each confirming the other that the Prophet (s)
 has said: “The example of my family among you is like the Ark of Noah;
 whoever rides on it will be rescued.” Muslim added in his Sahih : “…and
 whoever lags behind it will drown and perish.”
 
-[^6] The Prophet (s) has said: “The stars are safety for the people of
+[^6]: The Prophet (s) has said: “The stars are safety for the people of
 the earth from drowning and my family is safety for my umma from
 disagreement. If a tribe of the Arabs opposes them (the Prophet’s
 family), they (the people of the tribe) will disagree among them and
@@ -428,7 +428,7 @@ preceding them[^4] or lagging behind them. The
 is safety for my umma.” Also mentioned by as-Sayooti in his book Ihya’
 al-Mayyit, an-Nabahani in his Arba’een and by others.
 
-[^1] The Prophet (s) has said: “The example of my family among you is
+[^1]: The Prophet (s) has said: “The example of my family among you is
 like the Ark of Noah; whoever rides on it will be rescued and whoever
 lags behind it will drown and like the gate of Hitta of the Israelite.”
 Mentioned by al-Hakim from Abu Tharr. At-Tabarani mentioned in
@@ -457,7 +457,7 @@ these occasions because he had intended to make people take much care of
 the Qur'an and the pure family of the Prophet (s)…” Refer to as-Sawa’iq,
 p.92.
 
-[^3] As-Sabban said in his Is’af, p.114: “Some scholars of Hadith have
+[^3]: As-Sabban said in his Is’af, p.114: “Some scholars of Hadith have
 mentioned in their Sunan a tradition narrated by many companions that
 the Prophet (s) had said: “My family among you is like the Ark of Noah;
 whoever rides on it will be rescued and whoever lags behind it will
@@ -489,31 +489,31 @@ be in Hell.”[^5]
 are more aware than you.” Refer to Rashfat as-Sadi by Abu Bakr
 al-Alawi, chap.5 and as-Sawai’q al-Muhriqa by ibn Hajar, chap.11.
 
-[^1] Al-Mullah mentioned in his Seera that the Prophet (s) had said: “In
+[^1]: Al-Mullah mentioned in his Seera that the Prophet (s) had said: “In
 every generation of my umma there will be virtuous believers from my
 progeny, who will keep this religion safe from the distortion of the
 deviants, the fabrication of the liars and the interpretation of the
 ignorants. Your imams are your delegations to Allah. Be careful whom you
 will delegate.” As-Sawa’iq by ibn Hajar, p.92.
 
-[^2] The Prophet (s) has said: “Knowing the family of Muhammad saves
+[^2]: The Prophet (s) has said: “Knowing the family of Muhammad saves
 (people) from Hell, loving the family of Muhammad helps to pass to
 Paradise and submitting to the family of Muhammad saves from torment.”
 Ash-Shifa’ by Judge Ayyadh, vol.2 p.41.
 
-[^3] The Prophet (s) has said: “Keep to loving us, Ahlul Bayt. He, who
+[^3]: The Prophet (s) has said: “Keep to loving us, Ahlul Bayt. He, who
 meets Allah with loving us, will enter Paradise by our intercession. I
 swear by Him, in Whose hand my soul is, that no deed will benefit anyone
 except by knowing our rights.” Mentioned by at-Tabari in al-Awsat,
 as-Sayooti in Ihya’ al-Mayyit and an-Nabahni in al-Arba’een.
 
-[^4] The Prophet (s) has said: “No one will step unless he will be asked
+[^4]: The Prophet (s) has said: “No one will step unless he will be asked
 about four things; about his age how he has spent it, his body how he
 has worn it out, his money how he has spent and where he has gained from
 and about loving us Ahlul Bayt.” Mentioned by at-Tabarani from ibn
 Abbas, as-Sayooti in Ihya’ul Mayyit and an-Nabahani in al-Arba’een.
 
-[^5] The Prophet (s) has said: “If a man spends his age between the
+[^5]: The Prophet (s) has said: “If a man spends his age between the
 Kaaba and the temple (of Abraham) praying and fasting but hating Ahlul
 Bayt, he will be thrown into Hell.” Mentioned by at-Tabarani, al-Hakim
 and an-Nabahani. Abu Sa’eed narrated that the Prophet (s) had said: “By
@@ -654,8 +654,8 @@ not be forgiven on the Day of Resurrection.”
 
 --------------------------------------------------------------------------------
 
-[^1] Vol.4 p.177.
-[^2] vol.3 p.247.
+[^1]: Vol.4 p.177.
+[^2]: vol.3 p.247.
 
 (409)
 
@@ -663,5 +663,4 @@ The true traditions about this matter are recurrent especially from
 Ahlul Bayt (s). Refer to our book al-Fusool al-Muhimma for there is what
 delights the hearts of the umma especially in the first seven
 chapters.
-
 

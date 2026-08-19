@@ -196,11 +196,11 @@ us and he is Mahdi (the guide) of the Ummah. He will fill the earth with
 justice and fairness as it has been filled with oppression and tyranny.
 He is the
 
-[^1] In the book Muntakhab-ul-'Athar, 123 hadiths are mentioned about
+[^1]: In the book Muntakhab-ul-'Athar, 123 hadiths are mentioned about
 this matter and they are narrated from different Islamic references,
 especially from Sunni ones. Refer to this books from page 247 on.
 
-[^2] Majma'-ul-Bayan, following the verse
+[^2]: Majma'-ul-Bayan, following the verse
 
 man about whom the Prophet (p.b.u.h.) said: 'If one day of the world's
 lifetime has remained ..."
@@ -232,9 +232,9 @@ another verse of the Qur'an it is mentioned as the aim of creation,
 where it says: "And I have not created the jinn and the humankind except
 that they should worship Me."[^2]
 
-[^1] The Commentary by QurtAbi, following the verse
+[^1]: The Commentary by QurtAbi, following the verse
 
-[^2] Sura Ath-Thariyat, No. 51, verse 56
+[^2]: Sura Ath-Thariyat, No. 51, verse 56
 
 A kind of worship which is the high education center of men that
 edifies their spirit and soul. The worship that Allah does not need but
@@ -269,7 +269,6 @@ government is in the hand of the righteous believers and no public
 polytheism is seen in the society, otherwise, when man is free to choose
 his way and has got the freedom of will, it is possible to have deviated
 individuals in the man's best divine societies.
-
 
 **Commentary : Verse 56**
 
@@ -342,13 +341,13 @@ years old, tell them to keep up prayer."[^3]
 unless an angle cries: O' people stand up and put off the fires that you
 have kindled."[^4]
 
-[^1] Kanz-ul-'Ummal, Vol, 7, Tradition No. 18859
+[^1]: Kanz-ul-'Ummal, Vol, 7, Tradition No. 18859
 
-[^2] Bihar, Vol. 82, p. 234
+[^2]: Bihar, Vol. 82, p. 234
 
-[^3] Wasa'il-ush-Shi'ah, Vol. 3, p. 12
+[^3]: Wasa'il-ush-Shi'ah, Vol. 3, p. 12
 
-[^4] Bihar, Vol. 82, p. 209
+[^4]: Bihar, Vol. 82, p. 209
 
 6. Imam Ali (a.s.) said: "When a person stands up to perform ritual
 prayer, Satan looks at him jealously, for he sees that Allah's mercy has
@@ -378,17 +377,17 @@ without the other ones: ritual prayer, alms-tax and guardianship."[^5]
 11. The Prophet (p.b.u.h.) said: "Heal your patients with charity, and
 save (and insure) your property with alms-tax."[^6]
 
-[^1] Bihar, Vol. 82, p. 207
+[^1]: Bihar, Vol. 82, p. 207
 
-[^2] Kanz-ul-'Ummal, Vol, 7, Tradition No. 18931
+[^2]: Kanz-ul-'Ummal, Vol, 7, Tradition No. 18931
 
-[^3] Kanz-ul-'Ummal, Vol, 7, Tradition No. 18872
+[^3]: Kanz-ul-'Ummal, Vol, 7, Tradition No. 18872
 
-[^4] Bihar-ul-'Anwar, Vol. 77, p. 407
+[^4]: Bihar-ul-'Anwar, Vol. 77, p. 407
 
-[^5] Bihar-ul-'Anwar, Vol. 68, p. 386
+[^5]: Bihar-ul-'Anwar, Vol. 68, p. 386
 
-[^6] Wasa'il-ush-Shi'ah, p. 66
+[^6]: Wasa'il-ush-Shi'ah, p. 66
 
 12. Imam Musa-Ibn-Ja'far (a.s.) said: "Verily Alms-tax is set for being
 the food of the poor, and for increasing their wealth."[^1]
@@ -405,13 +404,11 @@ camel, cow, and sheep, and let off other ones."[^3]
 may expire." Then Imam was asked: "What does expire mean?" He said:
 "Death"[^4]
 
+[^1]: Ibid, p. 46
 
-[^1] Ibid, p. 46
+[^2]: Wasa'il-ush-Shi'ah, 146
 
-[^2] Wasa'il-ush-Shi'ah, 146
+[^3]: Ibid, 34
 
-[^3] Ibid, 34
-
-[^4] Bihar-ul-'Anwar, Vol. 96, p. 109
-
+[^4]: Bihar-ul-'Anwar, Vol. 96, p. 109
 

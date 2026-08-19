@@ -998,4 +998,3 @@ It is He who is God in heaven and God on earth (Al-Zukhruf ­43:84).
 [^1] Muhammad Asad, Islam at the Crossroads (1955). Arafat Publications,
 Lahore, Pakistan, pp. 17-20.
 
-

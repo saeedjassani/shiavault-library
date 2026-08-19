@@ -28,9 +28,9 @@ true servants of Allah, where it says: "The (faithful) servants of the
 Beneficent (Allah) are those who.nor commit formation ..."[^2], and again
 it considers
 
-[^1] Sura 'Isra No. 17, verse 32
+[^1]: Sura 'Isra No. 17, verse 32
 
-[^2] Sura Al-Furqan, No. 25, verse 63 and 68
+[^2]: Sura Al-Furqan, No. 25, verse 63 and 68
 
 the avoidance of committing this sin as the condition for the
 allegiance with the Prophet (p.b.u.h.) as, in another occurrence, the
@@ -69,7 +69,7 @@ of Judgment, because the sign of belie in origin and Resurrection is
 absolute resignation to Allah's commandment.The belief in the Lord of
 the world, Who is All-Knowing, All-Wise, makes man know
 
-[^1] Sura Al-Mumtahanah, No. 60, verse 12
+[^1]: Sura Al-Mumtahanah, No. 60, verse 12
 
 that each commandment is based on a philosophy and wisdom and is not
 legislated without any reason. Having faith in Resurrection causes man
@@ -103,7 +103,7 @@ manifest.
 Thus, in this way, the answer to the question that why Islam allows a
 man's honour to be lost in the public becomes
 
-[^1] The commentary of Fakhr-i-Razi, Vol. 23, p. 148
+[^1]: The commentary of Fakhr-i-Razi, Vol. 23, p. 148
 
 clear, because as far as the sin is not manifested and is not reported
 to the Islamic court, Allah, Who veils vices, does not will to unveil
@@ -144,9 +144,9 @@ this world and the other world. In this world, there are ruins of man's
 luminosity and beauty, untimely death, and termination of the portion of
 sustenance. And in the other
 
-[^1] Bihar, Vol. 79, p. 24
+[^1]: Bihar, Vol. 79, p. 24
 
-[^2] Nahj ul-Balaqah, Wisdom 252
+[^2]: Nahj ul-Balaqah, Wisdom 252
 
 world, there will be helplessness at the time of resurrection's
 reckoning, and there are Allah's rage and eternal Hell."[^1]
@@ -186,17 +186,17 @@ Muslims."[^6]
 2. The function of women in creating unlawful relations and preparing
 preliminaries of fornication is more considerable
 
-[^1] Bihar, Vol. 77, p. 58
+[^1]: Bihar, Vol. 77, p. 58
 
-[^2] Bihar, Vol. 73, p. 372
+[^2]: Bihar, Vol. 73, p. 372
 
-[^3] Bihar, Vol. 76, p. 27
+[^3]: Bihar, Vol. 76, p. 27
 
-[^4] Bihar, Vol. 76, p. 19
+[^4]: Bihar, Vol. 76, p. 19
 
-[^5] Ibid
+[^5]: Ibid
 
-[^6] Bihar, Vol. 76, p. 21
+[^6]: Bihar, Vol. 76, p. 21
 
 than that of men. On the contrary, in stealth, men have more function.
 Thus, in the verse, the Arabic word /zaniyah/ (fornicatress) precedes
@@ -244,7 +244,6 @@ evil.
 
 15. Only Muslims are allowed to attend the occasion of execution of
 Divinely-prescribed punishment
-
 
 **Commentary: Verse 3**
 
@@ -315,7 +314,7 @@ Muslims from marrying them. Right now this judgment covers all people.
 None should marry one who commits this wrong action and is punished
 according to
 
-[^1] Majm' ul-Bayan and QurtAbi in his commentary has narrated this
+[^1]: Majm' ul-Bayan and QurtAbi in his commentary has narrated this
 tradition
 
 Divinely-prescribed measures until his or her repentance is
@@ -351,7 +350,7 @@ with such a lawful way commits fornication, his Islam prescribed
 punishment is death sentence. How this sentence is carried out is
 explained in the
 
-[^1] 'Usul-i-Kafi, Vol. 2, p.26, as narrated from Nur-uth-Thaqalyn, Vol.
+[^1]: 'Usul-i-Kafi, Vol. 2, p.26, as narrated from Nur-uth-Thaqalyn, Vol.
 3, p. 571
 
 books of Islamic jurisprudence. The sentence that is issued about the
@@ -490,7 +489,7 @@ Moreover,every one knows that psychic and venereal diseases, murdering
 offspring, abortion,and suchlike crimes are its gloomy results. In
 brief, if offspring of adultery increases in a society, the social
 
-[^1] Wasa'il-ush-Shi'ah, Vol. 14, p. 335
+[^1]: Wasa'il-ush-Shi'ah, Vol. 14, p. 335
 
 relationships, which are based on family relations, will terribly
 become shaky and unstable.
@@ -561,13 +560,13 @@ fornication."[^4]
 causes poverty, shortens the lifetime, terminates the provision. It
 ruins beauty and glory and brings
 
-[^1] Majma' ul-Bayan, Vol. 6, p. 414
+[^1]: Majma' ul-Bayan, Vol. 6, p. 414
 
-[^2] Bihar, Vol. 76, p. 23
+[^2]: Bihar, Vol. 76, p. 23
 
-[^3] Nahj ul-Fisahah, p. 57
+[^3]: Nahj ul-Fisahah, p. 57
 
-[^4] The explanation of Nahj ul-Balaqah, by Ibn Abi Al-Hadid, Vol. 19,
+[^4]: The explanation of Nahj ul-Balaqah, by Ibn Abi Al-Hadid, Vol. 19,
 p. 311
 
 Allah's anger near and the doer of it is wretched and ashamed."[^1]
@@ -593,16 +592,15 @@ fornication."[^6]
 issues will do good to you. And abstain from people's wives, so that
 your wives will be chaste (and safe)."
 
-[^1] Bihar, Vol. 76, p. 28
+[^1]: Bihar, Vol. 76, p. 28
 
-[^2] Bihar, Vol. 70, p. 369 and Furu'-i-Kafi, Vol. 5, p. 541
+[^2]: Bihar, Vol. 70, p. 369 and Furu'-i-Kafi, Vol. 5, p. 541
 
-[^3] Wasa'il, Vol. 5, p. 47
+[^3]: Wasa'il, Vol. 5, p. 47
 
-[^4] Wasa'il, Vol. 6, p. 256
+[^4]: Wasa'il, Vol. 6, p. 256
 
-[^5] Bihar, Vol. 76, p. 21
+[^5]: Bihar, Vol. 76, p. 21
 
-[^6] Khisal, by Saduq, p. 182
-
+[^6]: Khisal, by Saduq, p. 182
 

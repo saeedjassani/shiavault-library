@@ -32,14 +32,14 @@ people is with them.” Al-Musayyab and Zabyan asked Imam al-Hasan to stay
 in Kufa, but he refused to respond to them, saying: “There is no way to
 that.”[^2]
 
-[^1] Zabyan bin ‘Ammarah al-Tamimi narrated traditions on the authority
+[^1]: Zabyan bin ‘Ammarah al-Tamimi narrated traditions on the authority
 of Imam Ali, the Commander of the faithful, peace be on him. Al-Bukhari
 has mentioned him as among his companions. Ibn Hatam and Ibn Habban have
 regarded him as among the successors. This has been mentioned in (the
 book) al-Isaba, vol. 2, p. 232. In the book Lisan al-Mizan, vol.3, p.
 215, it has been mentioned: “Ibn Habban has regarded Zabyan as among the
 trustworthy. Ibn Hatam has not criticized him.”
-[^2] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p.6.
+[^2]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p.6.
 
 Imam al-Hasan (a.s) got ready to travel. Then he and his household
 headed for the capital of his grandfather (Medina). The people of Kufa,
@@ -79,11 +79,11 @@ those who attacked him in al-Mada’in, and obeyed him on the hard day at
 Maskan. So they were truthful brothers and good supporters though they
 were few in number.
 
-[^1] Al-Fakhuri, Tuhfat al-Anam, p. 67.
-[^2] Al-Mas‘udi, vol. 6, p. 97.
-[^3] Deer Hind is a place at al-Hira. Hind, daughter of al-Nu‘man bin
+[^1]: Al-Fakhuri, Tuhfat al-Anam, p. 67.
+[^2]: Al-Mas‘udi, vol. 6, p. 97.
+[^3]: Deer Hind is a place at al-Hira. Hind, daughter of al-Nu‘man bin
 al-Mundhir, became a nun at it, and it was called by her name.
-[^4] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p.6.
+[^4]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p.6.
 
 The procession of the Imam walked. Shortly after that Mu’awiya’s
 messenger came and asked the Imam to come back to fight against a group
@@ -128,7 +128,7 @@ al-Asbagh bin Nabata, Jabir bin Khuld, Abu al-Jawza’, ‘Isa bin Ma’mun
 bin Zurara, Nufala bin al-Ma’mum, Abu Yahya ‘Umayr bin Sa‘eed al-Nakh‘i,
 Abu Maryam Qays al-Thaqafi, Tuhrub al-‘Ijjli, Ishaq bin Yasar (the
 father of Muhammad bin Ishaq), Abdurrahman bin ‘Awf,
-[^1] Al-Kamil, vol. 3, p. 208.
+[^1]: Al-Kamil, vol. 3, p. 208.
 
 and Amr bin Qays.[^1] Yathrib flourished through this group of religious
 scholars and narrators. It was the richest of the Islamic cities in
@@ -170,9 +170,9 @@ of the success. He comes to you shaking with fear, and his heart
 beating. If you meet his need through that with which he may lose face,
 then that would be greater than that which he obtains of your favor.”
 
-[^1] Ibn ‘Asakir, Tarikh, vol. 12. A photograph available in the Library
+[^1]: Ibn ‘Asakir, Tarikh, vol. 12. A photograph available in the Library
 of Imam (Ali), Amir al-Mu’minin.
-[^2] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.364.
+[^2]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.364.
 
 Imam al-Hasan was a refuge for the poor, the deprived, the widows, and
 the orphans. In the first part of the book we have mentioned some
@@ -303,15 +303,15 @@ good deed and an evil one.’[^3] But you are as Allah, glory to Him, said:
 ‘Nay! Rather, what they used to do has become like rust upon their
 hearts.’”[^4] Then he left him and went away.
 
-[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 72.
-[^2] Habeeb bin Maslama bin Malik al-Qarashi al-Fihri was called the
+[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 72.
+[^2]: Habeeb bin Maslama bin Malik al-Qarashi al-Fihri was called the
 lover of the Romans. That is because he always went to them and obtained
 from them. He was the most loyal of the people to Mo’awiya. He did not
 part with him at the Battle of Siffin, and the like. Mo’awiya appointed
 him as a governor over Armenia, and he died in it in the year 42 A. H.
 This has been mentioned in (the book) al-Isti‘ab, vol. 1, p. 327.
-[^3] Qur’an, 9, 102.
-[^4] Ibid., 83, 14.
+[^3]: Qur’an, 9, 102.
+[^4]: Ibid., 83, 14.
 
 **Imam al-Hasan refuses to be related by Marriage to the Umayyads**
 
@@ -353,7 +353,7 @@ therefore, we do not make peace with you for the life in the world.”
 “As for your statement, ‘Yazid is well-qualified, none is equal to
 him,’ his today equals are his yesterday equals. His authority has
 increased him nothing.”
-[^1] The Sunna of Allah’s Apostle, (a.s.) with regard to the dowry of
+[^1]: The Sunna of Allah’s Apostle, (a.s.) with regard to the dowry of
 his wives and his daughters was four hundred dirhams.
 
 “As for your speech, ‘one envies us for Yazid more than he envies him
@@ -385,7 +385,7 @@ did his best to frustrate his means. He heard that Mu’awiya said: “The
 Hashimite must be generous, the Umayyad must be clement, al-Zubayri must
 be brave, and al-Makhzumi must be haughty.”
 
-[^1] Al-Khawarizmi, Maqtal al-Husayn, vol. 1, p. 124. In the book
+[^1]: Al-Khawarizmi, Maqtal al-Husayn, vol. 1, p. 124. In the book
 Majjma‘ al-Zawa’id, vol. 4, p. 278, it has been mentioned on the
 authority of Mo’awiya bin Khudayj, who said: “Mo’awiya bin Abi Sufyan
 sent me to al-Hasan bin Ali to marry Yazid to a daughter of his or a
@@ -446,7 +446,7 @@ audacity to him. He said to him: “Use your opinion with regard to him
 and do not turn away from him through your malady. If you shoot him with
 your biting speech and your firm answer, he will yield to you as the old
 camel does.”
-[^1] Ibn Qutayba, ‘Uyun al-Akhbar, vol. 1, p. 196.
+[^1]: Ibn Qutayba, ‘Uyun al-Akhbar, vol. 1, p. 196.
 
 Mu’awiya responded to al-Dahhak’s viewpoint. On Friday he ascended the
 pulpit. He praised Allah and lauded him, and called down blessings upon
@@ -543,5 +543,4 @@ criticize Mu’awiya and to spread his evil deeds and his defects in his
 capital and royal court. Among the objectives of that travel was that
 Imam al-Hasan propagated the party he had formed to overthrow the
 Umayyad government and to return the Islamic state to its just regime.
-
 

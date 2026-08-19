@@ -223,7 +223,7 @@ Isosceles nor Scalenum, nor has any particular length or proportion of
 sides; and he will soon perceive the absurdity of all the scholastic
 notions with regard to abstraction and general ideas.
 
-[^1] Thus the first philosophical objection to the evidence of sense or
+[^1]: Thus the first philosophical objection to the evidence of sense or
 to the opinion of external existence consists in this, that such an
 opinion, if rested on natural instinct, is contrary to reason, and if
 referred to reason, is contrary to natural instinct, and at the same
@@ -264,7 +264,7 @@ an edifice so bold and prodigious, that it is too weighty for any
 pretended demonstration to support, because it shocks the clearest and
 most natural principles of human reason.
 
-[^2] But what renders the matter more extraordinary, is, that these
+[^2]: But what renders the matter more extraordinary, is, that these
 seemingly absurd opinions are supported by a chain of reasoning, the
 clearest and most natural; nor is it possible for us to allow the
 premises without admitting the consequences.
@@ -314,7 +314,7 @@ So that nothing can be more sceptical, or more full of doubt and
 hesitation, than this scepticism itself, which arises from some of the
 paradoxical conclusions of geometry or the science of quantity.
 
-[^3] The sceptical objections to moral evidence, or to the reasonings
+[^3]: The sceptical objections to moral evidence, or to the reasonings
 concerning matter of fact, are either popular or philosophical. The
 popular objections are derived from the natural weakness of human
 understanding; the contra- dictory opinions, which have been entertained
@@ -393,5 +393,4 @@ to their miserable existence.
 It is true; so fatal an event is very little to be dreaded.
 
 Nature is always too strong for principle.
-
 

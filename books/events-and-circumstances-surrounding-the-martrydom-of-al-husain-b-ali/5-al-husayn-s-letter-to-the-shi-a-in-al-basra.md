@@ -34,4 +34,3 @@ inheritors of his authority. Furthermore implicit in al-Husayn's
 summons to the sunna of the Prophet is the idea that ahl al-bait know
 the Prophet's example and how to follow it.
 
-

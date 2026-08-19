@@ -138,7 +138,6 @@ concerned with the biography of learned men and chains of transmission
 of hadith in order to be able to discriminate between true and false
 hadith.
 
-
 **The Method of Shi'ism in Authenticating the Hadith**
 
 Shi'ism, in addition to seeking to authenticate the chain transmission
@@ -279,5 +278,4 @@ In the principles of jurisprudence the remarkable advances accomplished
 by the Shi'ite scholar Wahid Binbahani and followed by Shaykh Murtada
 Ansari have never been matched in Sunni jurisprudence according to
 existing evidence.
-
 

@@ -183,7 +183,7 @@ is possible to change such realities. This was the essence of Be’that.
 
 The day when this message entered the atmosphere of Mecca, the Holy
 Prophet (S) said: “Say: there is no god but Allah to achieve salvation.”
-[^11] Even those who were just did not think that it was likely for this
+[^11]: Even those who were just did not think that it was likely for this
 to come true one day because there was no ground. All those impressive
 idols were hanging from the walls of Ka’bah and deep prejudices of the
 Jahiliyya era were the support of those idols. The position of the
@@ -446,7 +446,7 @@ determination among government officials of different countries.
 We ourselves are the primary audience of this message and we have to
 shoulder heavy responsibilities. The Holy Prophet (S) said, “This Ummah
 will not be reformed except through its outstanding personalities.”
-[^22] Reforming ordinary people in a society depends on reforming
+[^22]: Reforming ordinary people in a society depends on reforming
 outstanding personalities of that society. The Holy Prophet (S) was
 asked, “Who are outstanding personalities of your Ummah?” He answered,
 “Outstanding personalities of my Ummah are religious scholars and
@@ -563,5 +563,4 @@ occasion of the Holy Prophet’s (S) Be’that
 
 [^25]: Supreme Leader’s speech delivered on April 14, 2004 in a meeting
 with ordinary citizens
-
 

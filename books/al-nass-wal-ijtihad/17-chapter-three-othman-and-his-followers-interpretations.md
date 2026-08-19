@@ -19,11 +19,11 @@ them with the wealth of the Muslims. At his
 
 --------------------------------------------------------------------------------
 
-[^1] Othman had violated the legal texts in many occasions for the sake
+[^1]: Othman had violated the legal texts in many occasions for the sake
 of his relatives. We cannot cover them all in this book. They may not be
 less than the violations of the two previous caliphs together.
 
-[^2] The Prophet (s) has said: “When the family of al-Aass becomes
+[^2]: The Prophet (s) has said: “When the family of al-Aass becomes
 thirty men, they will distribute the wealth of the Muslims among
 themselves, make people slaves for them and distort the religion of
 Allah according to their interests.” It has been mentioned by al-Hakim
@@ -36,7 +36,7 @@ clear proof, and he who would live might live by clear proof). Al-Hakim
 mentioned in his Mustadrk many other traditions which sufficed in this
 concern. Refer to our book Abu Hurayra, p.118-128.
 
-[^3] Sharh Nahjol Balagha, vol. 1 p.66.
+[^3]: Sharh Nahjol Balagha, vol. 1 p.66.
 
 (334)
 
@@ -111,7 +111,7 @@ finished him off, his retinue failed him…”
 
 --------------------------------------------------------------------------------
 
-[^1] Among those, who have considered the transgressions of Othman as
+[^1]: Among those, who have considered the transgressions of Othman as
 true and real with no doubt, was ash-Shahristani in his book al-Milel
 wen-Nihal. Othman had committed many other violations such as burning
 the copies of the holy Qur'an in order to gather the Muslims on one
@@ -164,13 +164,13 @@ returned.”[^5]
 
 --------------------------------------------------------------------------------
 
-[^1] Shortening prayers during travels.
-[^2] Sahih of Muslim, vol.1 p.258.
-[^3] As in Sahih of Muslim, vol.1 p.295.
-[^4] So did Othman during the first six or nine years of his caliphate
+[^1]: Shortening prayers during travels.
+[^2]: Sahih of Muslim, vol.1 p.258.
+[^3]: As in Sahih of Muslim, vol.1 p.295.
+[^4]: So did Othman during the first six or nine years of his caliphate
 but after that he offered full (four rak’as) prayers in travel until he
 died. We will mention this soon inshallah.
-[^5] Sahihs of al-Bukhari and Muslim.
+[^5]: Sahihs of al-Bukhari and Muslim.
 
 (337)
 
@@ -209,11 +209,11 @@ offered four rak’as. It was said to Abdullah bin
 
 --------------------------------------------------------------------------------
 
-[^1] Sahih of al-Bukhari, vol.1 p.131.
-[^2] Saying “peace, mercy of Allah and blessing be upon you” to finish
+[^1]: Sahih of al-Bukhari, vol.1 p.131.
+[^2]: Saying “peace, mercy of Allah and blessing be upon you” to finish
 prayers.
-[^3] Sahih of Muslim, vol.1.
-[^4] Al-Kamil by Ibn al-Atheer, vol.3 p.49, Tareekh aof at-tabari, vol.3
+[^3]: Sahih of Muslim, vol.1.
+[^4]: Al-Kamil by Ibn al-Atheer, vol.3 p.49, Tareekh aof at-tabari, vol.3
 p.322.
 
 (338)
@@ -246,7 +246,7 @@ Mecca.
 
 --------------------------------------------------------------------------------
 
-[^1] Ahmad bin Hanbal mentioned in his Musnad, vol.4 p.94 a tradition
+[^1]: Ahmad bin Hanbal mentioned in his Musnad, vol.4 p.94 a tradition
 narrated by Abbad bin Abdullah bin az-Zubayr that his father had said:
 “Once when Mo’awiya has come (to Mecca) to offer the hajj, we came with
 him from Mecca. He led us in offering Dhuhr prayer. He offered two
@@ -265,7 +265,7 @@ said to him: “But your cousin has offered it in full and your doing so
 would fault him.” Then Mo’awiya offered Asr prayer four rak’as after he
 had offered Dhuhr prayer two rak’as.”
 
-[^2] Sahih of Muslim, vol.1 p.258.
+[^2]: Sahih of Muslim, vol.1 p.258.
 
 (339)
 
@@ -292,5 +292,4 @@ act, which had not led to profaning sanctities, shedding bloods,
 violating honors or extorting properties as their other interpretations.
 This was simple in comparison with their other interpretations against
 the legal verdicts.
-
 

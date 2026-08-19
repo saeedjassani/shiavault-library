@@ -184,7 +184,7 @@ practicability for the rest of humanity. This is why the prophets are
 called shahids (paradigms and witnesses) in the Qur'an,[^20] a term used
 for martyrs later on in the early days of Islamic history.
 
-[^21] Muhammad, therefore, like other Messengers, is the incarnation of
+[^21]: Muhammad, therefore, like other Messengers, is the incarnation of
 Islam, full surrender to God, the universal religion of all of creation,
 including man.[^22] He was the model of what he taught, and a paradigm
 for humanity. A model attracts and leads people to the truth. He does
@@ -246,27 +246,26 @@ place is Karbala'. This is partly why it has kept its dynamic,
 resilient, and revolutionary spirit, and features throughout history,
 and this is how Shi'ism truly reflects this spirit.
 
-[^1] A. Ezzati, The Spread of Islam, (1976), p. 55
-[^2] Ibid., Introduction
-[^3] Ibid., pp. 39-42
-[^4] Morrish, BIC p. 191
-[^5] For this see N. Salihi, Shahid-i-Javid
-[^6] Tabatabai, Al-Mizan
-[^7] 2:218, 8:76, 9:115, 143, 13:43
-[^8] 29:52
-[^9] 4:72
-[^10] Farhang Jami'i, Mufradat Raghib. See 2:105, 143, 185, 282, 5:106
-[^11] 2:142
-[^12] 2:185
-[^13] 2:142
-[^14] 2:285
-[^15] 6:48, 14:10-12, 16:43-3
-[^16] 6:48, 14:10-12, 16:43-3
-[^17] 6:164
-[^18] Tabatabai, Al-Mizan
-[^19] 2:142
-[^20] 2:143
-[^21] 4:69
-[^22] al-Kulayni, Usul al-Kafi
-
+[^1]: A. Ezzati, The Spread of Islam, (1976), p. 55
+[^2]: Ibid., Introduction
+[^3]: Ibid., pp. 39-42
+[^4]: Morrish, BIC p. 191
+[^5]: For this see N. Salihi, Shahid-i-Javid
+[^6]: Tabatabai, Al-Mizan
+[^7]: 2:218, 8:76, 9:115, 143, 13:43
+[^8]: 29:52
+[^9]: 4:72
+[^10]: Farhang Jami'i, Mufradat Raghib. See 2:105, 143, 185, 282, 5:106
+[^11]: 2:142
+[^12]: 2:185
+[^13]: 2:142
+[^14]: 2:285
+[^15]: 6:48, 14:10-12, 16:43-3
+[^16]: 6:48, 14:10-12, 16:43-3
+[^17]: 6:164
+[^18]: Tabatabai, Al-Mizan
+[^19]: 2:142
+[^20]: 2:143
+[^21]: 4:69
+[^22]: al-Kulayni, Usul al-Kafi
 

@@ -540,34 +540,34 @@ is Allah". . . [Qur'an 22:40].
 
 **Notes:**
 
-[^31] See al-Bayhaqi, vol. 1, p. 409.
-[^32] ibid., vol.1, pp. 418 - 9.
-[^33] See for a detailed account of the migration to Abyssinia, Ibn
+[^31]: See al-Bayhaqi, vol. 1, p. 409.
+[^32]: ibid., vol.1, pp. 418 - 9.
+[^33]: See for a detailed account of the migration to Abyssinia, Ibn
 Hisham, vol.1, pp. 343 - 63, and Guillaume, pp. 146 - 55.
-[^34] See al-Bayhaqi, vol. 2, pp. 53 - 54.
-[^35] See the previous footnote. See also al-Bukhari, vol. 5, pp. 8-
+[^34]: See al-Bayhaqi, vol. 2, pp. 53 - 54.
+[^35]: See the previous footnote. See also al-Bukhari, vol. 5, pp. 8-
 9.
-[^36] See al-Bukhari, vol. 4, pp. 238 - 9.
-[^37] See Ibn Hisham, vol. 1, p. 25, and Guillaume, p.191.
-[^38] That is, the Kitab Ma\`rifatu's-Sahabah of the traditionist Ibn
+[^36]: See al-Bukhari, vol. 4, pp. 238 - 9.
+[^37]: See Ibn Hisham, vol. 1, p. 25, and Guillaume, p.191.
+[^38]: That is, the Kitab Ma\`rifatu's-Sahabah of the traditionist Ibn
 Mandah, Abu \`Abdillah Muhammad ibn Ishaq ibn Muhammad ibn Yahya
 al-\`Abdi al-Isfahani (d. 395/ 1005). The work remains in manuscript.
 See Sezgin, Band I, pp. 214 - 5.
-[^39] See al-Bayhaqi, vol. 2, p. 158.
-[^40] Bu'ath was a fortress belonging to the Aws tribe. The Battle of
+[^39]: See al-Bayhaqi, vol. 2, p. 158.
+[^40]: Bu'ath was a fortress belonging to the Aws tribe. The Battle of
 Bu'ath took place between the warring tribes of al-Aws and al-Khazraj
 some years before the Migration.
-[^41] See Qur'an 6 :151 - 2.
-[^42] See Qur'an 5:12.
-[^43] This apparently refers to the two well-known poets: an-Nabighah
+[^41]: See Qur'an 6 :151 - 2.
+[^42]: See Qur'an 5:12.
+[^43]: This apparently refers to the two well-known poets: an-Nabighah
 adh-Dhubyani and Zuhayr as-Sulami. Kitabu'l-Aghani of al-Isfahani, and
 other sources consulted, do not corroborate the incident alluded to in
 this account.
-[^44] This poem has become a favorite chant in Muslim piety. Two more
+[^44]: This poem has become a favorite chant in Muslim piety. Two more
 lines have been added, which read:
 You who have been sent as a Messenger from God to us, you come with a
 command worthy of obedience! You have come honoring Medina, welcome to
 you, O best of those who invite to God!
-[^45] See al-Bayhaqi, vol. 2, p. 234.
-[^46] See Qur'an 7:157.
+[^45]: See al-Bayhaqi, vol. 2, p. 234.
+[^46]: See Qur'an 7:157.
 

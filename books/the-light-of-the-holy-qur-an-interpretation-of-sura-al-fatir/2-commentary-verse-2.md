@@ -38,7 +38,6 @@ servants He pleases, and He is the Forgiving, the Merciful.” [^1]
 
 [^1] Sura Yu-nus, No. 10, verse 107
 
-
 **Commentary : Verse 3**
 
 (3) يَآ أَيُّهَا النَّاسُ اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ هَلْ
@@ -89,7 +88,6 @@ point of view that it is applied in the sense of falsehood and slander;
 but some commentators believe that this word refers to the great lies
 and slanders.
 
-
 **Commentary : Verse 4**
 
 (4) وَاِن يُكَذّ‌ِبُوكَ فَقَدْ كُذّ‌ِبَتْ رُسُلٌ مِن قَبْلِكَ وَاِلَي
@@ -122,5 +120,4 @@ retribution. If there were not the Day of Hereafter, there would be the
 state of anxiety. But, regarding to the existence of that great Court
 and that the entire deeds of people are recorded and preserved for that
 Great Day, there is no room for anxiety any more.
-
 

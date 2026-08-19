@@ -42,7 +42,6 @@ It is often of no avail to give advice to the dark hearted persons.
 Their likeness is the iron nail which naturally does not go into a
 stone.
 
-
 **Section 5 : Allah Is Light Commentary : Verse 35**
 
 Allah, He is the Light of the Heavens and the Earth - Similitude of the
@@ -104,7 +103,7 @@ unrestrained instincts, more importantly sexual instinct, which is the
 most powerful one, can not be done without having 'faith' as support,
 finally the
 
-[^1] The Commentary book: 'Nur', following of the verse, and for more
+[^1]: The Commentary book: 'Nur', following of the verse, and for more
 information, you may refer to Kitab ul-Wafi, Vol. 1, p. 382, and
 TauHud-i-Saduq, chapter Ar-ru'yah, p. 107
 
@@ -142,7 +141,7 @@ with a light by which he walks among the people, as one whose likeness
 is in the utter darkness (of ignorance and polytheism) whence he cannot
 come forth from thema ..."
 
-[^1] Burhan and Safi commentary, because of this noble tradition by Imam
+[^1]: Burhan and Safi commentary, because of this noble tradition by Imam
 Rida (a.s): "Allah guides all dwellers of the skies and the earth to
 what is their best"
 
@@ -181,7 +180,7 @@ c. Light is a means for making things comprehensible and for viewing
 different creatures of the world. Without it we cannot see anything,
 therefore, it is both visible and making visible.
 
-[^1] Bihar, Vol. 1, p. 325; and mazan ul-Hikmah, p. 6016
+[^1]: Bihar, Vol. 1, p. 325; and mazan ul-Hikmah, p. 6016
 
 d. The light of the sun, which is the most important light of our
 world, grows flowers and plants. It is in fact the secret of all living
@@ -413,5 +412,4 @@ clear extension of them, but it is not limited to them only.
 And also if some commentators have interpreted this Divine Light as the
 holy Qur'an or intellectual reasons, or the holy Prophet (p.b.u.h.), it
 has a root in common with the commentary of the above verse, too.
-
 

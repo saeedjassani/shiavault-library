@@ -175,7 +175,7 @@ otherwise. According to him, "the reason for greater inclination on the
 part of the Shi'ah towards rational and philosophical discussions is to
 be found in their esotericism and their flair for ta'wil.
 
-[^1] They were compelled to seek the assistance of philosophy for
+[^1]: They were compelled to seek the assistance of philosophy for
 defence of their esotericism. That is why the Fatimid Egypt and Buyid
 Persia, and Iran during the Safawid and Qajar periods, were more
 disposed towards philosophy than the rest of the Islamic world."
@@ -629,5 +629,4 @@ have forever remained uninterpreted.
 
 After these brief introductory remarks on the value of these issues, we
 shall go on to cite some relevant examples from the Nahj al-balaghah.
-
 

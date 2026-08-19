@@ -19,7 +19,6 @@ also a similar report in al-Baladhuris Ansab al-Ashraf.
 
 **Notes:**
 
-[^44] E. L. Petersen, op. cit.. p. 89.
-[^45] Al-Mufid, Kitab al-Jamal.
-
+[^44]: E. L. Petersen, op. cit.. p. 89.
+[^45]: Al-Mufid, Kitab al-Jamal.
 

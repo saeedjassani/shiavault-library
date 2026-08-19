@@ -32,7 +32,6 @@ him (the pursuer) unable, this word /mu'jiz/ is sometimes used in the
 same meaning. The above verse refers to this very meaning and it implies
 that no one can go out of Allah's territory.
 
-
 **Section 8 : Respect for Domestic and Personal Privacy Commentary :
 Verse 58**
 
@@ -142,7 +141,7 @@ want to come and go frequently and they have to take permission, every
 time it will become a difficult job (Kanz-ul-'Irfan, Vol. 2, P.
 225).[^1]
 
-[^1] If we look one more time to this Sura from the beginning, we find
+[^1]: If we look one more time to this Sura from the beginning, we find
 that the policy of prevention from indecency is behind its verses. For
 example, adulterer and adulteress should be punished before others' eye
 (verse 1), their marriage is limited (verse 3), if without four
@@ -164,7 +163,6 @@ poverty (verse 32), and in this verse, your children and slaves must not
 enter your private room at times when you are at your ease and alone
 with your wife. Yes, all these commands are for preventing immodesty and
 immature puberty and saving face and decency.
-
 
 **Commentary: Verse 59**
 
@@ -295,7 +293,5 @@ It is interesting that there is a tradition from the Prophet (p.b.u.h.)
 who said: "Be careful that you do not have sexual intercourse while a
 child is looking at you from cradle."[^1]
 
-
-[^1] Bihar-ul-'Anwar, Vol. 103, p. 295
-
+[^1]: Bihar-ul-'Anwar, Vol. 103, p. 295
 

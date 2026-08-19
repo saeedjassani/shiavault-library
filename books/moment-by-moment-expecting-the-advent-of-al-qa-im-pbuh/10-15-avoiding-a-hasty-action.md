@@ -124,4 +124,3 @@ ask, he submits to what Allah chooses for him according to His wisdom,
 relinquishes all the affairs to Him, and does not become disappointed
 from Allah's mercy if the period of the occultation is prolonged.
 
-

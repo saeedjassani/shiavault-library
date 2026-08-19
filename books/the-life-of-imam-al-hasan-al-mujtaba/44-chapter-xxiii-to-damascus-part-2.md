@@ -23,7 +23,7 @@ the people and the good of the authority. We are the men of the campaign
 during wars. We have the excellence over all the people in the past and
 present.”
 
-[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 2, p.101.
+[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 2, p.101.
 
 Imam al-Hasan faced them like a lion. He destroyed their entity and
 pride, saying: “It is not an act of feebleness that man keeps silent
@@ -193,7 +193,7 @@ for pardon. He made clear that it was Mu’awiya who had urged him to do
 that, saying: “Excuse me, O Abu Muhammad! This (Mu’awiya) urged me to
 debate with you. Why did you not refrain from me when I failed to know
 (you)? That is
-[^1] By that he, peace be on him, meant ‘Aa’isha, the wife of the
+[^1]: By that he, peace be on him, meant ‘Aa’isha, the wife of the
 Prophet, may Allah bless him and his family.
 
 because you are the members of the House whose nature is clemency and
@@ -230,7 +230,7 @@ but you refused until you heard that which made your house dark to you
 and spoiled your assembly.”
 
 Imam al-Hasan went away and made their souls full of sorrow. He said:
-[^1] Al-Bayqahi, al-Mahasin wa al-Masawi’, vol. 1, pp. 58-61. Al-Jahiz,
+[^1]: Al-Bayqahi, al-Mahasin wa al-Masawi’, vol. 1, pp. 58-61. Al-Jahiz,
 al-Mahasin wa al-Azdad, pp. 92-94.
 
 This time I practiced fifty-five proofs. I delayed a sayer after a
@@ -271,7 +271,7 @@ that the religion does not become manifest except through you and your
 father? You have seen that Allah, the Great and Almighty, has made it
 manifest through Mu’awiya. Is Allah pleased with ‘Uthman’s murder? Or is
 it an act of truth that you go [^1] Wafayat al-A‘yan, vol. 4, p. 121.
-[^2] Al-Mahasin wa al-Masawi’, vol. 1, p. 65.
+[^2]: Al-Mahasin wa al-Masawi’, vol. 1, p. 65.
 
 around the House as a camel carrying flour goes around? You are wearing
 clothes as white as the white of eggs. You killed ‘Uthman. By Allah, it
@@ -497,5 +497,4 @@ by a small one.” Then he quoted as an example the poet’s saying: The
 small may be added to the great, but the stallion is of the young camel.
 Date palms are destroyed by palm shoots. With this we will end our talk
 about Imam al-Hasan’s travel to Damascus and his debates in it.
-
 

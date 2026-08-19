@@ -240,7 +240,7 @@ of understanding.
 
 **Notes:**
 
-[^12] That is, al-Kharkushi, Abu Said (or Sa'd) 'Abdu 'l-Malik Muhammad
+[^12]: That is, al-Kharkushi, Abu Said (or Sa'd) 'Abdu 'l-Malik Muhammad
 ibn Ibrahim an-Naysaburi, a well-known mystic who died in Nishapur in
 406/1015 -16, or in 407/1016. The reference is certainly taken from his
 book, Sharafu 'n-Nabiyy (alternate titles of the work are: Sharafu
@@ -252,70 +252,70 @@ Biobibliographical Survey (London: Luzac and Co., 1927), vol.l,
 pp.175-6; and Sezgin, Fuat, Geschichte des Arabischen Scrifttums, Band I
 (Brill: Leiden, 1976), pp. 670 - 1.
 
-[^13] The author quotes quite accurately in Hebrew Gen. 17:20. The
+[^13]: The author quotes quite accurately in Hebrew Gen. 17:20. The
 Arabic rendering of this verse is, however, purposely modified to
 support Shiite prophetology.
 
-[^14] See Qur'an 3:37.
+[^14]: See Qur'an 3:37.
 
-[^15] See Qur'an 59:23. See also as-Saduq, Abu Ja'far, Muhammad ibn 'Ali
+[^15]: See Qur'an 59:23. See also as-Saduq, Abu Ja'far, Muhammad ibn 'Ali
 ibn al-Husayn Ibn Babawayh al-Qummi, Ikmalu 'd-Din wa Itmamu 'n-Ni'mah
 fi' Ithbati 'r-Rajah, ed. Muhammad Mahdi Hasan al-Musawi al-Khirsan
 (Najaf: al-Matba'ah al-Haydariyyah, 1389/1970), pp. 157 - 8.
 
-[^16] See Qur'an 3:55.
+[^16]: See Qur'an 3:55.
 
-[^17] The descent of Jesus to earth is alluded to in the Qur'an (43:61
+[^17]: The descent of Jesus to earth is alluded to in the Qur'an (43:61
 and 4:157-9), and figures prominently in the hadith. See Muslim, vol.18,
 pp. 68ff. This tradition is quoted in Ibn Shu'bah, Abu Muhammad ibn
 Hasan ibn \`Ali ibn Shu'bah al-Harrani, Tuhafu '1\`Uqul' an Ali
 'r-Rasul, ed. Muhammad al-Husayn al-A'lami (Beirut:
 Mu'asassatu'l-A'lami, 1394/1974), pp.368-72.
 
-[^18] See Qur'an 33 : 22. See also al-Bukhari, vol. 5, pp. 44 - 49.
+[^18]: See Qur'an 33 : 22. See also al-Bukhari, vol. 5, pp. 44 - 49.
 
-[^19] See al-Kulayni, Abu Ja'far Muhammad ibn Ya'qub ibn Ishaq, al-Kafi,
+[^19]: See al-Kulayni, Abu Ja'far Muhammad ibn Ya'qub ibn Ishaq, al-Kafi,
 ed. 'Ali Akbar al-Ghifari, 3rd ed., 8 vols. (Tehran: Daru'l-Kutub
 al-Islamiyyah, 1388), vol. 8: ar-Rawdah mina'l-Kafi, p. 263.
 
-[^20] See Ibn Hisham, Abu Muhammad \`Abdu'l-Malik, as-Sirah
+[^20]: See Ibn Hisham, Abu Muhammad \`Abdu'l-Malik, as-Sirah
 an-Nabawiyyah, ed. Muhammad Muhyi'd-Din \`Abdi'l-Hamid, 4 vols. (Beirut:
 Daru'l-Fikr, n. d.), vol. 2, pp. 102 - 4. Ibn Hisham reports that
 Suraqah's horse tripped three times, and not that its legs sank into the
 ground. In English see Guillaume, A., The Life of Muhammad (Karachi:
 Oxford University Press, 1970), pp. 225 - 6.
 
-[^21] See Qur'an 3 :123 - 4.
+[^21]: See Qur'an 3 :123 - 4.
 
-[^22] See Qur'an 54:1. See also al-Qummi, vol. 2, pp. 340 - 1.
+[^22]: See Qur'an 54:1. See also al-Qummi, vol. 2, pp. 340 - 1.
 
-[^23] See for the account of Dhu'l-Qarnayn, Qur'an 18 : 83 - 98.
+[^23]: See for the account of Dhu'l-Qarnayn, Qur'an 18 : 83 - 98.
 
-[^24] See al-Bukhari, vol. 8, pp. 86 - 87.
+[^24]: See al-Bukhari, vol. 8, pp. 86 - 87.
 
-[^25] al-Haw'ab is a place between Mecca and Basrah in Iraq. Shi'i
+[^25]: al-Haw'ab is a place between Mecca and Basrah in Iraq. Shi'i
 tradition has made much of this incident. See ash-Shaykh al-Mufid, Abu
 \`Abdillah Muhammad ibn Muhammad ibn an-Nu'man al\`Ukbari al-Baghdadi,
 Kitabu'l-Ikhtisas (Qumm: Maktabat Basirati, n. d.), pp. 113-5.
 
-[^26] The Saqifah of Banu Sa'idah was a roofed area where the Immigrants
+[^26]: The Saqifah of Banu Sa'idah was a roofed area where the Immigrants
 and Ansar met immediately after the Prophet's death to elect a
 successor. 'Ali was absent, as were most of the men of the Banu Hashim.
 Thus Abu Bakr was elected, in spite of the sharp disagreement between
 the two groups. See below in this book.
 
-[^27] See Muslim, vol. 18, p.41.
+[^27]: See Muslim, vol. 18, p.41.
 
-[^28] \`Adhra' is a town near Damascus. See al-Mas'udi, Muruju'dh Dhahab
+[^28]: \`Adhra' is a town near Damascus. See al-Mas'udi, Muruju'dh Dhahab
 wa Ma\`aaini 'l-Jawhar, ed. Charles Pellat, 7 vols. (Beirut: Librarie
 Orientale, 1970), vol. 3, pp. 188 - 9.
 
-[^29] See Qur'an 85 : 4 - 9. See also at-Tabrisi, Abu \`Ali al-Fadl ibn
+[^29]: See Qur'an 85 : 4 - 9. See also at-Tabrisi, Abu \`Ali al-Fadl ibn
 alHasan ibn al-Fadl, Majma'u 'l-Bayan fi Tafsiri 'l-Quran, 6 vols.
 (Beirut: Dar Maktabatu'l-Hayat, 1380/1961), vo1.6, part 30, pp. 88 -
 91.
 
-[^30] See Naysaburi, vol. 3, pp. 176 -7. Shi'i sources have related this
+[^30]: See Naysaburi, vol. 3, pp. 176 -7. Shi'i sources have related this
 tradition in a number of versions. See for example: Ibn Qulawayh, Abu
 'l-Qasim Ja'far ibn Muhammad ibn Ja'far ibn Musa al-Qummi, Kamilu
 'z-Ziyarat, ed. Mirza \`Abdu 'l-Husayn al-Amini at-Tabrizi (Najaf:

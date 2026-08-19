@@ -70,7 +70,6 @@ go astray at all, the Book of Allah, a tough rope stretched out from
 Heaven to earth and my house hold Ahlilbait surely they wouldn’t leave
 each other till they reach me at the end (the Day of Judgement) [^41]
 
-
 **Summary**
 
 The Islamic ideology is the central foundation of the Islamic thinking,
@@ -214,94 +213,93 @@ to connect the individuals with the examples of the ideology and its
 leaders in order to be influenced with their good morals and imitate
 them in their life history.
 
-[^1] Kenzel Aumaal 11: 240/ 31969.
+[^1]: Kenzel Aumaal 11: 240/ 31969.
 
-[^2] Rawzatel Waaeizeen: Al Fattaal alnisabouri: 376- Aleazzi Qum.
+[^2]: Rawzatel Waaeizeen: Al Fattaal alnisabouri: 376- Aleazzi Qum.
 
 1 Ausoul Alkaafi: 2: 99/ 1 Ketaab aleimaan Walkufur..
 
 2 Almehajjah Albaiza’a 5: 89.
 
-[^5] Tuhafil A’ukool: 200.
+[^5]: Tuhafil A’ukool: 200.
 
-[^6] Almeezaan fi tefseerel Qur’an, Alaamah Altabatabaei 11: 157.
+[^6]: Almeezaan fi tefseerel Qur’an, Alaamah Altabatabaei 11: 157.
 Ala’alemi foundation edition 3.
 
-[^7] Mustadrekel wasseil: 2: 283.
+[^7]: Mustadrekel wasseil: 2: 283.
 
-[^8] Almahajjah albaiza’a 5: 93.
+[^8]: Almahajjah albaiza’a 5: 93.
 
-[^9] Ershaadelkuluub: 1-2: 133.
+[^9]: Ershaadelkuluub: 1-2: 133.
 
-[^10] The same source.
+[^10]: The same source.
 
-[^11] Ausoulilkaafi: 2: 100/ 7 Ketaabil eimaan walkufur, baseereti
+[^11]: Ausoulilkaafi: 2: 100/ 7 Ketaabil eimaan walkufur, baseereti
 library publications- Qom.
 
-[^12] Ausoul alkaafi 2: 101/ 12, kitaabil eimaan wal kufur.
+[^12]: Ausoul alkaafi 2: 101/ 12, kitaabil eimaan wal kufur.
 
-[^13] Alakhlaaq sayed Abdullah Shubber: 70.
+[^13]: Alakhlaaq sayed Abdullah Shubber: 70.
 
-[^14] Tuhafel aukool: 38.
+[^14]: Tuhafel aukool: 38.
 
-[^15] Tuhafel Aukool: 98.
+[^15]: Tuhafel Aukool: 98.
 
-[^16] Tuhafel Aukool: 356.
+[^16]: Tuhafel Aukool: 356.
 
-[^17] Ausoul Alkaafi 2: 100/ 8 ketaabil eimaan walkufur.
+[^17]: Ausoul Alkaafi 2: 100/ 8 ketaabil eimaan walkufur.
 
-[^18] Ausoul Alkaafi 2:321/ 4 ketaab eimaan walkufur.
+[^18]: Ausoul Alkaafi 2:321/ 4 ketaab eimaan walkufur.
 
-[^19] Fi rehaab aeima Ahlilbait (A.S.) sayyed Mohsin Alameen 4: 69 from
+[^19]: Fi rehaab aeima Ahlilbait (A.S.) sayyed Mohsin Alameen 4: 69 from
 Tuhafil aukoul.
 
-[^20] Mekaarim alakhlaaq: altebressi: 17.
+[^20]: Mekaarim alakhlaaq: altebressi: 17.
 
-[^21] Alkhesaal, Alsadooq 2: 621, Hadeeth the 400.
+[^21]: Alkhesaal, Alsadooq 2: 621, Hadeeth the 400.
 
-[^22] Behaarel anwaar 77: 1213, from Keshfil mehajjah lithamaratel
+[^22]: Behaarel anwaar 77: 1213, from Keshfil mehajjah lithamaratel
 muhjjah: 157, ch. 154, Alnajjaf Alashraaf.
 
-[^23] Behaarel anwaar 78-53, Alghurer: Aamed.
+[^23]: Behaarel anwaar 78-53, Alghurer: Aamed.
 
-[^24] Ahzaab: 33: 21.
+[^24]: Ahzaab: 33: 21.
 
-[^25] Alkalam 68-4.
+[^25]: Alkalam 68-4.
 
-[^26] Ala’araaf 7: 199.
+[^26]: Ala’araaf 7: 199.
 
-[^27] Majmaelbaiaan: Altabressi 3: 89- Alhayaat library publications the
+[^27]: Majmaelbaiaan: Altabressi 3: 89- Alhayaat library publications the
 year 1980 A.H.
 
-[^28] Nehjil balagha, Subhi Alsaalih 228/ sermon 160.
+[^28]: Nehjil balagha, Subhi Alsaalih 228/ sermon 160.
 
-[^29] Sherhnahjil balagha: Ebna abbil Hadeed 7: 84.
+[^29]: Sherhnahjil balagha: Ebna abbil Hadeed 7: 84.
 
-[^30] Almuraaja’at, sayyed Abdulhussan Sharrafideen 23, 8th murajaah.
+[^30]: Almuraaja’at, sayyed Abdulhussan Sharrafideen 23, 8th murajaah.
 
-[^31] Sherh alnehj, Ebnaabil hadeed 7: 76.
+[^31]: Sherh alnehj, Ebnaabil hadeed 7: 76.
 
-[^32] Sherh alnehj, Ebna abilhadeed 18: 273.
+[^32]: Sherh alnehj, Ebna abilhadeed 18: 273.
 
-[^33] Mekaarim alakhlaaq: Altebressi: 113.
+[^33]: Mekaarim alakhlaaq: Altebressi: 113.
 
-[^34] Mea’ani Alakhbaar: Alsadouq: 191.
+[^34]: Mea’ani Alakhbaar: Alsadouq: 191.
 
-[^35] Nehjilbalaagha: subhil alsaalih 439 leter: 53.
+[^35]: Nehjilbalaagha: subhil alsaalih 439 leter: 53.
 
-[^36] Tuhaf Al-Ikoul, p. 176.
+[^36]: Tuhaf Al-Ikoul, p. 176.
 
-[^37] Al-Ihtijaj by Al-Tebressi vol.1-2, p. 315.
+[^37]: Al-Ihtijaj by Al-Tebressi vol.1-2, p. 315.
 
-[^38] Al-Sahifah Al-Sajjadiyah Al-Jamia, p. 69-Qom.
+[^38]: Al-Sahifah Al-Sajjadiyah Al-Jamia, p. 69-Qom.
 
-[^39] Ketaab Alkhesaal, Alsheikh Alsadouq: 2/ ch. Of Alwaahid, pub.:
+[^39]: Ketaab Alkhesaal, Alsheikh Alsadouq: 2/ ch. Of Alwaahid, pub.:
 Jama’atalmuderreseen Qom and Ma’ani Alakhbaar: 5 baab alwaahid.
 
-[^40] Alessabah fi temyeez elsahaabah: Ebnahajjar alaskalaani 2: 198-
+[^40]: Alessabah fi temyeez elsahaabah: Ebnahajjar alaskalaani 2: 198-
 Dar Ehyaalturaath alarabi pub: 1st, , 1328 H.
 
-[^41] Behaar el anwaar 23: 106 and kenzel aumaal 1: 172, the Hadeth has
+[^41]: Behaar el anwaar 23: 106 and kenzel aumaal 1: 172, the Hadeth has
 many other ways from both sides.
-
 

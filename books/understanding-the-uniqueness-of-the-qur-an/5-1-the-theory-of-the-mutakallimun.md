@@ -832,20 +832,19 @@ discussed the errors in the approach of Western philosophers in
 considering theism to be incompatible with the concept of evolution.
 Notes:
 
-[^1] Paul Foulique, L'Existentialisme, Persian trans., p96
-[^2] Ibid.
-[^3] Walter Terrace Stace, The Philosophy of Hegel, Dover Publications,
+[^1]: Paul Foulique, L'Existentialisme, Persian trans., p96
+[^2]: Ibid.
+[^3]: Walter Terrace Stace, The Philosophy of Hegel, Dover Publications,
 pp50-1
-[^4] Ibid., pp71-2
-[^5] This was a problem posed for the first time in Islamic Philosophy,
+[^4]: Ibid., pp71-2
+[^5]: This was a problem posed for the first time in Islamic Philosophy,
 and like many other problems it was the result of the criticisms of the
 mutakallimun. The criticisms of the mutakallimun led to the emergence of
 certain problems in philosophy, and in this sense philosophy is greatly
 indebted to them.
-[^6] These remarks invoke a loose kind of speech. Science is incapable
+[^6]: These remarks invoke a loose kind of speech. Science is incapable
 of proving the casual relationship that is the effects needs for a
 cause. The most sciences can establish is an association or succession
 between phenomena. We have clarified this topic fully in the footnotes
 to the Usule falsafeh wa rawish e riyalism, volume 2.
-
 

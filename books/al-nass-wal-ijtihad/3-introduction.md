@@ -8,7 +8,6 @@ By: Allama Sayyid Muhammad Taqi al-Hakeem
 Professor of Usool in the college of Muntada an-Nashr
 and the secretary general of the society of Muntada an-Nashr
 
-
 I am now before a book that has a great scientific value. It has been
 written by a man having the favor of teachership and education on the
 most of the researchers of doctrinism of this generation. The cultural
@@ -70,12 +69,12 @@ explain the word like the linguists so it is no matter to depend on any
 of them. Perhaps the closer skilled definition that is away from
 criticism somehow is “the ability, by which one can join the little
 
-[^1] Nass means proviso, text or wording.
-[^2] Refer to al-Ahkam, vol.4 p.218.
-[^3] The thesis of al-Insaf fee Bayan al-Ikhtilaf by allama Shah
+[^1]: Nass means proviso, text or wording.
+[^2]: Refer to al-Ahkam, vol.4 p.218.
+[^3]: The thesis of al-Insaf fee Bayan al-Ikhtilaf by allama Shah
 Waliyullah ad-Dahlawi mentioned in the Encyclopedia of Fareed Wajdi.
 This definition is in vol. 3 p.236.
-[^4] Usool al-Fiqh by Muhammad al-Khudhari p.357.
+[^4]: Usool al-Fiqh by Muhammad al-Khudhari p.357.
 
 (57)
 
@@ -112,9 +111,9 @@ dependence on intellect in concluding the legal verdicts that is what we
 mean by ijtihad and analogy and it is also a synonym for approval and
 conclusion”.[^3] It is clear for one, who studies these researches and
 
-[^1] Analogy here means logical analogy that depends on Usool.
-[^2] Ar-Rissala by ash-Shafi’iy, p.477.
-[^3] Introduction to the History of the Islamic Philosophy by Mustafa
+[^1]: Analogy here means logical analogy that depends on Usool.
+[^2]: Ar-Rissala by ash-Shafi’iy, p.477.
+[^3]: Introduction to the History of the Islamic Philosophy by Mustafa
 Abdur Razaq, p.138.
 
 (58)
@@ -196,10 +195,10 @@ relations whether with Allah or among ourselves with one another and
 that this Sharia, which Allah has made flexible to keep pace with the
 time with its rules and principles, is the perfect Sharia
 
-[^1] The infallible ones according to the Shia are the Prophet (s) and
+[^1]: The infallible ones according to the Shia are the Prophet (s) and
 the twelve imams, the first of whom is Imam Ali (s) and the last one is
 Muhammad bin al-Hasan (Imam al-Mahdi (s)).
-[^2] Ilm Usool al-Fiqh wa Khulasat Tareekh at-Tashree’ al-Islami,
+[^2]: Ilm Usool al-Fiqh wa Khulasat Tareekh at-Tashree’ al-Islami,
 p.37.
 
 (60)
@@ -240,9 +239,9 @@ submitted to ijtihad.”[^3]
 Some of the legislated verdicts can be got by knowledge either by using
 reason or depending on the true traditions and some of them
 
-[^1] Wudu’ : ritual ablution as a prerequisite for offering prayers.
-[^2] In the Arabic wording there is a preposition before “your heads”.
-[^3] The Sources of Islamic legislation, p.8-9.
+[^1]: Wudu’ : ritual ablution as a prerequisite for offering prayers.
+[^2]: In the Arabic wording there is a preposition before “your heads”.
+[^3]: The Sources of Islamic legislation, p.8-9.
 
 (61)
 
@@ -284,8 +283,8 @@ Muslims have disagreed on defining it or depending on it or preferring
 it to the first sources. Professor Khallaf defines it by saying: “It is
 the
 
-[^1] The Entrance to the science of Usool and Fiqh, p.261.
-[^2] Ilm Ussol al-Fiqh wa Khulasat at-Tashree’ al-Islami, p.92.
+[^1]: The Entrance to the science of Usool and Fiqh, p.261.
+[^2]: Ilm Ussol al-Fiqh wa Khulasat at-Tashree’ al-Islami, p.92.
 
 (62)
 
@@ -328,7 +327,7 @@ In fact this research has made some researchers unable to define a
 certain concept on it and the examples mentioned on it do not
 
 [^1]The Entrance to the science of Usool and Fiqh, p.216.
-[^2] The Entrance to the science of Usool and Fiqh, p.274.
+[^2]: The Entrance to the science of Usool and Fiqh, p.274.
 
 (63)
 
@@ -368,8 +367,8 @@ texts and considered them as excessive in practicing that, have thought
 of that after referring to the subject of “preference”[^2] mentioned in
 the principles of the Shia and considered that as
 
-[^1] Usool al-Fiqh by al-Khudhari, p.303.
-[^2] Preferring the more important verdict to the important one.
+[^1]: Usool al-Fiqh by al-Khudhari, p.303.
+[^2]: Preferring the more important verdict to the important one.
 
 (64)
 
@@ -455,7 +454,7 @@ Ma’ath’s saying and praised him and said at the end of the tradition:
 “Praise be to Allah who has guided the messenger of the messenger of
 Allah to what pleases the messenger
 
-[^1] Introduction to the History of the Islamic Philosophy, p.145.
+[^1]: Introduction to the History of the Islamic Philosophy, p.145.
 
 (66)
 
@@ -494,10 +493,10 @@ righteous people, let him judge according to his own opinion but if he
 cannot, let him give up without feeling shy.”[^4] The traditions like
 these ones that have been narrated by the
 
-[^1] Introduction to the History of the Islamic Philosophy, p.145.
-[^2] Encyclopedia of Fareed Wajdi, vol.3 p.212.
-[^3] Ibid.
-[^4] Introduction to the History of the Islamic Philosophy, p.177.
+[^1]: Introduction to the History of the Islamic Philosophy, p.145.
+[^2]: Encyclopedia of Fareed Wajdi, vol.3 p.212.
+[^3]: Ibid.
+[^4]: Introduction to the History of the Islamic Philosophy, p.177.
 
 (67)
 
@@ -536,9 +535,9 @@ analogy as we have found in the age of those jurisprudents.”[^3]
 Whatever value this suspicion has and how scientific the disproval is,
 it doesn’t matter. What is important to us is that what concerns the
 
-[^1] Lectures on the History of Islamic Jurisprudence, p.23.
-[^2] Ibid. p.24.
-[^3] Ibid. p.25.
+[^1]: Lectures on the History of Islamic Jurisprudence, p.23.
+[^2]: Ibid. p.24.
+[^3]: Ibid. p.25.
 
 (68)
 
@@ -576,9 +575,9 @@ absent ones of the Prophet’s verdicts and this would an authority on
 them, which was really so, then the absent companions had no right to
 neglect searching for the legal texts. They had to search until they
 
-[^1] Al-Ihkam fee Usool al-Ahkam, vol.1 p.114. Refer to Introduction to
+[^1]: Al-Ihkam fee Usool al-Ahkam, vol.1 p.114. Refer to Introduction to
 the History of the Islamic Philosophy, p.123.
-[^2] Ibid.
+[^2]: Ibid.
 
 (69)
 
@@ -702,7 +701,7 @@ the programs or the methods, was one of the best fruits of that
 intellectual struggle. If we could study jurisprudence throughout its
 different ages, we would get, as I think, to a series of experiments
 
-[^1] This introduction has been written while the author was still
+[^1]: This introduction has been written while the author was still
 alive.
 
 (72)
@@ -824,7 +823,7 @@ manners in his struggle against the defects of the society. He said:
 Sharafuddeen thought that strongest motive of deviation in his society
 was the programs of the
 
-[^1] The Introduction of al-Muraja’at, p.2.
+[^1]: The Introduction of al-Muraja’at, p.2.
 
 (75)
 
@@ -865,7 +864,7 @@ Muntada an-Nashr tried to establish primary, secondary and high schools.
 These tries succeeded sometimes and failed other times according to
 their special circumstances. I think they will be
 
-[^1] Wu’aadh as-Salateen, Ali al-Wardi, p.398.
+[^1]: Wu’aadh as-Salateen, Ali al-Wardi, p.398.
 
 (76)
 
@@ -1004,5 +1003,4 @@ this book.
 23rd of Ramadan, 1375 A.H. / 4-5-1956 A.D.
 Muhammad Taqiy al-Hakeem
 Holy Najaf
-
 

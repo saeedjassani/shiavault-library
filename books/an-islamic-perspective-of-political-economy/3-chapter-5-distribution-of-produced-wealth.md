@@ -112,7 +112,7 @@ fixed payment from the owner of primary goods, i.e., it is usury, which
 is prohibited. Monetary capital will not be considered as contributing
 any amount of labour at all.
 
-[^21] Fixed payment is allowed in Islam only in one case, where there is
+[^21]: Fixed payment is allowed in Islam only in one case, where there is
 a consumption of labour, either directly through a worker, or indirectly
 (accumulated work) through the means of production. As for monetary
 capital, no such work is exhausted or depleted. In this matter, the
@@ -177,7 +177,7 @@ respon­sible for his economic deeds before God. Vicarage also means
 controlling personal behaviour and directing the use of natural
 resources according to God's will.
 
-[^23] Improper behaviour and the waste of God-given wealth will make man
+[^23]: Improper behaviour and the waste of God-given wealth will make man
 accountable for his deeds and bring severe punishment. In the same
 manner, abiding by God's will guarantees a good reward and Divine
 approval It is He Who has appointed you viceroys in the earth, and has
@@ -246,5 +246,4 @@ individual goal to a social means to achieve a higher moral goal.
 [^22]. "Al-Nizam al-Islami muqaranan," 170.
 [^23]. Iqtisaduna, 536-537.
 [^24]. Iqtisaduna, 568.
-
 

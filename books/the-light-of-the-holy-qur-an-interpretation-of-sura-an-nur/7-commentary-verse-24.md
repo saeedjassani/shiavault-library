@@ -35,7 +35,7 @@ feet bear witness as to what they used to earn"[^1], there will be no
 inconsistency with the concerned verse, because it is possible of first
 that tongues get disabled
 
-[^1] Sura ya-San, No. 36, verse 65
+[^1]: Sura ya-San, No. 36, verse 65
 
 and other limbs testify and when testimony of hand and foot discovers
 truths and they say what they must say, then tongue moves and confesses
@@ -45,8 +45,7 @@ Imam Baqir (a.s.) said: "This testimony of the limbs is not against the
 believers, but it is against someone whose punishment is
 inevitable."[^1]
 
-[^1] Nur-uth-Thaqalyn, 'Usul-i-Kafi, Vol.2 p. 32
-
+[^1]: Nur-uth-Thaqalyn, 'Usul-i-Kafi, Vol.2 p. 32
 
 **Commentary : Verse 25**
 
@@ -147,11 +146,10 @@ awaits them. The verse concludes:
 
 "... For them is forgiveness and a bountiful provision."
 
-[^1] Majma' ul-Bayan, and Wasa'il-ush-Shi'ah, Vol. 14, p. 337
+[^1]: Majma' ul-Bayan, and Wasa'il-ush-Shi'ah, Vol. 14, p. 337
 
-[^2] We read in the narrations concerning Nikah (marriage) that some of
+[^2]: We read in the narrations concerning Nikah (marriage) that some of
 the companions of Imams sometimes asked about 'KhabIthah' and they were
 answered negatively. This itself shows that the word 'khAbithah' refers
 to unchaste women, not evil 'words' or evil 'deeds'.
-
 

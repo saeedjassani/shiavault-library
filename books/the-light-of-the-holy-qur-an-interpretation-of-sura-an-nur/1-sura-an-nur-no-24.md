@@ -1,9 +1,7 @@
 Sura An-nur, No. 24
 ===================
 
-<p dir="rtl">
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-</p>
 
 In the Name of Allah, The Beneficent, The Merciful
 
@@ -94,9 +92,8 @@ immodesty through various ways of efficient struggles with factors of
 deviation from the path of chastity makes clear the main idea of the
 above-mentioned tradition as well as its practical concept.
 
-[^1] Majma' ul-Bayan under the verse, the Thawab ul-'A'mal by Saduq(As
+[^1]: Majma' ul-Bayan under the verse, the Thawab ul-'A'mal by Saduq(As
 it is narrated from Nur-uth-Thaqalyn Vol. 3, p. 568)
-
 
 **Section 1 : Punishment for Adultery Prescribed Commentary : Verse
 1**
@@ -105,9 +102,7 @@ The law relating to the punishment for adultery - False charge of
 adultery - The dealing with the accusation of adultery by the husband
 against his wife
 
-<p dir="rtl">
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-</p>
 
 In the Name of Allah, The Beneficent, The Merciful
 
@@ -156,7 +151,7 @@ Specially the sentence /faradnaha/ ("...We have ... which We have
 enjoined ...") emphasizes this meaning, considering that the meaning of
 the word /farada/ is 'assertion'.
 
-[^1] Lisan ul-'Arab, Vol. 4, article 'sur'
+[^1]: Lisan ul-'Arab, Vol. 4, article 'sur'
 
 Using the holy phrase /'ayatin bayyinat/ (clear signs) may point to
 some facts about monotheism, origin, resurrection, and prophecy, which
@@ -185,5 +180,4 @@ B) The Arabic nunnation of the word 'surah' is for greatness.
 
 C) The Qur'anic word /'anzalna/ (We have sent down) has been mentioned
 twice in due verse.
-
 

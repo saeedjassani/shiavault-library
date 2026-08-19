@@ -299,4 +299,3 @@ of Allah and the Seal of the prophets" (Quran, XXXIII, 40). And, "We
 reveal the scripture unto thee as an exposition of all things" (Quran,
 XVI, 89).
 
-

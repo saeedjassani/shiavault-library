@@ -263,9 +263,7 @@ forefathers.
 My success relies only on Allah; upon Him do I rely, and to Him shall I
 return.
 
-
 **Muhammad al-Tijani al-Samawi (of Tunisia)**
-
 
 [^5] The translation of Tijani's book Fas'aloo Ahl al-Dhikr (so ask
 those who have with them the knowledge of the Qur'an) has been published

@@ -175,11 +175,11 @@ of lifetime. …” [^2]
 poverty and increase life-time, and prevent seventy kinds of evil
 death.” [^3]
 
-[^1] The Commentary of Nu-r-uth-Thaqalayn, Vol. 4, PP. 354-355
+[^1]: The Commentary of Nu-r-uth-Thaqalayn, Vol. 4, PP. 354-355
 
-[^2] Ibid
+[^2]: Ibid
 
-[^3] Safi-nat-ul-Bih)a-r, Vol. 2, P. 23
+[^3]: Safi-nat-ul-Bih)a-r, Vol. 2, P. 23
 
 There are also some indications in Islamic narrations concerning some
 other sins, such as injustice, and sins in absolute. Some of the
@@ -214,7 +214,7 @@ alms-giving in the cause of Allah, or union of kindred cause the length
 of lifetime to be prolonged and pests to be removed, in fact, they
 depend on these very factors.
 
-[^1] 'A-lu-si-, the Commentary, Vol. 22, P. 164
+[^1]: 'A-lu-si-, the Commentary, Vol. 22, P. 164
 
 And if we do not separate these two kinds of the term of death from
 each other, the comprehension of many of the issues in relation with
@@ -233,7 +233,6 @@ to some unaware experienced and careless persons to ride and they use it
 beyond its power and capacity, and every day they take it to work in
 rough roads, the life-time of the car may decrease to half or less than
 that. This is that very ‘sudden death’ of it.
-
 
 **Commentary : Verse 13**
 
@@ -327,7 +326,7 @@ the accurate movements of the sun and the moon with all their favours.
 
 The verse continues again saying:
 
-[^1] The Commentary of Rauh-ul-Baya-n, and Abul-Futu-h-i-Ra-zi-
+[^1]: The Commentary of Rauh-ul-Baya-n, and Abul-Futu-h-i-Ra-zi-
 
 “… to Him belongs the kingdom, and those whom you call upon, apart from
 Him, possess not (so much as) the skin of a date-stone.”
@@ -343,5 +342,4 @@ Yes, these idols are neither the source of any benefit, and harm, nor
 do they defend you nor of themselves, nor do they have any authority and
 possession even over the skin of a dater-stone. Yet, why do you, the
 unwise, worship them and demand them to solve your problems?
-
 

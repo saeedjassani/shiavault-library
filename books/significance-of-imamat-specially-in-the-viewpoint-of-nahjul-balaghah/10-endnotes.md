@@ -1,13 +1,13 @@
 Endnotes
 ========
 
-[^1] Please refer to our footnote of the booklet, Wherefrom to Begin,
+[^1]: Please refer to our footnote of the booklet, Wherefrom to Begin,
 page [^39]:
 
-[^2] In one of his footnotes on the booklet, Wherefrom to Begin, page
+[^2]: In one of his footnotes on the booklet, Wherefrom to Begin, page
 [^39]:
 
-[^3] In his papers on "Alteration of the Quran" the author says that
+[^3]: In his papers on "Alteration of the Quran" the author says that
 distortion of meaning indicates the retention of the wording of the
 Quran, but expounding it wrongly as, according to a well-known story
 Muawiyah did when he misinterpreted the wording of the prediction
@@ -22,18 +22,18 @@ caused so much damage in the history of Islam. Another case is the
 misinterpretation of the tradition: "If you know (Allah), do whatever
 you like."
 
-[^4] In this connection a reference may be made to Shaykh Qawam
+[^4]: In this connection a reference may be made to Shaykh Qawam
 Wishnawahi's treatise appended to Risalatul Islam and to the Biharul
 Anwar, an account of the Prophet's life.
 
-[^5] Shaykh Qiwamuddin says that this tradition has been reproduced in
+[^5]: Shaykh Qiwamuddin says that this tradition has been reproduced in
 Sahih Muslim, Vol. VII, p. 122, Sunan Tirmizi, Vol. II, p. 307, Sunan
 Abu Da'ud, Vol. V, pp. 182, 189; Mustadrak Hakim, Vol. III, pp. 14, 17,
 26, 59, Vol. VI, pp. 366, 371, Vol. V, pp. 182, 189; Mustadrak Hakim,
 Vol. III, p. 109, Tabaqat of Ibn Sa'd, Vol. IV, p. 8; Usudul Ghabah,
 Vol. II, p.12, Vol. III, p. 147 and Ibn Abil Hadid.
 
-[^6] Some preachers have made a gross misuse of this tradition, for they
+[^6]: Some preachers have made a gross misuse of this tradition, for they
 invariably use it as a prelude to narrating the misfortunes of the
 Prophet's chosen descendants. One may think that when the Holy Prophet
 said that he was leaving two things behind him: the Qur'an and his
@@ -47,7 +47,7 @@ adherence. The Holy Prophet has declared his descendants equal with the
 Quran. He himself has said that the Qur'an was the major 'thaqal' and
 his descendants the minor 'thaqal'.
 
-[^7] The Shi'ah attach great importance to the religious aspect of
+[^7]: The Shi'ah attach great importance to the religious aspect of
 Imamat. As we said earlier in our times Imamat who mostly considered to
 be tantamount to the administration of government, but that was a wrong
 notion. Imamat is mostly a religious question and the administration of
@@ -68,13 +68,13 @@ time or if we know that the Imam is in occultation, in both these cases
 no religious head would be present. Therefore in these cases the
 question would of course arise how should be the head of the government.
 
-[^8] The months of Zil Qa'dah, Zil Hijjah, Muharram and Rajab are the
+[^8]: The months of Zil Qa'dah, Zil Hijjah, Muharram and Rajab are the
 sacred months, during which fighting was kept suspended and vengeance
 was not sought. Routes were safe during these months and coming and
 going of persons and goods normal. An annual fair was also held at a
 Place near Makkah named 'Ukaz.
 
-[^9] The Holy Prophet referred to the following verse, "The Prophet has
+[^9]: The Holy Prophet referred to the following verse, "The Prophet has
 more authority over the believers than they themselves have." (Surah al
 Ahzab 33:6) Being a Prophet of Allah, the Holy Prophet had authority
 over the life, property and everything of the people. He had more
@@ -85,7 +85,7 @@ him the representative of
 the whole Muslim society and as such he had authority over the life and
 property of the Muslims on behalf of Muslim society as a whole.
 
-[^10] Last year we had a chance to go to Khayber. Till then we had no
+[^10]: Last year we had a chance to go to Khayber. Till then we had no
 idea how far Khayber and Tabuk were from Medina by the direct route via
 Shusa. The whole distance was found to be exactly 600 kilometers. By the
 ancient routes the distance might have been greater. The distance
@@ -93,26 +93,26 @@ between Medina and Khayber is 360 kilometers. We were really astonished
 by the courage and resolution of the Muslims who traversed this long
 distance with the poor means available to them at that time.
 
-[^11] The reason why it has been reported by a very large number of
+[^11]: The reason why it has been reported by a very large number of
 transmitters is that at that time the sayings of the Holy Prophet were
 only remembered and not written. Naturally the traditions containing
 Imam Ali's name could be remembered by more people than any other
 traditions.
 
-[^12] The first part of the book, Khilafat and Wilayat, which has
+[^12]: The first part of the book, Khilafat and Wilayat, which has
 recently been published, contains Muhammad Taqi Shari'ati's lectures
 which he delivered at Husayniyah Irshad some four years ago. In his
 lectures he dealt with the same subject with which I am dealing.
 Therefore the two books maybe considered to be supplementary to each
 other.
 
-[^13] The Holy Prophet performed his farewell pilgrimage during th6 last
+[^13]: The Holy Prophet performed his farewell pilgrimage during th6 last
 year of his life, some two months before his demise. He died on 28 Safar
 or according to the Sunnis on 12 Rabi'ul Awwal. He reached Ghadir
 al-Khum on 18th Zil Hijjah, that is two months and 10 days before his
 demise or two months and 24 days according to what the Sunnis say.
 
-[^14] Some of you might have been to Juhfah. I visited the place during
+[^14]: Some of you might have been to Juhfah. I visited the place during
 my second Hajj journey. Our visit to Medina was delayed. So we took an
 opportunity to visit Jaddah. There is some difference in the juristic
 opinion whether or not one can assume the ritual state of ihram at
@@ -131,15 +131,15 @@ Juhfah. It is the place at which the Muslims returning from Makkah after
 performing pilgrimage disperse. Some go to Medina and others to their
 respective places.
 
-[^15] She is held in very high respect by the Shi'ah and is regarded as
+[^15]: She is held in very high respect by the Shi'ah and is regarded as
 the most eminent wife of the Holy Prophet (SA) after Khadijah. She is
 greatly respected by the Sunnis also. According to them, she ranks next
 to Khadijah and 'Ayishah.
 
-[^16] Imam Ali (AS) is reported to have said so. (Safinat ul Bihar, vol.
+[^16]: Imam Ali (AS) is reported to have said so. (Safinat ul Bihar, vol.
 2)
 
-[^17] At that time the word, 'zindiq' was not an abusive term as it is
+[^17]: At that time the word, 'zindiq' was not an abusive term as it is
 now. In those days a number of people were called zindiqs and they did
 not think it insulting to be called so. In our times the same is the
 case with the word, materialist. Of course a monotheist would never like
@@ -160,7 +160,7 @@ definitely a dualist and claimed to be a Prophet raised by the god of
 good. But later Manichiaean tended towards materialism and naturalism,
 and ceased to believe in anything spiritual.
 
-[^18] A compromise on principles may be in the name of expedience which
+[^18]: A compromise on principles may be in the name of expedience which
 includes undue regard for someone. A compromise may also be due to
 making discrimination in showing favour or accepting an intercession. It
 is a known fact that the Holy Prophet awarded legal punishment even to
@@ -221,14 +221,13 @@ who arrived in Anbar. "If any Muslim dies henceforth on account of
 sorrow "Should I pass the night while I have overeaten and there are
 hungry stomachs around me?"
 
-[^19] It may be noted that these notes were written before Islamic
+[^19]: It may be noted that these notes were written before Islamic
 revolution had taken place in Iran.
 
-[^20] A part of the life account of the Holy Prophet should be studied
+[^20]: A part of the life account of the Holy Prophet should be studied
 from the viewpoint of the principles of leadership.
 
-[^21] Item No. 33 deals with signs of immaturity, which have been
+[^21]: Item No. 33 deals with signs of immaturity, which have been
 mentioned in the article on Islamic maturity in the Book, Divine Succur
 in Human Life.
-
 

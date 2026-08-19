@@ -377,13 +377,13 @@ and Asma', daughters of Kharijah of the tribe of Banu Aslam.
 
 **Notes:**
 
-[^66] See Qur'an 33:37.
-[^67] Most of the historians say that her former husband was Abu Ruhm
+[^66]: See Qur'an 33:37.
+[^67]: Most of the historians say that her former husband was Abu Ruhm
 ibn \`Abdi'l-\`Uzza al-\`Amiri. But it is also said that he was
 Sakhbarah, the son of Abu Ruhm. (ed. )
-[^68] This fact is emphasized because the Prophet's wives could not
+[^68]: This fact is emphasized because the Prophet's wives could not
 remarry after him, being considered the mothers of all Muslims. See
 Qur'an 33:6.
-[^69] See Qur'an 33 :28 and 29.
-[^70] See al-Bukhari, vol 7, pp. 121- 2
+[^69]: See Qur'an 33 :28 and 29.
+[^70]: See al-Bukhari, vol 7, pp. 121- 2
 

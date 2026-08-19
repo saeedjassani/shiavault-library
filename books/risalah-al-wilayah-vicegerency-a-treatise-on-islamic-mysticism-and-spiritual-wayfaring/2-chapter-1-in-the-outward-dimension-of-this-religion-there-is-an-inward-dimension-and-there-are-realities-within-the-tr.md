@@ -312,4 +312,3 @@ al-Farsi, Uwais al-Qarani, Kumail ibn Ziyad, al-Nakhai, Meesam al-Tammar
 al-Kufi, Rashid al-Hijri, and Jabir al-Jufi, may Allah Almighty be
 pleased with them all.
 
-

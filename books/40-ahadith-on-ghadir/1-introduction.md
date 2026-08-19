@@ -16,11 +16,9 @@ At this point, the Truthful conveyor of the revelation, Jibra'il (a.s.)
 came to the Prophet (s) who was stationed in the valley known as Ghadir
 Khumm and revealed the following verse of the Qur'an to him:
 
-<p dir="rtl">
 يَا أَيُّهَا الرَّسُولُ بَلِّـغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَّبِّكَ وَ
 إِنْ لَمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَاللٌّهُ يَعْصِمُكَ مِنَ
 النَّاسِ...
-</p>
 
 “O’ Messenger! Convey that which has been revealed to you from your
 Lord and if you do not do so, it is as if you have not conveyed His
@@ -68,10 +66,8 @@ The Angel of Revelation, Jibra'il (a.s.) once again descended by the
 order of Allah (s.w.t.) and this time, revealed the following verse of
 the Qur'an:
 
-<p dir="rtl">
 أَلْـيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَ أَتْمَمْتُ عَلَيْكُمْ
 نِعْمَتِي وَ رَضِيتُ لَكُمُ الإِسْلاَمَ دِيناً
-</p>
 
 “On this day have I completed your religion for you and perfected My
 bounties upon you and am pleased with Islam as being your religion.”
@@ -184,5 +180,4 @@ celebrate it as it deserves to be celebrated.
 **Notes:**
 
 [^1]Biharul Anwar, vol. 97, Page 117.
-
 

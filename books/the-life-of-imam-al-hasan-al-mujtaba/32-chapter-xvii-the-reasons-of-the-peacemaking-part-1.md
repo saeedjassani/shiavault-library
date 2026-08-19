@@ -79,12 +79,12 @@ R. M. Ronalds, an orientalist, has said: “Most surely the reports
 indicate that al-Hasan lacked morale strength and a mental ability that
 he might successfully lead his people.”[^4]
 
-[^1] Sharh Lamiyat al-‘Ajam, vol. 2, p. 27. Al-Safadi has said something
+[^1]: Sharh Lamiyat al-‘Ajam, vol. 2, p. 27. Al-Safadi has said something
 at random. When did Imam al-Hasan sell the caliphate to his opponent for
 repaying his debt? We seek refuge with Allah from this accusation!
-[^2] Al-‘Arab, p. 78.
-[^3] Hayat al-Hasan, vol. 2, p. 283.
-[^4] ‘Aqidat al-Shia translated by A. M. S. This orientalist has filled
+[^2]: Al-‘Arab, p. 78.
+[^3]: Hayat al-Hasan, vol. 2, p. 283.
+[^4]: ‘Aqidat al-Shia translated by A. M. S. This orientalist has filled
 his book with lying, criticizing Islam and degrading the value of its
 brilliant, great figures. In al-Bayan bright Magazine, no. 35-39
 (assigned to Imam al-Hasan, the master of martyrs), the second year,
@@ -114,7 +114,7 @@ to the extent that the grandson of the Prophet dared to repent openly
 that he did not double his demand. And he left Iraq filled with the
 people’s displeasure with him, that he might keep to Medina.”[^1]
 
-[^1] Daa’irat al-Ma’arif al-Islamiya, vol. 7, p. 400. This Daa’irat
+[^1]: Daa’irat al-Ma’arif al-Islamiya, vol. 7, p. 400. This Daa’irat
 (encyclopedia) is nothing but an encyclopedia of lying and fabrications.
 It is full of defaming Islam and cursing its great figures, especially
 as it concerns Laamans’s researches on the Shia and their Imams. They
@@ -233,7 +233,7 @@ reeds!” Al-Mughira bin Shu‘ba has described their intense influence on
 the people, saying: “When they resided in a country, they spoiled all
 those who associated with them.”[^1] They controlled the simple-minded
 from among the (Iraqi) Army through their slogan: “The
-[^1] Al-Tabari, Tarikh, vol. 6, p. 109.
+[^1]: Al-Tabari, Tarikh, vol. 6, p. 109.
 
 government belongs to Allah!” With this they meant nothing except the
 government through the sword, as Flotin says.[^1] The crooked plans of
@@ -275,8 +275,8 @@ Ali, the Commander of the faithful, would not have been forced to accept
 the arbitration, and al-Hasan would not have resorted to the
 peacemaking.
 
-[^1] Al-Siyada al-‘Arabiya, p. 69.
-[^2] A’yan al-Shia, vol. 4, p. 42.
+[^1]: Al-Siyada al-‘Arabiya, p. 69.
+[^2]: A’yan al-Shia, vol. 4, p. 42.
 
 **Boredom of War**
 
@@ -325,7 +325,7 @@ bitter sorrow and permanent sadness. Accordingly, in many of his
 speeches, the Imam has disparaged and dispraised them. He (a.s) has
 said: “I am tired of admonishing you. Are you satisfied with this
 worldly life in place
-[^1] Dr. Taha Husayn, Ali wa Banuh, p. 55.
+[^1]: Dr. Taha Husayn, Ali wa Banuh, p. 55.
 
 of the next life? Or disgrace in place of dignity? When I summon you to
 fight against your enemy, your eyes revolve as though you are in the
@@ -367,8 +367,8 @@ Mu’awiya’s summons to peacemaking, they said at the top of their voices:
 This indicates that they were tired of war, they hated jihad, and would
 never been with Imam al-Hasan if he had opened a door to battle against
 Mu’awiya.
-[^1] Muhammed ‘Abda, Sharh Nahj al-Balagha, vol. 3, p. 67.
-[^2] Ibid., vol. 1, p. 70.
+[^1]: Muhammed ‘Abda, Sharh Nahj al-Balagha, vol. 3, p. 67.
+[^2]: Ibid., vol. 1, p. 70.
 
 **Missing the aware Figures**
 
@@ -460,7 +460,7 @@ deliberately spent money on the prominent persons, the noble, and the
 leaders. That is because he had come to know that he had no means to
 overcome the event except through spending money. Accordingly, the
 people
-[^1] Ansab al-Ashraf, Q1/vol.1, p. 223.
+[^1]: Ansab al-Ashraf, Q1/vol.1, p. 223.
 
 betrayed Imam al-Hasan and slipped away in the night and in the
 daylight to join Mu’awiya’s camp. They paid no attention to shame,
@@ -489,9 +489,9 @@ came to him and said:
 -Shackle al-Hasan and seek security from Mu’awiya through him.
 -Allah’s curse be on you! Do I shackle the son of the daughter of the
 messenger of Allah? How a bad man you are![^3]
-[^1] Al-Tabari, Tarikh, vol. 2, p. 19.
+[^1]: Al-Tabari, Tarikh, vol. 2, p. 19.
 
-[^2] Al-Bukhari has mentioned Sa‘d bin Mas‘ud al-Thaqafi (and regarded
+[^2]: Al-Bukhari has mentioned Sa‘d bin Mas‘ud al-Thaqafi (and regarded
 him as) among the companions (of the Prophet). Al-Tabarani has said: “He
 (Sa‘d bin Mas‘ud al-Thaqafi) had companionship (with the Prophet). (Imam
 Ali), the Commander of the faithful, peace be on him, appointed him as a
@@ -501,7 +501,7 @@ on the authority of the Imam, who said: “When Noah wore a garment, he
 thanked Allah. When he ate or drank, he thanked Allah. So he was called
 a grateful servant.” Al-Isaba, vol. 2, p. 34.
 
-[^3] Al-Tabari, Tarikh. Al-Isaba. Some researchers have negated the
+[^3]: Al-Tabari, Tarikh. Al-Isaba. Some researchers have negated the
 correctness of the narration and regarded it as among the fabricated
 ones. That is possible, for al-Mukhtar was the best of the men in his
 conduct, his piety, and all his tendencies. The treason included
@@ -547,7 +547,7 @@ whom the Imam was unable to fight, nor was he able to resist. With these
 forces Mu’awiya had fought against Imam Ali, the Commander of the
 faithful, before and forced Imam al-Hasan to make peace with him. We
 will give a brief outline on some of them as follows:
-[^1] Al-Maqreezi, Khutat, vol. 2, p. 439.
+[^1]: Al-Maqreezi, Khutat, vol. 2, p. 439.
 
 **The Obedience of the Army**
 
@@ -585,20 +585,20 @@ believed in other things as to Mu’awiya and the Umayyads. Professor Fan
 Floten says: “The great majority thought that the Umayyad party was that
 of the religion and the regime.” He added:
 
-[^1] Abu al-‘Abbas was the first ‘Abbasid caliph. He was at al-Hamiya, a
+[^1]: Abu al-‘Abbas was the first ‘Abbasid caliph. He was at al-Hamiya, a
 district of al-Balqa’, in the year 108 A. H. He grew up at it. He was
 given the pledge of allegiance as a caliph in 3rd Rabee‘ al-Awwal, in
 the year 132. He hurried to shed blood. His governors in the east and
 west followed his examples. He died in the year 136. Al-Sayuti, Tarikh
 al-Khulafa’, p. 100.
 
-[^2] Ibrahim bin al-Muhajir al-Bajali is Abu Ishaq al-Kufi. He narrated
+[^2]: Ibrahim bin al-Muhajir al-Bajali is Abu Ishaq al-Kufi. He narrated
 traditions on the authority of a group of the trustworthy, and others
 reported on his authority. (The traditionists) have differed over his
 narration. So it was said that he was trustworthy, and it was said that
 he was weak. Tahdhib al-Tahdhib, vol. 1, p. 167.
 
-[^3] Al-Mas‘udi Murujj al-Dhahab, vol. 2, p. 167.
+[^3]: Al-Mas‘udi Murujj al-Dhahab, vol. 2, p. 167.
 
 “In the viewpoint of the Umayyad party Mu’awiya was the vicegerent of
 Allah just as his son Yazid was the Imam of the Muslims, ‘Abd al-Malik
@@ -643,8 +643,8 @@ from falsehood. They did not carefully consider the differences among
 the sensible things. They were mobs and rabbles. The clearest proof of
 their inattentiveness
 
-[^1] Al-Siyada al-‘Arabiya, p. 70.
-[^2] Al-Mas‘udi Murujj al-Dhahab, vol. 2, p. 332.
+[^1]: Al-Siyada al-‘Arabiya, p. 70.
+[^2]: Al-Mas‘udi Murujj al-Dhahab, vol. 2, p. 332.
 
 was the story of ‘Ammar bin Yasir, the great companion of the Prophet.
 When he obtained martyrdom, the Syrians differed over him because of the
@@ -676,5 +676,4 @@ of Sham lest he should spoil the people against us!”[^1]
 
 The historians have mentioned many examples of such cases showing the
 Umayyad policy aiming at deadening awareness and spreading ignorance.
-
 

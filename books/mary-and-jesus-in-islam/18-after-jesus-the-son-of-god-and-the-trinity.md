@@ -28,7 +28,7 @@ Trinity composed of a father, mother and son; and that this fact was
 well known to the initiated. It should also be observed that the
 father
 
-[^1] William F. Albright, From the Stone Age to Christianity, Doubleday
+[^1]: William F. Albright, From the Stone Age to Christianity, Doubleday
 & Co., Inc., Garden City, New York, 1957, p. 261.
 
 (106)
@@ -69,10 +69,10 @@ undertaking that will surely be laborious and exhaustive. Let us,
 instead, read the following from the only true though “unofficial”
 Gospel:
 
-[^1] Col. J. Garnier, The Worship of the Dead, Chapman & Hall, Ltd.,
+[^1]: Col. J. Garnier, The Worship of the Dead, Chapman & Hall, Ltd.,
 1904, p. 12.
 
-[^2] History of Christianity in the Light of modern Knowledge, A
+[^2]: History of Christianity in the Light of modern Knowledge, A
 Collective Work, p. 209.
 
 (107)
@@ -110,7 +110,7 @@ Peter weeping, and saying, “So be it. O blessed Lord our God.”
 Afterward Jesus departed and went into Galilee in order that this vain
 opinion which the common folk began to hold
 
-[^1] Caesarea Philippi is an area in north Palestine at the foot of Mt.
+[^1]: Caesarea Philippi is an area in north Palestine at the foot of Mt.
 Hermon built by Philip the Tetrarch.
 
 (108)
@@ -146,7 +146,7 @@ truthful woman; they both used to eat food. See how We make the Signs
 clear to them, then behold how they are turned away (from the right
 track)! (5:72-75)
 
-[^1] This is the Almighty's reference to the concept of the Trinity.
+[^1]: This is the Almighty's reference to the concept of the Trinity.
 Advocates of the Trinity claim that the God exists in three persons:
 Father, Son, and Holy Ghost.
 
@@ -178,7 +178,7 @@ disdain and are proud, He will chastise them with a painful
 chastisement. And they shall not find for themselves besides Allah a
 guardian or a helper. (4:171-173)
 
-[^1] Uzair is Arabic for Hebrew Ezra. This is the only verse in the Holy
+[^1]: Uzair is Arabic for Hebrew Ezra. This is the only verse in the Holy
 Qur’an where such a reference is made. Who is this alleged Jewish “son
 of God”? After the Babylonian conquest of Jerusalem at the hands of
 Nebuchadnessar, the Torah was lost. Since there was none who remembered
@@ -250,5 +250,4 @@ against them. (4:155-159)
 When Qur'anic texts such as these agree with what St. Barnabas had
 written in his Gospel, the truth will shine, but how many sincere
 seekers of the truth are there in our world?
-
 

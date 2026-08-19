@@ -167,4 +167,3 @@ left some empty space but apparently could' not record the order of the
 surahs from the codex written by 'Ali (A) which he had seen. This is in
 itself evidence that the surahs were arranged differently by 'Ali (A).
 
-

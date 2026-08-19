@@ -42,7 +42,7 @@ the four months and ten days (of
 
 --------------------------------------------------------------------------------
 
-[^1] Four months and ten days.
+[^1]: Four months and ten days.
 
 (263)
 
@@ -83,14 +83,14 @@ husband’s death or she does not know because of his being far away
 
 --------------------------------------------------------------------------------
 
-[^1] Kanzol Ummal, vol. 5 p.166.
-[^2] Sunan of al-Bayhaqi, Sunan of ibn Abu Shayba and Kanzol Ummal, vol.
+[^1]: Kanzol Ummal, vol. 5 p.166.
+[^2]: Sunan of al-Bayhaqi, Sunan of ibn Abu Shayba and Kanzol Ummal, vol.
 5 p.166.
-[^3] Mentioned by az-Zamakhshari in his Kashshaf when interpreting this
+[^3]: Mentioned by az-Zamakhshari in his Kashshaf when interpreting this
 verse (and (as for) the pregnant women, their prescribed time is that
 they lay down their burden). This is the opinion of Ahlul Bayt (s) and
 it is the most cautious opinion.
-[^4] When a wife’s husband dies.
+[^4]: When a wife’s husband dies.
 
 (264)
 
@@ -133,7 +133,7 @@ the apparent principles. These texts say that when no information
 
 --------------------------------------------------------------------------------
 
-[^1] In his book Usool al-Fiqh, p.241.
+[^1]: In his book Usool al-Fiqh, p.241.
 
 (265)
 
@@ -257,7 +257,7 @@ water, had not to offer the prayer until he would find
 
 --------------------------------------------------------------------------------
 
-[^1] Tayammum is performing ritual ablution, before offering prayers and
+[^1]: Tayammum is performing ritual ablution, before offering prayers and
 other obligations, with earth when there is no water.
 
 (268)
@@ -297,11 +297,11 @@ Allah is more aware!
 
 --------------------------------------------------------------------------------
 
-[^1] Irshad as-Sari fee Sharh Sahih al-Bukhari by al-Qastalani, vol.2
+[^1]: Irshad as-Sari fee Sharh Sahih al-Bukhari by al-Qastalani, vol.2
 p.131.
-[^2] Ammar said that out of his fear from Umar because the saying of
+[^2]: Ammar said that out of his fear from Umar because the saying of
 Umar “We will see how to deal with you” was as a threat to Ammar.
-[^3] Sahih of al-Bukhari, vol.1 p.50.
+[^3]: Sahih of al-Bukhari, vol.1 p.50.
 
 (269)
 
@@ -342,10 +342,10 @@ you that they offer prayers since the afternoon until
 
 --------------------------------------------------------------------------------
 
-[^1] vol.1 p.309.
-[^2] At the end of the chapter (prohibiting praying (two rak’as) before
+[^1]: vol.1 p.309.
+[^2]: At the end of the chapter (prohibiting praying (two rak’as) before
 Fajr prayer and after Asr prayer.
-[^3] Ibn Muhammad bin al-Mukandar al-Qarashi at-Taymi al-Madani, as in
+[^3]: Ibn Muhammad bin al-Mukandar al-Qarashi at-Taymi al-Madani, as in
 Sharh al-Muwatta’ by az-Zarqani.
 
 (270)
@@ -375,7 +375,7 @@ prices in the treasury until they, later on, took their monies.[^3]
 
 --------------------------------------------------------------------------------
 
-[^1] He meant the time of sunset that the Prophet (s) had forbidden from
+[^1]: He meant the time of sunset that the Prophet (s) had forbidden from
 offering prayers in. The true prophetic traditions about this matter
 have been mentioned in the books of Hadith. Malik in his Muwatta’
 mentioned a tradition from ibn Umar that the Prophet (s) had said: “Do
@@ -388,12 +388,12 @@ Sharia even if he intended to do good. Would that he had been satisfied
 with prohibiting offering this prayer without beating the servants of
 Allah while offering their prayers before their Lord!
 
-[^2] Tabaqat of ibn Sa’d, vol.3 p.204, Tareekh al-Khulafa’ of
+[^2]: Tabaqat of ibn Sa’d, vol.3 p.204, Tareekh al-Khulafa’ of
 as-Sayooti, p.53, Sharh Nahjol Balagha of ibn Abul Hadeed, vol.3 p.113,
 Kitab al-Haywan of ad-Dimyari, Tareekh Umar by Abul Faraj al-Jawzi
 p.60.
 
-[^3] Mentioned by ibn al-Atheer in Al-Kamil, the events of the 17th year
+[^3]: Mentioned by ibn al-Atheer in Al-Kamil, the events of the 17th year
 of hijra and by other historians.
 
 (271)
@@ -434,13 +434,13 @@ he said: “They are my brothers, friends and
 
 --------------------------------------------------------------------------------
 
-[^1] A tradition narrated by ibn Abbas and mentioned by Ahmad in his
+[^1]: A tradition narrated by ibn Abbas and mentioned by Ahmad in his
 Musnad, vol.1 p.335.
-[^2] Al-Istee’ab by ibn Abdul Birr, biography of Hamza bin Abdul
+[^2]: Al-Istee’ab by ibn Abdul Birr, biography of Hamza bin Abdul
 Muttalib.
-[^3] She was the Prophet’s aunt.
-[^4] Sharh Nahjol Balagha, vol. 3 p.387.
-[^5] Sahih of al-Bukhari, vol.1 p.148, vol.3 p.39.
+[^3]: She was the Prophet’s aunt.
+[^4]: Sharh Nahjol Balagha, vol. 3 p.387.
+[^5]: Sahih of al-Bukhari, vol.1 p.148, vol.3 p.39.
 
 (272)
 
@@ -480,11 +480,11 @@ criers cry for one like Ja’far!”[^4]
 
 --------------------------------------------------------------------------------
 
-[^1] Sahih of al-Bukhari, vol.1 p.154.
-[^2] Sahih of al-Bukhari, vol.1 p.152, Sahih of Muslim, vol.1 chap.
+[^1]: Sahih of al-Bukhari, vol.1 p.154.
+[^2]: Sahih of al-Bukhari, vol.1 p.152, Sahih of Muslim, vol.1 chap.
 Crying for the dead.
-[^3] Sahih of al-Bukhari, vol.1 p.155, Sahih of Muslim, vol.1 p.341.
-[^4] In this tradition the Prophet (s) has approved crying for the dead
+[^3]: Sahih of al-Bukhari, vol.1 p.155, Sahih of Muslim, vol.1 p.341.
+[^4]: In this tradition the Prophet (s) has approved crying for the dead
 and ordered of it. In fact the crying of Fatima (s) only could be enough
 evidence on the subject.
 
@@ -526,9 +526,9 @@ began wiping Fatima’s eyes with his dress compassionately.”[^3]
 
 --------------------------------------------------------------------------------
 
-[^1] Vol.2 p.40.
-[^2] Al-Bukhari's Sahih, vol. 1 p.255.
-[^3] vol.1 p.335.
+[^1]: Vol.2 p.40.
+[^2]: Al-Bukhari's Sahih, vol. 1 p.255.
+[^3]: vol.1 p.335.
 
 (274)
 
@@ -569,8 +569,8 @@ heard the
 
 --------------------------------------------------------------------------------
 
-[^1] vol.2 p.333.
-[^2] One day during his caliphate, Umar heard some women crying inside
+[^1]: vol.2 p.333.
+[^2]: One day during his caliphate, Umar heard some women crying inside
 one of the houses. He came into the house and began beating the crying
 women until their veils fell down of their heads. Then he said to his
 servant: “Beat the weeping women…beat them. They have no sanctity…”
@@ -618,7 +618,7 @@ that the
 
 --------------------------------------------------------------------------------
 
-[^1] It may be Rawdat Khakh, which is a place between Mecca and
+[^1]: It may be Rawdat Khakh, which is a place between Mecca and
 Medina.
 
 (276)
@@ -659,10 +659,10 @@ being pessimistic but how do you become pessimistic now?” The Prophet
 
 --------------------------------------------------------------------------------
 
-[^1] Imam Ali (s) threatened to disrobe her of her outer garment in
+[^1]: Imam Ali (s) threatened to disrobe her of her outer garment in
 which the book was.
-[^2] Al-Bukhari's Sahih, vol. 4. chap. Forgiving the apostatized.
-[^3] As in Hayat al-Haywan by ad-Dimyari, chap. “luqha” she-camel.
+[^2]: Al-Bukhari's Sahih, vol. 4. chap. Forgiving the apostatized.
+[^3]: As in Hayat al-Haywan by ad-Dimyari, chap. “luqha” she-camel.
 
 (277)
 
@@ -689,5 +689,4 @@ openly.[^4] Necessity then required the Muslims to conceal their faith
 because the mission would not succeed except with concealment but the
 (valor) of Umar led him to announce his being a Muslim even if he would
 contradict the order of the Prophet (s)!
-
 

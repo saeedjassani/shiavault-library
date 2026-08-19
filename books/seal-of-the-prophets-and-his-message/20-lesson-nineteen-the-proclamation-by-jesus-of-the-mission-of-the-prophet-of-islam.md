@@ -133,7 +133,7 @@ How be it, when he, the Spirit of truth is come, he will guide you into
 all truth: for he shall not speak of himself; but whatsoever he shall
 hear, that shall he speak; and he will show you things to come. He shall
 glorify me, for he shall receive of mine and shall show it unto you."
-[^3] "But the Comforter, which is the Holy Ghost, whom the Father will
+[^3]: "But the Comforter, which is the Holy Ghost, whom the Father will
 send in my name, he shall teach you all things, and bring all things to
 your remembrance, whatsoever I have said unto you." [^4]
 
@@ -385,5 +385,4 @@ inaccurate.
 [^9]: Bucaille, op. cit., pp. 102-106.
 
 [^10]: Vol. XXIII, p. 4174.
-
 

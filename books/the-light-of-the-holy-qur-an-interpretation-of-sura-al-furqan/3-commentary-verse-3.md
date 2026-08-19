@@ -90,7 +90,6 @@ showing their weakness and inability. It implies that they believed that
 these idols had intellect and sense, but these idols cannot protect
 themselves from loss and can not achieve any benefit!
 
-
 **Commentary : Verse 4**
 
 4. وَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلآَّ إِفْكٌ افْتَرَاهُ
@@ -158,7 +157,7 @@ if it were so, they could also present such verses with the help of the
 Jews and the People of the Book. Therefore, their inability to do it is
 the reason of their lie and
 
-[^1] Thr word /ja'u/ means to come, but here it means to bring.
+[^1]: Thr word /ja'u/ means to come, but here it means to bring.
 
 their lie is the reason of their iniquity. So the short sentence
 saying: "... so indeed they have done injustice and (uttered) a
@@ -169,5 +168,4 @@ The Arabic word /zur/ is in fact derived from a word that means the
 upper part of the chest. Then it was applied to whatever that inclines
 from the middle and, because lie deviates from truth and inclines toward
 falsehood, it is called /zur/.
-
 

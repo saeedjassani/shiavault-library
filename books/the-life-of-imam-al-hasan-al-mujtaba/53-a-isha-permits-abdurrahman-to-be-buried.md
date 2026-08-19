@@ -12,9 +12,9 @@ al-Talibiyyin, p. 23. It has also been mentioned in the books:
 al-Kharaiyajj wa al-Jaraiyah, p. 23, Roudat al-Nazir, and Bihar
 al-Anwar.
 
-[^1] We have already mentioned the Prophet’s traditions concerning Imam
+[^1]: We have already mentioned the Prophet’s traditions concerning Imam
 al-Hasan. The Muslims have unanimously agreed on them.
-[^2] Al-Durra al-Thamina fi Tarikh al-Medina, p. 404.
+[^2]: Al-Durra al-Thamina fi Tarikh al-Medina, p. 404.
 
 that which A’isha took was! She allowed Abdurrahman bin ‘Awf to be
 buried beside Allah’s Apostle, and he enjoyed his neighborhood, while
@@ -59,8 +59,8 @@ al-Husayn that A’isha wanted to divide them, so he refuted her
 statement, saying: “How can you separate Muhammad (bin al-Hanafiya) from
 Fatima’s sons? By Allah, he
 
-[^1] Ibn Sa‘d, Tabaqat, vol. 8, p. 50.
-[^2] ‘Aa’isha wa al-Siyasa, p. 218.
+[^1]: Ibn Sa‘d, Tabaqat, vol. 8, p. 50.
+[^2]: ‘Aa’isha wa al-Siyasa, p. 218.
 
 was descended from three women called Fatima; Fatima, daughter of Imran
 bin ‘Aaid bin Makhzum, Fatima, daughter of Asad bin Hashim, and Fatima,
@@ -96,9 +96,9 @@ History has not recorded a noble attitude for Abu Hurayra except this
 one. As for Marwan, he became displeased with Abu Hurayra’s saying and
 he shouted
 
-[^1] A‘lam al-Wara fi A‘lam al-Huda, p. 126.
-[^2] Al-Ya‘qubi, Tarikh, vol. 2, p. 200.
-[^3] Roudat al-Wa‘izeen, p. 143. A‘yan al-Shia, vol. 4, p. 81. It is
+[^1]: A‘lam al-Wara fi A‘lam al-Huda, p. 126.
+[^2]: Al-Ya‘qubi, Tarikh, vol. 2, p. 200.
+[^3]: Roudat al-Wa‘izeen, p. 143. A‘yan al-Shia, vol. 4, p. 81. It is
 worth mentioning that this Ibn ‘Abbas is not Abdullahbin ‘Abbas, the
 religious scholar of the community, for he was in Damascus. This Ibn
 ‘Abbas is one of the sons of al-‘Abbas. He was either ‘Ubayd Allah or
@@ -154,10 +154,10 @@ before the death of Allah’s Apostle; therefore, fear Allah, O Abu
 Hurayra.’ He (Abu Hurayra) said: ‘I said: ‘Yes, (this is) what I advise
 you (to cling to).’ Then he kept silent.”
 
-[^2] Ibn ‘Asakir, Tarikh, vol. 12. It is available in the Library of
+[^2]: Ibn ‘Asakir, Tarikh, vol. 12. It is available in the Library of
 al-Imam Ameer al-Mu’mineen.
 
-[^3] The Shi‘ite historians have maintained that ‘Aa’isha commanded the
+[^3]: The Shi‘ite historians have maintained that ‘Aa’isha commanded the
 Umayyads to shoot (arrows at) the coffin of al-Hasan, to the extent that
 seventy arrows were drawn from it. This has been mentioned in the book
 Nasikh al-Tawarikh and the like. This confirmed by what has been
@@ -204,9 +204,8 @@ you and us with good comfort!”[^2]
 Then he sat down on the grave, watered it with the tears of his eyes,
 and recited:
 
-[^1] Kifayat al-Talib, p. 268, and other than it.
-[^2] ‘Uyun al-Akhbar.
-
+[^1]: Kifayat al-Talib, p. 268, and other than it.
+[^2]: ‘Uyun al-Akhbar.
 
 Should I oil my head or should my beauties be good while your cheek is
 covered with dust and you are plundered? Should I drink the water of the
@@ -242,9 +241,9 @@ hated your life nor do they have doubt that the choice belonged to you,
 and that you and your brother are the two masters of the youths of the
 Garden. Therefore, O Abu Muhammad, peace from us be on you!”[^2]
 
-[^1] Maqtal al-Husayn, vol. 1, p. 142. It was said that Muhammed bin
+[^1]: Maqtal al-Husayn, vol. 1, p. 142. It was said that Muhammed bin
 al-Hanafiya recited the poetry lines.
-[^2] Zahrat al-Adab, vol. 1, p. 55. Al-Ya‘qubi, Tarikh, vol. 200, p.
+[^2]: Zahrat al-Adab, vol. 1, p. 55. Al-Ya‘qubi, Tarikh, vol. 200, p.
 2.
 
 After Imam al-Hasan had been buried and praised, the people warmly
@@ -288,16 +287,16 @@ crying and wailing. He asked his daughter Soda:
 “Al-Hasan bin Ali has died,” she replied, “Praise belongs to Allah, Who
 has relieved the people of him.”
 
-[^1] Maqatil al-Talibiyyin, vol. 1, p. 53. It has been mentioned in it
+[^1]: Maqatil al-Talibiyyin, vol. 1, p. 53. It has been mentioned in it
 that ‘Umar bin Basheer asked Abu Ishaq: “When did the people became
 lowly?” “At the time when al-Hasan died,” he answered.
 
-[^2] Al-Hakim, Mustadrak, vol. 3, p. 173. Asad al-Ghaba, vol. 2, p. 11.
+[^2]: Al-Hakim, Mustadrak, vol. 3, p. 173. Asad al-Ghaba, vol. 2, p. 11.
 A‘yan al-Shia, vol. 4, p. 80.
 
-[^3] Al-Bidaya wa al-Nihaya, vol. 8, p. 44.
+[^3]: Al-Bidaya wa al-Nihaya, vol. 8, p. 44.
 
-[^4] Ibn ‘Asakir, Tarikh, vol. 4, p. 228.
+[^4]: Ibn ‘Asakir, Tarikh, vol. 4, p. 228.
 
 He said to her with a weak voice: “Keep silent! Woe unto you! Allah has
 relived him of much evil, and the people have lost much good because of
@@ -337,8 +336,8 @@ will be resurrected. May Allah forgive him his sin, accept his good
 deeds, join him to his Prophet, may Allah bless him and his family,
 double the reward for you in
 
-[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 4.
-[^2] Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 303.
+[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 4.
+[^2]: Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 303.
 
 the misfortune as to him, and redress the misfortune through you. You
 regard him as with Allah. We belong to Allah and to him is our return.
@@ -379,9 +378,9 @@ the Prophet (a.s). He said: “The Banu Hashim did not treat us with
 justice when they claimed that they wanted to bury al-Hasan alongside
 the Prophet, while they had prevented the people from burying
 
-[^1] Al-Ya‘qubi, Tarikh, vol. 2, p. 203.
-[^2] Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 305.
-[^3] Al-Isti‘ab, vol. 1, p. 374.
+[^1]: Al-Ya‘qubi, Tarikh, vol. 2, p. 203.
+[^2]: Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 305.
+[^3]: Al-Isti‘ab, vol. 1, p. 374.
 
 ‘Uthman (in any place) except in the remotest part of the cemetery of
 al-Baqee‘. If my opinion of Marwan was right, they would not reach
@@ -419,9 +418,9 @@ Imam, turned to him and said: “O Ibn Abbas, al-Hasan has died!”
 “Yes, he has died! We belong to Allah and to Him is our return!” said
 Ibn
 
-[^1] Ibn ‘Asakir, Tarikh.
-[^2] Kifayat al-Talib, p. 268.
-[^3] Al-Khawarizmi, Maqtal al-Husayn, vol. 1, p. 141.
+[^1]: Ibn ‘Asakir, Tarikh.
+[^2]: Kifayat al-Talib, p. 268.
+[^3]: Al-Khawarizmi, Maqtal al-Husayn, vol. 1, p. 141.
 
 Abbas and repeated that several time, “I have heard that you have shown
 happiness and delight at his death. By Allah, his body has not closed
@@ -481,5 +480,4 @@ from the charities bequeathed by his late father Hajj Muhammad Jawad
 ‘Ajeena, for he has believed that serving the Imams of the Ahlul Bayt
 (a.s) is the best of deeds that bring him nearer to Allah. May Allah
 achieve his hopes and guide him to all noble efforts!
-
 

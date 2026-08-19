@@ -23,7 +23,6 @@ The most lively thought is still inferior to the dullest sensation. We
 may observe a like distinction to run through all the other perceptions
 of the mind.
 
-
 A man in a fit of anger, is actuated in a very different manner from
 one who only thinks of that emotion.
 
@@ -226,5 +225,4 @@ touch- ing the point in question.
 
 A like ambiguity and circumlocution seem to run through that
 philosopher's reasonings on this as well as most other subjects.
-
 

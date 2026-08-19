@@ -62,11 +62,11 @@ was reciting this verse when then Abibakr said: "Is the house of Ali
 (a.s.) and Fatimah (a.s.) the extension of this verse?" The Prophet
 (p.b.u.h.) said: "Yes, it is the best extension of this verse."[^3]
 
-[^1] Sura Al- Baqarah, No. 2, verse 127
+[^1]: Sura Al- Baqarah, No. 2, verse 127
 
-[^2] Nur-uth-Thaqalyn, the Commentary
+[^2]: Nur-uth-Thaqalyn, the Commentary
 
-[^3] Ruh ul-Ma'ani, the Commentary
+[^3]: Ruh ul-Ma'ani, the Commentary
 
 4. Imam Kazim (a.s.) said: "The purpose of the phrase '... in the
 mornings and the evenings", mentioned in the verse, is the punctual
@@ -78,8 +78,7 @@ used instead of 'ritual prayer'. Sura 'Al-i-'Imran, No. 3, verse 41:
 No. 20, verse 130: "... and glorify your Lord by praising Him before the
 rising of the sun and before its setting, ..."
 
-[^1] Bihar, Vol. 23, p. 326
-
+[^1]: Bihar, Vol. 23, p. 326
 
 **Commentary : Verse 37**
 
@@ -144,11 +143,11 @@ of the Prophet (p.b.u.h.) and Zujajah is the heart of Ali (a.s.).... And
 by the light of knowledge and wisdom. And this trend has been since the
 creation of Adam and will continue to the end of the world.
 
-[^1] Nur-uth-Thaqalyn, Vol. 3, p. 607
+[^1]: Nur-uth-Thaqalyn, Vol. 3, p. 607
 
-[^2] Majma' ul-Bayan, following the verse
+[^2]: Majma' ul-Bayan, following the verse
 
-[^3] Nur-uth-Thaqalyn, Vol. 3, p. 602 & 603
+[^3]: Nur-uth-Thaqalyn, Vol. 3, p. 602 & 603
 
 These are the very testamentary guardians who are appointed as caliphs
 by Allah in the earth. There is not and there will be not any age or
@@ -181,9 +180,9 @@ In another tradition it has been narrated about this group of Divine
 men who guard revelation and guidance: "They are businessmen who are not
 ignorant of Allah's remembrance
 
-[^1] Ibid
+[^1]: Ibid
 
-[^2] Ibid
+[^2]: Ibid
 
 [^3]Ibid, p. 602
 
@@ -292,5 +291,4 @@ after the Flood of Noah (a.s.) grew, and prophets have uttered
 invocation prayed for it to be a blessed tree.
 
 [^1] Nur-uth-Thaqalyn
-
 

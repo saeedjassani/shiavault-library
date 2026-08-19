@@ -67,4 +67,3 @@ Thus Hujr, deprived of even a tribal base, surrendered. Ziyad sent him
 to Mu'awiya where he was offered his free­dom if he cursed 'Ali. He
 refused to do this and was executed17 .
 
-

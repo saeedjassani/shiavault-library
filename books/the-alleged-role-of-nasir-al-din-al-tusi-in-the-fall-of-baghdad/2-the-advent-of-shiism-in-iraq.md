@@ -35,9 +35,9 @@ the Shiis of Baghdad. His inclination towards the Alawids and the
 Shiites made some regard him as a Shii himself. Ibn al-'Tiqtaqa writes
 about him that he believed in Imami doctrines and his ministers either
 showed particular inclination towards Shiism or were Shi'i themselves."
-[^3] This was deemed a political move for attracting the Shi'i support.
+[^3]: This was deemed a political move for attracting the Shi'i support.
 
-[^4] Al-Sa'di mentions his appointment of Ibn al-Alqami, a Shi'i, to the
+[^4]: Al-Sa'di mentions his appointment of Ibn al-Alqami, a Shi'i, to the
 ministerial office as a move to please the Shi'i scholar Radi al-Din Ali
 ibn Musa ibn Ja'far ibnTawus al-Hasani. [^5] This action of al-Nadir
 shows not only the influence of the Shiites, but exposes the latter's
@@ -102,5 +102,4 @@ This accusation was publi cized by the Hanbalis and their precursors,
 whose hostility towards the Shi'is - like their enmity towards other
 Muslim sects in Baghdad - was greater than that of any other hostile
 group.
-
 

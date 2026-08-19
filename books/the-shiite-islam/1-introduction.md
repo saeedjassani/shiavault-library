@@ -102,4 +102,3 @@ be upon him - to be the special right of the family of the Prophet and
 who in the field of the Islamic sciences and culture follow the school
 of the Household of the Prophet.
 
-

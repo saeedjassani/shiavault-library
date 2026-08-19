@@ -28,9 +28,7 @@ a strange thing! O sister of Aaron! Your father was not a bad man, nor
 was your mother unchaste! But she pointed to him. They said: How should
 we speak to one
 
-
 (52)
-
 
 who is a child in the cradle? He [Jesus] said: Surely I am a servant of
 Allah; He has given me the Book and made me a prophet, and He has made
@@ -39,7 +37,6 @@ zakat as long as I live, and dutiful to my mother, and He has not made
 me insolent, unblessed. And peace be on me the day I was born, the day I
 die, and the day I am raised (back) to life. Such is Jesus son of Mary;
 (this is) the saying of truth about which they dispute. (19:16-34)
-
 
 Prophets' biographers have said that when three days had passed since
 Mary was pregnant with Jesus, she was either thirteen or fifteen years
@@ -182,7 +179,7 @@ with the trunk of a tree, and it was a dry palm tree with neither leaves
 nor a live trunk but a dead stump. The angels did not like the sight of
 that palm tree, and they were surrounding her in rows, and that palm
 tree was at a village called Bethlehem[^3]. When her crisis reached its
-[^1] He is Abu al-Hasan Muqatil ibn Sulayman al-Balkhi (d. 150 A.H./767
+[^1]: He is Abu al-Hasan Muqatil ibn Sulayman al-Balkhi (d. 150 A.H./767
 A.D.), a mufassir who moved to Baghdad then to Basra where he died. His
 most important work is Al-Tafsir al-Kabir.
 [^2]He is Abu Bakr Mujahid ibn Ahmed ibn Mousa (d. 324 A.H./936 A.D.), a
@@ -320,12 +317,12 @@ belying the claim of the “Christians” and making his argument against
 them.
 
 Imam Muhammed ibn \`Ali al-Baqir , is quoted as saying, “When Jesus
-[^1] His full name is Muhammed ibn al-Sa'ib al-Kalbi (d. 763 A.D.), a
+[^1]: His full name is Muhammed ibn al-Sa'ib al-Kalbi (d. 763 A.D.), a
 genealogist, traditionist, linguist, and chronologist from Kufa. He
 fought Mis\`ab ibn al-Zubayr then retired and dedicated his entire time
 to study Arabic and history. He studied in Kufa and lived for some time
 in Basra.
-[^2] He is the great grandson of Prophet Mhammed and one of the most
+[^2]: He is the great grandson of Prophet Mhammed and one of the most
 brilliant persons who ever walked on the face of earth, with knowledge
 so vast, he was said to “pierce through the knowledge of prophets.” He
 was Imam
@@ -418,5 +415,4 @@ mim [the \`m' in Bismillah] means Mamlakatullah (the Kingdom of Allah,
 the Exalted, the Sublime),'“ and Allah knows best.
 word “Paradise” (firdaws) is also a loan word, some say from Persian,
 others from Babylonian.
-
 

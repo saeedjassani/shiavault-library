@@ -229,7 +229,6 @@ qualities. A quality can come about only through setting limits and the
 Divine Essence transcends all limitations (even the limitation of this
 transcendence which in reality is a quality).
 
-
 **The Meaning of the Divine Qualities**
 
 In the world of creation we are aware of many perfections which appear
@@ -474,5 +473,4 @@ do what is not in their power. He is so powerful that nothing comes into
 being in His kingdom which He does not will." (This is an allusion to
 the two schools of predestination and free will.) (Bihar al-anwar, vol.
 III, pp. 5, 6, 15)
-
 

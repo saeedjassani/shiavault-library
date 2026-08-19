@@ -3,23 +3,23 @@ Notes
 
 ------------------------------------------------------------------------
 
-[^1] - For the details, see the coming discussions.
+[^1]: - For the details, see the coming discussions.
 
-[^2] - Quran, Baqarah, [^69]:
+[^2]: - Quran, Baqarah, [^69]:
 
-[^3] - Ibid, Nisa, [^24]:
+[^3]: - Ibid, Nisa, [^24]:
 
-[^4] - Taqsir means shortening one's hair, beard or nail.
+[^4]: - Taqsir means shortening one's hair, beard or nail.
 
-[^5] - in this tradition, the narrators have omitted the words exchanged
+[^5]: - in this tradition, the narrators have omitted the words exchanged
 between Uthman, the third caliph and Imam Ali (a.s) or mentioned them
 vaguely. They have not mentioned Imam Ali's answer to Uthman's words.
 According to some traditions, Uthman said something to Imam Ali (a.s).
 
-[^6] - Musnad Ahmad, vol. 1, p. 156 and Musnad Ali bin Abi Talib,
+[^6]: - Musnad Ahmad, vol. 1, p. 156 and Musnad Ali bin Abi Talib,
 tradition no. [^758]:
 
-[^7] - Sahih Bukhari, vol. 2, p. [^569]: Muslim has also narrated a
+[^7]: - Sahih Bukhari, vol. 2, p. [^569]: Muslim has also narrated a
 similar tradition. He quoting Musayyab says: Sa'id b. al-Musayyab
 reported that 'Ali and 'Uthman met at 'Usfan; and Uthman used to forbid
 (people) from performing Tamattu' and 'Umra (during the period of Hajj),
@@ -30,7 +30,7 @@ cannot leave you alone. When 'Ali saw this, he put on Ihram for both of
 them together (both for Hajj and 'Umra). (Sahih Muslim, tradition, no.
 1223, and Musnad Ahmad, vol. 1, p. 220).
 
-[^8] - Sahih Bukhari, vol. 2, p. 567, tradition, no. 1488 and Musnad
+[^8]: - Sahih Bukhari, vol. 2, p. 567, tradition, no. 1488 and Musnad
 Ahmad, vol. 1, p. [^153]: Muslim has also reported it: 'Abdullah b.
 Shaqiq reported that 'Uthman used to forbid Tamattu', whereas 'Ali
 (Allah be pleased with him) ordered [people] to do it. 'Uthman said a
@@ -40,7 +40,7 @@ It is right, but we entertained fear. This hadith has been narrated by
 Shu'ba with the same chain of transmitters. (Muslim, Book 7, Number
 2815).
 
-[^9] - Musnad Ahmad, vol. 1, p. 554, tradition, no. [^3111]: Bukhari
+[^9]: - Musnad Ahmad, vol. 1, p. 554, tradition, no. [^3111]: Bukhari
 have also narrated something pertaining to the issue under discussion.
 See:
 
@@ -67,7 +67,7 @@ property.' " I (Shu'ba) asked, "Why (did he invite you)?" He (Abu Jamra)
 said, "Because of the dream which I had seen." (Ibid, Volume 2, Book 26,
 Number 638).
 
-[^10] - Sunan Tirmidhi, vol. 2, p. 224, tradition, no. [^824]: Muslim
+[^10]: - Sunan Tirmidhi, vol. 2, p. 224, tradition, no. [^824]: Muslim
 has also narrated some variation of this tradition:
 
 Ghunaim b. Qais said: I asked Sa'd b. Abu Waqqas about Mut'a, whereupon
@@ -75,13 +75,13 @@ he said: We did that, and it was the day when he was an unbeliever
 living in (one of the) houses of Mecca. (Sahih Muslim Book 7 ,Number
 2821).
 
-[^11] - 'Arak' is a kind of tree that grows in deserts. Similar to a
+[^11]: - 'Arak' is a kind of tree that grows in deserts. Similar to a
 pomegranate tree, it is ever green. In the past, Arabs used to make
 toothbrush from its branches.
 
-[^12] - Musnad Ahmad, vol. 1, p. 81, tradition, no. [^353]:
+[^12]: - Musnad Ahmad, vol. 1, p. 81, tradition, no. [^353]:
 
-[^13] - Sahih Muslim, vol. 3, p. 56, tradition no. [^1217]: You  can
+[^13]: - Sahih Muslim, vol. 3, p. 56, tradition no. [^1217]: You  can
 also see:
 
 Abd Nadra reported: While I was in the company of Jibir, a person came
@@ -112,15 +112,15 @@ I cannot finish my Ihram till the Hadi reaches its destination (i.e. is
 slaughtered).' So, they did (what he ordered them to do)." (Volume 2,
 Book 26, Number 639).
 
-[^14] - Sunan Tirmidhi, vol. 2, p. 224, tradition, [^825]:
+[^14]: - Sunan Tirmidhi, vol. 2, p. 224, tradition, [^825]:
 
-[^15] - Al-Isti'ab, vol. 3, p. 284 and al-Isabah, vol. 4, p. [^584]: In
+[^15]: - Al-Isti'ab, vol. 3, p. 284 and al-Isabah, vol. 4, p. [^584]: In
 his Dad al-Mi'ad fi Huda Khair al-Ibad, Ibn Qayyim says, "Imran bin
 Hasin is better than Uthman. According to some, he saw angels and was
 greeted by them as he himself points out when he says that he was
 greeted. He died in 52 AH in Basrah".
 
-[^16] - Sahih Muslim, vol. 3, p. 70,  tradition, [^1236]: See also:
+[^16]: - Sahih Muslim, vol. 3, p. 70,  tradition, [^1236]: See also:
 
 a) 'Imran b. al-Husain (Allah be pleased with him) said: Know well that
 Allah's Messenger (may peace be upon him) combined 'Hajj and 'Umra, and
@@ -150,23 +150,23 @@ of Allah's Messenger (may peace be upon him) and he did not say anything
 but he (the Holy Prophet) commanded us to do it.( Sahih Muslim Book 7
 ,Number 2831).
 
-[^17] - Qiran hajj is a kind of hajj that is performed by those whose
+[^17]: - Qiran hajj is a kind of hajj that is performed by those whose
 habitation is not located more than 16 farsakhs from The Sacred Mosque.
 
-[^18] - Al-Minhaj, a commentary on Sahih Muslim, vol. 8, p. [^168]:
+[^18]: - Al-Minhaj, a commentary on Sahih Muslim, vol. 8, p. [^168]:
 
-[^19] - Minhaj al-Sunna, vol. 4, pp. 182 and [^183]:
+[^19]: - Minhaj al-Sunna, vol. 4, pp. 182 and [^183]:
 
-[^20] - Tarikh Ibn Kathir, vol. 5, p. [^159]:
+[^20]: - Tarikh Ibn Kathir, vol. 5, p. [^159]:
 
-[^21] - Minhaj al-Sunna, vol. 4, pp. 182 and [^183]:
+[^21]: - Minhaj al-Sunna, vol. 4, pp. 182 and [^183]:
 
-[^22] - Ibid.
+[^22]: - Ibid.
 
-[^23] - Sahih Bukhari, Book on Riqaq, Chapter on Lake-Fount, pp.
+[^23]: - Sahih Bukhari, Book on Riqaq, Chapter on Lake-Fount, pp.
 787-[^788]:
 
-[^24] - The people (of the Pre-lslamic Period) used to think that to
+[^24]: - The people (of the Pre-lslamic Period) used to think that to
 perform 'Umra during the months of Hajj was one of the major sins on
 earth. And also used to consider the month of Safar as a forbidden (i.e.
 sacred) month and they used to say, "When the wounds of the camel's back
@@ -181,7 +181,7 @@ Allah's Apostle! What kind (of finishing) of Ihram is allowed?" The
 Prophet replied, "Finish the Ihram completely like a non-Muhrim (you are
 allowed everything)." (Bukhari, Volume 2, Book 26, Number 635)
 
-[^25] - The full text of this tradition is under:
+[^25]: - The full text of this tradition is under:
 
 'Ata' reported: I, along with some people, heard Jabir b. 'Abdullah
 saying: We the Companions of Muhammad (may peace be upon him) put on
@@ -442,16 +442,14 @@ I am returning after performing Hajj only." So the Prophet ordered
 performed the 'Umra after the Hajj. (Sahih Bukahri, Volume 2, Book 26,
 Number 713).
 
-[^26] -The entire verse is as under:
+[^26]: -The entire verse is as under:
 
-<p dir="rtl">
 وَالْمُحْصَنَاتُ مِنَ النِّسَاء إِلاَّ مَا مَلَكَتْ أَيْمَانُكُمْ
 كِتَابَ اللّهِ عَلَيْكُمْ وَأُحِلَّ لَكُم مَّا وَرَاء ذَلِكُمْ أَن
 تَبْتَغُواْ بِأَمْوَالِكُم مُّحْصِنِينَ غَيْرَ مُسَافِحِينَ فَمَا
 اسْتَمْتَعْتُم بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلاَ
 جُنَاحَ عَلَيْكُمْ فِيمَا تَرَاضَيْتُم بِهِ مِن بَعْدِ الْفَرِيضَةِ
 إِنَّ اللّهَ كَانَ عَلِيمًا حَكِيمًا.
-</p>
 
 And all married women except those whom your right hands possess (this
 is) Allah's ordinance to you, and lawful for you are (all women) besides
@@ -462,21 +460,19 @@ by, give them their dowries as appointed; and there is no blame on
 you about what you mutually agree after what is appointed; surely Allah
 is Knowing, Wise. (Quran, Nisa, 24).
 
-[^27] - For further information see, the commentaries by Tabari,
+[^27]: - For further information see, the commentaries by Tabari,
 Qurtubi, Ibn Kathir, Zamakhshari and Suyuti. See also Ahkam al-Quran by
 Hassas, vol. 2, p. 208, al-Sunan al-Kubra by Bayhaqi, vol. 7, p. 335,
 al-Mihhaj by Nawavi, vol. 9, p. 153 and al-Mughni by Ibn Qudama, vol. 7,
 p. [^571]:
 
-[^28] - Tafsir Qurtubi, vol. 5, p. [^130]: Here he says:
+[^28]: - Tafsir Qurtubi, vol. 5, p. [^130]: Here he says:
 
-<p dir="rtl">
 وقال الجمهور المراد نکاح المتعه الذی کان فی صدر الاسلام
-</p>
 
-[^29] - Quran, Maeda, [^87]:
+[^29]: - Quran, Maeda, [^87]:
 
-[^30] - Sahih Bukhari, vol. 5, p. 1953, tradition, 4787, Musnad Ahmad,
+[^30]: - Sahih Bukhari, vol. 5, p. 1953, tradition, 4787, Musnad Ahmad,
 vol. 1, p. 692 and Musnad Abdullah bin Mas'ud, tradition [^3976]:
 
 See also:
@@ -528,13 +524,13 @@ lifetime of Allah's Messenger (may peace be upon him).Umar then forbade
 us to do them, and so we did not revert to them. (Ibid, Book 8, Number
 3250).
 
-[^31] - Tafsir Qurtubi, vol. 5, p. [^132]:
+[^31]: - Tafsir Qurtubi, vol. 5, p. [^132]:
 
-[^32] - Tafsir Tabari, vol. 5, p. [^18]:
+[^32]: - Tafsir Tabari, vol. 5, p. [^18]:
 
-[^33] - Al-Tamhid, vol. 11, p. [^102]:
+[^33]: - Al-Tamhid, vol. 11, p. [^102]:
 
-[^34] - Tasir Razi, vol. 3, p. [^167]: Sharh Ma'ani al-Athar, p. 374,
+[^34]: - Tasir Razi, vol. 3, p. [^167]: Sharh Ma'ani al-Athar, p. 374,
 Bayhaqi's al-Sunan al-Kubra, vol. 7, p. 206, Bidayat al-Mujtahid, vol.
 1, p. 346, al-Muhalla, vol. 7, p. 107, Jassas's ahkam al-Qur'an, vol. 1,
 p. 279, Asharite Qushji's Sharh Tajrid (sarcastic remarks on Umar),
@@ -542,9 +538,9 @@ Tafsir Qurtubi, vol. 3, p. 307, al-Mughni, vol. 7, p. 27, Zad al-Ma'ad
 fi Huda Khair al-ibad, vol. 2, p. 305. Al-Durr al-Mansur, vol. 2, p.
 141, Kanz al-Ummal, vol. 8, p. 293 and Wafiyat al-Ayan, vol. 5, p. 197.
 
-[^35] - Qushji's Sharh Tajrid, p. [^484]:
+[^35]: - Qushji's Sharh Tajrid, p. [^484]:
 
-[^36] - Sahih Muslim, vol. 3, p. 194, tradition, no. 1405, Musnad Ahmad,
+[^36]: - Sahih Muslim, vol. 3, p. 194, tradition, no. 1405, Musnad Ahmad,
 vo. 4, p. 237, Musnad Jabir bin Abdullah, tradition, 13856, Bayhaqi's
 al-Sunan al-Kubra, Kitab al-Sidaq, tradition, no. 14368, al-Musannaf by
 Abd al-Razzaq, vol. 7, p. 487 tradition no. [^14021]:
@@ -585,149 +581,149 @@ Allah's Messenger (may peace be upon him) said: He who has any such
 woman with whom he had contracted temporary marriage, he should let her
 off. (Ibid, Book 8, Number 3252).
 
-[^37] - Umar is also quoted as having said, "I will stone to death
+[^37]: - Umar is also quoted as having said, "I will stone to death
 anyone who is brought to me because of practicing temporary marriage. If
 he is dead and buried I will stone his grave". Sarakhsi's al-Mabsut,
 vol. 5, p. [^153]:
 
-[^38] - Kanz al-Ummal, vol. 16, p. 218, tradition no. [^845718]:
+[^38]: - Kanz al-Ummal, vol. 16, p. 218, tradition no. [^845718]:
 
-[^39] - Abd al-Razzaq's al-Musannaf, vol. 7, p. 500, tradition, no.
+[^39]: - Abd al-Razzaq's al-Musannaf, vol. 7, p. 500, tradition, no.
 1402, Tafsir Tabari, vol. 5, p. 19, al-Durr al-Mansur, vol. 2, p. 251,
 Tafsir Razi, vol. 10, p. [^52]:
 
-[^40] - Tafsir Qurtubi, vol. 5, p. [^130]: Some have used the term
+[^40]: - Tafsir Qurtubi, vol. 5, p. [^130]: Some have used the term
 'trivial' in place of the term of 'vicious'. See al-Nihaya, vol. 2, p.
 437, Taj al-Arus, vol. 19, p. 578 and other Arabic glossaries.
 
-[^41] - Ta'arikh al-Khulafa, p. [^137]:
+[^41]: - Ta'arikh al-Khulafa, p. [^137]:
 
-[^42] - Al-Muhalla, vol. 9, p. [^129]:
+[^42]: - Al-Muhalla, vol. 9, p. [^129]:
 
-[^43] - Tafsir Qurtubi, vol. 3, p. [^133]:
+[^43]: - Tafsir Qurtubi, vol. 3, p. [^133]:
 
-[^44] - Wafiyat al-A'ayan, vol. 6, pp. 149 – [^150]:
+[^44]: - Wafiyat al-A'ayan, vol. 6, pp. 149 – [^150]:
 
-[^45] - Tafsir Kabir, vol. 10, p. [^56]:
+[^45]: - Tafsir Kabir, vol. 10, p. [^56]:
 
-[^46] - Al-Minhaj, Sharh Sahih Muslim, vol. 9, p. [^157]:
+[^46]: - Al-Minhaj, Sharh Sahih Muslim, vol. 9, p. [^157]:
 
-[^47] - Zad al-Mi'ad fi Huda Khair al-Ibad, vol. 2, pp. 184-[^185]:
+[^47]: - Zad al-Mi'ad fi Huda Khair al-Ibad, vol. 2, pp. 184-[^185]:
 
-[^48] - Ibn Qayyim has mentioned only four instances: Battle of Khaybar,
+[^48]: - Ibn Qayyim has mentioned only four instances: Battle of Khaybar,
 Conquest of Mecca, Battle of Hunain and Farewell Hajj. (Zad al-Mi'ad fi
 Huda Khair al-Ibad, vol. 2, p. [^183]: The other three intances are
 taken from Fath al-Bari, vol. 9. P. 210.
 
-[^49] - Zad al-Ma'ad fi Huda Khair al-Ibad, vol. 2, p. [^183]:
+[^49]: - Zad al-Ma'ad fi Huda Khair al-Ibad, vol. 2, p. [^183]:
 
-[^50] -Ibid, p. [^183]:
+[^50]: -Ibid, p. [^183]:
 
-[^51] -Ibid, p. [^184]:
+[^51]: -Ibid, p. [^184]:
 
-[^52] - Tarikh Tabari, vol. 3, p. [^290]:
+[^52]: - Tarikh Tabari, vol. 3, p. [^290]:
 
-[^53] - Zad al-Ma'ad fi Huda Khair al-Ibad, vol. 2, pp. 184 and [^185]:
+[^53]: - Zad al-Ma'ad fi Huda Khair al-Ibad, vol. 2, pp. 184 and [^185]:
 
-[^54] -For further information see, Conduct of Prophet or Conduct of
+[^54]: -For further information see, Conduct of Prophet or Conduct of
 Caliphs by Husaini Milani.
 
-[^55] - Tahdib al-Tahdib, vol. 6, p. [^215]:
+[^55]: - Tahdib al-Tahdib, vol. 6, p. [^215]:
 
-[^56] - See Tadkira al-Huffaz, vol. 4, p. 1407 and Tabaqat al-Huffaz, p.
+[^56]: - See Tadkira al-Huffaz, vol. 4, p. 1407 and Tabaqat al-Huffaz, p.
 [^498]:
 
-[^57] - We will treat it in future.
+[^57]: - We will treat it in future.
 
-[^58] - Fath al-Bari, vol. 9, p. [^210]:
+[^58]: - Fath al-Bari, vol. 9, p. [^210]:
 
-[^59] - Ibid.
+[^59]: - Ibid.
 
-[^60] - Ibid, vol. 9, p. [^211]:
+[^60]: - Ibid, vol. 9, p. [^211]:
 
-[^61] - Zad al-Ma'ad, vol. 2, p. [^183]:
+[^61]: - Zad al-Ma'ad, vol. 2, p. [^183]:
 
-[^62] - Fath al-Bari, vol. 9, pp. 210, 212 and [^213]:
+[^62]: - Fath al-Bari, vol. 9, pp. 210, 212 and [^213]:
 
-[^63] - Sahih Muslim, vol. 3, p. 196, tradition, [^1406]:
+[^63]: - Sahih Muslim, vol. 3, p. 196, tradition, [^1406]:
 
-[^64] - Al-Minhaj, Sharh Sahih Muslim, vol. 9, p. [^154]:
+[^64]: - Al-Minhaj, Sharh Sahih Muslim, vol. 9, p. [^154]:
 
-[^65] - Fath al-Bari, vol. 9, pp. 210 and [^211]:
+[^65]: - Fath al-Bari, vol. 9, pp. 210 and [^211]:
 
-[^66] -Al-Sunan al-Kubra, Nisaee, vol. 6, p. 436, tradition, no.
+[^66]: -Al-Sunan al-Kubra, Nisaee, vol. 6, p. 436, tradition, no.
 [^3367]:
 
-[^67] - Sahih Bukhari, vol. 5, p. 1966, tradition, [^4825]:
+[^67]: - Sahih Bukhari, vol. 5, p. 1966, tradition, [^4825]:
 
-[^68] -Sahih Muslim, vol. 3, pp. 198 – 199, tradition, no. [^14097]:
+[^68]: -Sahih Muslim, vol. 3, pp. 198 – 199, tradition, no. [^14097]:
 
-[^69] - For further information see: Nawavi's al-Minhaj, vol. 9, p. 155,
+[^69]: - For further information see: Nawavi's al-Minhaj, vol. 9, p. 155,
 Ibn Hajar's Fath al-Bari, vo. 9, p. [^212]:
 
-[^70] -  Sahih Muslim, vol. 3, p. [^192]:
+[^70]: -  Sahih Muslim, vol. 3, p. [^192]:
 
-[^71] - Tafsir Qurtubi, vol. 5, p. [^131]:
+[^71]: - Tafsir Qurtubi, vol. 5, p. [^131]:
 
-[^72] - Zad al-Ma'ad, vol. 2, p. [^183]:
+[^72]: - Zad al-Ma'ad, vol. 2, p. [^183]:
 
-[^73] - Tahdib al-Tahdib, vol. 6, p. [^345]:
+[^73]: - Tahdib al-Tahdib, vol. 6, p. [^345]:
 
-[^74] - Sunan Abu Dawood, vol. 2, p. 92, tradition, [^2072]:
+[^74]: - Sunan Abu Dawood, vol. 2, p. 92, tradition, [^2072]:
 
-[^75] - Fath al-Bari, vol. 9, p. [^211]:
+[^75]: - Fath al-Bari, vol. 9, p. [^211]:
 
-[^76] - Tahdib al-Tahdib, vol. 5, pp. 90-[^92]:
+[^76]: - Tahdib al-Tahdib, vol. 5, pp. 90-[^92]:
 
-[^77] - Fath al-Bari, vol. 9, p. [^211]: For further information on
+[^77]: - Fath al-Bari, vol. 9, p. [^211]: For further information on
 these two reporters, see Tahdib al-Tahdib, vo. 10, pp. 339 and 340, vol.
 7, pp. 226 and 227.
 
-[^78] - Sahih Muslim, vol. 3, p. 199, tradition, [^1407]:
+[^78]: - Sahih Muslim, vol. 3, p. 199, tradition, [^1407]:
 
-[^79] - Al-Sunan al-Kubra by Nisaee, vol. 6, p. 436, tradition, [^3367]:
+[^79]: - Al-Sunan al-Kubra by Nisaee, vol. 6, p. 436, tradition, [^3367]:
 
-[^80] - Al-Minhaj, Sharh Sahih Muslim, vol. 9, p. [^154]:
+[^80]: - Al-Minhaj, Sharh Sahih Muslim, vol. 9, p. [^154]:
 
-[^81] - Majma'a al-Zawaed, vol. 4, p. 487, tradition, [^7391]:
+[^81]: - Majma'a al-Zawaed, vol. 4, p. 487, tradition, [^7391]:
 
-[^82] -Umda al-Qari, vol. 17, p. [^274]:
+[^82]: -Umda al-Qari, vol. 17, p. [^274]:
 
-[^83] - Majma'a al-Zawaed, vol. 4, p. 487, tradition, no, [^7391]:
+[^83]: - Majma'a al-Zawaed, vol. 4, p. 487, tradition, no, [^7391]:
 
-[^84] - Al-Minhaj, Sharh Sahih Muslim, vol. 9, p. [^154]:
+[^84]: - Al-Minhaj, Sharh Sahih Muslim, vol. 9, p. [^154]:
 
-[^85] - Fath al-Bari, vol. 9, p. [^209]:
+[^85]: - Fath al-Bari, vol. 9, p. [^209]:
 
-[^86] - Zad al-Ma'ad, vol. 2, p. [^183]:
+[^86]: - Zad al-Ma'ad, vol. 2, p. [^183]:
 
-[^87] -Al-Muwatta, vol. 2, p. 543, tradition, no, [^41]:
+[^87]: -Al-Muwatta, vol. 2, p. 543, tradition, no, [^41]:
 
-[^88] - Minhaj al-Sunna, vol. 4, p. [^189]:
+[^88]: - Minhaj al-Sunna, vol. 4, p. [^189]:
 
-[^89] - Al-Sunan al-Kubra by Bayhaqi, vol. 5, p. 8, tradition, [^8818]:
+[^89]: - Al-Sunan al-Kubra by Bayhaqi, vol. 5, p. 8, tradition, [^8818]:
 
-[^90] - Fath al-Bari, vol. 9, p. [^210]:
+[^90]: - Fath al-Bari, vol. 9, p. [^210]:
 
-[^91] - Umda al-Qari, vol. 7, p. [^246]:
+[^91]: - Umda al-Qari, vol. 7, p. [^246]:
 
-[^92] - Irshad al-Sari, vol. 11, p. 397, vol. 9, p. [^239]:
+[^92]: - Irshad al-Sari, vol. 11, p. 397, vol. 9, p. [^239]:
 
-[^93] - Zad al-Ma'ad, vol. 2, p. [^184]:
+[^93]: - Zad al-Ma'ad, vol. 2, p. [^184]:
 
-[^94] - Tarikh Ibn Kathir, vol. 4, p. [^220]:
+[^94]: - Tarikh Ibn Kathir, vol. 4, p. [^220]:
 
-[^95] - MInhaj al-Sunna, vol. 4, p. [^190]:
+[^95]: - MInhaj al-Sunna, vol. 4, p. [^190]:
 
-[^96] - Fath al-Bari, vol. 9, p. [^216]:
+[^96]: - Fath al-Bari, vol. 9, p. [^216]:
 
-[^97] - Sahih Muslim, vol. 3, p. 197, tradition, [^1406]:
+[^97]: - Sahih Muslim, vol. 3, p. 197, tradition, [^1406]:
 
-[^98] - For further information, see:  An how Abu Bakr led prayer in
+[^98]: - For further information, see:  An how Abu Bakr led prayer in
 place of the Prophet, pp. 61-[^66]:
 
-[^99] - For further information see, Conduct of Prophet or Conduct of
+[^99]: - For further information see, Conduct of Prophet or Conduct of
 Caliphs?.
 
-[^100] - For further information see, An Evaluation of following
+[^100]: - For further information see, An Evaluation of following
 Sheikain', by the same author.

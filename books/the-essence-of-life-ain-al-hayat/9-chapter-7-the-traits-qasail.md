@@ -694,4 +694,3 @@ he is prostrating to the Greatest he will never bring up his head from
 the prostrated position.” As an explanation for this a few brightnesses
 (*Lamaat* ) are discussed in the next chapter.
 
-

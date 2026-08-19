@@ -48,7 +48,7 @@ successfully pass the trial of occultation with firm belief in the Imam
 Satanic views and the intruders in the domain of religion. Abu Salt
 al-Hirawi narrated:
 
-[^1] Kamal al-Din, sec. 31, p. 324, Hadith 9; Mustadrak al-Wasa'il, vol.
+[^1]: Kamal al-Din, sec. 31, p. 324, Hadith 9; Mustadrak al-Wasa'il, vol.
 17, p. 262, Hadith 21289; Bihar al- Anwar, vol. 2, p. 303, Hadith 40.
 
 [^2]Nahj al-Balagha, Sermon 97.
@@ -86,7 +86,7 @@ they shall believe by means of black (letters) over white (sheets)
 
 In a Tawqi', Imam al-Mahdi (PBUH) mentioned:
 
-[^1] Kamal al-Din, p. 51, Bihar al-Anwar, vol. 51, p. 68, Hadith 10.
+[^1]: Kamal al-Din, p. 51, Bihar al-Anwar, vol. 51, p. 68, Hadith 10.
 Similar traditions have been narrated from Imam Ali (PBUH), Imam
 al-Sadiq (PBUH). See Bihar al-Anwar, vol. 51, p. 119 & p. 145.
 [^2]Man La Yahdhuruhu al-Faqih, vol. 4, p. 366; Kamal al-Din, p. 288,
@@ -109,7 +109,6 @@ and be kind to you in making you successful by His mercy."[^1]
 The above tradition implies that our strict adherence to the commands
 of Ahl al- Bait (PBUT) and trying to please them by our deeds, may
 contribute to our early relief by leave of Allah.
-
 
 **10 Educating others about the religion**
 
@@ -168,5 +167,4 @@ and teaches him our path, he shall be with us in the loftiest
 companionship (a special degree in Paradise where the prophets and the
 Imams reside). My father reported this to me, from his forefathers, from
 the Apostle of Allah (PBUH&HF)."[^1]
-
 

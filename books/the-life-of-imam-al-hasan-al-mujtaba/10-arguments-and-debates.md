@@ -88,7 +88,7 @@ required rulers and heads to have these qualities. But they were
 available in no one except Ahlul Bayt, peace be on them. So they were
 worthier of the authority and more appropriate for it than others.
 
-[^1] Al-Imama wa al-Siyasa, vol. 1, pp. 11-12.
+[^1]: Al-Imama wa al-Siyasa, vol. 1, pp. 11-12.
 
 2. Fatima Al-Zahra’
 
@@ -135,8 +135,8 @@ Caliphate, for the people had put it in a place other than its place;
 and through that they lost the family of their Prophet, who were the
 haven of the Message, and the
 
-[^1] Fay’ is wealth, income, or war booty gained without fighting.
-[^2] Balaaghaat al-Nisa’, p. 23. A‘lam al-Nisa’, vol. 3, pp. 1219-1220.
+[^1]: Fay’ is wealth, income, or war booty gained without fighting.
+[^2]: Balaaghaat al-Nisa’, p. 23. A‘lam al-Nisa’, vol. 3, pp. 1219-1220.
 Al-Tabrasi, al-Ihtijajj. Al-Majlisi, al-Bihar. Sharh Nahjj al-Balagha.
 
 foundations of Prophethood; in whose houses the faithful spirit
@@ -273,8 +273,8 @@ their faith after their covenant, and defamed your religion? Then fight
 the leaders of unbelief-surely their oaths are nothing- so that they may
 desist.”[^2]
 
-[^1] Al-Imama wa al-Siyasa, vol. 1, p. 12.
-[^2] A‘lam al-Nisa’, vol. 3, p. 1214.
+[^1]: Al-Imama wa al-Siyasa, vol. 1, p. 12.
+[^2]: A‘lam al-Nisa’, vol. 3, p. 1214.
 
 Through her great sermon, Fatima moved the anger of the people and
 inflamed the fire of the revolt. However, Abu Bakr received her with an
@@ -318,7 +318,7 @@ He argued with Abu Bakr, saying to him: “O Abu Bakr, to whom will you
 entrust your affair when that which you do not know befalls you? To whom
 will you
 
-[^1] Al-Riyad al-Nadira, vol. 1, p. 139. Ibn Abi al-Haddeed, Sharh Nahjj
+[^1]: Al-Riyad al-Nadira, vol. 1, p. 139. Ibn Abi al-Haddeed, Sharh Nahjj
 al-Balagha, vol. 2, p. 17. Al-Khawarizmi, Maqtal al-Husayn, vol. 1, p.
 93. Al-Manaqib, vol. 2, p. 172. In the book al-Isaba, vol. 2, p. 15, it
 has been mentioned: “This argument issued from Imam al-Husayn.” In the
@@ -367,8 +367,8 @@ unjust. Give him what Allah has appointed for him. Do not turn away from
 him. And turn not on your backs for then you will turn back
 losers.”[^2]
 
-[^1] Al-Tabrasi, al-Ihtijaj, pp. 42-43.
-[^2] Al-Tabrasi, al-Ihtijaj p. 43.
+[^1]: Al-Tabrasi, al-Ihtijaj, pp. 42-43.
+[^2]: Al-Tabrasi, al-Ihtijaj p. 43.
 
 6. Khuzayma Bin Thabit
 
@@ -458,9 +458,9 @@ decided to attack the Imam’s house, to meet the Imam with intensity and
 strictness, and to take against him all decisive measures. Accordingly,
 he commanded Umar to break into the
 
-[^1] Al-Tabrasi, al-Ihtijaj, pp. 43-44. Other writers have mentioned
+[^1]: Al-Tabrasi, al-Ihtijaj, pp. 43-44. Other writers have mentioned
 it.
-[^2] Abu al-Fida’, Tarikh, vol. 1, p. 156.
+[^2]: Abu al-Fida’, Tarikh, vol. 1, p. 156.
 
 Imam’s house and to force the Imam to pledge allegiance to Abu Bakr.
 Umar became stern. He took some fighters and went to the Imam’s house.
@@ -491,7 +491,7 @@ Imam’s house. They knocked on the door and came into the house. The
 daughter of the Prophet (a.s) called out her father and sought help from
 him, saying: “O father, O Allah’s Apostle,
 
-[^1] Traditions ensured by many ways of narration have mentioned that
+[^1]: Traditions ensured by many ways of narration have mentioned that
 Umar threatened Imam Ali, the Commander of the faithful, with setting
 fire to his house. Most historians have mentioned that. This event has
 been mentioned in the books: Al-Imama wa al-Siyasa, vol. 1, pp. 12-13.
@@ -592,8 +592,8 @@ Allah’s Apostle (a.s) had given Fadak to Fatima as a gift; nevertheless,
 he rejected their witness justifying that the evidence was not complete.
 This procedure
 
-[^1] Qur’an, 17, 26.
-[^2] A‘lam al-Nisa’, vol. 3, p. 215.
+[^1]: Qur’an, 17, 26.
+[^2]: A‘lam al-Nisa’, vol. 3, p. 215.
 
 also faces some criticisms: Firstly, it does not agree with the
 juristic rules, which are clear in indicating that if the case is for
@@ -636,10 +636,10 @@ al-Haddeed. Ibn Abi al-Haddeed asked Ali bin al-Fariqi:
 
 -Yes.
 
-[^1] Al-Hakim, al-Mustadrak, vol. 3, p. 124. Al-Sawa‘iq al-Muhriqa,
+[^1]: Al-Hakim, al-Mustadrak, vol. 3, p. 124. Al-Sawa‘iq al-Muhriqa,
 75.
-[^2] Al-Isaba.
-[^3] Al-Nas wa al-Ijtihad, p. 37.
+[^2]: Al-Isaba.
+[^3]: Al-Nas wa al-Ijtihad, p. 37.
 
 -Why did Abu Bakr not give Fadak to her while he came to know that she
 was truthful?
@@ -686,7 +686,7 @@ your father died and did not remain (alive) after him. Do you think that
 I know you, your excellence, your honor and prevent you from (taking)
 your
 
-[^1] Kanz al-‘Ummal, vol. 3, p. 135. Al-Tabari, vol. 4, p. 52.
+[^1]: Kanz al-‘Ummal, vol. 3, p. 135. Al-Tabari, vol. 4, p. 52.
 
 right and inheriting Allah’s Apostle? However, I have heard Allah’s
 Apostle say: “We do not bequeath what we leave (after us), for it is
@@ -726,10 +726,10 @@ great effect on his feelings, and he became angry with those who usurped
 his father’s right of authority and discontent with those who occupied
 his office of the caliphate.
 
-[^1] Al-Imama wa al-Siyasa, vol. 1, p. 14. A’lam al-Nisa’, vol. 3, p.
+[^1]: Al-Imama wa al-Siyasa, vol. 1, p. 14. A’lam al-Nisa’, vol. 3, p.
 1214. Imam Ali, vol. 1, p. 217.
-[^2] Imam Ali, vol. 1, pp. 217-218.
-[^3] Al-Hakim, Mustadrak, vol. 3, p. 153. Usd al-Ghaba, vol. 5, p. 522.
+[^2]: Imam Ali, vol. 1, pp. 217-218.
+[^3]: Al-Hakim, Mustadrak, vol. 3, p. 153. Usd al-Ghaba, vol. 5, p. 522.
 Tahdhib al-Tahdhib, vol. 12, p. 441. Mizan al-I‘tidal, vol. 2, p. 219.
 Dhakha’ir al-Uqba, p. 39. Al-Khawarizmi, Maqtal, vol. 1, p. 52.
 
@@ -759,8 +759,8 @@ misfortunes that attacked his affectionate mother, to the extent that
 her strength became weak, sadness made her face black, and she became a
 corpse void of life. So he drowned in tears and affairs.
 
-[^1] Ghaliya is a perfume of musk and ambergris.
-[^2] Noor al-Abbsar, p. 42. In his book al-Manaqib, vol., 2, p. 131, Ibn
+[^1]: Ghaliya is a perfume of musk and ambergris.
+[^2]: Noor al-Abbsar, p. 42. In his book al-Manaqib, vol., 2, p. 131, Ibn
 Shahrashub has mentioned an addition to the above-mentioned poetry
 lines. The addition is as follows:
 
@@ -809,10 +809,9 @@ and illness destroyed her; so, she remained at bed. She was unable to
 rise or stand up. Some Muslim women visited her and said to her: “How
 about your illness, O daughter of Allah’s Apostle?”
 
-[^1] The five tearful people are Adam, Ya‘qub, Yusuf, Fatima, and Ali
+[^1]: The five tearful people are Adam, Ya‘qub, Yusuf, Fatima, and Ali
 bin al-Husayn.
-[^2] Anas bin Malik was among those who lowered Allah’s Apostle (a.s.)
+[^2]: Anas bin Malik was among those who lowered Allah’s Apostle (a.s.)
 into his final resting-place.
-[^3] Ibn Maja, Sunan, p. 18.
-
+[^3]: Ibn Maja, Sunan, p. 18.
 

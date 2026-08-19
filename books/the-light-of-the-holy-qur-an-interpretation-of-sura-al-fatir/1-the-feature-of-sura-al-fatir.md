@@ -21,7 +21,6 @@ him in His support, and whoever recites them during the day, there will
 come to him no affliction (on that day) …” [^1] [^1] The Commentary of
 Nu-r-uth-Thaqalayn, Vol. 4, P. 345
 
-
 **Section 1 : Humanity exhorted to hold Commentary : Verse 1**
 
 **Satan as its enemy**
@@ -31,9 +30,7 @@ creation whosoever He pleases – None can ever go against the Will of
 Allah - The disbelievers warned against severe punishment and the
 believers given the glad tidings of the Great Reward awaiting them
 
-<p dir="rtl">
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
-</p>
 
 In The Name of Allah, The Beneficent, The Merciful
 
@@ -72,7 +69,6 @@ beginning the totality of the world of existence had been a single mass
 which has gradually split and some parts have separated from it. The
 application of the word Fa-t?ir for the Pure Essence of Allah produces a
 new and clearer concept.
-
 
 Yes, we do praise Him for His creative Power, because whatever exists
 is from His side and none has anything from him except Allah.
@@ -113,8 +109,7 @@ No doubt the angels are among the Unseen things for proving which by
 these attributes and specialties there is no way save the traditional
 proofs, and because of belief in Unseen, we must accept them.
 
-[^1] Sura Al-Baqarah, No. 2, verse 285
-
+[^1]: Sura Al-Baqarah, No. 2, verse 285
 
 On the whole, the Qur’a-n explains the specialties of the angels as
 follows:
@@ -147,22 +142,21 @@ Our messengers (the angels) came to Lot, he was grieved for them and
 felt straitened to protect them. He said: ‘This is a distressful
 day’.”[^8]
 
-[^1] Sura Al-'Anbiya-', No. 21, verse 26
+[^1]: Sura Al-'Anbiya-', No. 21, verse 26
 
-[^2] Sura Al-'Anbiya-', No. 21, verse 27
+[^2]: Sura Al-'Anbiya-', No. 21, verse 27
 
+[^3]: Sura Al-Ha-qqah, No. 69, verse 17
 
-[^3] Sura Al-Ha-qqah, No. 69, verse 17
+[^4]: Sura Na-zi'a-t, No. 79, verse 5
 
-[^4] Sura Na-zi'a-t, No. 79, verse 5
+[^5]: Sura Al-'A'ra-f, No. 7, verse 37
 
-[^5] Sura Al-'A'ra-f, No. 7, verse 37
+[^6]: Sura Al-'Infit)a-r, No. 82, verses 10-12
 
-[^6] Sura Al-'Infit)a-r, No. 82, verses 10-12
+[^7]: Sura Al-'An'a-m, No. 6, verse 61
 
-[^7] Sura Al-'An'a-m, No. 6, verse 61
-
-[^8] Sura Hu-d, No. 11, verse 77
+[^8]: Sura Hu-d, No. 11, verse 77
 
 A group of them are Divine helpers to the believers in battles: “O you
 who believe! Remember Allah’s blessing upon you when hosts came against
@@ -198,9 +192,9 @@ Hu-d, No. 11, verse 78).
 Is the appearance in the form of man a concrete fact? Or is it in the
 form of presentation and interfering in the perceptive
 
-[^1] Sura Al-'Ah)za-b, No. 33, verse 9
+[^1]: Sura Al-'Ah)za-b, No. 33, verse 9
 
-[^2] Sura An-Nah)l, No. 16, verse 2
+[^2]: Sura An-Nah)l, No. 16, verse 2
 
 faculty? The outward of the verses of the Qur’a-n implies to the first
 meaning, though some great commentators have chosen the second
@@ -248,7 +242,6 @@ Biha-r-ul-’Anwa-r, Abwa-b-ul-Mala-’ikah, Vol. 59, P. 144-326. also,
 Nahj-ul-Bala-qah, sermons number one and ninety one, Sermon ’Ishba-h?,
 sermons 109, and 171.
 
-
 Having these attributes mentioned for the angels in mind, are they
 abstract or material?
 
@@ -270,5 +263,4 @@ servitude and worship, and executing the commands of Allah; and, as we
 said before, it is understood from the different verses of the Qur’a-n
 that the rank of a complete man is higher than and superior to the
 angels.
-
 

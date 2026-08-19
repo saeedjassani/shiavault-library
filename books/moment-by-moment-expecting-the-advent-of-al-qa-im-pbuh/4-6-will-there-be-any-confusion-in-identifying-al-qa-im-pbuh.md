@@ -213,8 +213,6 @@ al-Nu'mani, p. 296, Hadith 1.
 [^2]al-Irshad, vol. 2, p. 383; Bihar al-Anwar, vol. 51, p. 30, Hadith
 7.
 
-
 the religion, their overlooking of the transmitted traditions, and
 their following man-made ideas and opinions in the domain of religion.
-
 

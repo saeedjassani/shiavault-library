@@ -34,7 +34,7 @@ He insisted on his oath that he had not done that. [^23]
 Umm Harithah is reported to have stated in a question she asked the
 Prophet (S): I shall bear with patience if my son is in Paradise, but if
 that isn't the case, I shall mourn for him to the limit of my strength.
-[^24] ‘Ijtihad in the Utterances of the Imams (A)
+[^24]: ‘Ijtihad in the Utterances of the Imams (A)
 
 In the utterances of the Imams (A) of the Prophet's Ahl al-Bayt, too,
 the word ijtihad is used in its literal sense. Following are three
@@ -42,7 +42,7 @@ examples: In Nahj al-balaghah, Imam 'Ali (A) states:
 
 It is for you to make effort and to strive, to, prepare yourselves and
 to supply yourselves with in this stage of provision (i.e. this world).
-[^25] Al-'Imam al-Baqir (A) is reported to have said to a group of
+[^25]: Al-'Imam al-Baqir (A) is reported to have said to a group of
 Shi\`is:
 
 By God, I love your fragrance and (the purity of) your souls. So
@@ -310,5 +310,4 @@ employment of one's powers to secure sufficient evidence (hujjah) in
 regard to a hukm of the Shari'ah", there is no doubt that this
 controversy can be completely avoided and a synthesis of the views of
 the Akhbaris and the Usulis can be achieved.
-
 

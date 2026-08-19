@@ -318,7 +318,7 @@ others in attaining whatever *is* good and godly.[^6]
 Explanation
 -----------
 
-[^7] So, this is history and its various defects which can never be
+[^7]: So, this is history and its various defects which can never be
 glossed over or corrected. With this background, we should never compare
 the historical events mentioned in the Qur'an, with the narrations of
 the same events given in the books of history.
@@ -363,5 +363,4 @@ by S. W. Mir Ahmed Ali, p. 221
 
 [^7]: Al-Mizan, commentary, vol. 4 p. 123 (English Version) by
 al-'Allamah as-Sayyid Muhammad Husayn at-Tabataba’i
-
 

@@ -34,7 +34,6 @@ fighting occurred in major cities like Baghdad, Cairo and Nayshapur
 between Shi'ites and Sunnis, in some of which the Shi'ites would gain
 the upper hand and come out victorious.
 
-
 **Shi'ism from the 5th/11th to the 9th/15th Centuries**
 
 From the 5th/11th to the 9th/15th centuries Shi'ism continued to expand
@@ -72,7 +71,6 @@ upon local conditions and the rulers of the time. During this period,
 however, Shi'ism never became the official religion of any Muslim
 state.
 
-
 **Shi'ism in the 10th/16th and 11th/17th Centuries**
 
 In the 10th/16th century Isma'il, who was of the household of Shaykh
@@ -94,7 +92,6 @@ the population of Persia to twice its present size. As for other Muslim
 lands, the Shi'ite population continued the same as before and increased
 only through the natural growth of population.
 
-
 **Shi'ism from the 12th/18th to the 14th/20th Centuries**
 
 During the past three centuries Shi'ism has followed its natural rate
@@ -104,5 +101,4 @@ Iran, and in the Yemen and Iraq the majority population is Shi'ite. In
 nearly all lands where there are Muslims one can find a certain number
 of Shi'ites. It has been said that altogether in the world today there
 are about eighty to ninety million Shi'ites.
-
 

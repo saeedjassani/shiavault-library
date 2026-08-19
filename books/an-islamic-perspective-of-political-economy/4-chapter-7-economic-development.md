@@ -26,7 +26,7 @@ the goal of a virtuous society, not of the individual. God, after all,
 has created everything on earth and the heavens to serve the existence
 of man.
 
-[^28] Islam only rejects materialistic gain as the ultimate ambition of
+[^28]: Islam only rejects materialistic gain as the ultimate ambition of
 man, which leads him to the oppression of others. Islam encourages zuhd
 (austerity) as a value which trains man not to consider materialistic
 wealth as his final goal in life. [^29] Zuhd is man's mechanism for
@@ -64,7 +64,7 @@ forbidden in Islam. [^31]
 Furthermore, Islam makes it a requirement for Muslims to explore all
 fields of knowledge and seek any efficient means of production in order
 to utilize to maximum benefit the natural resources of the environment.
-[^32] The economic strength of Muslims is analogous to their military
+[^32]: The economic strength of Muslims is analogous to their military
 strength. The power of the Islamic State is judged on the merit of its
 economic progress and social prosperity. For this reason, Islam places a
 heavy emphasis on the role of political leadership to regulate social
@@ -127,7 +127,7 @@ dis­cretionary sphere of the law), where the jurist; has the authority
 to make judgements and rulings according to the principles of
 jurispru­dence.
 
-[^33] He considers this area of legislation on the part of the lawgiver
+[^33]: He considers this area of legislation on the part of the lawgiver
 as a realistic approach to ensure the development of economic activities
 and the means of production. The leadership of the Islamic State then
 could initiate any new legislation and regulations that it sees as
@@ -206,5 +206,4 @@ is ‘desirable’ and ‘reprehensible’, respectively. The jurst may forbid
 any mandub action, or encourage any makruh ones.
 
 [^34]. Iqtisaduna, 607
-
 

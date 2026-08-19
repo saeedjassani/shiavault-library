@@ -367,4 +367,3 @@ official religion of the vast territories of Persia and continues in
 this position to the present day. In other regions of the world also
 there are tens of millions of Shi'ites.
 
-

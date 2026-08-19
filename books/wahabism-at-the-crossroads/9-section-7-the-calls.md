@@ -632,7 +632,7 @@ Wahhabi group, are the following two cases:
 
 1) **Ex-communication of the Shi'a**: Sheikh *Mohammad ben Abdulwahhab*
 suggests that whoever doubts the infidelity of the Shia is an infidel.
-[^30] *Ibn Farhan* goes on to say: ‘This is while Ibn Taymiah, with all
+[^30]: *Ibn Farhan* goes on to say: ‘This is while Ibn Taymiah, with all
 his exaggerations and hostilities towards the Shia regards them as
 Mulsims (even though he considers Shias as the people of forbidden
 innovations), but says explicitly that they are not infidels
@@ -773,7 +773,7 @@ In this chapter, he names twenty two people among the Sunni scholars
 most of whom were from Najd and Mecca, and some of the scholars of
 Damascus, Iraq, Tunis and Morocco, who all stood against the Sheikh, and
 some even wrote books denying the sayings of *Mohammad ibn Abdulwahhab.*
-[^50] By doing so, he shows that most of his opposition rose from his
+[^50]: By doing so, he shows that most of his opposition rose from his
 own region or were his own relatives!
 
 The Most Important Allegations Against Wahhabi Leaders!
@@ -981,5 +981,4 @@ others, and dragged down all Muslims under the blade of infidelity.
 [^53]: – Surah AL-Nisa 4:93.
 
 [^54]: – Surah AL-Naml 27:24.
-
 

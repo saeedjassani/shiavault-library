@@ -3,12 +3,12 @@ Notes
 
 ------------------------------------------------------------------------
 
-[^1] See Hedrick Smith, “Reagan’s Populist Coalition,” New York Times,
+[^1]: See Hedrick Smith, “Reagan’s Populist Coalition,” New York Times,
 March 16, 1980; I explore the contrasting populist rhetorics of the 2000
 presidential campaign in Everyday Politics: Reconnecting Citizens and
 Public Life (Philadelphia: PennPress, 2004), chapter one.
 
-[^2] “A Different Kind of Politics: John Dewey and the Meaning of
+[^2]: “A Different Kind of Politics: John Dewey and the Meaning of
 Citizenship in the 21st Century,” Dewey Lecture, University of Michigan,
 November 1, 2001, on web at www.cpn.org; also published in A PEGS
 Journal: The Good Society , [^2004]: For evidence of millennials’
@@ -38,7 +38,7 @@ Harry George Boyte, a reporter for the Charlotte Observer, then manager
 of the Atlanta Red Cross, then on the Executive Committee of SCLC from
 1963 to 1967, also identified with southern populism.
 
-[^3] Both are questioned by economists such as Amartya Sen, Joseph
+[^3]: Both are questioned by economists such as Amartya Sen, Joseph
 Steiglitz, Omano Edigheji, and Peter Evans, partly because these
 approaches have failed in their own terms. As Evans said, “ Neither the
 original [state-centered] development project nor its neo-liberal
@@ -61,7 +61,7 @@ themselves such as the World Bank and UN Development Programmes. See for
 instance Vijayendra Rao and Michael Walton, Eds., Culture and Public
 Action (Palo Alto: Stanford University Press, 2004).
 
-[^4] For a striking example of the convergence on a theoretical level of
+[^4]: For a striking example of the convergence on a theoretical level of
 “progressive populist” and “conservative” economics, see Paul Krugman’s
 essay, “Who Was Milton Friedman?” in The New York Review of Books,
 February 15, 2007, pp. 27-[^33]: To make the case about the “predictive
@@ -105,12 +105,12 @@ President, August, 2006. See also footnotes 11 and 16, for the arguments
 of Gianna Pomata and Vladimir Khoros that a distinctive populist
 politics emerged globally in the late 19th and early 20th centuries.
 
-[^5] On Idasa’s work, see Harry C Boyte, Marie-Louise Ström and Bennitto
+[^5]: On Idasa’s work, see Harry C Boyte, Marie-Louise Ström and Bennitto
 Motitsoe, “Democracy as Social Responsibility: Debating the Role of the
 State,” Cape Times August 28, 2006; and  Marie-Louise Ström, Citizens at
 the Centre (Cape Town: IDASA, 2005).
 
-[^6] Peter Levine, “Three forms of populism in the 2008 campaign,”
+[^6]: Peter Levine, “Three forms of populism in the 2008 campaign,”
 February 7, 2007(www.peterlevine.ws/mt/); Obama quoted from Ibid., and
 also Adam Nagourney and Jeff Zelney, “Obama Formally Enters Presidental
 Race with Calls for Generational Change,” New York Times February 11,
@@ -134,7 +134,7 @@ Subsequent debates also called for an appreciation for “pre-capitalist
 values,” an enormous break with left wing theoretical orthodoxy, though
 one prefigured by the practices of the Popular Fronts later described.
 
-[^7]   For theoretical and historical treatments of populism, see in
+[^7]:   For theoretical and historical treatments of populism, see in
 Harry C. Boyte and Frank Riessman, Eds., The New Populism: The Politics
 of Empowerment (Philadelphia: Temple University Press, 1986)
 
@@ -159,7 +159,7 @@ what he sees as limits, of broad based organizing in his review essay,
 “Of Tensions and Tricksters: Grassroots Democracy Between Theory and
 Practice,” Perspectives on Politics Vol. 4:3 (Fall, 2006), pp. 547-561.
 
-[^8] For an argument that populism is a “persuasion,” not a political
+[^8]: For an argument that populism is a “persuasion,” not a political
 project, see Michael Kazin, The Populist Persuasion: An American History
 (New York: Basic Books, 1995). For critiques, see for instance, instance
 Bruce Palmer, Man Over Money: The Southern Populist Critique of American
@@ -178,7 +178,7 @@ of American Culture in the Twentieth Century (London: Verso, 1997).
 Denning is sympathetic to populist language, but argues that
 socialist-oriented “labor populism” is preferable.
 
-[^9] Stephanie Devitt described this in an essay about what led her to
+[^9]: Stephanie Devitt described this in an essay about what led her to
 work with politicians who had a populist outlook:,
 
 “At the end of my sophomore year in college, I read the book There’s
@@ -196,84 +196,84 @@ understanding.”
 Stephanie Devitt, “Reflections on Populism,” November 28, 2006, in
 author’s possession.
 
-[^10] Sheldon Wolin, “Contract and Birthright,” Boyte and Riessman,
+[^10]: Sheldon Wolin, “Contract and Birthright,” Boyte and Riessman,
 Eds., The New Populism, pp. 285-[^6]:
 
-[^11] John Dewey, Collected Works (Vol. 6), p. [^232]: Many thanks to
+[^11]: John Dewey, Collected Works (Vol. 6), p. [^232]: Many thanks to
 Jim Farr for finding these references to Dewey’s explicit views on
 populism. I owe a large debt to Jim for his arguments in our
 conversations over the years about the importance of Dewey and the need
 to explore his thought in more detail.
 
-[^12] Nan Kari and I trace these cooperative work traditions in the
+[^12]: Nan Kari and I trace these cooperative work traditions in the
 experiences and cultures of immigrant groups in Building America: The
 Democratic Promise of Public Work (Philadelphia: Temple, 1996).
 
-[^13] Ibid., pp. 35, [^38]:
+[^13]: Ibid., pp. 35, [^38]:
 
-[^14] Gianna Pomata, “A Common Heritage: The Historical Memory of
+[^14]: Gianna Pomata, “A Common Heritage: The Historical Memory of
 Populism in Europe and the United States,” in. Boyte and Riessman, The
 New Populism: The Politics of Empowerment, 30-[^31]:
 
-[^15] History taken from Lawrence Goodwyn, The Populist Moment; also
+[^15]: History taken from Lawrence Goodwyn, The Populist Moment; also
 Thedore C. Blegen, “Agrarian Crusade Started with Granger Move and Later
 Populist Revolt,” St. Paul Pioneer Press Special 75th year commemorative
 history issue, December 31, 1933; and Omar H. Ali, “The Making of a
 Black Populist: A Tribute to the Rev. Walter A. Pattillo,” Oxford Public
 Ledger Vol. 121:25 (March, 2002, accessed on web November 16, 2006).
 
-[^16] Manning Marable, “Black History and the Vision of Democracy,” in
+[^16]: Manning Marable, “Black History and the Vision of Democracy,” in
 Boyte and Riessman, New Populism, p. 202-[^3]:
 
-[^17] Alabama House Journal, 1898-99 (Jacksonville, FL: Vance Printing
+[^17]: Alabama House Journal, 1898-99 (Jacksonville, FL: Vance Printing
 Company), p. [^459]:
 
-[^18] Eric Foner, “Why Is There No Socialism in the United States?”
+[^18]: Eric Foner, “Why Is There No Socialism in the United States?”
 History Workshop 17 (Spring, 1984), pp. 57-[^80]:
 
-[^19] Robert Nisbet, “The Total Community,” in Marvin Olson, ed., Power
+[^19]: Robert Nisbet, “The Total Community,” in Marvin Olson, ed., Power
 in Societies (New York: Macmillan, 1970), p. [^423]:
 
-[^20] Robert Nisbet, quoted in Harry C. Boyte and Nan Kari,” “The
+[^20]: Robert Nisbet, quoted in Harry C. Boyte and Nan Kari,” “The
 Commonwealth of Freedom,” Policy Review \#86, November, 1997, accessed
 12/17, 2006
 
 http://www.policyreview.org/nov97/freedom.html
 
-[^21] Peter Berger and Richard John Neuhaus, To Empower People: The Role
+[^21]: Peter Berger and Richard John Neuhaus, To Empower People: The Role
 of Mediating Structures in Public Policy (Washington, D.C: American
 Enterprise Institute, 1977), quotes taken from George Will, “Trinchiness
 at Christmas Time, Minneapolis Tribune, December 24, [^1979]:
 
-[^22] Peter Berger, with Brigette Berger, Facing Up to Modernity:
+[^22]: Peter Berger, with Brigette Berger, Facing Up to Modernity:
 Excursions in Society, Politics, and Religion (New York: Basic Books,
 1977), p. [^53]:
 
-[^23] Ronald Reagan, quoted from William Schambra, The Quest for
+[^23]: Ronald Reagan, quoted from William Schambra, The Quest for
 Community and the Quest for a New Public Philosophy (Washington, D.C.:
 American Enterprise Institute, 1983), p. 30; Michael Joyce, from Project
 Public Life, the newsletter of the Center for Democracy and Citizenship,
 December, [^1992]:
 
-[^24] Weil and some of those others who observed and challenged this
+[^24]: Weil and some of those others who observed and challenged this
 pattern of left deracination are described in CommonWealth: A Return to
 Citizen Politics (New York: Free Press, 1980); in Building America: The
 Democratic Promise of Public Work with Nan Kari (Philadelphia: Temple
 University Press, 1996), and in Everyday Politics: Reconnecting Citizens
 and Public Life (Philadelphia: PennPress, 2004).
 
-[^25] See Harry C. Boyte, The Backyard Revolution: Understanding the New
+[^25]: See Harry C. Boyte, The Backyard Revolution: Understanding the New
 Citizen Movement  (Philadelphia: Temple, 1980), and more extensively,
 Boyte, "Populism versus the Left," democracy, spring, 1981; and
 CommonWealth, chapter two.
 
-[^26] Karl Marx, The Holy Family (Moscow: Foreign Language Publishers,
+[^26]: Karl Marx, The Holy Family (Moscow: Foreign Language Publishers,
 1956), p. 123; Friedrich Engels, The Housing Question (Moscow: Progress,
 1970), p. [^29]:
 
-[^27] Pomata, “A common heritage,” pp. 35-[^36]:
+[^27]: Pomata, “A common heritage,” pp. 35-[^36]:
 
-[^28]   Michael Harrington, The Twilight of Capitalism (New York: Simon
+[^28]:   Michael Harrington, The Twilight of Capitalism (New York: Simon
 and Schuster, 1976), 291; Ralph Miliband, Marxism and Politics (Oxford:
 Oxford Univerity Press, 1977), 44; Stanley Aronowitz, “The Working
 Class: A Break with the Past,” in Divided Society: The Ethnic Experience
@@ -285,16 +285,16 @@ was outlined in Harry C. Boyte, “Populism and the Left,” democracy 1,2
 (April, 1981): 53-66, and developed in CommonWealth: A Return to Citizen
 Politics (New York: Free Press, 1989), especially chapter 3.
 
-[^29] I describe this dynamic in Everyday Politics, building in part on
+[^29]: I describe this dynamic in Everyday Politics, building in part on
 an unpublished article on “the new populism” written for The Nation with
 Nan Kari.
 
-[^30] I develop this argument in Harry C. Boyte, “Public Work: Civic
+[^30]: I develop this argument in Harry C. Boyte, “Public Work: Civic
 Populism versus Technocracy in Higher Education,” in David Brown and
 Debbi Witte, Eds.,  HEX: A Ten Year Retrospect (Dayton: Kettering
 Foundation, 2007).
 
-[^31] With brilliant insight, the social historian and theorist David
+[^31]: With brilliant insight, the social historian and theorist David
 Scobey, chair of Imagining America, has observed that one of the
 invisible sources of discontent among scholars in academia is the
 contrast between their own privatized experiences and the vibrant
@@ -302,12 +302,12 @@ subaltern publics they have discovered among poor and working class
 communities that were involved in democratic movements and action.
 Citation.
 
-[^32] Robert Coles, the Harvard psychologist, gives a fascinating
+[^32]: Robert Coles, the Harvard psychologist, gives a fascinating
 account of his own realization of this dynamic as he worked in a Freedom
 House in Mississippi in 1964, in “A Working People’s Politics,” Boyte
 and Reissman, The New Populism, pp. 83-[^99]:
 
-[^33]   I saw the power of the prophetic imagination first hand as a
+[^33]:   I saw the power of the prophetic imagination first hand as a
 young field secretary for the Southern Christian Leadership Conference.
 It was Martin Luther King’s genius to draw on and radically rework core
 American and southern symbols, traditions, and themes – “freedom,”
@@ -322,10 +322,10 @@ For a parallel treatment also contrasted the prophetic stance with the
 stance of outside critic see Michael Walzer, Interpretation and Social
 Criticism (Cambridge, Mass.: Harvard University Press, 1987).
 
-[^34] E.P. Thompson, The Making of the English Working Class (New York:
+[^34]: E.P. Thompson, The Making of the English Working Class (New York:
 Vintage, 1966), 2nd edition.
 
-[^35] Sara M. Evans and Harry C. Boyte, Free Spaces: The Sources of
+[^35]: Sara M. Evans and Harry C. Boyte, Free Spaces: The Sources of
 Democratic Change in America (New York: Harper and Row, 1986; Chicago:
 Chicago University Press, 1992); Lawrence Goodwyn, The Populist Moment
 (Cambridge: Oxford University Press, 1980); Frederick Harris, “Will the
@@ -333,24 +333,24 @@ Circle Be Unbroken? The Erosion and Transformation of African American
 Civic Life,” Report for the National Commission on Civic Renewal
 (College Park, Md: Institute for Philosophy and Public Policy, 1999).
 
-[^36] Vijayendra Rao and Michael Walton, “Culture and Public Action,” in
+[^36]: Vijayendra Rao and Michael Walton, “Culture and Public Action,” in
 Rao and Walton Eds. Culture and Public Action (Stanford: Stanford
 University Press, 2004), p. 5
 
-[^37] James C. Scott, Seeing Like a State: How Certain Schemes to
+[^37]: James C. Scott, Seeing Like a State: How Certain Schemes to
 Improve the Human Condition Have Failed (New Haven, Conn: Yale
 University Press, 1998).
 
-[^38] Arjun Appadurai, “The Capacity to Aspire,” in Rao and Walton,
+[^38]: Arjun Appadurai, “The Capacity to Aspire,” in Rao and Walton,
 Eds., Culture and Public Action, pp. 60-62, [^69]: Appadurai’s account
 also underlines populism’s practical qualities. This practical focus on
 “getting things done” and common sense  – closely associated with the
 felt need to sustain the communal values and ways of life under threat –
 emerges in Appadurai and all other populist accounts.
 
-[^39] Steven Lukes, Power: A Radical View (New York: Macmillan, 1974).
+[^39]: Steven Lukes, Power: A Radical View (New York: Macmillan, 1974).
 
-[^40] See for instance, Andrew Ross, Universal Abandon: The Politics of
+[^40]: See for instance, Andrew Ross, Universal Abandon: The Politics of
 Postmodernism (Minneapolis: University of Minnesota Press, 1988). As
 Linda Alcoff has described, these perspectives reflect despair over loss
 of agency, or the capacity to act to shape the world. See “Cultural
@@ -360,16 +360,16 @@ Theory,” Signs: Journal of Women in Culture and Society 13:3 (1988), pp.
 in the process remove it from “the people,” embodying what organizers
 call a “unilateral notion” of power and its operations.
 
-[^41] As Susan Sterett commented about a draft of this lecture, “it is a
+[^41]: As Susan Sterett commented about a draft of this lecture, “it is a
 good idea to recognize that the world is a mess. But then we need to
 ask, ‘so what are we doing to do about it?’” commentary on Populism and
 Dewey, Denver University public lecture, January 18, [^2007]:
 
-[^42] Edward Chambers with Michael Cowan, Roots of Radicals: Organizing
+[^42]: Edward Chambers with Michael Cowan, Roots of Radicals: Organizing
 for Power, Action, and Justice (New York: Continuum, 2003) , pp. 28,
 [^31]:
 
-[^43] This argument about relational power was developed in Bernard
+[^43]: This argument about relational power was developed in Bernard
 Loomer, “Two Conceptions of Power,” Criterion, 15:1 (1976), pp. 12-29, a
 piece widely used in organizing, especially the Industrial Areas
 Foundation. See Rom Coles, “Of Tensions and Tricksters,” for splendid
@@ -378,10 +378,10 @@ Chambers, Cortes, Taylor, and Stephens, see Boyte, Community Is
 Possible, Chapter Five, CommonWealth, Chapters Six, Seven, and Eight,
 and Everyday Politics, Chapter Three.
 
-[^44] See for instance Harry C. Boyte, “Civic Populism,” Perspectives on
+[^44]: See for instance Harry C. Boyte, “Civic Populism,” Perspectives on
 Politics, 1,4 (2003).
 
-[^45] Xolela Mangu, Personal conversation, Johannesburg, South Africa, 7
+[^45]: Xolela Mangu, Personal conversation, Johannesburg, South Africa, 7
 December, [^2006]: Drawing on his own experience as well as the views of
 Black Consciousness leaders, Mangcu describes the spaces in the BCM that
 developed democratic consciousness, power and capacities. “The BCM
@@ -406,7 +406,7 @@ Citizen Capacity,” Pretoria, IDASA, June, 2004, p. 7; Xolela Mangcu,
 “Technocratic Creep in South Africa,” unpublished paper in author’s
 possession, pp. 16-17.
 
-[^46] See Azzahir’s reflections in Atum Azzahir and Janice Barbee,
+[^46]: See Azzahir’s reflections in Atum Azzahir and Janice Barbee,
 “Powderhorn Phillips Cultural Wellness Center: Cultural Reconnection and
 Community Building for Personal and Community Health,” in The End of One
 Way (Minneapolis: The McKnight Foundation, 2004), pp. 44-61; also Boyte,
@@ -425,79 +425,79 @@ Van Zyl Slabbert, The Other Side of History: An Anecdotal Reflection on
 Political Transition in South Africa (Johannesburg: Jonathan Ball
 Publishers, 2006), especially chapter one.
 
-[^47] A number of these examples of cultural and community capacity and
+[^47]: A number of these examples of cultural and community capacity and
 civic professionalism are described in my forthcoming Closing the
 Citizenship Gap: The Civic Populism Movement in Minnesota (St. Paul,
 Minnesota Historical Society, 2008), and form the basis for Minnesota
 Works Together, a new populist and civic organizing effort in Minnesota.
 
-[^48] Alan Ryan, John Dewey and the High Tide of American Liberalism
+[^48]: Alan Ryan, John Dewey and the High Tide of American Liberalism
 (New York: W.W. Norton, 1995), pp. 296, [^245]:
 
-[^49] Freedom and Culture (New York: G.P. Putnam’s Sons, 1939), pp.
+[^49]: Freedom and Culture (New York: G.P. Putnam’s Sons, 1939), pp.
 155-[^56]:
 
-[^50] John Dewey, “Ethics of Democracy,” Early Works 1: p. [^244]:
+[^50]: John Dewey, “Ethics of Democracy,” Early Works 1: p. [^244]:
 
-[^51] Ibid., pp. 246, [^248]:
+[^51]: Ibid., pp. 246, [^248]:
 
-[^52] John Dewey, John Dewey, Art as Experience (New York: G.P. Putnam’s
+[^52]: John Dewey, John Dewey, Art as Experience (New York: G.P. Putnam’s
 Sons, 1934, pp. 6-7, [^8]:
 
-[^53] Ibid., pp. 12, [^4]:
+[^53]: Ibid., pp. 12, [^4]:
 
-[^54] Ibid., p. 5, [^342]:
+[^54]: Ibid., p. 5, [^342]:
 
-[^55] Walter Lippmann, quoted here from William Schambra, The Quest for
+[^55]: Walter Lippmann, quoted here from William Schambra, The Quest for
 Community and the Quest for a New Public Philosophy (Washington:
 American Enterprise Institute, 1983,), p. [^5]:
 
-[^56] Herbert Croly, The Promise of American Life (New York: Macmillan,
+[^56]: Herbert Croly, The Promise of American Life (New York: Macmillan,
 1909), pp. 139; [^453]:
 
-[^57] Lasswell and Meier, quoted from Robert Westbrook, John Dewey and
+[^57]: Lasswell and Meier, quoted from Robert Westbrook, John Dewey and
 American Democracy (Ithaca: Cornell University Press, 1989), p. 284;
 Shepard, quoted Ibid., p [^285]:
 
-[^58] Walter Lippmann, Public Opinion (New York: Free Press, 1965), pp.
+[^58]: Walter Lippmann, Public Opinion (New York: Free Press, 1965), pp.
 11, 18, 55, 132-22, [^328]: Lippmann, Phantom Public (New York:
 Macmillan, 1925), p. 106.
 
-[^59] Lippman, Public Opinion, 196-[^97]:
+[^59]: Lippman, Public Opinion, 196-[^97]:
 
-[^60] The Philosophy of John Dewey Edited by John McDermott (Chicago:
+[^60]: The Philosophy of John Dewey Edited by John McDermott (Chicago:
 University of Chicago Press, 1981), pp. 357, [^382]:
 
-[^61] Dewey, Human Nature and Conduct: An Introduction to Social
+[^61]: Dewey, Human Nature and Conduct: An Introduction to Social
 Psychology, Middle Works 14:31-[^32]: 286.
 
-[^62] Deborah Meier, “So What Does It Take to Build a School for
+[^62]: Deborah Meier, “So What Does It Take to Build a School for
 Democracy?” Phi Delta Kappan 2003, p. 16 and personal interview, Boston,
 November 1, [^2001]:
 
-[^63] Lee Benson, Ira Harkavy, and John Puckett, Dewey’s Dream:
+[^63]: Lee Benson, Ira Harkavy, and John Puckett, Dewey’s Dream:
 Universities and Democracies in the Age of Educational Reform
 (Philadelphia: Temple University Press, forthcoming 2007).
 
-[^64] John Dewey, Later Collected Works 2: 314; The Public and Its
+[^64]: John Dewey, Later Collected Works 2: 314; The Public and Its
 Problems (Athens, Ohio: Swallow Press, 1954), pp. [^185]:
 
-[^65] Dewey, Later Collected Works 2:[^306]:
+[^65]: Dewey, Later Collected Works 2:[^306]:
 
-[^66] Ibid., [^255]:
+[^66]: Ibid., [^255]:
 
-[^67] Dewey, Public and Problems, pp. 212-[^13]:
+[^67]: Dewey, Public and Problems, pp. 212-[^13]:
 
-[^68] Robert Westbrook, Dewey and American Democracy pp. 317-[^18]:
+[^68]: Robert Westbrook, Dewey and American Democracy pp. 317-[^18]:
 
-[^69] Ryan, Dewey and the High Tide, pp. 105-[^06]:
+[^69]: Ryan, Dewey and the High Tide, pp. 105-[^06]:
 
-[^70] Quoted Ibid., p. [^205]:
+[^70]: Quoted Ibid., p. [^205]:
 
-[^71] Dewey quoted in Ibid, p. 201; Ryan, Dewey and High Tide, pp.
+[^71]: Dewey quoted in Ibid, p. 201; Ryan, Dewey and High Tide, pp.
 194-[^95]:
 
-[^72] My understanding of agency draws on Mustafa Emirbayer and Ann
+[^72]: My understanding of agency draws on Mustafa Emirbayer and Ann
 Mishe’s careful, detailed treatment of the concept, “What Is Agency?”
 American Journal of Sociology Vol. 103: 4 (January, 1998), pp.
 962-[^1023]: Identifying several theoretical traditions that feed the
@@ -517,17 +517,17 @@ created, not fixed, and thus open to continuous shaping and reshaping
 is enriched by sustained attention to relational, generative power,
 especially attuned to its cultural aspects.
 
-[^73] Dewey, Culture and Freedom p. 148; more generally see his
+[^73]: Dewey, Culture and Freedom p. 148; more generally see his
 discussion in this chapter, Six, “Science and Free Culture.”
 
-[^74] I develop this with examples in “Public Work: Technocracy versus
+[^74]: I develop this with examples in “Public Work: Technocracy versus
 Civic Populism in Higher Education, The Public Academy: A Ten Year HEX
 Retrospect (Dayton: Kettering, 2007, forthcoming).
 
-[^75] See for instance, Christopher Lasch, The New Radicalism in America
+[^75]: See for instance, Christopher Lasch, The New Radicalism in America
 (New York: Vintage, 1965).
 
-[^76] Ryan, Dewey and High Tide. As he puts it, “James’ sense of the
+[^76]: Ryan, Dewey and High Tide. As he puts it, “James’ sense of the
 irreducible plurality of human passions and his interest in the
 quirkiness and peculiarity of individual lives…made James much readier
 than Dewey could ever be to appreciate the furious emotions that led
@@ -544,46 +544,46 @@ discussion of her intellectual debt to John Dewey, see Esther Thelen and
 Linda B. Smith, A Dynamic Systems Approach to the Development of
 Cognition and Action (Boston: MIT Press, 1995), p. 328.
 
-[^77] John P. Spencer, Melissa Clearfield, Daniela Corbetta, Beverly
+[^77]: John P. Spencer, Melissa Clearfield, Daniela Corbetta, Beverly
 Ulrich, Patrick Buchanan, Gregor Schröner, “Moving Toward a Grand Theory
 of Development: In Memory of Esther Thelen,” 2005 Presidential Address,
 SRCD, Atlanta, pp. 15, [^17]:
 
-[^78] Rom Coles, “Of Tensions and Tricksters,” p. [^550]:
+[^78]: Rom Coles, “Of Tensions and Tricksters,” p. [^550]:
 
-[^79] Harry C. Boyte, CommonWealth: A Return to Citizen Politics (New
+[^79]: Harry C. Boyte, CommonWealth: A Return to Citizen Politics (New
 York: Free Press, 1989).
 
-[^80] Nan Skelton and Nan Kari, Eds, Alive with Hope: The Story of the
+[^80]: Nan Skelton and Nan Kari, Eds, Alive with Hope: The Story of the
 Jane Addams School (Dayton: Kettering Foundation, forthcoming 2007).
 
-[^81] Robert Hildreth, “Theorizing Public Achivement,” on CDC web site
+[^81]: Robert Hildreth, “Theorizing Public Achivement,” on CDC web site
 www.publicwork.org under research/working papers, also note dissertation
 for a “Deweyan” take on PA.
 
-[^82] See for instance Hildreth, “Theorizing,” Boyte, “Tale of Two
+[^82]: See for instance Hildreth, “Theorizing,” Boyte, “Tale of Two
 Playgrounds,” and the links to the Mankato Public Achievement web site,
 where Joe Kunkle chronicled the many changes in self-concept, skills,
 and perceptions of the environments that young people develop through
 PA.
 
-[^83] Jennifer O’Donoghue, “Powerful Spaces: Urban Youth, Community
+[^83]: Jennifer O’Donoghue, “Powerful Spaces: Urban Youth, Community
 Organization, and Democratic Action,” Ph.D. Dissertation, Stanford
 University, 2006, pp. 101-[^06]:
 
-[^84] Ibid., p. [^45]:
+[^84]: Ibid., p. [^45]:
 
-[^85] Dewey, Public and Its Problems, p. [^149]:
+[^85]: Dewey, Public and Its Problems, p. [^149]:
 
-[^86] Youngblood quoted from Jim Sleeper, “East Brooklyn’s Second
+[^86]: Youngblood quoted from Jim Sleeper, “East Brooklyn’s Second
 Rising,” City Limits, December, 1982, p. [^13]:
 
-[^87] For a detailed discussion of Dewey and the Polish community, see
+[^87]: For a detailed discussion of Dewey and the Polish community, see
 Westbrook, Dewey and Democracy , pp. 212-23; for discussion of Dewey’s
 war with Catholics, Ryan, Dewey and High Tide, pp. 336-43; quote from
 [^336]:
 
-[^88] On organizing versus mobilizing, see Charles Payne, I’ve Got the
+[^88]: On organizing versus mobilizing, see Charles Payne, I’ve Got the
 Light of Freedom: The Organizing Tradition and the Mississippi Freedom
 Struggle (Berkeley: University of California Press, 1996) – a book that
 has become a favorite of broader based organizing networks; interview
@@ -591,23 +591,23 @@ with Christine Stephens, San Antonio, July 4, 1983; also drawn from
 interviews with Ernesto Cortes, July 4, 1983 and Beatrice Cortes, July
 8, 1983, both in San Antonio.
 
-[^89] Nick Longo, Community forthcoming, 139; Stein, quoted in Longo, p.
+[^89]: Nick Longo, Community forthcoming, 139; Stein, quoted in Longo, p.
 [^138]:
 
-[^90] Dewey, Public and Its Problems, p. [^142]:
+[^90]: Dewey, Public and Its Problems, p. [^142]:
 
-[^91] Westbrook, Dewey and Democracy, on Dewey’s stance toward the Deal,
+[^91]: Westbrook, Dewey and Democracy, on Dewey’s stance toward the Deal,
 pp. 440-52; on his role as a critic of Stalin and the Show trials, pp.
 480-81, 485; see also Ryan, Dewey and High Time , pp. 284-[^95]:
 
-[^92] Dewey quoted from Ryan, Dewey and High Tide p. [^296]:
+[^92]: Dewey quoted from Ryan, Dewey and High Tide p. [^296]:
 
-[^93] Dewey quoted in Westbrook, Dewey and Democracy, p. [^444]:
+[^93]: Dewey quoted in Westbrook, Dewey and Democracy, p. [^444]:
 Westbrook has an excellent discussion about Dewey’s efforts to
 conceptualize a nonstatist radical alternative to unbridled capitalism,
 pp. 452-58.
 
-[^94] I made this argument in CommonWealth: A Return to Citizen Politics
+[^94]: I made this argument in CommonWealth: A Return to Citizen Politics
 (New York: Free Press, 1989), building on Eric Foner’s proposal that the
 reason socialist and labor movements had never made much headway in
 America was not due to an absence, such as relative affluence or the
@@ -617,9 +617,9 @@ arguments of like Michael Denning, following James Green, that populism
 is about “rent, credit and taxes” and takes the tradition as a positive,
 not a sign of lesser politics.
 
-[^95] CCF quoted in Westbrook, Dewey and Democracy, p. [^485]:
+[^95]: CCF quoted in Westbrook, Dewey and Democracy, p. [^485]:
 
-[^96] Eric Foner, Story of American Freedom ; Gary Gerstle, American
+[^96]: Eric Foner, Story of American Freedom ; Gary Gerstle, American
 Crucible The wider problems on the left stemmed from the teleological
 assumptions built into its theory. The Marxist left – not only
 communists but also anti-Stalinists such as Sidney Hook -- saw
@@ -634,7 +634,7 @@ organizing leftists generated lessons and theoretical insights about
 power, politics, and culture change of continuing relevance.  Nowhere
 was this clearer than in the 1930s and ‘40s.
 
-[^97] The importance of cultural dynamics emerges clearly in Evans
+[^97]: The importance of cultural dynamics emerges clearly in Evans
 account. “Looking at the dynamics of health outcomes…validates a
 perspective on civil society that spotlights the role of culture…the
 construction of affect-laden cultural ties built around social
@@ -679,34 +679,34 @@ about world events – like a whole Indian state full of Humphrey drug
 stores. She says young people from Kerala are feeding the technology
 boom across India. Many of her friends are involved.
 
-[^98] Gary Gerstle, Working-Class Americanism: The Politics of Labor in
+[^98]: Gary Gerstle, Working-Class Americanism: The Politics of Labor in
 a Textile Town, 1914-1960 (Cambridge: Cambridge University Press, 1989),
 p. [^163]:
 
-[^99] Dewey, Public and Its Problems, p. [^216]:
+[^99]: Dewey, Public and Its Problems, p. [^216]:
 
-[^100] Barbara Ransby, Ella Baker and the Black Freedom Movement: A
+[^100]: Barbara Ransby, Ella Baker and the Black Freedom Movement: A
 Radical Democratic Vision (Chapel Hill: UNC Press, 2003), p. [^73]:
 
-[^101] Lary May, The Big Tomorrow; Lisabeth Cohen, Making a New Deal,
+[^101]: Lary May, The Big Tomorrow; Lisabeth Cohen, Making a New Deal,
 Denning, The Cultural Front, p. [^99]:
 
-[^102] Melissa Bass, “The Politics and Civics of National Service,”
+[^102]: Melissa Bass, “The Politics and Civics of National Service,”
 Ph.D. dissertation Boston: Brandeis University, 2004).
 
-[^103] Robert Dawkins, The God Delusion (New York: Houghton Mifflin,
+[^103]: Robert Dawkins, The God Delusion (New York: Houghton Mifflin,
 2006); and H. Allen Orr, “A Mission to Convert,” New York Review of
 Books, January 11, 2007, pp. 21-[^24]:
 
-[^104] For accounts, see my Log of Camp David on the CDC web site,
+[^104]: For accounts, see my Log of Camp David on the CDC web site,
 www.publicwork.org and also Benjamin Barber, The Truth of Power:
 Intellectual Affairs in the Clinton Era (New York: Norton, 2001).
 
-[^105] Benson, Harkavy, Puckett, Dream, xiii.
+[^105]: Benson, Harkavy, Puckett, Dream, xiii.
 
-[^106] Alison Kadlec, Dewey’s Critical Pragmatism.
+[^106]: Alison Kadlec, Dewey’s Critical Pragmatism.
 
-[^107] Scott Peters and his colleagues and students have found many
+[^107]: Scott Peters and his colleagues and students have found many
 agricultural scholars functioning in these ways. See for instance Scott
 Peters,  Nicholas R. Jordan, Margaret Adamek, Theodore R. Alter, Eds.,
 Engaging Campus and Community: The Practice of Public Scholarship in the
@@ -715,6 +715,6 @@ American Land-Grant University System (Dayton, OH: Kettering Foundation,
 Joseph Tulchin and Meg Rosenthal Eds., Citizenship in Latin America
 (Washington:   Woodrow Wilson International Center, 2006).
 
-[^108] This is the premise of the Toward Citizen Democracy Project that
+[^108]: This is the premise of the Toward Citizen Democracy Project that
 Omano Edigheji and I are organizing in association with CODESRIA, the
 organization of African social scientists.

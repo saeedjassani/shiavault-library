@@ -41,7 +41,7 @@ Rome was satisfied with that and sent him a deadly poison.[^1] When the
 poison reached Mu’awiya, he thought of a way to send it to Imam
 al-Hasan. He thought of the Imam’s relatives and their relatives but he
 could find none to help him
-[^1] Bihar al-Anwar, vol. 10, p. 173.
+[^1]: Bihar al-Anwar, vol. 10, p. 173.
 
 commit this crime. Then he thought of the Imam’s wives and concluded
 that Ja’dah, daughter of al-Ash‘ath, would meet his request, for her
@@ -82,12 +82,12 @@ evil, disgrace, sin, and treason. She brought shame on her progeny and
 children from other than the Imam. When an argument occurred between
 them and the
 
-[^1] Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 353. It was said that
+[^1]: Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 353. It was said that
 Mo’awiya sent her ten thousand dinars and gave her country estates of
 the land of Kufa. This has been mentioned in the book Tuhaf al-‘Uqool,
 p. 391.
-[^2] A‘yan al-Shia, vol. 4, p. 78.
-[^3] Tuhaf al-‘Uqool, p. 391.
+[^2]: A‘yan al-Shia, vol. 4, p. 78.
+[^3]: Tuhaf al-‘Uqool, p. 391.
 
 clans of Quraysh, they would revile them, saying: “Sons of a women who
 poisons her husbands.”[^1] Mu’awiya broke his promise toward her. He did
@@ -112,9 +112,9 @@ Ibn Khaldun has said that out of fanaticism. This historian had been
 inflicted with this disease. He has written these researches for
 nothing, but to satisfy
 
-[^1] A‘yan al-Shia, vol. 4, p. 76.
-[^2] Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 303.
-[^3] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 17, p. 4. Tarikh
+[^1]: A‘yan al-Shia, vol. 4, p. 76.
+[^2]: Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 303.
+[^3]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 17, p. 4. Tarikh
 al-Duwal al-Islamiya, vol. 1, p. 53. Tadhkirat al-Khawas, p. 222.
 Al-Isti‘ab, vol. 1, p. 374. Al-Nasaa’ih al-Kafiya, p. 62. Abu al-Fida’,
 Tarikh, vol. 1, p. 194. All these books belong to the Sunni Muslims.
@@ -130,7 +130,7 @@ the sources, that he might understand the subject matter in general.
 This is a proof of that the orientalists lack scientific research and do
 not rely on logic and evidence as to their researches.
 
-[^4] Abu al-Fida’, Tarikh, vol. 1, p. 193. Noor al-Abbsar, p. 112. Ibn
+[^4]: Abu al-Fida’, Tarikh, vol. 1, p. 193. Noor al-Abbsar, p. 112. Ibn
 al-Wardi, Tarikh, vol. 8, p. 43. As for Ibn Katheer, he thinks it is not
 correct that Yazid had done that apart from Mo’awiya. He has not
 explained the proof for the incorrectness. There is no reason for that
@@ -140,7 +140,7 @@ Garden and made it lawful for his soldiers to violate the sacred things
 in Medina, the capital of the Apostle, for three days. Moreover he
 fornicated his aunt.
 
-[^5] Ibn Khaldun, Tarikh, vol. 2, p. 178. In his book al-Tarikh
+[^5]: Ibn Khaldun, Tarikh, vol. 2, p. 178. In his book al-Tarikh
 al-Siyasi, ‘Abd al-Mun‘im has depended on Ibn Khaldun’s statement.
 Regarding the murder of the Imam, he has said: “We regard it as unlikely
 that Mo’awiya did that.”
@@ -187,9 +187,9 @@ This statement is very far from correctness, for no historian has
 mentioned what this man said. It is a pure slander and has no portion of
 correctness.
 
-[^1] ‘Aqidat al-Shia, p. 90. A statement with the same meaning has been
+[^1]: ‘Aqidat al-Shia, p. 90. A statement with the same meaning has been
 mentioned by Lamens in Da’irat al-Ma‘arif al-Islamiya, vol. 7, p. 400.
-[^2] Roudat al-Shuhada’, p. 107.
+[^2]: Roudat al-Shuhada’, p. 107.
 
 3. He was poisoned while circumambulating the Kaaba
 
@@ -228,18 +228,18 @@ asked:
 is, then Allah will avenge on him more terribly than you will. If he may
 not remain as he is, then I would like to be free of any blame.[^5]
 
-[^1] Al-Bid’ wa al-Tarikh (Paris Edition), vol. 6, p. 5.
-[^2] Tarikh al-Islam al-Siyasi, vol.1, p.398. A statement similar to
+[^1]: Al-Bid’ wa al-Tarikh (Paris Edition), vol. 6, p. 5.
+[^2]: Tarikh al-Islam al-Siyasi, vol.1, p.398. A statement similar to
 that has been mentioned by Muhammed As‘ad Talas in his book Tarikh
 al-Umma al-‘Arabiya, vol. 9, p. 16. He has said: “Al-Hasan left for
 Medina after the peacemaking. He did not remain (alive) for more than
 two months.”
-[^3] Al-Bustani, Da’irat al-Ma‘arif, vol.7, p.38. Ibn Abi al-Hadeed,
+[^3]: Al-Bustani, Da’irat al-Ma‘arif, vol.7, p.38. Ibn Abi al-Hadeed,
 Sharh Nahj al-Balagha, vol.4, p.4.
-[^4] Al-Dimyari, Hayat al-Hayawan, vol.1, p.53. It was said that he
+[^4]: Al-Dimyari, Hayat al-Hayawan, vol.1, p.53. It was said that he
 remained (alive) two days after he had been given the poison to drink.
 This has been mentioned in the book Tuhaf al-‘Uqool, p. 391.
-[^5] Al-Isti‘ab, vol. 1, p. 374.
+[^5]: Al-Isti‘ab, vol. 1, p. 374.
 
 Imam al-Hasan (a.s) avoided shedding blood. He did not want blood to be
 shed for him even a drop. A physician was brought to him. The physician
@@ -280,8 +280,8 @@ do not come to you from him. Ways from him are not different to you. He
 does not desert you during the facts, and prefers you (to himself) when
 you dispute with each other over an apportioned thing.”[^2]
 
-[^1] Al-Bidaya wa al-Nihaya, vol. 8, p. 43.
-[^2] A‘yan al-Shia, vol. 4, p. 85.
+[^1]: Al-Bidaya wa al-Nihaya, vol. 8, p. 43.
+[^2]: A‘yan al-Shia, vol. 4, p. 85.
 
 Imam al-Hasan (a.s) supplied Junada with these beneficial commandments
 containing immortal lessons, valuable, wise sayings, and correct
@@ -300,10 +300,10 @@ poison several times but I have never been given poison like this. A bit
 of my liver[^2] has come out of my mouth and I began to turn it over with
 a stick I had.”[^3]
 
-[^1] Safwat al-Safwa, vol.1, p.320. Al-Bidaya wa al-Nihaya, vol. 8, p.
+[^1]: Safwat al-Safwa, vol.1, p.320. Al-Bidaya wa al-Nihaya, vol. 8, p.
 42.
 
-[^2] The narration, if it was correct, has mentioned that the poison had
+[^2]: The narration, if it was correct, has mentioned that the poison had
 an effect on the liver of the Imam, peace be on him, to the extent that
 he spewed a bit of it. Modern medicine has demonstrated that poison does
 not make one spew his liver; rather, it gives rise to an infection in
@@ -336,7 +336,7 @@ liver. I think that through this (explanation) it seems that there is no
 contradiction between the narration and what the doctors have mentioned,
 and Allah is Knowing.
 
-[^3] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.4, p.17.
+[^3]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.4, p.17.
 
 His brother (Imam al-Husayn), visited him. When he saw him suffering
 from the pain of the poison, he wept. So al-Hasan looked at him and
@@ -381,8 +381,8 @@ what the Shia have narrated, it is as follows: “This is what al-Hasan
 bin Ali has bequeathed to his brother al-Husayn. He has advised him to
 bear witness that there is no god but Allah that
 
-[^1] Bihar al-Anwar, vol.10, p.123.
-[^2] Al-Saduq, al-Amali, p. 133.
+[^1]: Bihar al-Anwar, vol.10, p.123.
+[^2]: Al-Saduq, al-Amali, p. 133.
 
 He is unique and without partners, and that he should worship Him with
 a true worship. He has no partner in the kingdom and no helper to save
@@ -424,9 +424,9 @@ that. If they do, then do not ask them for that and bury me in the
 (cemetery) of Baqee‘ al-Gharqad, for I have in those buried in it an
 excellent exemplar.”[^2]
 
-[^1] A‘yan al-Shia, vol. 4, p. 79. Al-Saduq, al-Amali. Al-Sayyid
+[^1]: A‘yan al-Shia, vol. 4, p. 79. Al-Saduq, al-Amali. Al-Sayyid
 al-Murtada, ‘Uyun al-Mu‘jizat. Mir’at al-‘Uqool, vol. 1, p. 226.
-[^2] Al-Isti‘ab, vol. 1, p. 375. Tarikh al-Khamees, vol. 2, p. 227.
+[^2]: Al-Isti‘ab, vol. 1, p. 375. Tarikh al-Khamees, vol. 2, p. 227.
 
 These will have contained disgrace to the dignity of Imam Ali (a.s),
 and disparaging against him. This speech never suits the manners of Imam
@@ -513,8 +513,8 @@ just some moments of his valuable life. He turned to the members of his
 family and said to them: “Take me out to the yard of the house that I
 may look at the Kingdom of the Heaven.”
 
-[^1] Muhammed bin al-Hanafiya, p. 52.
-[^2] Al-Akhbar al-Tuwal, p. 203.
+[^1]: Muhammed bin al-Hanafiya, p. 52.
+[^2]: Al-Akhbar al-Tuwal, p. 203.
 
 They carried him to the yard of the house. When he was there, he raised
 his head towards the heaven, addressed his Lord and besought Him,
@@ -547,9 +547,9 @@ They showed great sadness at the death of the great Imam, who was their
 refuge, shelter, and resort when a disaster or a misfortune befell
 them.
 
-[^1] Tadhkirat al-Khawas, p. 23. Ibn ‘Asakir, Tarikh, vol. 4, p. 226.
+[^1]: Tadhkirat al-Khawas, p. 23. Ibn ‘Asakir, Tarikh, vol. 4, p. 226.
 Hulyat al-Awliya’, vol. 2, p. 38. Safwat al-Safwa, vol. 1, p. 226.
-[^2] The historians have differed over the year when Imam al-Hasan died.
+[^2]: The historians have differed over the year when Imam al-Hasan died.
 It was said that he died in the year 4 9 A. H. This has been said by Ibn
 al-Athir and Ibn Hajar in his Tahdhib al-Tahdhibin It was said that he
 died in the year 51 A. H. This has been said by al-Khatib al-Baghdadi in
@@ -562,7 +562,7 @@ al-Musamarat, p. 23. The famous narration with the Shi‘ites is that he
 died on the seventh of Safar when ceremonies are held. In Da‘irat
 al-Ma‘arif, p. 23, al-Sayyid Mahdi al-Kazimi has mentioned some details
 about his death.
-[^3] Tahdhib al-Tahdhib, vol. 2, p. 301. Ibn ‘Asakir, Tarikh, vol. 2, p.
+[^3]: Tahdhib al-Tahdhib, vol. 2, p. 301. Ibn ‘Asakir, Tarikh, vol. 2, p.
 227.
 
 **The Imam is prepared for Burial**
@@ -607,10 +607,10 @@ prayer).’”[^4] This statement is impossible because there were bad
 relationships between the Umayyads and the Hashimites. Therefore, how
 did Imam al-Hasan let their leaders pray over
 
-[^1] A‘yan al-Shia, vol. 4, p. 80.
-[^2] Ibn ‘Asakir, Tarikh, vol. 8, p. 228.
-[^3] Al-Isaba, vol. 1, p .330.
-[^4] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p.18.
+[^1]: A‘yan al-Shia, vol. 4, p. 80.
+[^2]: Ibn ‘Asakir, Tarikh, vol. 8, p. 228.
+[^3]: Al-Isaba, vol. 1, p .330.
+[^4]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p.18.
 
 him? The correct thing is that none of the Umayyads attended the
 funerals of Imam al-Hasan except Sa‘eed bin al-‘Aas.[^1]
@@ -652,8 +652,8 @@ was shouting at the top of her voice: “Do not let him whom I do not like
 enter my house! If al-Hasan was buried in my house, I would cut this
 (she pointed to her forelock)!”[^2]
 
-[^1] Tarikh al-Khamees, vol. 2, p. 323.
-[^2] Many historians have mentioned that ‘Aa’isha prevented (al-Husayn)
+[^1]: Tarikh al-Khamees, vol. 2, p. 323.
+[^2]: Many historians have mentioned that ‘Aa’isha prevented (al-Husayn)
 from burying Imam al-Hasan alongside his grandfather. Among they are Ibn
 Abi al-Hadeed, in his Sharh Nahj al-Balagha, vol. 4, p.18, Sibt bin
 al-Jawzi in his Tadhkirat al-Khawas, p.
@@ -688,5 +688,4 @@ Prophet’s grandson, to be buried beside his grandfather. She paid no
 attention to the sacredness of the pure family of the Prophet whose love
 Allah has made obligatory in His Holy Book. However, we belong to Allah
 and to Him is our return!
-
 

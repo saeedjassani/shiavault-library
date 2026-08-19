@@ -446,7 +446,7 @@ theology proper (ilahiyyat bil-ma'na al-'akhass) are based on a series
 of inter-related problems which have been posited in metaphysics
 (al-'umur al-'ammah).
 
-[^9] An elaborate discussion of those theological problems and their
+[^9]: An elaborate discussion of those theological problems and their
 relevant issues mentioned above is outside the scope of our present
 discussion.
 
@@ -486,7 +486,7 @@ discourse. But we believe that the major cause of this phenomenon is the
 weakness and insufficiency of theological conceptions of Western
 religious thought.
 
-[^10] Anyone interested in making a comparative study of the approaches
+[^10]: Anyone interested in making a comparative study of the approaches
 pointed out in these chapters, should first study the arguments advanced
 by Western philosophers such as Anselm, Descartes, Spinoza, Leibnitz,
 Kant and others for proving the existence of God and their discussions
@@ -497,7 +497,7 @@ the wide chasm that separates the one from the other.
 
 **Notes:**
 
-[^1] The term ta'wil has been defined variously, but generally when used
+[^1]: The term ta'wil has been defined variously, but generally when used
 in the opposition to tafsir (which is applied to the explanation of the
 literal and explicit meanings of the Quranic texts) it is applied to
 interpretation of the Quranic verses which goes beyond their literal
@@ -515,27 +515,26 @@ pertains to the ghaybah (occultation) of al Imam al Mahdi (A). Such
 interpretations, which obviously go beyond the apparent meaning of the
 Quranic verses, are called ta'wil.
 
-[^2] Allamah S.M.H Tabatabai, Usul e falsafah wa rawish e riyalism (The
+[^2]: Allamah S.M.H Tabatabai, Usul e falsafah wa rawish e riyalism (The
 Principles and Method of Philosophy of Realism), Introduction to vol.
 I
 
-[^3] Muhammad Sulayman Nadawi, Madha khasara al alam bi inhitat al
+[^3]: Muhammad Sulayman Nadawi, Madha khasara al alam bi inhitat al
 Muslimin, vol. IV, p. 97
 
-[^4] Ibid., p. 135
+[^4]: Ibid., p. 135
 
-[^5] Allamah Tabatabai, op. Cit
+[^5]: Allamah Tabatabai, op. Cit
 
-[^6] Ibid, vol. V
+[^6]: Ibid, vol. V
 
-[^7] Maktab e tashayyu, No. 2 p. 120
+[^7]: Maktab e tashayyu, No. 2 p. 120
 
-[^8] Ibid, p. 126
+[^8]: Ibid, p. 126
 
-[^9] Ibid, p. 157
+[^9]: Ibid, p. 157
 
-[^10] See Murtada Mutahhari, Ilal e garayesh beh maddigari (The causes
+[^10]: See Murtada Mutahhari, Ilal e garayesh beh maddigari (The causes
 of inclination towards Materialism), under the chapter: Naresa iha ye
 mafahi me falsafiI (The inadequacies of [Western] Philosophical Ideas)
-
 

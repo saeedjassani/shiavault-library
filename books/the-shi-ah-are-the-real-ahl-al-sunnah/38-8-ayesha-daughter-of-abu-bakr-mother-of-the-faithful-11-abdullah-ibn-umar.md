@@ -640,13 +640,13 @@ with you? How do you judge? (Holy Qur'an, 10:35)
 
 Surely Allah, the Great, has said the truth.
 
-[^143] This statement is quoted in Ibn Kathir's Tafsir and in that of
+[^143]: This statement is quoted in Ibn Kathir's Tafsir and in that of
 al-Khazin, in addition to Al-Tafsir al-Kabir of Jalal al-Din al-Suyuti,
 who all explain the verse in Surat al-Nisaa (Women) saying "They ask you
 for a decision; say: Allah decides for you with regard to the kalala,
 etc."
 
-[^144] What proves this is the statement of the Messenger : "Let me
+[^144]: What proves this is the statement of the Messenger : "Let me
 write you a book beyond which you will never stray." Ibn Abbas has said,
 "Had he written it, no couple in this nation would have disputed with
 one another." Since it was Umar who prohibited the Messenger of Allah
@@ -655,33 +655,33 @@ insist on its writing, we can conclude that he is the one responsible
 for the misguidance of the misguided and the one who deprived the
 Islamic nation of guidance.
 
-[^145] Muslim, Sahih, Vol. 4, p. 59, commenting by saying that Ibn Abbas
+[^145]: Muslim, Sahih, Vol. 4, p. 59, commenting by saying that Ibn Abbas
 and Ibn al-Zubayr disputed with one another with regard to both types of
 mut\`a. Jabir ibn Abdullah [al-Ansari] said, "We used to do both when we
 were in the company of the Messenger of Allah , then Umar prohibited us,
 so we ceased."
 
-[^146] Ibn Sa\`d, Tabaqat, Vol. 3, p. 204. Al-Suyuti, Tarikh, where the
+[^146]: Ibn Sa\`d, Tabaqat, Vol. 3, p. 204. Al-Suyuti, Tarikh, where the
 caliphate of Umar ibn al-Khattab is discussed.
-[^147] Ibn Qutaybah, Tarikh al-Khulafa, Vol. 8, p. 31.
-[^148] Al-Bayhaqi, Al-Sunan al-Kubra, Vol. 3, p. 144.
-[^149] Ibn Hazm, Al-Muhalla, Vol. 4, p. 270.
-[^150] This is stated on p. 140, Vol. 3, and also by al-Tabrani in his
+[^147]: Ibn Qutaybah, Tarikh al-Khulafa, Vol. 8, p. 31.
+[^148]: Al-Bayhaqi, Al-Sunan al-Kubra, Vol. 3, p. 144.
+[^149]: Ibn Hazm, Al-Muhalla, Vol. 4, p. 270.
+[^150]: This is stated on p. 140, Vol. 3, and also by al-Tabrani in his
 book Al-Mu\`jam al-Kabir, and on p. 310, Vol. 2, of Ahkam al-Qur'an of
 al-Jassas.
-[^151] Al-Bukhari, Sahih, Vol. 2, p. 151, in a chapter dealing with
+[^151]: Al-Bukhari, Sahih, Vol. 2, p. 151, in a chapter dealing with
 mut\`a and with combining both \`umra and hajj.
-[^152] This statement is recorded in the tafsir books written by Ibn
+[^152]: This statement is recorded in the tafsir books written by Ibn
 Kathir, al-Qurtubi, al-Alusi, and many others who all quote it while
 explaining the sacred verse saying, "It did not befit you to harm [the
 feelings of] the Messenger of Allah, nor should you marry his wives
 after him."
-[^153] This is what Ibn Qutaybah records in his book Al-Imama wal Siyasa
+[^153]: This is what Ibn Qutaybah records in his book Al-Imama wal Siyasa
 while discussing Abu Bakr's death and his appointment of Umar as the
 next caliph.
-[^154] Ibn Abul-Hadid, Sharh Nahjul-Balagha, Vol. 1, p. 88, commenting
+[^154]: Ibn Abul-Hadid, Sharh Nahjul-Balagha, Vol. 1, p. 88, commenting
 on the Shaqshaqi sermon.
-[^155] In Al-Fitnat al-Kubra, al-Tabari, Ibn Abul-Hadid, and Taha Husayn
+[^155]: In Al-Fitnat al-Kubra, al-Tabari, Ibn Abul-Hadid, and Taha Husayn
 all say that Talhah had borrowed fifty thousand dinars from Uthman once.
 One day, he said to him, "Preparations have been made to pay you your
 money back; so, send someone to receive it." Uthman then said to him, "I
@@ -689,14 +689,14 @@ have granted it to you, O father of Muhammad, in order to assist you in
 your manly support [of my government]." It is also said that Uthman had
 also given Talhah once as much as two hundred thousand dinars.
 
-[^156] Ibn Sa\`d, Tabaqat, Vol. 3, p. 858.
-[^157] A bad name she coined for Uthman.
-[^158] These facts are recorded by: al-Tabari in his Tarikh, and by both
+[^156]: Ibn Sa\`d, Tabaqat, Vol. 3, p. 858.
+[^157]: A bad name she coined for Uthman.
+[^158]: These facts are recorded by: al-Tabari in his Tarikh, and by both
 al-Mada'ini and al-Waqidi while discussing Uthman's assassination.
-[^159] Taha Husayn, Al-Fitna al-Kubra, Vol. 1, p. 150.
-[^160] The [Egyptian] Mu\`tazilite scholar Ibn Abul-Hadid, Sharh
+[^159]: Taha Husayn, Al-Fitna al-Kubra, Vol. 1, p. 150.
+[^160]: The [Egyptian] Mu\`tazilite scholar Ibn Abul-Hadid, Sharh
 Nahjul-Balagha, Vol. 2, p. 500.
-[^161] Umar ibn al-Khattab had invented that idea in order to pave the
+[^161]: Umar ibn al-Khattab had invented that idea in order to pave the
 way for opposition to and competition with Ali simply because the sahaba
 knew fully well that caliphate rightfully belonged to Ali and was
 usurped by Quraysh. When Fatima al-Zahra argued with them in this
@@ -709,85 +709,85 @@ Hence, each one of those men coveted caliphate for himself, and they all
 aspired to become chiefs, trading their creed for their world; their
 trade was never profitable.
 
-[^162] Taha Husayn, Al-Fitna al-Kubra, Vol. 1, p. 147.
-[^163] Al-Bukhari, Sahih, Vol. 4, p. 53, in a chapter dealing with the
+[^162]: Taha Husayn, Al-Fitna al-Kubra, Vol. 1, p. 147.
+[^163]: Al-Bukhari, Sahih, Vol. 4, p. 53, in a chapter dealing with the
 blessing in the wealth of a living or dead participant in a ghazwa.
-[^164] The meaning of this title is: one whose complexion is slightly
+[^164]: The meaning of this title is: one whose complexion is slightly
 reddish. \_\_ Tr.
-[^165] Al-Tabari, Tarikh,Vol. 5, p. 204. Ibn al-Atheer, Al-Kamil, Vol.
+[^165]: Al-Tabari, Tarikh,Vol. 5, p. 204. Ibn al-Atheer, Al-Kamil, Vol.
 3, p. 102.
-[^166] Taha Husayn, Al-Fitna al-Kubra, Vol. 2, p. 37.
-[^167] This statement is stated by al-Tabari in the discussion of the
+[^166]: Taha Husayn, Al-Fitna al-Kubra, Vol. 2, p. 37.
+[^167]: This statement is stated by al-Tabari in the discussion of the
 Battle of the Camel, in al-Mas\`udi's Tarikh, in A\`tham's Tarikh, and
 by others.
-[^168] Ibn Abul-Hadid, Sharh Nahjul-Balagha, Vol. 1, p. 101.
-[^169] Ibn Abul-Hadid, Sharh Nahjul-Balagha, p. 306, quoting Muhammad
+[^168]: Ibn Abul-Hadid, Sharh Nahjul-Balagha, Vol. 1, p. 101.
+[^169]: Ibn Abul-Hadid, Sharh Nahjul-Balagha, p. 306, quoting Muhammad
 Abdoh.
-[^170] Ibid., p. 626.
-[^171] Al-Tabari, Tarikh, Vol. 5, p. 205.
-[^172] Ibn Qutaybah, Tarikh al-Khulafa, Vol. 1, p. 18.
-[^173] Ibn Qutaybah, Tarikh al-Khulafa, Vol. 1, p. 48.
-[^174] This is indicated on p. 18 and p. 35 of Imam al-Nasa'i's
+[^170]: Ibid., p. 626.
+[^171]: Al-Tabari, Tarikh, Vol. 5, p. 205.
+[^172]: Ibn Qutaybah, Tarikh al-Khulafa, Vol. 1, p. 18.
+[^173]: Ibn Qutaybah, Tarikh al-Khulafa, Vol. 1, p. 48.
+[^174]: This is indicated on p. 18 and p. 35 of Imam al-Nasa'i's
 Khasa'is.
-[^175] Muslim, Sahih, Vol. 7, p. 119, where the virtues of Ali ibn Abu
+[^175]: Muslim, Sahih, Vol. 7, p. 119, where the virtues of Ali ibn Abu
 Talib are discussed.
-[^176] Al-A\`tham, Tarikh, p. 163.
+[^176]: Al-A\`tham, Tarikh, p. 163.
 
-[^177] Ibn Qutaybah, Al-Imama wal Siyasa, Vol. 1, p. 20.
+[^177]: Ibn Qutaybah, Al-Imama wal Siyasa, Vol. 1, p. 20.
 
-[^178] Egyptian scholar Muhammad Abdoh, Sharh Nahjul Balagha, Vol. 1, p.
+[^178]: Egyptian scholar Muhammad Abdoh, Sharh Nahjul Balagha, Vol. 1, p.
 88.
 
-[^179] Ibn Kathir, Tarikh, Vol. 8, p. 77.
+[^179]: Ibn Kathir, Tarikh, Vol. 8, p. 77.
 
-[^180] This is quoted in al-Mas\`udi's book of history known as Muruj
+[^180]: This is quoted in al-Mas\`udi's book of history known as Muruj
 al-Dhahab when the author discusses the biography of Sa\`d ibn Abu
 Waqqas.
 
-[^181] This is tallied by al-Tabari, al-Mas\`udi, Ibn Sa\`d, Taha
+[^181]: This is tallied by al-Tabari, al-Mas\`udi, Ibn Sa\`d, Taha
 Husayn, and others.
 
-[^182] Al-Bukhari, Sahih, Vol. 8, p. 123.
+[^182]: Al-Bukhari, Sahih, Vol. 8, p. 123.
 
-[^183] His using the first person singular "I" indicates the forcing of
+[^183]: His using the first person singular "I" indicates the forcing of
 his own personal view over all others, and that he did not consult the
 masses of the populace as others claim.
 
-[^184] This tale is stated in several references; among them are: p.
+[^184]: This tale is stated in several references; among them are: p.
 166, Vol. 1, of Abul Fida's Tarikh, p. 57, Vol. 5, of al-Baladhuri's
 book Ansab al-Ashraf, and p. 261, Vol. 2, of Al-Iqd al-Fareed by the
 Maliki author Ibn Abd Rabbih.
 
-[^185] According to p. 577, Vol. 12, of Ibn Manzur's lexicon Lisan
+[^185]: According to p. 577, Vol. 12, of Ibn Manzur's lexicon Lisan
 al-Arab Mansham was a woman from Hamadan who used to sell perfume.
 Whenever the Arabs bought perfume from her, a war among them would
 intensify; so, she became proverbial in ill luck. \_\_ Tr.
 
-[^186] Ibn Abul-Hadid, Sharh Nahjul-Balagha, Vol. 1, p. 63.
+[^186]: Ibn Abul-Hadid, Sharh Nahjul-Balagha, Vol. 1, p. 63.
 
-[^187] Al-Bukhari, Sahih, Vol. 8, p. 91, and also in "The Book of Iman"
+[^187]: Al-Bukhari, Sahih, Vol. 8, p. 91, and also in "The Book of Iman"
 in Muslim's Sahih.
 
-[^188] Al-Bukhari's Sahih, Vol. 2, p. 36.
+[^188]: Al-Bukhari's Sahih, Vol. 2, p. 36.
 
-[^189] This is stated by Ibn Kathir in his Tarikh and by Ibn Abd al-Birr
+[^189]: This is stated by Ibn Kathir in his Tarikh and by Ibn Abd al-Birr
 in his Al-Isti\`ab where he discusses the biography of Hujr b. \`Adi.
 
-[^190] This is what both Ibn Kathir states on p. 136, Vol. 7, of his
+[^190]: This is what both Ibn Kathir states on p. 136, Vol. 7, of his
 Tarikh and al-Hakim on p. 13, Vol. 4, of his Al-Mustadrak.
 
-[^191] Ibn Kathir, Tarikh, Vol. 7, p. 137.
+[^191]: Ibn Kathir, Tarikh, Vol. 7, p. 137.
 
-[^192] Al-Bukhari, Sahih, Vol. 7, p. 90, in a volume dealing with
+[^192]: Al-Bukhari, Sahih, Vol. 7, p. 90, in a volume dealing with
 etiquette in a chapter discussing the Hijra.
 
-[^193] Imam Ahmad ibn Hanbal, Musnad, Vol. 6, p. 77.
+[^193]: Imam Ahmad ibn Hanbal, Musnad, Vol. 6, p. 77.
 
-[^194] Ahmad ibn Hanbal, Musnad, Vol. 6, p. 113.
+[^194]: Ahmad ibn Hanbal, Musnad, Vol. 6, p. 113.
 
-[^195] Abbas Mahmud al-Aqqad, Abqariyyat Khalid, p. 24.
+[^195]: Abbas Mahmud al-Aqqad, Abqariyyat Khalid, p. 24.
 
-[^196] On p. 61, Vol. 2, of his Tarikh, al-Ya\`qubi says that Abd
+[^196]: On p. 61, Vol. 2, of his Tarikh, al-Ya\`qubi says that Abd
 al-Rahman said, "By Allah! It is Khalid who killed these people though
 they are Muslims." Khalid responded by saying, "Rather, I have killed
 them to avenge your father Awf ibn Abd Awf." Abd al-Rahman then said to
@@ -799,92 +799,92 @@ al-Rahman's father. Does this, according to Allah's creed, permit him to
 massacre a group of people for the murder of one single man? Is it
 permissible to kill several Muslims for the killing of one kafir?
 
-[^197] Al-Tabari, Al-Riyad al-Nadira, Vol. 1, p. 100.
+[^197]: Al-Tabari, Al-Riyad al-Nadira, Vol. 1, p. 100.
 
-[^198] Al-Bukhari, Sahih, Vol. 4, p. 325.
+[^198]: Al-Bukhari, Sahih, Vol. 4, p. 325.
 
-[^199] Zaynab was one of Imam Ali's daughters.
+[^199]: Zaynab was one of Imam Ali's daughters.
 
-[^200] For more details of this plot, refer to al-Tabarsi's book
+[^200]: For more details of this plot, refer to al-Tabarsi's book
 Al-Ihtijaj.
 
-[^201] Al-Bukhari, Sahih, Vol. 4, p. 175, where the author quotes Abu
+[^201]: Al-Bukhari, Sahih, Vol. 4, p. 175, where the author quotes Abu
 Hurayra talking about himself in a chapter dealing with the
 characteristics of Prophethood.
 
-[^202] Al-Bukhari, Sahih, Vol. 1, p. 38, in a chapter on acquiring
+[^202]: Al-Bukhari, Sahih, Vol. 1, p. 38, in a chapter on acquiring
 knowledge, and also on p. 2, Vol. 3, of the same reference.
 
-[^203] Refer to the book titled Abu Hurayra by the Egyptian author
+[^203]: Refer to the book titled Abu Hurayra by the Egyptian author
 Mahmud Abu Rayyah.
 
-[^204] Ibn Abul-Hadid, Sharh Nahjul-Balagha, Vol. 4, p. 28.
+[^204]: Ibn Abul-Hadid, Sharh Nahjul-Balagha, Vol. 4, p. 28.
 
-[^205] Al-Bukhari, Sahih, Vol. 2, p. 232, in a chapter dealing with a
+[^205]: Al-Bukhari, Sahih, Vol. 2, p. 232, in a chapter dealing with a
 fasting person who wakes up finding himself in the state of janaba.
 Malik, Muwatta', Vol. 1, p. 272.
 
-[^206] This is stated in al-Dhahabi's book Siyar A\`lam al-Nubala.
+[^206]: This is stated in al-Dhahabi's book Siyar A\`lam al-Nubala.
 
-[^207] Ibn Abul-Hadid, Sharh Nahjul-Balagha, Vol. 4, p. 68.
+[^207]: Ibn Abul-Hadid, Sharh Nahjul-Balagha, Vol. 4, p. 68.
 
-[^208] Ibn Kathir, Al-Bidaya wal Nihaya, Vol. 8, p. 108..
+[^208]: Ibn Kathir, Al-Bidaya wal Nihaya, Vol. 8, p. 108..
 
-[^209] Al-Bukhari, Sahih, Vol. 7, p. 31.
+[^209]: Al-Bukhari, Sahih, Vol. 7, p. 31.
 
-[^210] Al-Bukhari, Sahih, Vol. 6, p. 190, in a chapter dealing with
+[^210]: Al-Bukhari, Sahih, Vol. 6, p. 190, in a chapter dealing with
 spending on the wife and children.
 
-[^211] Ibn Abul-Hadid, Sharh Nahjul-Balagha, Vol. 4, p. 67.
+[^211]: Ibn Abul-Hadid, Sharh Nahjul-Balagha, Vol. 4, p. 67.
 
-[^212] Ibn Sa\`d, Tabaqat, Vol. 2, p. 63.
+[^212]: Ibn Sa\`d, Tabaqat, Vol. 2, p. 63.
 
-[^213] Al-Bukhari, Sahih, Vol. 1, p. 38, in a chapter dealing with
+[^213]: Al-Bukhari, Sahih, Vol. 1, p. 38, in a chapter dealing with
 learning.
 
-[^214] Ibid., Vol. 1, p. 37.
+[^214]: Ibid., Vol. 1, p. 37.
 
-[^215] Al-Bukhari, Sahih, Vol. 1, p. 30.
+[^215]: Al-Bukhari, Sahih, Vol. 1, p. 30.
 
-[^216] Ibid.
+[^216]: Ibid.
 
-[^217] Abu Hurayra was bi-lingual. He spoke Arabic (his mother tongue)
+[^217]: Abu Hurayra was bi-lingual. He spoke Arabic (his mother tongue)
 and Amharic. \_\_ Tr.
 
-[^218] Al-Bukhari, Sahih, Vol. 3, p. 158, in a chapter dealing with
+[^218]: Al-Bukhari, Sahih, Vol. 3, p. 158, in a chapter dealing with
 children reaching the age of adolescence. It is also mentioned in a
 chapter on adolescence in the Book of Government of Muslim's Sahih.
 
-[^219] The tradition of the standard is mentioned by al-Bukhari, Muslim,
+[^219]: The tradition of the standard is mentioned by al-Bukhari, Muslim,
 al-Tirmidhi, al-Nasa'i, Imam Ahmad ibn Hanbal, Abu Dawud, and all other
 traditionists.
 
-[^220] Al-Tabari, Tarikh, Vol. 5, p. 40. Al-Suyuti,, Tarikh al-Khulafa,
+[^220]: Al-Tabari, Tarikh, Vol. 5, p. 40. Al-Suyuti,, Tarikh al-Khulafa,
 p. 104. Ibn Qutaybah, Tarikh. Ahmad, Musnad, Vol. 1, p. 75.
 
-[^221] This statement was made by Umar ibn al-Khattab at the Prophet's
+[^221]: This statement was made by Umar ibn al-Khattab at the Prophet's
 Mosque in Medina shortly before his death. \_\_ Tr.
 
-[^222] Ibn Hajar, Fath al-Bari, Vol. 7, p. 586.
+[^222]: Ibn Hajar, Fath al-Bari, Vol. 7, p. 586.
 
-[^223] Muslim, Sahih, Vol. 6, p. 23. Al-Hakim, Mustadrak, Vol. 2, p.
+[^223]: Muslim, Sahih, Vol. 6, p. 23. Al-Hakim, Mustadrak, Vol. 2, p.
 156. Al-Bayhaqi, Sunan, Vol. 8, p. 144.
 
-[^224] This is recorded in Muslim's Sahih, in al-Bayhaqi's Sunan, and in
+[^224]: This is recorded in Muslim's Sahih, in al-Bayhaqi's Sunan, and in
 Ibn Majah's Sunan.
 
-[^225] Ibn Sa\`d, Tabaqat, Vol. 3, p. 248.
+[^225]: Ibn Sa\`d, Tabaqat, Vol. 3, p. 248.
 
-[^226] Al-Baladhuri, Ansab al-Ashraf, Vol. 5, p. 31. Ibn Abd al-Birr,
+[^226]: Al-Baladhuri, Ansab al-Ashraf, Vol. 5, p. 31. Ibn Abd al-Birr,
 Al-Isti\`ab, Vol. 2, p. 396. Usd al-Ghabah, Vol. 3, p. 289.
 
-[^227] Did Allah and His Messenger enjoin swearing the oath of
+[^227]: Did Allah and His Messenger enjoin swearing the oath of
 allegiance to adulterers and criminals? Or did He enjoin swearing it to
 the righteous when He said, "Surely Allah is your Wali and His Messenger
 and those who believe who uphold the prayers and who pay the zakat even
 as they prostrate"?
 
-[^228] How we wish Ibn Umar had said the same to Talhah and al-Zubayr
+[^228]: How we wish Ibn Umar had said the same to Talhah and al-Zubayr
 who reneged from their oath of allegiance to Ali and fought him, and how
 we wish "Ahl al-Sunnah wal Jama\`ah" acted according to this tradition
 in classifying men! If violating the oath of allegiance is one of the
@@ -893,46 +893,46 @@ al-Zubayr who did not only violate their oath of allegiance but also
 violated people's honor, killed innocent people and confiscated their
 wealth, and betrayed the promise?
 
-[^229] Al-Bukhari, Sahih, Vol. 1, p. 166. Ahmad, Musnad, Vol. 2, p. 96.
+[^229]: Al-Bukhari, Sahih, Vol. 1, p. 166. Ahmad, Musnad, Vol. 2, p. 96.
 Al-Bayhaqi, Sunan, Vol. 8, p. 159.
 
-[^230] Ibn Asakir, Tarikh, Vol. 4, p. 81.
+[^230]: Ibn Asakir, Tarikh, Vol. 4, p. 81.
 
-[^231] Ibn Qutaybah. Tarikh al-Khulafa, Vol. 2, p. 26.
+[^231]: Ibn Qutaybah. Tarikh al-Khulafa, Vol. 2, p. 26.
 
-[^232] Al-Tirmidhi, Sahih, Vol. 9, p. 64.
+[^232]: Al-Tirmidhi, Sahih, Vol. 9, p. 64.
 
-[^233] Al-Tirmidhi, Sahih, Vol. 9, p. 64. Imam Ahmad ibn Hanbal, Musnad,
+[^233]: Al-Tirmidhi, Sahih, Vol. 9, p. 64. Imam Ahmad ibn Hanbal, Musnad,
 Vol. 2, p. 91.
 
-[^234] Ibn Sa\`d, Al-Tabaqat al-Kubra, Vol. 4, p. 110. Ibn Hazm,
+[^234]: Ibn Sa\`d, Al-Tabaqat al-Kubra, Vol. 4, p. 110. Ibn Hazm,
 Al-Muhalla, Vol. 4, p. 213.
 
-[^235] Ibn Sa\`d, Al-Tabaqat al-Kubra, Vol. 4, p. 110.
+[^235]: Ibn Sa\`d, Al-Tabaqat al-Kubra, Vol. 4, p. 110.
 
-[^236] Ibn Hajar states this fact on p. 39 of his book Al-Fath al-Bari.
+[^236]: Ibn Hajar states this fact on p. 39 of his book Al-Fath al-Bari.
 
-[^237] Al-Suyuti quotes this statement in his book Kanz al-Ummal, and it
+[^237]: Al-Suyuti quotes this statement in his book Kanz al-Ummal, and it
 is quoted in the history books of both Ibn Asakir and al-Dhahabi. To
 know the other references with the number of their pages and volumes,
 refer to the chapter in this book dealing with the twelve successors
 according to the Sunnis.
 
-[^238] Abu Dawud, Sunan, Vol. 1, p. 289. Al-Bayhaqi, Sunan, Vol. 5, p.
+[^238]: Abu Dawud, Sunan, Vol. 1, p. 289. Al-Bayhaqi, Sunan, Vol. 5, p.
 25. Imam Ahmad ibn Hanbal, Musnad, Vol. 2, p. 29.
 
-[^239] Al-Bukhari, Sahih. Muslim, Sahih, Vol. 5, p. 21.
-[^240] This is recorded by al-Bukhari in his Sahih in a chapter dealing
+[^239]: Al-Bukhari, Sahih. Muslim, Sahih, Vol. 5, p. 21.
+[^240]: This is recorded by al-Bukhari in his Sahih in a chapter dealing
 with the virtues of walking behind borne coffins in his Kitab al-Janaaiz
 (Book of Borne Coffins).
 
-[^241] Ibn Abul-Hadid, Sharh Nahjul-Balagha, Vol. 1, p. 358. Al-Mas'udi,
+[^241]: Ibn Abul-Hadid, Sharh Nahjul-Balagha, Vol. 1, p. 358. Al-Mas'udi,
 Tarikh, Vol. 5, p. 163.
 
-[^242] Al-Mas\`udi, Tarikh, Vol. 5, p. 185. Ibn Abul-Hadid, Sharh
+[^242]: Al-Mas\`udi, Tarikh, Vol. 5, p. 185. Ibn Abul-Hadid, Sharh
 Nahjul-Balagha, Vol. 4, p. 487.
 
-[^243] In his old age, Ibn Abbas grew blind. As for telling Abdullah ibn
+[^243]: In his old age, Ibn Abbas grew blind. As for telling Abdullah ibn
 al-Zubayr to go and ask his mother, it is due to the fact that his
 father, Ibn al-Zubayr, had a mut\`a marriage with Asmaa, and Abdullah
 himself was the product of that mut\`a marriage. It is said that
@@ -940,7 +940,7 @@ Abdullah did, indeed, go to his mother whom he asked about it. She said
 to him, "Did I not prohibit you from coming in contact with Ibn Abbas
 who best knows the Arabs' defects?"
 
-[^244] Jalal al-Din al-Suyuti quotes this hadith in his exegesis of the
+[^244]: Jalal al-Din al-Suyuti quotes this hadith in his exegesis of the
 Holy Qur'an titled Al-Durr al-Manthur as he explains the meaning of
 Surat al-Bayyinah.
 

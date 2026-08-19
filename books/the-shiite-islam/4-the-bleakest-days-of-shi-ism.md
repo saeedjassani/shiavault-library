@@ -220,7 +220,6 @@ exceeded thousands. By the dissolution of Umayyad rule and the
 establishment of the Abbasids, Shi'ism did not benefit in any way. Its
 repressive and unjust opponents merely changed their name.
 
-
 **Shi'ism in the 3rd/9th Century**
 
 At the beginning of the 3rd/9th century Shi'ism was able to breathe
@@ -249,5 +248,4 @@ past came upon them again. This was particularly true in the case of
 al-Mutawakkil (233/847-247/861) who held a special enmity towards Ali
 and the Shi'ites. By his order the tomb of the third Imam in Karbala was
 completely demolished.
-
 
