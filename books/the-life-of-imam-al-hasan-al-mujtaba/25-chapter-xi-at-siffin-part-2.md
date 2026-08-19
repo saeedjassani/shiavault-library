@@ -89,7 +89,7 @@ refrained from responding to him. However he strongly insisted on him,
 and the Imam (a.s) found no escape from responding. He went carrying the
 signs of evil and unhappiness. He asked Mu’awiya: “Why have you raised
 copies of the Qur’an?”
-[^1]: Waqi‘at Siffin, p. 153.
+[^1] Waqi‘at Siffin, p. 153.
 
 Mu’awiya answered him with tricks and lies, saying: “That we and you
 may return to the Command of Allah, the Great and Almighty, in His Book.
@@ -260,7 +260,7 @@ Imam Ali’s dilemma and tribulation were not confined to the mutiny of
 his army; rather, they spared no effort to overthrow his government.
 They insisted that he had to nominate his wicked enemy Abu Musa
 al-Ash‘ari and
-[^1]: Muhammad ‘Abda, Sharh Nahj al-Balagha, vol. 2, p. 212.
+[^1] Muhammad ‘Abda, Sharh Nahj al-Balagha, vol. 2, p. 212.
 
 to chose him for the arbitration. They were not satisfied with anyone
 other than him from among those whom the Imam nominated such as Ibn
@@ -307,7 +307,7 @@ mentioned: “In the Name of Allah, the Most Gracious, the Most Merciful.
 This is for which Ali bin Abi Talib and Mu’awiya bin Abi Sufyan have
 sued one another. The arbitrator of Ali is over the people of Kufa along
 with their followers (Shi‘a)
-[^1]: Muhammad ‘Abda, Sharh Nahj al-Balagha, vol. 2, p. 212.
+[^1] Muhammad ‘Abda, Sharh Nahj al-Balagha, vol. 2, p. 212.
 
 from among the believers and the Muslims. And the arbitrator of
 Mu’awiya is over the people of Sham and their followers from among the
@@ -354,7 +354,7 @@ document. The text of the document indicates that Mu’awiya and his party
 have paid no attention to Uthman’s blood. If they had had a need of
 that, they would clearly or implicitly have mentioned it. They said many
 things for the sake of
-[^1]: Al-Tabari, Tarikh, vol. 6, p. 30.
+[^1] Al-Tabari, Tarikh, vol. 6, p. 30.
 
 Uthman. They spread out his garments on the pulpit in Damascus. They
 wept for his misfortune and aroused these battles for avenging him.
@@ -399,7 +399,7 @@ the target. Then they will not return to it at all. They recite the
 Qur’an, but it does not exceed their throats. They say good words but
 they perform bad deeds. So whoever meets them should fight against them.
 Whoever kills them shall have the best reward, and whomever they kill
-[^1]: Muslim, Saheeh, vol. 1, p. 398.
+[^1] Muslim, Saheeh, vol. 1, p. 398.
 
 shall have the best martyrdom. Allah has disowned them. The worthier of
 the truth from the two parties will kill them.”[^1]
@@ -439,11 +439,11 @@ Abbas said:
 - Allah, the Great and Almighty, says: “As two just persons among you
 shall judge.”[^4]
 
-[^1]: Al-Hakim, Mustadrak, vol. 2, p. 154.
-[^2]: It was said that Harawra’ was a village near Kufa. And it was said
+[^1] Al-Hakim, Mustadrak, vol. 2, p. 154.
+[^2] It was said that Harawra’ was a village near Kufa. And it was said
 that it was two miles far from it. Mu‘jam al-Buldan, vol. 3, p. 256
-[^3]: Qur’an, 4, 35.
-[^4]: Ibid., 95.
+[^3] Qur’an, 4, 35.
+[^4] Ibid., 95.
 
 -Do you regard the ruling of game and the intercourse between a wife
 and her husband like the ruling of the Muslims’ bloods? This verse is
@@ -524,8 +524,8 @@ attacked the innocent people, and spread fear and terror in the land
 that the security in the country became disordered, and fear spread
 among the citizens.
 
-[^1]: Qur'an, 39, 65.
-[^2]: Qur’an., 30, 60.
+[^1] Qur'an, 39, 65.
+[^2] Qur’an., 30, 60.
 
 **The two Arbitrators hold a Meeting**
 
@@ -548,12 +548,12 @@ not employ your entire mind against him!”[^2]
 The two parties went and arrived in Adhruh[^3] or Doumat al-Jandal[^4] .
 The
 
-[^1]: Shurayh bin Hani bin Yazid bin al-Harth was among those who lived
+[^1] Shurayh bin Hani bin Yazid bin al-Harth was among those who lived
 before Islam. Then he became Muslim. He was given the Kunya of Abu
 al-Miqdam. His father Hani was a companion of the Prophet (a.s.).
 Shurayh was among the greatest companions of Imam Ali. Al-Isti‘ab.
-[^2]: Al-Iqd al-Fareed, vol. 3, p. 115.
-[^3]: Adhruh was a name of a place in Sham. It was near the land of
+[^2] Al-Iqd al-Fareed, vol. 3, p. 115.
+[^3] Adhruh was a name of a place in Sham. It was near the land of
 al-Hijaz. The arbitration between Amr bin al-‘Aas and Abu Musa
 al-Ash‘ari took place there. It is correct because the speech of Dhul
 Rimma, who has praised Bilal, the grandson of Abu Musa al-Ash‘ari,
@@ -565,7 +565,7 @@ He strengthened the links of the religion during the days at Adhruh and
 refused the battles were given as an injection to a barren.
 
 Mu‘jam al-Buldan, vol. 1, p. 161.
-[^4]: Doumat al-Jandal was the name of a place covered through seven
+[^4] Doumat al-Jandal was the name of a place covered through seven
 stages from Damascus and from the City of the Prophet. Abu Ubayd
 al-Sukuni has said: “Doumat al-Jandal was a stronghold and villages
 between Sham and Medina, near the Mountain of Tay. The Banu Kinan from
@@ -662,8 +662,8 @@ noble descriptions. Abu Musa turned away from Imam Ali (a.s) who was the
 Prophet’s self and the gate of the city of his knowledge. He nominated
 Abdullah bin Umar, who did not know how to divorce his wife well as
 his
-[^1]: Al-Iqd al-Farid, vol. 3, p. 115.
-[^2]: Al-Tabari, Tarikh, vol. 6, p. 39.
+[^1] Al-Iqd al-Farid, vol. 3, p. 115.
+[^2] Al-Tabari, Tarikh, vol. 6, p. 39.
 
 father said about him. How bad time it was that let such a low person
 control the Muslims and impose his opinion on them. Anyway, Amr bin

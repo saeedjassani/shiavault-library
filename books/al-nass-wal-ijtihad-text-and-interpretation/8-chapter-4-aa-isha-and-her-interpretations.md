@@ -834,7 +834,7 @@ fifty men of them and then he killed the captives. This was the first
 treason in Islam and the policemen and guards, who were killed, were the
 first Muslims who were killed after being captured. They were one
 hundred and twenty men and it was said - as in Sharh Nahjul Balagha -
-[^45]: that they were four hundred men.
+[^45] that they were four hundred men.
 
 After that they drove Othman bin Hunayf away and he joined Imam ‘Ali
 (as). When he saw Imam ‘Ali (as), he cried and said: “When I left you, I

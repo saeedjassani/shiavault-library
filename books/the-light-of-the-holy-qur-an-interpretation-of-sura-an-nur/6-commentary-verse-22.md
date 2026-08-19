@@ -178,7 +178,7 @@ case.
 It is strange that some commentators such as Fakhr-i-Razi, in his book:
 'Tafsir-i-KAbir' and some others insist that the
 
-[^1]: Al-mazan, Vol. 15, p. 122
+[^1] Al-mazan, Vol. 15, p. 122
 
 content of this verse is limited to calumniation of the Prophet
 (p.b.u.h.)'s wives. They mainly equal this sin to paganism and consider
@@ -203,5 +203,5 @@ In Islamic narrations, the word /la'n/ (curse) is frequently applied to
 those who commit great sins. The tradition which says: "Allah has cursed
 ten groups concerning wine..."[^1] is very famous.
 
-[^1]: Khisal, by Saduq, Chapter 'Asharah
+[^1] Khisal, by Saduq, Chapter 'Asharah
 

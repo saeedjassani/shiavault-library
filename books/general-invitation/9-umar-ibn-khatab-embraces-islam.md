@@ -95,31 +95,31 @@ sorrow and shame proved his real intentions. Eventually he embraced
 Islam at the hands of the Prophet in the presence of his companions and
 thus joined the ranks of the Muslims.[^19]
 
-[^1]: Instead of ringing a bell of danger the Arabs use these words and
+[^1] Instead of ringing a bell of danger the Arabs use these words and
 generally begin alarming reports with them.
-[^2]: Ibn Hisham has mentioned the names and particulars of these person
+[^2] Ibn Hisham has mentioned the names and particulars of these person
 in his 'Seerah'.
-[^3]: Seerah-i Ibn Hisham vol. X page 265.
-[^4]: Seerah-i Ibn Hisham vol. I pp. 265-266.
-[^5]: Tarikh-i Tabari vol. II pp. 66 67; Seerah-i Ibn Hisham vol. I. pp.
+[^3] Seerah-i Ibn Hisham vol. X page 265.
+[^4] Seerah-i Ibn Hisham vol. I pp. 265-266.
+[^5] Tarikh-i Tabari vol. II pp. 66 67; Seerah-i Ibn Hisham vol. I. pp.
 295 296.
-[^6]: Seerah-i Ibn Hisham vol. I p. 313 and Tarikh-i Tabari vol. II p.
+[^6] Seerah-i Ibn Hisham vol. I p. 313 and Tarikh-i Tabari vol. II p.
 72.
-[^7]: Tarikh-i Kamil vol. II page 59.
-[^8]: al-Bidayah wan Nihayah vol. III page 26.
-[^9]: Seerah page 311. Tabari has quoted the entire incident in his
+[^7] Tarikh-i Kamil vol. II page 59.
+[^8] al-Bidayah wan Nihayah vol. III page 26.
+[^9] Seerah page 311. Tabari has quoted the entire incident in his
 history vol. II page 72 except that the head of the Caliph was
 injured.
-[^10]: Tarikh-i Kamil vol. II page 47.
-[^11]: Biharul Anwar vol. XVIII page 204.
-[^1]: Seerah-i Ibn Hisham vol. I page 318.
-[^13]: Tabaqat-i Ibn S'ad vol. III page 233.
-[^14]: Tarikh-i Kamil vol. II page 45.
-[^15]: Seerah-i Ibn Hisham vol. I page 320.
-[^16]: Seerah Ibn Hisham vol. I page 314.
-[^17]: Tarikh-i Kamil vol. II pp. 47-51; Usudul Ghabah; al-Asabah
+[^10] Tarikh-i Kamil vol. II page 47.
+[^11] Biharul Anwar vol. XVIII page 204.
+[^1] Seerah-i Ibn Hisham vol. I page 318.
+[^13] Tabaqat-i Ibn S'ad vol. III page 233.
+[^14] Tarikh-i Kamil vol. II page 45.
+[^15] Seerah-i Ibn Hisham vol. I page 320.
+[^16] Seerah Ibn Hisham vol. I page 314.
+[^17] Tarikh-i Kamil vol. II pp. 47-51; Usudul Ghabah; al-Asabah
 al-lst'iab etc.
-[^18]: Seerah Ibn Hisham vol. I page 365.
-[^19]: Ibn Hisham has given another version of the embracement of Islam
+[^18] Seerah Ibn Hisham vol. I page 365.
+[^19] Ibn Hisham has given another version of the embracement of Islam
 by Umar. (vol. I page 368).
 

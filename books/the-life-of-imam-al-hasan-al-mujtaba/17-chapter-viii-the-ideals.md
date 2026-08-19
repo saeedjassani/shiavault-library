@@ -74,7 +74,7 @@ deprivation.
 These are some affairs the Imam should put into effect. We have in
 detail explained these duties in our book The Administrative Regulations
 in Islam
-[^1]: Al-Siyasa al-Shar‘iya, p. 7.
+[^1] Al-Siyasa al-Shar‘iya, p. 7.
 
 **His Qualities**
 
@@ -114,7 +114,7 @@ They give right answer to the matter over which people differ. They
 have established the rules of Islam. They are sufficient protectors at
 war when it becomes hot. They are like rain when the people suffer from
 drought. They are like a shelter for the nursemaid of orphans.
-[^1]: Al-Ahkam al-Sultaniya, p. 4. Al-Muqaddama, p. 135.
+[^1] Al-Ahkam al-Sultaniya, p. 4. Al-Muqaddama, p. 135.
 
 They are overweighing in opinion, having perfect justice in behavior,
 and knowledgeable of heavy affairs. They are leaders, but they are not
@@ -198,7 +198,7 @@ among the most prominent reasons for which he had been appointed as a
 prophet. He (a.s) has said: “I have been sent as a prophet to complete
 noble moral traits.” Through his noble moral traits he was able to
 enlighten mankind, establish the
-[^1]: Bihar al-Anwar, vol. 13, p. 127.
+[^1] Bihar al-Anwar, vol. 13, p. 127.
 
 foundations of the civilization in the world, and to change the course
 of history. That was when he reconciled the hearts, united feelings and
@@ -240,10 +240,10 @@ food; while we find what we give to them.”[^4]
 He had a ewe. One day he came to know that the ewe’s leg was broken. He
 (a.s) asked his servant:
 
-[^1]: Al-Hakim, Mustadrak, vol. 2, p. 466.
-[^2]: A‘yan al-Shi‘a, vol. 4, p. 24.
-[^3]: Nihayat al-Irab fi Funun al-Adab, vol. 3, p. 443.
-[^4]: Al-Sabban, p. 176.
+[^1] Al-Hakim, Mustadrak, vol. 2, p. 466.
+[^2] A‘yan al-Shi‘a, vol. 4, p. 24.
+[^3] Nihayat al-Irab fi Funun al-Adab, vol. 3, p. 443.
+[^4] Al-Sabban, p. 176.
 
 -Who has done that?
 
@@ -283,8 +283,8 @@ said to the Imam: “Allah knows where He places His message!”[^2]
 In this manner the Imam (a.s) was a model of noble humanity and symbol
 of
 
-[^1]: Al-Khawarizmi, Maqtal al-Husayn, vol. 1, p. 147.
-[^2]: Ibn Shahrashub, al-Manaqib, vol. 2, p. 149. Al-Mubarrad, al-Kamil,
+[^1] Al-Khawarizmi, Maqtal al-Husayn, vol. 1, p. 147.
+[^2] Ibn Shahrashub, al-Manaqib, vol. 2, p. 149. Al-Mubarrad, al-Kamil,
 vol. 1, p. 190. It has been mentioned in it: “The Bedouin went away
 while he was saying: ‘By Allah, none on the surface of the earth is more
 lovable to me than he!”
@@ -333,8 +333,8 @@ Most surely real generosity is doing good for good, and kindness for
 kindness. This high quality was available in Imam Abu Muhammad
 al-Hasan
 
-[^1]: Qur’an, 41, 34.
-[^2]: Sharh Nahj al-Balagha, vol. 4, p. 5.
+[^1] Qur’an, 41, 34.
+[^2] Sharh Nahj al-Balagha, vol. 4, p. 5.
 
 (a.s) to the extent that he was given the nickname of Kareem Ahlul Bayt
 (the Generous One of the Prophet’s household). The Imam took this
@@ -370,9 +370,9 @@ recited in the firm Book. Allah has promised generous people His
 gardens, and He has prepared the Hellfire for the miserly. Whoever does
 not give generously is not a Muslim.
 
-[^1]: Al-Sha‘rani, al-Tabaqat al-Kubra, vol. 1, p. 23. Al-Qaraghuli,
+[^1] Al-Sha‘rani, al-Tabaqat al-Kubra, vol. 1, p. 23. Al-Qaraghuli,
 Jawhart al-Kalam, p. 112.
-[^2]: Noor al-Absar.
+[^2] Noor al-Absar.
 
 Al-Hasan has also said: The creatures have been created through a
 power. Some of them are generous, and some of them are miserly. As for
@@ -411,10 +411,10 @@ garden where he worked and made him own it.[^3]
 asking Allah to give him ten thousand dirhams. So he went home and
 immediately sent such an amount to the man.[^4]
 
-[^1]: Al-Manaqib, vol. 2, p. 156.
-[^2]: ‘Ayan al-Shi‘a, vol. 4, pp. 89-90.
-[^3]: Al-Bidaya wa al-Nihaya, vol. 8, p. 38.
-[^4]: Al-Sha‘rani, al-Tabaqat al-Kubra, vol. 1, p. 23. Al-Sabban, p.
+[^1] Al-Manaqib, vol. 2, p. 156.
+[^2] ‘Ayan al-Shi‘a, vol. 4, pp. 89-90.
+[^3] Al-Bidaya wa al-Nihaya, vol. 8, p. 38.
+[^4] Al-Sha‘rani, al-Tabaqat al-Kubra, vol. 1, p. 23. Al-Sabban, p.
 177.
 
 4. Once, a man showing poverty and neediness went to the Imam. The Imam
@@ -442,7 +442,7 @@ that he did not want any reward or thankfulness from anyone.
 Abdullah bin Ja‘far[^2] went to the Sacred House of Allah (the Kaaba). On
 their way to
 
-[^1]: Al-Bustani, Da’irat al-Ma‘arif, vol. 7, p. 39. Al-Ghazali, Ihya’
+[^1] Al-Bustani, Da’irat al-Ma‘arif, vol. 7, p. 39. Al-Ghazali, Ihya’
 al-‘Uloom, vol. 3, p. 171. In it he has added: “He (al-Hasan) said to
 the man: ‘Bring someone to carry these properties.’ So he brought him
 two porters. He (al-Hasan), peace be on him, give his garment to the two
@@ -450,7 +450,7 @@ porters as a wage. Accordingly, his followers said to him: ‘O son of
 Allah’s Apostle, we have not any dirham!’ He, peace be on him, said to
 them: ‘I hope that I have a great reward with Allah!’”
 
-[^2]: Abdullah bin Ja‘far bin Abi Talib al-Hashimi- whose mother was
+[^2] Abdullah bin Ja‘far bin Abi Talib al-Hashimi- whose mother was
 Asma’, daughter of Umays al-Khath‘amiya-was born in al-Habasha. That was
 when his father emigrated to it. When his father Ja‘far was martyred,
 the Prophet rubbed on Abdullah’s head and said: “O Allah, compensate
@@ -556,10 +556,10 @@ tonight, I will mention the achievements of Quraysh and refrain from
 mentioning those of al-Hasan. Blame me for that.” When the people
 gathered, Ibn Ateeq began
 
-[^1]: Al-Ghazali, Ihya’ al-‘Uloom, vol. 3, p. 173. Al-Bustani, Da’irat
+[^1] Al-Ghazali, Ihya’ al-‘Uloom, vol. 3, p. 173. Al-Bustani, Da’irat
 al-Ma‘arif, vol. 7, p. 39.
-[^2]: Al-Sabban, p. 176.
-[^3]: Al-Manaqib, vol. 2, p. 23.
+[^2] Al-Sabban, p. 176.
+[^3] Al-Manaqib, vol. 2, p. 23.
 
 mentioning the laudable deeds of Quraysh and refrained from mentioning
 those of Imam al-Hasan (a.s). Marwan said to him: “Why have you not
@@ -603,9 +603,9 @@ Allah, Who has covered her through your sitting by her grave and not
 violated her through her sitting by your grave.” The poor man memorized
 these words and went to the Caliph. He condoled him with
 
-[^1]: Al-Mubarrad, al-Kamil, vol. 2, p. 13.
-[^2]: Ibn Qutayba, ‘Uyun al-Akhbar, vol. 3, p. 140.
-[^3]: Al-Sha‘rani, al-Tabaqat al-Kubra, vol. 1, p. 23.
+[^1] Al-Mubarrad, al-Kamil, vol. 2, p. 13.
+[^2] Ibn Qutayba, ‘Uyun al-Akhbar, vol. 3, p. 140.
+[^3] Al-Sha‘rani, al-Tabaqat al-Kubra, vol. 1, p. 23.
 
 these words. The Caliph became happy, so he ordered a gift to be given
 to the poor man. Then he asked him: -Do these words belong to you?
@@ -641,11 +641,11 @@ those in the house of the dead one did.[^5] ” These affairs indicate his
 great obedience to Allah and his fear of Him. We will mention some
 aspects of his worship as follows:
 
-[^1]: Noor al-Absar, p. 111.
-[^2]: Al-Saduq, al-Amali, p. 108.
-[^3]: A‘yan al-Shi‘a, vol. 4, p. 11.
-[^4]: Al-Saduq, al-Amali, p. 108.
-[^5]: Warim, Majjmu‘a, p. 317.
+[^1] Noor al-Absar, p. 111.
+[^2] Al-Saduq, al-Amali, p. 108.
+[^3] A‘yan al-Shi‘a, vol. 4, p. 11.
+[^4] Al-Saduq, al-Amali, p. 108.
+[^5] Warim, Majjmu‘a, p. 317.
 
 **His Ritual Ablution and Prayers**
 
@@ -686,18 +686,18 @@ For the sake of Allah he made the people equally shared him his
 properties three times, to the extent that he gave his pair of sandals
 and retained another.[^8]
 
-[^1]: Bihar al-Anwar, vol. 10, p. 93. Al-Saduq, al-Amali, p. 108. Roudat
+[^1] Bihar al-Anwar, vol. 10, p. 93. Al-Saduq, al-Amali, p. 108. Roudat
 al-Wa‘izeen.
-[^2]: Al-Saduq, al-Amali, p. 108.
-[^3]: Bihar al-Anwar, vol. 10, p. 93.
-[^4]: Al-Lum‘a, Chapter on Hajj and the Shi‘ite great Figures. It was
+[^2] Al-Saduq, al-Amali, p. 108.
+[^3] Bihar al-Anwar, vol. 10, p. 93.
+[^4] Al-Lum‘a, Chapter on Hajj and the Shi‘ite great Figures. It was
 said that he performed the hajj for ten or fifteen times. In his book
 al-Amali, al-Saduq has mentioned that Imam al-Hasan might go bare-footed
 to the House of Allah.
-[^5]: A‘yan al-Shi‘a, vol. 4, p. 11.
-[^6]: Al-Saduq, al-Amali, p. 108.
-[^7]: Ibn Kuthayr, Tarikh, vol. 8, p. 37.
-[^8]: Usd al-Ghaba, vol. 2, p. 13. Bihar al-Anwar, vol. 10, p. 94.
+[^5] A‘yan al-Shi‘a, vol. 4, p. 11.
+[^6] Al-Saduq, al-Amali, p. 108.
+[^7] Ibn Kuthayr, Tarikh, vol. 8, p. 37.
+[^8] Usd al-Ghaba, vol. 2, p. 13. Bihar al-Anwar, vol. 10, p. 94.
 
 **His Asceticism**
 
@@ -736,10 +736,10 @@ said: ‘O Mudrik, do you have any food?’ ‘Yes,’ I replied. Then I fetched
 him some bread, salt, and two bundles of vegetables. He ate some of it
 and said: ‘O Mudrik, what delicious this food is!’”
 
-[^1]: Bihar al-Anwar, vol. 10, p. 94.
-[^2]: Ibn ‘Asakir, Tarikh, vol. 4, p. 219.
-[^3]: Ibn al-Sabbagh, al-Fusool al-Muhimma, p. 162.
-[^4]: Al-Manaqib, vol. 2, p. 145.
+[^1] Bihar al-Anwar, vol. 10, p. 94.
+[^2] Ibn ‘Asakir, Tarikh, vol. 4, p. 219.
+[^3] Ibn al-Sabbagh, al-Fusool al-Muhimma, p. 162.
+[^4] Al-Manaqib, vol. 2, p. 145.
 
 After that, the food was brought. The food was delicious and good.
 However Imam al-Hasan (a.s) turned to Mudrik and asked him to call the

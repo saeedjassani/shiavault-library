@@ -81,8 +81,8 @@ and went up the pulpit. He delivered a speech, saying: “O People, none
 has the right to undertake this affair of yours except one whom you have
 invested
 
-[^1]: Ibn al-Atheer, Tarikh, vol. 3, p. 80.
-[^2]: Sharh Nahj al-Balagha, Muhammad ‘Abda, vol. 1, p. 182.
+[^1] Ibn al-Atheer, Tarikh, vol. 3, p. 80.
+[^2] Sharh Nahj al-Balagha, Muhammad ‘Abda, vol. 1, p. 182.
 
 with authority. Yesterday, we separated (from each other). I hated your
 request, but you refused except that I would be an Imam over you.
@@ -118,7 +118,7 @@ selfishness, no deception, no dictatorship, and no yielding to
 inclinations and sentiments. All these things were achieved by Ali bin
 Abi Talib during the period of his caliphate.
 
-[^1]: Talha’s hand was paralyzed, so the Imam saw an evil omen in it and
+[^1] Talha’s hand was paralyzed, so the Imam saw an evil omen in it and
 said: “He is worthy of breaking (his pledge of allegiance).” That
 happened as he had predicted. This has been mentioned in the book Al-Iqd
 al-Fareed, vol. 3, p. 93.
@@ -161,7 +161,7 @@ the Suna. And that Quraysh is unequalled to him when he someday runs on
 the slender camels. He has what they have from among all the good, and
 they do not have what he has of any good.[^1]
 
-[^1]: Al-Hakim, Mustadrak, vol. 3, p. 115. In his book al-Fusool
+[^1] Al-Hakim, Mustadrak, vol. 3, p. 115. In his book al-Fusool
 al-Mukhtara, Al-Sayyid al-Murtada has mentioned an addition to the
 poetry line as follows:
 
@@ -211,10 +211,10 @@ the brave was at the chin. That was he through his name the small
 fingers were bent; (he) was their Imam until he was made absent in the
 shroud.
 
-[^1]: In this meaning Ahmed bin Hanbal has said: “Most surely the
+[^1] In this meaning Ahmed bin Hanbal has said: “Most surely the
 caliphate did not adorn Ali, rather Ali adorned it.” This has been
 mentioned by Ibn al-Jawzi in (his book) Manaqib Ahmed, p. 163.
-[^2]: Al-Ya‘qubi, Tarikh, vol. 2, p. 155.
+[^2] Al-Ya‘qubi, Tarikh, vol. 2, p. 155.
 
 Imam’s policy opposed their interests and advantages. He warred against
 preference and selfish use. Under all circumstances Imam Ali (a.s) did
@@ -258,7 +258,7 @@ was in their souls and their excitement of that which was in their
 hearts. They all became disordered even the allies from Quraysh and the
 youths who did not
 
-[^1]: Al-Ya‘qubi, Tarikh, vol. 2, p. 155.
+[^1] Al-Ya‘qubi, Tarikh, vol. 2, p. 155.
 
 witness his battles and attacks against their ancestors and
 forefathers. They did that of which the ancestors fell short if they
@@ -302,10 +302,10 @@ community’s will. Through that they opened a door to rebellion and
 mutiny against the government of the Imam, and they kindled the fire of
 the discord in the country. Sa’d bin Abi
 
-[^1]: Murujj al-Dhahab, vol. 6, pp. 78-79.
-[^2]: Abi al-Fida’, Tarikh, vol. 1, pp. 178-179.
-[^3]: Al-Isti‘ab, vol. 3, p. 55.
-[^4]: Ibn al-Athir, al-Kamil, vol. 3, p. 74.
+[^1] Murujj al-Dhahab, vol. 6, pp. 78-79.
+[^2] Abi al-Fida’, Tarikh, vol. 1, pp. 178-179.
+[^3] Al-Isti‘ab, vol. 3, p. 55.
+[^4] Ibn al-Athir, al-Kamil, vol. 3, p. 74.
 
 Waqqas was one of the ten persons given good news of the Garden, as
 they say. However he apologized for isolating himself from the Imam and
@@ -393,7 +393,7 @@ granted lands and given enormous properties, were afraid of that what
 was in there hand would be confiscated. Accordingly, they showed
 opposition and aggression, and they announced mutiny against the Imam.
 
-[^1]: Al-Ghadir, vol. 8, p. 288.
+[^1] Al-Ghadir, vol. 8, p. 288.
 
 **Deposing the Governors**
 
@@ -477,10 +477,10 @@ the orphans to eat, until I wished that I were an orphan.’ He also said,
 divided them among people. The share of our mosque was ten
 pomegranates.[^4]
 
-[^1]: Subh al-A’sha.
-[^2]: Ansab al-Ashraf, vol. 1 p.160.
-[^3]: Sharh Nahjol Balagha, vol. 10 p.250.
-[^4]: Ansab al-ashraf, vol. 1 p.161.
+[^1] Subh al-A’sha.
+[^2] Ansab al-Ashraf, vol. 1 p.160.
+[^3] Sharh Nahjol Balagha, vol. 10 p.250.
+[^4] Ansab al-ashraf, vol. 1 p.161.
 
 Imam Ali (a.s) was utmost pious in his religious and political
 behavior. He made his policy submit to his religious and moral values,
@@ -526,7 +526,7 @@ that Abu Khaleefa at-Ta’iy narrated, ‘When we came back from (the battle
 of) an-Nahrawan, we met, before reaching al-Mada’in, Abul Ayzar at-Ta’iy
 who believed in the Kharijites. He said to Adiy bin Hatim, ‘O Abu
 Tareef, are you
-[^1]: Ansab al-Ashraf, vol. 1 p. 168.
+[^1] Ansab al-Ashraf, vol. 1 p. 168.
 
 (after the battle) safe and successful or sinful oppressive?
 
@@ -565,8 +565,8 @@ world, a trader of its deception, a debtor of wishes, a prisoner of
 mortality, an ally of worries, a neighbor of grief, a victim of
 distresses, who has been overpowered by desires, and who is a successor
 of the dead.”
-[^1]: Tareekh Baghdad, vol. 14 p.364-365.
-[^2]: Hadhireen was a village in Siffin.
+[^1] Tareekh Baghdad, vol. 14 p.364-365.
+[^2] Hadhireen was a village in Siffin.
 
 In these golden words Imam Ali has announced his submission to the time
 and turning away from the world. When he wrote these commandments, he

@@ -28,7 +28,7 @@ when Uthman was surrounded’, we were surrounded as Uthman was
 surrounded. As for your statement ‘do not accept the pledge of
 allegiance until the pledge of
 
-[^1]: Thi Qaar was a water (well) belonged to Bakr bin Wa’il. It was near
+[^1] Thi Qaar was a water (well) belonged to Bakr bin Wa’il. It was near
 Kufa. It was between Kufa and Wasit. (This has been mentioned in) Mu‘jam
 al-Buldan, vol. 7, p. 8.
 
@@ -74,7 +74,7 @@ the Great and Almighty, has clothed me with!’ This is the excuse which
 one who wants safety for him and the Muslims does not accept. Or it is
 like the excuse of the colonialist
 
-[^1]: Dubab is a ward said to a hyena, that it may come out.
+[^1] Dubab is a ward said to a hyena, that it may come out.
 
 states that say that there is no escape from undertaking the affairs of
 the nations which they occupy and dominate, and control their public
@@ -115,10 +115,10 @@ weeping. Then he raised his hands to supplicate Allah, saying: “O Allah,
 Lord of the heavens and what they shade, of the earth and what it
 carries, and Lord of the Great
 
-[^1]: Al-Kulafa’ al-Rashidun, p. 414. Al-Sayyid Sa‘eed al-Afghani has in
+[^1] Al-Kulafa’ al-Rashidun, p. 414. Al-Sayyid Sa‘eed al-Afghani has in
 detail refuted him in his book ‘Aa’isha wa al-Siyasa, p. 96.
 
-[^2]: Al-Zawiya is a place near Basrah. The famous battle between
+[^2] Al-Zawiya is a place near Basrah. The famous battle between
 al-Hajjaj and Abdurrahman bin Muhammad bin al-Ash‘ath took place at it.
 (This has been mentioned in the book) Mu‘jam al-Buldan, vol. 4, p. 37.
 
@@ -166,8 +166,8 @@ this affair had moved you to enter it before, then it was wider to you
 than your coming out of it after your acknowledging it. You claim that I
 have killed Uthman, then between you and me is one who
 
-[^1]: Muruj al-Thahab, vol. 2, p. 254.
-[^2]: Ibn A’them, Tarikh, p. 175.
+[^1] Muruj al-Thahab, vol. 2, p. 254.
+[^2] Ibn A’them, Tarikh, p. 175.
 
 fell behind you and me from among the people of Medina. Then it is
 incumbent on each one as much as he stands. Give up, O two Sheikhs, for
@@ -211,7 +211,7 @@ day, Talha hoisted his flag on his (Uthman) public treasury while he was
 still alive. Therefore, how do they accuse my father of killing him and
 dispraise him? If we wished the speech against them, we would say.
 
-[^1]: Nahj al-Balagha, vol. 3, p. 122.
+[^1] Nahj al-Balagha, vol. 3, p. 122.
 
 “As for his speech that Ali has extorted the affair of the people, it
 is the greatest proof of his father that he claimed that he pledged
@@ -256,7 +256,7 @@ selfishness and their hating the truth moved them to attack him. They
 cut off his right arm, and he took the Qur’an with his left hand and
 summoned them to follow Allah’s Book. They attacked him again and cut
 off his left hand, and he took the
-[^1]: Al-Jamal, pp. 158-159.
+[^1] Al-Jamal, pp. 158-159.
 
 Qur’an with his teeth. He drowned in blood. In the moments of his life,
 he summoned them to peace and to spare their blood, saying: “You should
@@ -295,8 +295,8 @@ the field of the battle with a firm determination. He sought success and
 victory, but the people showered him with their arrows from all
 directions.
 
-[^1]: Al-Tabari, vol. 5, p. 204.
-[^2]: Muhammad bin Ali bin Abi Talib al-Hashimi, known as Ibn
+[^1] Al-Tabari, vol. 5, p. 204.
+[^2] Muhammad bin Ali bin Abi Talib al-Hashimi, known as Ibn
 al-Hanafiya. His mother was Khawla al-Hanafiya, daughter of Ja‘far.
 Ibrahim bin al-Junayd has said: “We not know that there is anyone better
 and more accurate than Muhammad in narrating traditions on the authority
@@ -333,7 +333,7 @@ He felt remorse for what he had neglected. He said to the Imam:
 -O Allah, yes! -Then, why do you fight against me? -I have forgotten
 it, by Allah! If I had known it, I would not have fought against
 you.[^1]
-[^1]: Al-Imama wa al-Siyasa, vol. 1, p. 73.
+[^1] Al-Imama wa al-Siyasa, vol. 1, p. 73.
 
 -Return! -How can I return while the misfortune has become great and
 the matter has become intense? -Go back before that the disgrace and
@@ -367,7 +367,7 @@ great groups of people and made them kill each other.” Some people from
 the tribe of Tamim followed him. Amr bin Jarmuz preceded them to him.
 Al-Zubayr stopped to perform the prayer and said to Amr: “Shall you lead
 me (in prayer)
-[^1]: Al-Tabari, Tarikh, vol. 5, p. 200.
+[^1] Al-Tabari, Tarikh, vol. 5, p. 200.
 
 or shall I lead you?” Al-Zubayr led him, and Amr bin Jarmuz killed him
 while praying.[^1] The end of al-Zubayr’s life was mixed with treachery,
@@ -408,8 +408,8 @@ still see that victory comes from the Banu Dhabba!” These words kindled
 the fire of the revolt in themselves, and they rushed to death and
 fought severely for her sake.[^3]
 
-[^2]: Ibn al-Athir, Tarikh, vol. 3, p. 97.
-[^3]: Ibid., vol. 2, p. 81.
+[^2] Ibn al-Athir, Tarikh, vol. 3, p. 97.
+[^3] Ibid., vol. 2, p. 81.
 
 **Banu Dabba**
 
@@ -447,8 +447,8 @@ man named Mu’ammar bin Abdillah[^2] went to the camel. He hit it on the
 hock. The camel fell to the ground and cried in a way which none had
 ever heard.
 
-[^1]: Ibn al-Athir, Tarikh, vol. 2, p. 81.
-[^2]: And it was said that someone other than him killed the camel. In
+[^1] Ibn al-Athir, Tarikh, vol. 2, p. 81.
+[^2] And it was said that someone other than him killed the camel. In
 another narration it was mentioned that Imam Ali summoned his son
 Muhammad bin al-Hanafiya. He gave him a spear and said to him: “Go and
 kill the camel with the spear.” He went, but the people came between him
@@ -482,11 +482,11 @@ He removed the arrow from her. At the last part of the night, he led
 her camel and took her to Safiyya, daughter of al-Harith[^2] in the house
 of Abdullah bin Khalaf al-Khaza’i[^3] . She stayed there for some days.
 
-[^1]: Qur’an, 20, 97.
-[^2]: Safiya, daughter of al-Harith bin Talha. Her father was killed as
+[^1] Qur’an, 20, 97.
+[^2] Safiya, daughter of al-Harith bin Talha. Her father was killed as
 infidel at the Battle of Badr. She was the wife of Abdullah bin Khalaf
 and was the mother of Talha al-Talhat. Al-Isaba, vol. 4, p. 346.
-[^3]: Abdullah bin Khalaf bin As‘ad al-Khaza‘i was the father of Talha
+[^3] Abdullah bin Khalaf bin As‘ad al-Khaza‘i was the father of Talha
 al-Talhat. Abu Umar has said: “I do not know that he had companionship
 (with the Prophet). He was
 
@@ -529,7 +529,7 @@ Umar bin al-Khattab over the Divan of al-Basrah. He was killed at the
 Battle of al-Jamal. He belonged to ‘Aa’isha’s party, and his brother
 Uthman was among the companions of Imam Ali.” Al-Isaba, vol. 2, p.
 303.
-[^1]: Al-Ya‘qubi, Tarikh, vol. 2, p. 159.
+[^1] Al-Ya‘qubi, Tarikh, vol. 2, p. 159.
 
 His words hurt her, and she wept. Then she said to him: “Yes, I will go
 back because the most abominable country to me is that in which you
@@ -572,7 +572,7 @@ battles. At last, A’isha left Basra after she had filled its houses with
 lost orphans, sadness, tears, terrified Muslims, and murder everywhere.
 The number of the victims because of her was ten thousands; half of them
 was
-[^1]: Al-Iqd al-Farid, vol. 3, pp. 103-104.
+[^1] Al-Iqd al-Farid, vol. 3, pp. 103-104.
 
 from the companions of Imam Ali, and the other half was from her
 companions.[^1] Through her rebellion against Imam Ali she destroyed the
@@ -612,12 +612,12 @@ Al-Huwayni has said: “Ali bin Abi Talib was a true Imam in respect of
 appointing him as a ruler. And those, who fought against him, were
 oppressive.”[^5]
 
-[^1]: Al-Tabari, Tarikh, vol. 5, p. 224. It has been said that the number
+[^1] Al-Tabari, Tarikh, vol. 5, p. 224. It has been said that the number
 of the killed was more than that.
-[^2]: Qur’an, 49, 9.
-[^3]: Al-Khawarizmi, Manaqib Abu Hanifa, vol. 2, pp. 82-83.
-[^4]: Al-Nawawi, Tuhfat al-Muhtajj, vol. 4, p. 110.
-[^5]: Al-Irshad fi Usool al-I‘tiqad, p. 433.
+[^2] Qur’an, 49, 9.
+[^3] Al-Khawarizmi, Manaqib Abu Hanifa, vol. 2, pp. 82-83.
+[^4] Al-Nawawi, Tuhfat al-Muhtajj, vol. 4, p. 110.
+[^5] Al-Irshad fi Usool al-I‘tiqad, p. 433.
 
 The Islamic law requires the Imam of Muslims to fight against those who
 rebel against the religious authority, for their mutiny divides the

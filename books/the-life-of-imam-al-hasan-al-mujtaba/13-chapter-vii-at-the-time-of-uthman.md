@@ -24,7 +24,7 @@ other considerations, Imam al-Hasan (a.s) entered the fields of jihad
 and struggle, and paid no attention to displeasure he had hidden in his
 soul due to losing his father’s right (of
 
-[^1]: Ibn Khaldun, al-‘Ibar, vol. 2, pp. 128-129. It has been mentioned
+[^1] Ibn Khaldun, al-‘Ibar, vol. 2, pp. 128-129. It has been mentioned
 in it: “Uthman sent an army to conquer Africa in the year 25 A. H. The
 commanders of the army were Abdullah bin Nafi‘ and Aqaba bin Nafi‘ bin
 ‘Abd al-Qays. The army went to Africa. Its number was ten thousand
@@ -39,7 +39,7 @@ headed for Africa and conquered it in the year 26 A. H. The author of
 al-Futuhat al-Islamiya has not mentioned that al-Hasan and al-Husayn
 joined the army.
 
-[^2]: Tarikh al-Umam wa al-Muluk, vol. 5, pp. 57-58. Al-‘Ibar, vol. 2, p.
+[^2] Tarikh al-Umam wa al-Muluk, vol. 5, pp. 57-58. Al-‘Ibar, vol. 2, p.
 134. Al-Futuhat al-Islamiya, vol. 1, p. 175. In all these books it has
 been mentioned: “Sa‘eed bin al-‘Aas conquered Tabaristan in the year 30
 A. H. Al-Asbahad made peace with Suwayd bin Miqren provided that he
@@ -138,7 +138,7 @@ him, said soft words to him, overcame him, and took the sword from him.
 Ubaydillah was thrown into prison until Uthman decided his case. When
 Uthman became a caliph, he went up on the pulpit and told the Muslims
 about Ubaydillah’s
-[^1]: Dr. Taha Husayn, al-Fitnatu al-Kubra, vol. 1, 5.
+[^1] Dr. Taha Husayn, al-Fitnatu al-Kubra, vol. 1, 5.
 
 case. He said to them: “It was a decree of Allah that Ubaydillah bin
 Umar killed al-Hurmuzan. Al-Hurmuzan is among the Muslims. He has no
@@ -177,9 +177,9 @@ to pardon. Uthman became angry with Ziyad and rebuked him until he
 refrained from criticizing him.[^3] He commanded Ubaydillah to leave
 Medina for Kufa. He
 
-[^1]: Al-Baladhiri, al-Ansab, vol. 5, p. 24.
-[^2]: Al-Ya‘qubi, Tarikh, vol. 2, p. 141.
-[^3]: Al-Tabari, Tarikh, vol. 5, p. 41.
+[^1] Al-Baladhiri, al-Ansab, vol. 5, p. 24.
+[^2] Al-Ya‘qubi, Tarikh, vol. 2, p. 141.
+[^3] Al-Tabari, Tarikh, vol. 5, p. 41.
 
 gave him a house there. The place was ascribed to Ubaydillah and was
 given the name of Kuwayfa bin Umar. Al-Tabari has narrated: “Uthman
@@ -223,10 +223,10 @@ authority to resort to.
 pardoning him, for if Uthman had killed him, he would have put an end to
 corruption and murder, and no influential would have committed such a
 
-[^1]: Al-Tabari, Tarikh, vol. 5, p. 41.
-[^2]: Al-Nizam al-Siyasi fi al-Islam, p. 227, quoted from al-Kharajj, p.
+[^1] Al-Tabari, Tarikh, vol. 5, p. 41.
+[^2] Al-Nizam al-Siyasi fi al-Islam, p. 227, quoted from al-Kharajj, p.
 50, by Abu Yousif.
-[^3]: Usd al-Ghaba.
+[^3] Usd al-Ghaba.
 
 crime. The Caliph’s son killed al-Hurmuzan; however, Uthman paid no
 attention to the public interest and responded to his personal purposes,
@@ -269,8 +269,8 @@ spared Ubaydillah bin Umar’s blood. His deciding the case in such a way
 was a wise policy if the people considered the case through a pure
 political consideration.[^2]
 
-[^1]: Badayi’ al-Sanayi’, vol. 7, p. 245.
-[^2]: Al-Fitnatu al-Kubra, vol. 1, p. 66.
+[^1] Badayi’ al-Sanayi’, vol. 7, p. 245.
+[^2] Al-Fitnatu al-Kubra, vol. 1, p. 66.
 
 Most surely if Uthman had started his caliphate with killing
 Ubaydillah, he would have fulfilled his covenant toward the Muslims.
@@ -314,13 +314,13 @@ the prescribed punishments from all killers according to justice, for,
 most times, killing results from anger and unruly excitement. The rule
 of no penalty on suspicion
 
-[^1]: Imam Kashif al-Ghita’s important commentary on al-Fitnatu al-Kubra
+[^1] Imam Kashif al-Ghita’s important commentary on al-Fitnatu al-Kubra
 is a hand written book available at al-‘Amira Library. Taha Husayn’s
 defense and Kashif al-Ghita’s commentary are based on al-Tabari’s
 narration, which says that Uthman paid the blood money from his own
 wealth and did not pardon ‘Ubayd Allah.
 
-[^2]: Al-Fitnatu al-Kubra, vol. 1, p. 67.
+[^2] Al-Fitnatu al-Kubra, vol. 1, p. 67.
 
 criterion is not applied to the case we have discussed, for it has
 special sources, and this source is not of its proofs. If anger was a
@@ -361,9 +361,9 @@ that we may divide it among those we accept.”[^2]
 Allah’s Apostle (a.s) says: “The men who spend Allah’s wealth without
 any right shall have the fire on the Resurrection Day.”[^3]
 
-[^1]: Nahj al-Balagha, vol. 1, p. 461.
-[^2]: Ibid., vol. 2, p. 17.
-[^3]: Saheeh al-Bukhari, vol. 5, p. 17.
+[^1] Nahj al-Balagha, vol. 1, p. 461.
+[^2] Ibid., vol. 2, p. 17.
+[^3] Saheeh al-Bukhari, vol. 5, p. 17.
 
 This is an outline on the viewpoint of Islam in respect of money, for
 Islam makes it incumbent on the responsible ones to spend the state’s
@@ -407,8 +407,8 @@ the authority be similar to that was before Islam, the kingdom be ruled
 by the usurpers, and the projections of the earth be owned by the
 Umayyads.”[^2]
 
-[^1]: Sharh Nahj al-Balagha, vol. 1, p. 67.
-[^2]: Ibn ‘Asakir, Tarikh, vol. 6, p. 407.
+[^1] Sharh Nahj al-Balagha, vol. 1, p. 67.
+[^2] Ibn ‘Asakir, Tarikh, vol. 6, p. 407.
 
 Therefore, is it an act of justice and fairness that the Muslims’
 properties were given to such a hypocrite whose soul was full of enmity
@@ -450,10 +450,10 @@ estrangement, be sent away and that there was at all no justification to
 give him the Muslims’ funds. We will mention that to readers as
 follows:
 
-[^1]: Ansab al-Ashraf, vol. 5, p. 52.
-[^2]: Al-Ansab, p. 28.
-[^3]: Sharh Nahj al-Balagha, vol. 1, p. 67.
-[^4]: Sharh Nahj al-Balagha, vol. 1, p. 67.
+[^1] Ansab al-Ashraf, vol. 5, p. 52.
+[^2] Al-Ansab, p. 28.
+[^3] Sharh Nahj al-Balagha, vol. 1, p. 67.
+[^4] Sharh Nahj al-Balagha, vol. 1, p. 67.
 
 **His Fighting against Islam**
 
@@ -497,10 +497,10 @@ ordered Imam Ali to bring al-Hakam as a ewe was brought. He fetched him.
 He took him by the ear and made him stop before Allah’s Apostle (a.s).
 The Prophet cursed al-Hakam three times, and
 
-[^1]: Ibn Kuthayr, Tarikh, vol. 8, p. 70.
-[^2]: Al-Ansab, vol. 5, p. 27.
-[^3]: Al-Isti‘ab, vol. 1, p. 118.
-[^4]: Al-Sirah al-Halabiya.
+[^1] Ibn Kuthayr, Tarikh, vol. 8, p. 70.
+[^2] Al-Ansab, vol. 5, p. 27.
+[^3] Al-Isti‘ab, vol. 1, p. 118.
+[^4] Al-Sirah al-Halabiya.
 
 then he said to Imam Ali: “Make him stay at a place! A group of the
 Muhajireen and the Ansar went to him, and he summoned him again, cursed
@@ -540,11 +540,11 @@ needy. Therefore, how was it permissible for Uthman to give them to such
 a person cursed by Allah’s Apostle (a.s)? The decision on this problem
 is up to readers.
 
-[^1]: Kanz al-Ummal, vol. 6, p. 39.
-[^2]: Al-Ansab, vol. 5, p. 27.
-[^3]: Al-Ya’qubi, Tarikh, vol. 2, p. 41.
-[^4]: Al-Ma’arif, p. 84.
-[^5]: Al-Ansab, vol. 5, p. 28.
+[^1] Kanz al-Ummal, vol. 6, p. 39.
+[^2] Al-Ansab, vol. 5, p. 27.
+[^3] Al-Ya’qubi, Tarikh, vol. 2, p. 41.
+[^4] Al-Ma’arif, p. 84.
+[^5] Al-Ansab, vol. 5, p. 28.
 
 **Sa’eed Bin al-Aas**
 
@@ -588,12 +588,12 @@ prominent men of misguidance and falsehood. He was given the nickname of
 Khayt Batil (the thread of falsehood). Concerning him the poet has
 said:
 
-[^1]: Al-Ansab, vol. 5, p. 28.
-[^2]: Usd al-Ghaba, vol. 2, 310.
-[^3]: Al-Ansab, vol. 5, p. 30.
-[^4]: Majma‘ al-Zawa’id, vol. 10, p. 72.
-[^5]: Al-Hakim, Mustadrak, vol. 4, p. 479.
-[^6]: Ibn Abi al-Haddeed, Sharh Nahj al-Balagha, vol. 2, p. 55.
+[^1] Al-Ansab, vol. 5, p. 28.
+[^2] Usd al-Ghaba, vol. 2, 310.
+[^3] Al-Ansab, vol. 5, p. 30.
+[^4] Majma‘ al-Zawa’id, vol. 10, p. 72.
+[^5] Al-Hakim, Mustadrak, vol. 4, p. 479.
+[^6] Ibn Abi al-Haddeed, Sharh Nahj al-Balagha, vol. 2, p. 55.
 
 By your life I do not know how the beaten-backed one does. May Allah
 curse the men who have appointed Khayt Batil as a commander over the
@@ -637,10 +637,10 @@ and so Zayd bin Arqam, the treasurer, brought the keys and put them
 before Uthman. He wept, but Uthman scolded him and said to him: “Are you
 weeping because I have retained my kinship?”
 
-[^1]: Al-Ansab, vol. 4, p. 348.
-[^2]: Nahj al-Balagha.
-[^3]: Abu al-Fida’, Tarikh, vol. 1, p. 168.
-[^4]: Al-Halabi, Sirah, vol. 2, p. 87.
+[^1] Al-Ansab, vol. 4, p. 348.
+[^2] Nahj al-Balagha.
+[^3] Abu al-Fida’, Tarikh, vol. 1, p. 168.
+[^4] Al-Halabi, Sirah, vol. 2, p. 87.
 
 “But I weep because I think that you have taken this money as a
 compensation for that which you spent in the way of Allah during the

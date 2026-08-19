@@ -391,37 +391,37 @@ Here the role of the religion comes by setting the only resolution to
 the problem as the resolution depends on the harmony between the
 subjective motives and the general social interests.[^46]
 
-[^1]: Alesra’a 17: 31.
+[^1] Alesra’a 17: 31.
 
-[^2]: Alhasher 59: 8-9.
+[^2] Alhasher 59: 8-9.
 
-[^3]: Alhujoraat: 49: 13.
+[^3] Alhujoraat: 49: 13.
 
-[^4]: Alhashoor 59: 7.
+[^4] Alhashoor 59: 7.
 
-[^5]: Alsaffat: 37: 24.
+[^5] Alsaffat: 37: 24.
 
-[^6]: Altehreem 66: 6.
+[^6] Altehreem 66: 6.
 
-[^7]: Kenzelaummaal 5: 289.
+[^7] Kenzelaummaal 5: 289.
 
-[^8]: Saheeh Moslem 3: 1459- Ketaab alemaarah- Daar Ehiaa elturaath pub.
+[^8] Saheeh Moslem 3: 1459- Ketaab alemaarah- Daar Ehiaa elturaath pub.
 1.
 
-[^9]: Nehjilbalagha: sermon 167.
+[^9] Nehjilbalagha: sermon 167.
 
-[^10]: Tefseer Majmaael Bayaan: 1: 174, Albakarah 2: 207.
+[^10] Tefseer Majmaael Bayaan: 1: 174, Albakarah 2: 207.
 
-[^11]: Altafseer AlKabeer, Al fakhr Al Raazi: 5: 223.
+[^11] Altafseer AlKabeer, Al fakhr Al Raazi: 5: 223.
 
-[^12]: Tenbeehel Khawaatir, Ameer Warram 1: 172, Eithar.
+[^12] Tenbeehel Khawaatir, Ameer Warram 1: 172, Eithar.
 
-[^13]: Assad el ghaabah, Ebnil atheer 4: 102/ 3783, Dar Ehii’a
+[^13] Assad el ghaabah, Ebnil atheer 4: 102/ 3783, Dar Ehii’a
 alturaathil Arabi.
 
-[^14]: Assad Alghabbah: Ebnil Atheer 4: 103.
+[^14] Assad Alghabbah: Ebnil Atheer 4: 103.
 
-[^15]: Asbaab alnouzoul: Abbilhassan alnissaboori: 281, Enteshaaraat
+[^15] Asbaab alnouzoul: Abbilhassan alnissaboori: 281, Enteshaaraat
 Alrezi, pub. Of A’alam Alkutub: 235.
 
 [^16]: Kenzel aumaal 1:206
@@ -452,9 +452,9 @@ Ehiaael turath alarabi pub. 2.
 
 [^28]: The morals of Ahlilbait (A.S.) sayed M. Alsadre: 70.
 
-[^29]: Al- Ihtejaj vol.1, p. 260.
+[^29] Al- Ihtejaj vol.1, p. 260.
 
-[^30]: Alhujuraat 49:13.
+[^30] Alhujuraat 49:13.
 
 [^31]: Al Maeideh 5: 2.
 

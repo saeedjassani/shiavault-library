@@ -11,7 +11,7 @@ peacemaking with the tyrannical one of his time (Mu’awiya) and shows us
 the reasons that made the rebellious forces unite to fight against him
 as they had done to his father before. We will mention that to
 readers.
-[^1]: Al-Jahiz, al-Bayan wa al-Tabiyin, vol. 3, p. 359.
+[^1] Al-Jahiz, al-Bayan wa al-Tabiyin, vol. 3, p. 359.
 
 **The Constructive Policy**
 
@@ -101,8 +101,8 @@ with which the Muslims were afflicted throughout their ages.
 As for the high objectives and ideals that Ahl al-Bayt raised and
 adopted in all the fields, they are as follows:
 
-[^1]: Muhammed ‘Abda, Sharh Nahj al-Balagha, vol. 2, p. 18.
-[^2]: Asad al-Ghaba, vol. 4, p. 31.
+[^1] Muhammed ‘Abda, Sharh Nahj al-Balagha, vol. 2, p. 18.
+[^2] Asad al-Ghaba, vol. 4, p. 31.
 
 **Justice**
 
@@ -140,10 +140,10 @@ deal with these researches. We only want to say that the policy of Ahl
 al-Bayt, peace be on them, was based on inclusive justice and all its
 goals were built on it.
 
-[^1]: Qur’an, 4, 58.
-[^2]: Ibid., 38, 26.
-[^3]: Al-Iqd al-Fareed, vol. 1, p. 211.
-[^4]: Usool al-Kafi, vol. 2, p. 147.
+[^1] Qur’an, 4, 58.
+[^2] Ibid., 38, 26.
+[^3] Al-Iqd al-Fareed, vol. 1, p. 211.
+[^4] Usool al-Kafi, vol. 2, p. 147.
 
 **Equality**
 
@@ -186,9 +186,9 @@ social justice on earth. As for Imam al-Hasan, he followed his father’s
 way and behavior. He did not turn away from his method, and this was the
 reason of that the people harbored malice and hatred against him.
 
-[^1]: Al-Nizam al-Siyasi fi al-Islam, p. 319.
-[^2]: Muhammed ‘Abda, Sharh Nahj al-Balagha, vol. 3, p. 85.
-[^3]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 1, p.180.
+[^1] Al-Nizam al-Siyasi fi al-Islam, p. 319.
+[^2] Muhammed ‘Abda, Sharh Nahj al-Balagha, vol. 3, p. 85.
+[^3] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 1, p.180.
 
 **Freedom**
 
@@ -279,7 +279,7 @@ Allah. Beware of lying, for sure lying leads to licentiousness, and
 licentiousness leads to the fire. Man still tells lies and look for
 lying until he is written a liar with Allah.”[^1]
 
-[^1]: It has been narrated by Muslim.
+[^1] It has been narrated by Muslim.
 
 Surely Ahl al-Bayt built their policy on truthfulness and frankness.
 They avoided cunning and deception.
@@ -322,9 +322,9 @@ political values Islam declared. It does not accept desertion, cunning,
 and deception, nor does it believe in any of the means of social
 hypocrisy even if timely
 
-[^1]: Jami‘ al-Sa‘dat, vol. 1, p. 202.
-[^2]: Nahj al-Balagha.
-[^3]: Nahj al-Balagha, vol. 2, p.206.
+[^1] Jami‘ al-Sa‘dat, vol. 1, p. 202.
+[^2] Nahj al-Balagha.
+[^3] Nahj al-Balagha, vol. 2, p.206.
 
 political success depends on it. That is because the Islamic caliphate
 is the most important of all the sensitive offices in Islam. Therefore,
@@ -370,7 +370,7 @@ and removal of a government is that when the citizens are veiled from
 their rights, and so they are forced to take them for bribe. Of course
 such a deed leads the society into disorder, and makes oppression and
 tyranny spread.
-[^1]: Nahj al-Balagha, vol. 1, p. 151.
+[^1] Nahj al-Balagha, vol. 1, p. 151.
 
 Indeed Ahl al-Bayt thought of something greater and deeper than that.
 They made it incumbent on their governors to be far from the people
@@ -416,8 +416,8 @@ forced the people to go out for war; rather they summoned them to
 perform jihad as one of the religious duties imposed by Allah. So
 whoever wished to go out for
 
-[^1]: Muhammed ‘Abda, Nahj al-Balagha, vol. 3, p. 78.
-[^2]: Ibid., vol. 2, p. 244.
+[^1] Muhammed ‘Abda, Nahj al-Balagha, vol. 3, p. 78.
+[^2] Ibid., vol. 2, p. 244.
 
 jihad went out to perform the duty imposed on him, and whoever
 (refrained from going out for jihad) refrained and did not yield to that
@@ -501,9 +501,9 @@ children to others. Abu Rafi‘[^3] , who was the treasurer of the public
 treasury, said: “Ali, the Commander of the faithful, came in to me. I
 had given his daughter a pearl from the properties in
 
-[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.182.
-[^2]: Al-Kamil, vol. 8, p. 173.
-[^3]: It was said that the name of Abu Raafi‘ was Ibrahim. It was said
+[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.182.
+[^2] Al-Kamil, vol. 8, p. 173.
+[^3] It was said that the name of Abu Raafi‘ was Ibrahim. It was said
 that it was Aslam. He was a Coptic. It was said that he was the retainer
 of al-‘Abbas, so he granted him to Allah’s Apostle, may Allah bless him
 and his family. When al-‘Abbas became Muslim, Abu Raafi‘ gave good news
@@ -540,8 +540,8 @@ pomegranates.”[^4] Imam Ali used to perform the prayer in the public
 treasury, and then he ordered it to be swept. He would say: “Praise
 belongs to Allah Who has taken me out of it as I had come into it.”[^5]
 
-[^1]: Al-Kamil, vol. 8, p. 173.
-[^2]: ‘Aasim bin Kulayb bin Shahab al-Jarmi al-Kufi narrated (traditions)
+[^1] Al-Kamil, vol. 8, p. 173.
+[^2] ‘Aasim bin Kulayb bin Shahab al-Jarmi al-Kufi narrated (traditions)
 on the authority of a group of the leading companions (of the Prophet).
 Another group narrated on his authority. Ibn Ma‘een and al-Nisaa’i have
 said: “He is trustworthy.” Ibn Shahab has said: “He was among the
@@ -550,9 +550,9 @@ of al-Murji’a, and them he was regarded as far above that.” Ibn Hayyan
 has regarded him as among the trustworthy. He said: “Surely he is
 trustworthy and reliable. He died in the year 137 A. H.” Tahdhib
 al-Tahdhib, vol. 5, p.55.
-[^3]: Al-Kamil, vol. 8, p. 173.
-[^4]: Ansab al-Ashraf, vol. 1, Q1, p. 161.
-[^5]: Ibid.
+[^3] Al-Kamil, vol. 8, p. 173.
+[^4] Ansab al-Ashraf, vol. 1, Q1, p. 161.
+[^5] Ibid.
 
 The historians say: “Imam Ali came into the public treasury and divided
 (the properties in) it. There was a small girl with him. The girl
@@ -588,5 +588,5 @@ not die a martyr as his brother Imam al-Husayn (a.s) died. We will
 mention the answer in detail when we speak about the attitude of Imam
 al-Husayn (a.s) toward the peacemaking.
 
-[^1]: Ansab al-Ashraf, vol. 1, p. 160.
+[^1] Ansab al-Ashraf, vol. 1, p. 160.
 

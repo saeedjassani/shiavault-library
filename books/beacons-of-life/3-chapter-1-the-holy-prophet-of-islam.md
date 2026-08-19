@@ -254,7 +254,7 @@ All-Praised.
 [^9]: See al-Hakim, Abu \`Abdillah Muhammad ibn \`Abdillah an-Naysaburi,
 al-Mustadrak 'ala Sahihayn, 4 vols. (Beirut: Daru'l-Fikr, 1398/ 1978),
 vol. 3, pp. 219 - 20.
-[^10]: It is held in Shi\`i tradition that neither the Prophet nor his
+[^10] It is held in Shi\`i tradition that neither the Prophet nor his
 descendants can accept charity (sadaqah), but rather only the fifth
 (khums) of a Muslim's savings, in money or in property. They can also
 accept a gift (hadiyyah). See below, pp. 102.

@@ -275,7 +275,7 @@ Umayyads.[^45]
 
 To reason the superiority of a caliph over the Holy Prophet (S), he
 himself had affirmed, **أخليفة أحدكم في أهله أكرم أم رسوله في حاجته**
-[^46]: “In your sight, is the one as your substitute in the family dearer
+[^46] “In your sight, is the one as your substitute in the family dearer
 or the one sent to do something?”
 
 According to Jahiz, he had been annoyed when people paid homage to the

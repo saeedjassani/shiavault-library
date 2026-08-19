@@ -396,14 +396,14 @@ separated and isolated in the house and would remain in this way
 un-married until death.
 
 \_\_\_\_\_\_\_\_\_\_\_\_
-[^1]: Mentioned by the same biologist on BBC Television's Heart of the
+[^1] Mentioned by the same biologist on BBC Television's Heart of the
 Matter, Sunday 28/11/1999, 11.25 p.m. and on Night Waves, BBC Radio 3,
 26/11/1999, 9.30 p.m.
-[^2]: See Europe in Figures, Chapter 18 Fertility.
-[^3]: See United Nations Demographic Yearbook 1999, Chapter 9.
-[^4]: The Holy Qur'an: The Tribe of Israel (17): 31.
-[^5]: The Holy Qur'an: The Forgiver (40): 21.
-[^6]: The Holy Qur'an: The Heifer (2): 5.
+[^2] See Europe in Figures, Chapter 18 Fertility.
+[^3] See United Nations Demographic Yearbook 1999, Chapter 9.
+[^4] The Holy Qur'an: The Tribe of Israel (17): 31.
+[^5] The Holy Qur'an: The Forgiver (40): 21.
+[^6] The Holy Qur'an: The Heifer (2): 5.
 
 1 The Holy Qur'an: The Hajj Pilgrimage (22): 11.
 2 The son's of Marwan refers to the Umayyad Caliphate in the early days

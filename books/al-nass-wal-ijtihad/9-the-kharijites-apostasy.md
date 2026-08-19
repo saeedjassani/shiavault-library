@@ -18,10 +18,10 @@ is like a woman’s breast or like a dangling piece of flesh…they will
 appear at the time of a good group of people.”[^4] Abu Sa’eed said: “I
 witness that I have
 
-[^1]: vol.1 p.395 and Ahmad’s Musnad, vol.3 p.5.
-[^2]: Ahmad’s Musnad, vol.4 p.422, 424.
-[^3]: Would he have killed him when he had been ordered to!
-[^4]: The group of Imam Ali (s) and his followers.
+[^1] vol.1 p.395 and Ahmad’s Musnad, vol.3 p.5.
+[^2] Ahmad’s Musnad, vol.4 p.422, 424.
+[^3] Would he have killed him when he had been ordered to!
+[^4] The group of Imam Ali (s) and his followers.
 
 (155)
 
@@ -59,12 +59,12 @@ Allah said: “The Knower of the unseen! So He does not reveal His
 secrets to any except to him whom He chooses as a messenger; for surely
 He makes a guard to march before
 
-[^1]: Ahmad’s Musnad, vol.3 p.56.
-[^2]: The Prophet (s) had predicted that: “They will revolt against the
+[^1] Ahmad’s Musnad, vol.3 p.56.
+[^2] The Prophet (s) had predicted that: “They will revolt against the
 best group. (He means Imam Ali (s) and his followers).”
-[^3]: Their appearance was in Siffeen when the people were in two groups;
+[^3] Their appearance was in Siffeen when the people were in two groups;
 one with Imam Ali (s) and the other with Mo’awiya.
-[^4]: The Prophet (s) said: “They will be killed by the one, who is the
+[^4] The Prophet (s) said: “They will be killed by the one, who is the
 nearest to the truth” or “…the worthiest of the truth” in another
 tradition mentioned by Muslim in his Sahih.
 
@@ -152,10 +152,10 @@ were used to give to the messenger of Allah (s), I would fight them for
 that.” This saying did not deter Umar from seeing that such a fight
 would expose the Muslims to dangers and
 
-[^1]: Bani means “the family of” or “the tribe of”.
-[^2]: Dhuhr means noon.
-[^3]: Kanzol Ummal, vol.6 p.71.
-[^4]: As-Siddeeq by Ahmad Hasanayn Haykal, p.104.
+[^1] Bani means “the family of” or “the tribe of”.
+[^2] Dhuhr means noon.
+[^3] Kanzol Ummal, vol.6 p.71.
+[^4] As-Siddeeq by Ahmad Hasanayn Haykal, p.104.
 
 (158)
 
@@ -196,7 +196,7 @@ was to ask the Muslims for the zakat and he was to take it from them. If
 they refused to pay it obeyingly, he then had to force them to pay it
 unwillingly by using his power but without fighting or
 
-[^1]: We shall explain this matter later on inshallah.
+[^1] We shall explain this matter later on inshallah.
 
 (159)
 
@@ -261,7 +261,7 @@ of this day in this month in this country.”
 
 The Sihah and books of Hadith are full of such traditions, whose
 
-[^1]: This tradition has been mentioned by Ahmad in his Musnad, vol. p.4
+[^1] This tradition has been mentioned by Ahmad in his Musnad, vol. p.4
 and by ibn Hajar al-Asqalani in his book al-Issaba when talking about
 Sarhooq the hypocrite that he was brought to be killed. The Prophet (s)
 said: “Does he offer prayers?” It was said: “When people see him (it
@@ -400,7 +400,7 @@ was not a situation of obstinacy or being ready to fight.” But Professor
 al-Aqqad has mistaken when he has interpreted Malik’s verses of poetry
 into other than their real meaning.
 
-[^2]: As-Siddeeq Abu Bakr by Professor Haykal, p.143 and Abqariyatu Umar
+[^2] As-Siddeeq Abu Bakr by Professor Haykal, p.143 and Abqariyatu Umar
 by Professor al-Aqqad, p.267. You see here through this dialogue that
 the caliph has not ordered the army to attack Malik but Khalid claimed
 that the caliph had entrusted him especially with the order of the
@@ -524,8 +524,8 @@ has unsheathed against the unbelievers.”
 
 Professor Haykal adds: “But Umar found that Khalid’s doing was
 
-[^1]: p.147.
-[^2]: In doing so Abu Bakr behaved according to his own ijtihad and
+[^1] p.147.
+[^2] In doing so Abu Bakr behaved according to his own ijtihad and
 ignored the order of Allah when saying: (And We prescribed to them in it
 that life is for life…) Qur'an, 5:45.
 
@@ -568,9 +568,9 @@ deposing Khalid from the emirate of the army.”
 
 Professor Haykal says: “The historians agreed unanimously that
 
-[^1]: Woman’s prescribed waiting period after divorce or death of
+[^1] Woman’s prescribed waiting period after divorce or death of
 husband.
-[^2]: Legal absolution here means that a woman has to pass at least one
+[^2] Legal absolution here means that a woman has to pass at least one
 menstruation to be sure that she is not pregnant from the previous
 husband.
 
@@ -610,7 +610,7 @@ Sa’d or any other one and to put off the trial of Khalid until the
 circumstances would become suitable and then to be punished according to
 the legal verdicts.
 
-[^2]: This is an exaggeration too. His saying “due to a mistake in
+[^2] This is an exaggeration too. His saying “due to a mistake in
 interpretation or even without a mistake” is just a fabrication. Malik’s
 faith in Islam was doubted neither by Khalid nor by Abu Bakr and
 marrying Malik’s wife while she was under her iddah deserved stoning
@@ -641,12 +641,12 @@ does this shall find a requital of sin. The punishment shall be doubled
 to him on the day of resurrection, and he shall abide therein in
 abasement).
 
-[^1]: Khalid was really a killer and an adulterer. He intended to do
+[^1] Khalid was really a killer and an adulterer. He intended to do
 prohibited things and he did not miss them. In fact he got them
 intendedly even after being forbidden by the caliph.
-[^2]: He could be replaced by any other qualified man as we have
+[^2] He could be replaced by any other qualified man as we have
 mentioned above.
-[^3]: I do not think that Professor Haykal has believed in this saying
+[^3] I do not think that Professor Haykal has believed in this saying
 and the sayings before and after it nor has Abu Bakr! I do not think
 that Professor Haykal is indifferent to the honors when saying: “What
 was the problem in marrying a woman unlike the traditions of the Arabs
@@ -657,7 +657,7 @@ Allah, and most surely that Malik and his people were among the
 believers “who keep up prayer and pay the poor-rate and of the hereafter
 they are sure”.
 
-[^4]: Uttering such a word by one like Professor Haykal is something odd
+[^4] Uttering such a word by one like Professor Haykal is something odd
 and astonishing. As long as you live, you see many wonders! How wonder!
 Professor Haykal says that the legal verdicts do not allow criticizing
 great persons like Khalid whereas Allah has created the Paradise to
@@ -668,7 +668,7 @@ people are equal before Him. A noble man is low until the others’ right
 is taken from him and he is punished and a low man is honorable until
 his right is restored to him.
 
-[^5]: If carrying out the legal penalties causes dangers, then the
+[^5] If carrying out the legal penalties causes dangers, then the
 penalties should be put off until the dangers disappear. But the caliph
 (Abu Bakr) did not put off executing the penalties nor did he wait for
 the dangers to disappear. Rather he forgave all those sins and crimes
@@ -697,26 +697,26 @@ purify him and then he would come back to the Muslims as triumphant and
 so he would calm their fears and then his doing committed in al-Bitah
 would be unmentionable thing beside his victory.
 
-[^1]: This meaning has been repeated by Professor Haykal and here we say
+[^1] This meaning has been repeated by Professor Haykal and here we say
 again that Khalid could be replaced with another leader and even if
 there was no one like Khalid, the orders of Allah could never be
 annulled for any reason. Executing the penalties could be put off but it
 could never be annulled at all. Abu Bakr behaved as if there were no
 crimes and no criminals!
 
-[^2]: Yes, Khalid had to be deposed and to be killed immediately
+[^2] Yes, Khalid had to be deposed and to be killed immediately
 according to the verdict of Allah. A killer must be killed and an
 adulterer, who has a wife, must be stoned. If there is danger in
 executing the penalties, they will be put off until the danger
 disappears. The penalties can never be annulled for ever. All the
 Muslims have agreed on this matter unanimously.
 
-[^3]: But Allah would not be satisfied with that! The legal verdicts that
+[^3] But Allah would not be satisfied with that! The legal verdicts that
 have determined to kill the killer and to stone the adulterer are clear
 but Abu Bakr interpreted them as he liked and he preferred his own
 opinion to those divine verdicts.
 
-[^4]: Let us ponder on what Professor Haykal says as he quotes Abu Bakr’s
+[^4] Let us ponder on what Professor Haykal says as he quotes Abu Bakr’s
 thoughts. Do you think that Abu Bakr and Haykal have ignored that an
 adulterer, who has a wife, must be punished by the Muslim ruler? Have
 they ignored that the punishment must be stoning especially and not to
@@ -757,17 +757,17 @@ every one like Khalid would be free to commit any crime and sin as they
 liked without being punished and this would be the worst example of the
 Muslims who had to submit to the Book of
 
-[^1]: What purifies the sinners is returning to Allah by repenting and
+[^1] What purifies the sinners is returning to Allah by repenting and
 doing good deeds sincerely for the sake of Allah only. Allah says: (Save
 him who shall repent and believe and do right).
 
-[^2]: This young girl might have had a husband and Khalid committed
+[^2] This young girl might have had a husband and Khalid committed
 adultery with her as he had done with Layla; therefore Abu Bakr scolded
 him for that more than he had scolded him after his sin with Malik’s
 wife. If it had been not so, Abu Bakr would have not scolded him
 severely or in fact he would have not scolded him at all.
 
-[^3]: As-Siddeeq Abu Bakr, p.152.
+[^3] As-Siddeeq Abu Bakr, p.152.
 
 (172)
 
@@ -811,7 +811,7 @@ family from the public treasury of the Muslims and he had considered the
 captives of Malik’s family as free people and so he had set them free
 besides that he had not accepted from Khalid his capturing them.
 
-[^2]: Suppose that when Khalid committed adultery with Malik’s wife, he
+[^2] Suppose that when Khalid committed adultery with Malik’s wife, he
 was mistaken in his interpretation, then what was the excuse of Abu Bakr
 when he kept Khalid as the leader of his armies especially after meeting
 him and scolding him and what was the excuse of Abu Bakr when he kept
@@ -853,10 +853,10 @@ Khalid said: “By Allah, I will kill you.” Abdullah bin Umar and Abu
 Qatada were present then. They mediated to solve the problem but
 Khalid
 
-[^1]: Abqariyyatu Khalid, p.134.
-[^2]: A kind of herbage.
-[^3]: A famous spring whose water was very pure and palatable.
-[^4]: Al-Jafool: the one who is always ready to help and aid the others;
+[^1] Abqariyyatu Khalid, p.134.
+[^2] A kind of herbage.
+[^3] A famous spring whose water was very pure and palatable.
+[^4] Al-Jafool: the one who is always ready to help and aid the others;
 whenever he hears a call for help he hastens towards the caller.
 
 (174)
@@ -915,18 +915,18 @@ people.[^3] He recited:
 I am not afraid nor expecting what tomorrow will bring.[^4]
 If a right one will undertake the religion,
 We will obey[^5] and say: the religion is that of Muhammad.”
-[^1]: At-Tabari mentioned Malik in his Mu’jam and said: “He is Malik bin
+[^1] At-Tabari mentioned Malik in his Mu’jam and said: “He is Malik bin
 Hamza at-Tameemi. The Prophet (s) has entrusted him with the zakat of
 Bani Yarboo’ after he and his brother Mutammim had become Muslims…”
 
-[^2]: He stopped taking the zakat from his people after the Prophet (s)
+[^2] He stopped taking the zakat from his people after the Prophet (s)
 had went to the better world because he wanted to be certain that the
 one, who would be the caliph after the Prophet (s), would be the right
 one and then he would carry out his duty concerning the zakat. You will
 find that clearly in his poetry which we have mentioned herein with our
 comment.
 
-[^3]: He spread the zakat among the poor and needy people of his tribe
+[^3] He spread the zakat among the poor and needy people of his tribe
 because he had taken it from them as he had the guardianship over the
 zakat from the Prophet (s) when he was alive and so he thought that he
 had had the right to dispose of it according to its legal ways. Malik
@@ -935,11 +935,11 @@ it had been showed through the poem of his coeval poet as-Sa’di when
 saying: Who will be for the orphans and the widows after him? And who
 will be for the poor and needy people?
 
-[^4]: He meant by this verse that he had not committed any wrong or a sin
+[^4] He meant by this verse that he had not committed any wrong or a sin
 (when he took the zakat or when he spread it again) that he might fear
 on the Day of Resurrection.
 
-[^5]: This verse has been mentioned with the phrase “we will obey” by
+[^5] This verse has been mentioned with the phrase “we will obey” by
 al-Asqalani in his book al-Isaba, by ibn Sa’d and by Alamul Huda
 ash-Shareef ar-Radhiy in his book “ash-Shafi’iy” who had mentioned other
 verses when saying: “When Malik knew that the Prophet (s) had died, he
@@ -981,7 +981,7 @@ verse from someone of the historians who has taken sides against Malik
 to defend Khalid or Abu Bakr. Anyhow there is nothing in the verse
 showing apostasy or something like that.
 
-[^1]: The prophetic traditions that the umma has narrated from Abu Bakr
+[^1] The prophetic traditions that the umma has narrated from Abu Bakr
 are one hundred and forty-two which have been mentioned in a special
 chapter by as-Sayooti in his book Tareekh al-Khulafa’. This tradition is
 the eighty-ninth one among them. The narrators have confirmed its
@@ -1031,16 +1031,16 @@ said: “Let the present of you inform the absent…may Allah have mercy on
 one who has heard my saying and he perceived it and spread it as he has
 heard it.”
 
-[^1]: Mentioned by Imadudeen bin Katheer in Musnad as-Siddeeq from
+[^1] Mentioned by Imadudeen bin Katheer in Musnad as-Siddeeq from
 al-Hakim bin Abu Abdullah an-Naysaboori and mentioned by Abu Umayya
 al-Ahwas bin al-Mufadhdhal al-Ghilabi. It has been mentioned in Kanzol
 Ummal, vol.5 p.237.
 
-[^2]: Kanzol Ummal, vol.5 p.239, al-Mukhtasar by ibn Abdul Birr, p.33, it
+[^2] Kanzol Ummal, vol.5 p.239, al-Mukhtasar by ibn Abdul Birr, p.33, it
 also has been mentioned by ibn Sa’d from az-Zuhri as in Kanzol Ummal,
 vol.5 p.239.
 
-[^3]: Kanzol Ummal, vol.5 p.239, al-Mukhtasar by Ibn Abdul Birr, p.32.
+[^3] Kanzol Ummal, vol.5 p.239, al-Mukhtasar by Ibn Abdul Birr, p.32.
 
 (178)
 
@@ -1068,12 +1068,12 @@ collecting the prophetic traditions and everything of the Sunna were
 certain and recurrent. He might have prevented them from narrating any
 prophetic tradition at all and he might have detained the great
 
-[^1]: Al-Mukhtasar by ibn Abdul Birr, narrated by Ibn Khaythama as in
+[^1] Al-Mukhtasar by ibn Abdul Birr, narrated by Ibn Khaythama as in
 Kanzol Ummal, vol. 5 p.239.
-[^2]: Ibn Sa’d’s Tabaqat, vol. 5 p.140.
-[^3]: As-Salafi in his book at-Tuyooriyyat and as-Sayooti in his Tareekh
+[^2] Ibn Sa’d’s Tabaqat, vol. 5 p.140.
+[^3] As-Salafi in his book at-Tuyooriyyat and as-Sayooti in his Tareekh
 al-Khulafa’.
-[^4]: This tradition has been mentioned in the books of Hadith. Ibn Abul
+[^4] This tradition has been mentioned in the books of Hadith. Ibn Abul
 Hadeed has mentioned in Sharh Nahjol Balagha, vol. 3 p.122. The caliph
 Umar had to check those books to see which of them was useful and which
 was not and then he would tear useless ones. This was the right of the
@@ -1119,7 +1119,7 @@ had known the great use of that and they had known that it was very
 necessary but their greed and tendencies, which they had prepared and
 got ready to achieve, did not meet with many of those
 
-[^1]: Abdurrahman bin Ouff said: “By Allah, Umar, before he died, he had
+[^1] Abdurrahman bin Ouff said: “By Allah, Umar, before he died, he had
 sent for the Prophet’s companions who were in the different countries.
 He sent for Abdullah bin Huthayfa, Abud Darda’, Abu Tharr and Uqba bin
 Aamir and said to them: “What are these traditions of the Prophet (s)
@@ -1158,7 +1158,7 @@ so he referred to Abu Bakr saying: “O Abu Bakr, what do you say?” and he
 hoped that Abu Bakr would reject their request. Abu Bakr said: “O
 messenger of Allah, they are right.”
 
-[^1]: Al-Hakim’s Mustadrak, vol.3 p.124 and ath-Thahabi’s Talkhees. We
+[^1] Al-Hakim’s Mustadrak, vol.3 p.124 and ath-Thahabi’s Talkhees. We
 would like to attract the reader’s attention that this sacred
 accompaniment between Imam Ali (s) and the Qur'an has been continuous
 every moment until they will come to the Prophet (s) at the pond in

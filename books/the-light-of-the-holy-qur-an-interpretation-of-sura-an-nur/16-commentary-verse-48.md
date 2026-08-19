@@ -152,11 +152,11 @@ poor-rates (Zakat).. ."[^2]
 C) Expressing gratitude to Allah and parents; "...Be grateful to Me and
 to both your parents ... "[^3]
 
-[^1]: Sura Al-Baqarah, No. 2, verse 25
+[^1] Sura Al-Baqarah, No. 2, verse 25
 
-[^2]: Ibid, verse 43
+[^2] Ibid, verse 43
 
-[^3]: Sura LuqmAn, No. 31, verse 14
+[^3] Sura LuqmAn, No. 31, verse 14
 
 D) Obeying Allah and His Messenger;"... Obey Allah and obey the
 Messenger ... "[^1]
@@ -166,5 +166,5 @@ away) is used many times. In all cases it is used for sympathizing with
 the Prophet (p.b.u.h.) so that he would not get discouraged about his
 mission concerning people's inattention and heedlessness.
 
-[^1]: The verse under discussion
+[^1] The verse under discussion
 

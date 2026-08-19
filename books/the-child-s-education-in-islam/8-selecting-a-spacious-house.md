@@ -74,97 +74,97 @@ Rights[^39].
 If you treat her very well, her spiritual and psychological condition
 will be good and it will reflect on the embryo.
 
-[^1]: - Ilmi Nnafs Attarbawi: 45 - 57 -by DR. Fakhir Aqil (11th edition
+[^1] - Ilmi Nnafs Attarbawi: 45 - 57 -by DR. Fakhir Aqil (11th edition
 printed by Darul Ilmi lil malaayeen 1985 A.D.)
 
-[^2]: - Ilmi Nnafsil Aam vol- 1: 94 - by Dr. Anthon Hamsi - printed by
+[^2] - Ilmi Nnafsil Aam vol- 1: 94 - by Dr. Anthon Hamsi - printed by
 Mat'ba'ah Demeshq 1407 A.H.
 
-[^3]: - Al-kafi by Kulaini vol-5:332/ 2nd ch- selecting spouse, Printed
+[^3] - Al-kafi by Kulaini vol-5:332/ 2nd ch- selecting spouse, Printed
 by Daru Atta'aruf 3rd edition, 1401 A.H.
 
-[^4]: - Al-mahabba Al-baida'i vol- 3: 93 by Faidhi Kashaani, 3rd edition
+[^4] - Al-mahabba Al-baida'i vol- 3: 93 by Faidhi Kashaani, 3rd edition
 Jaamiyatil mudariseen Qom.
 
-[^5]: - Makaarimul Akh'laq: 304 -by Tabrasi - printed by Manshuraati
+[^5] - Makaarimul Akh'laq: 304 -by Tabrasi - printed by Manshuraati
 sh-sherifa Rridah 2nd edition 1410 A.H.
 
-[^6]: - Makaarimul Akh'laq: 305 -by Tabrasi - printed by Manshuraati
+[^6] - Makaarimul Akh'laq: 305 -by Tabrasi - printed by Manshuraati
 sh-sherifa Rridah 2nd edition 1410 A.H.
 
-[^7]: - Wasaa'ili sh-shiyyah vol- 20: 85 /1st ch-34 - by Huril Aamuli -
+[^7] - Wasaa'ili sh-shiyyah vol- 20: 85 /1st ch-34 - by Huril Aamuli -
 printed by Muasasah Aali bait Qom 1st edition 1412 A.H.
 
-[^8]: - Al-kafi vol-5:354/ 1st ch prohibition from marrying foolish
+[^8] - Al-kafi vol-5:354/ 1st ch prohibition from marrying foolish
 woman.
 
-[^9]: - Al-kafi vol-5:352/ ch - Virtues of marrying religious woman
+[^9] - Al-kafi vol-5:352/ ch - Virtues of marrying religious woman
 
-[^10]: - Al-kafi vol-5:333/ 3rd ch- Virtues of marrying a religious
+[^10] - Al-kafi vol-5:333/ 3rd ch- Virtues of marrying a religious
 person
 
-[^11]: - Al-kafi vol-5:347/ 1st ch- The competency.
+[^11] - Al-kafi vol-5:347/ 1st ch- The competency.
 
-[^12]: - Al-kafi vol-5: 348.
+[^12] - Al-kafi vol-5: 348.
 
-[^13]: - Al-kafi vol-5: 348/ 2nd &3rd ch- last part.
+[^13] - Al-kafi vol-5: 348/ 2nd &3rd ch- last part.
 
-[^14]: - Makarimul Akh'laq: 305.
+[^14] - Makarimul Akh'laq: 305.
 
-[^15]: - Wasaa'il sh-shiyyah vol-20:79, Al-kafi vol-5: 347/ 1st ch- 29.
+[^15] - Wasaa'il sh-shiyyah vol-20:79, Al-kafi vol-5: 347/ 1st ch- 29.
 
-[^16]: - Qur'an 30:21.
+[^16] - Qur'an 30:21.
 
-[^17]: - Makarimul Akh'laq:208.
+[^17] - Makarimul Akh'laq:208.
 
-[^18]: - Makarimul Akh'laq:209.
+[^18] - Makarimul Akh'laq:209.
 
-[^19]: - Makaarimul Akhlaq: 209.
+[^19] - Makaarimul Akhlaq: 209.
 
-[^20]: - Al-kafi vol-5:498/ 1st ch- The offensive time; Makarimul
+[^20] - Al-kafi vol-5:498/ 1st ch- The offensive time; Makarimul
 Akh'laq: 208- 209.
 
-[^21]: - Makarimul Akh'laq:209.
+[^21] - Makarimul Akh'laq:209.
 
-[^22]: - Makarimul Akh'laq:209.
+[^22] - Makarimul Akh'laq:209.
 
-[^23]: - Makarimul Akh'laq:210.
+[^23] - Makarimul Akh'laq:210.
 
-[^24]: - Makarimul Akh'laq:211.
+[^24] - Makarimul Akh'laq:211.
 
-[^25]: - Makarimul Akh'laq: 211.
+[^25] - Makarimul Akh'laq: 211.
 
-[^26]: - Makaarimul Akh'laq: 212.
+[^26] - Makaarimul Akh'laq: 212.
 
-[^27]: - Ilmi Nnafs Attarbawi: 46-47 - by DR. Fakhil Aaqil.
+[^27] - Ilmi Nnafs Attarbawi: 46-47 - by DR. Fakhil Aaqil.
 
-[^28]: - Al-tifl bainal wiratha WA ttarbawi vol-1:106 -by Mohammad Taqqi
+[^28] - Al-tifl bainal wiratha WA ttarbawi vol-1:106 -by Mohammad Taqqi
 Falsafi - printed by Daru Atta'aruf 1381 A.H. from the book "We and the
 children: 27".
 
-[^29]: - Mashaakilil Aaba'a fi tarbiyatil Abna'i:263 - by DR. Sapok - 3rd
+[^29] - Mashaakilil Aaba'a fi tarbiyatil Abna'i:263 - by DR. Sapok - 3rd
 edition 1980 A.D.
 
-[^30]: - Bihaaril Anwaar: vol-3:44by Majlisi - printed by Muassasatul
+[^30] - Bihaaril Anwaar: vol-3:44by Majlisi - printed by Muassasatul
 wafa'i 2nd edition 1403 A.H.
 
-[^31]: - Makarimul Akh'laq: 172.
+[^31] - Makarimul Akh'laq: 172.
 
-[^32]: - Makarimul Akh'laq : 194.
+[^32] - Makarimul Akh'laq : 194.
 
-[^33]: - Makarimul Akh'laq: 194.
+[^33] - Makarimul Akh'laq: 194.
 
-[^34]: - Makarimul Akh'laq: 196.
+[^34] - Makarimul Akh'laq: 196.
 
-[^35]: - Makaarimul Akh'laq: 125.
+[^35] - Makaarimul Akh'laq: 125.
 
-[^36]: - Makaarimul Akh'laq : 131.
+[^36] - Makaarimul Akh'laq : 131.
 
-[^37]: - Makaarimul Akh'laq: 131.
+[^37] - Makaarimul Akh'laq: 131.
 
-[^38]: - Tuhfal uquul: 188, by Haraani printed by Mat'ba'a Al-Haidariyya
+[^38] - Tuhfal uquul: 188, by Haraani printed by Mat'ba'a Al-Haidariyya
 Nnajaf 5th edition 1380 A.H.
 
-[^39]: - Irshaadil Quluub: 175; Makarimul Akh'laq: 245; Al-kafi
+[^39] - Irshaadil Quluub: 175; Makarimul Akh'laq: 245; Al-kafi
 vol-5:511; Almahajjatul Baida'i vol-3:19.
 

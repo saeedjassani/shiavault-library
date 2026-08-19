@@ -472,7 +472,7 @@ his family equal to the Qur'an? Why did he say that they would never
 separate? Why did he say that whoever kept to them (the Qur'an and the
 Prophet’s family) would be guided and that whoever turned away from them
 would deviate? What was all this great interest of the Prophet (S) for?
-[^31]: What was the task that needed all these fore procedures? What was
+[^31] What was the task that needed all these fore procedures? What was
 the purpose behind the situation on that famous day?
 
 What was the matter that Allah had ordered the Prophet (S) to announce

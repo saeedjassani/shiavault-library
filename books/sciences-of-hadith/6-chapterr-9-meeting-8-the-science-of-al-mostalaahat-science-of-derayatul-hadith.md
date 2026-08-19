@@ -541,7 +541,7 @@ The scholars of Hadith have set five conditions for a trustworthy
 narrator:
 
 1. Takleef: that means he/she must have reached the age of puberty
-[^108]: and be sane.
+[^108] and be sane.
 
 2. Islam: Thus, the narration of a non-Muslim is unacceptable.
 

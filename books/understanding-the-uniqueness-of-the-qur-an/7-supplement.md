@@ -581,31 +581,31 @@ and refer the reader to that book.
 
 **Notes:**
 
-[^1]: Bertrand Russell, The Scientific Outlook, (New York: W.W Norton &
+[^1] Bertrand Russell, The Scientific Outlook, (New York: W.W Norton &
 Co. 1931) 1st ed., Persian transl. By Hasan Mansur, Jahanbini ye 'Ilmi,
 pp82-8
-[^2]: Ibid.
-[^3]: Ibid.
-[^4]: Ibid., pp92-3
-[^5]: Ibid., 94
-[^6]: Ibid., p94
+[^2] Ibid.
+[^3] Ibid.
+[^4] Ibid., pp92-3
+[^5] Ibid., 94
+[^6] Ibid., p94
 
-[^7]: This sentence in the Persian translation of this passage from
+[^7] This sentence in the Persian translation of this passage from
 Russell cited by the author has been translated as follows: "Observation
 shows that creation out of nothing is impossible." This error in the
 translation affects the author's criticism relating to this part of
 Russell's statements. Editor
 
-[^8]: Ibid., pp96-7
-[^9]: Ibid., pp87-8
-[^10]: Richard H. Popkin & Avrum Stroll, Philosophy Made Simple, p106
-[^11]: Ibid., p103
-[^12]: Ibid., p102
-[^13]: Ibid., p103
-[^14]: Ibid., p104
-[^15]: Ibid., p105
-[^16]: Ibid.
-[^17]: Authors note: We have studied and discussed this topic in greater
+[^8] Ibid., pp96-7
+[^9] Ibid., pp87-8
+[^10] Richard H. Popkin & Avrum Stroll, Philosophy Made Simple, p106
+[^11] Ibid., p103
+[^12] Ibid., p102
+[^13] Ibid., p103
+[^14] Ibid., p104
+[^15] Ibid., p105
+[^16] Ibid.
+[^17] Authors note: We have studied and discussed this topic in greater
 detail in our studies on epistemology (shenakht), which we hope to
 publish in the future.
 

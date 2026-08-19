@@ -96,14 +96,14 @@ efforts in this way will become naught.
 
 As the Qur’a-n says, there were some people who behaved like this: “And
 they have taken gods besides Allah that they might be for them a glory.”
-[^1]: And there were some hypocrites who imagined themselves as some
+[^1] And there were some hypocrites who imagined themselves as some
 honoured ones and the believers as the meaner: “They say: ‘If we return
 to Medina, surely the more honourable (element) will expel there from
 the meaner’ …” [^2]
 
-[^1]: Sura Maryam, No. 19, verse 81
+[^1] Sura Maryam, No. 19, verse 81
 
-[^2]: Sura Al-Muna-fiqu-n, No. 63, verse 8
+[^2] Sura Al-Muna-fiqu-n, No. 63, verse 8
 
 There were some other persons, who considered the deceit of the
 Pharaohs as their own glory, or they sought honour from sin, injustice,
@@ -161,7 +161,7 @@ martyrdom. By this action, they proved that they would surrender neither
 to money nor to force. They remained mighty and, today, their honourable
 history contains a great deal of instructive lessons for us.
 
-[^1]: Sura Ash-Shu'ara-, No. 26, verse 44
+[^1] Sura Ash-Shu'ara-, No. 26, verse 44
 
 **Commentary : Verse 11**
 
@@ -195,7 +195,7 @@ Power of Allah and, on the other side, over His Knowledge.
 At first, it points to the creation of man in different stages, when it
 says:
 
-[^1]: Mi-za-n-ul-Hikmah, the word 'life-time'
+[^1] Mi-za-n-ul-Hikmah, the word 'life-time'
 
 “And Allah did create you from dust; then from a sperm- drop, then He
 made you pairs. …”

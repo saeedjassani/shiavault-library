@@ -31,7 +31,7 @@ matter was. The man told him the event. At this time Gabriel, the
 harbinger of Allah's revelation, came down and brought the above
 verse.[^1]
 
-[^1]: Wasa'il-ush-Shi'ah, Vol. 14, p. 139, Nur-uth-Thaqalyn, Al-mazan,
+[^1] Wasa'il-ush-Shi'ah, Vol. 14, p. 139, Nur-uth-Thaqalyn, Al-mazan,
 and Ruh ul-Ma'ani
 
 **Commentary:**
@@ -132,14 +132,14 @@ because) it causes disorder and temptation."[^4]
 4. We read in a tradition (recorded in Sahih Bokhari) that the Prophet
 (p.b.u.h.) said: "Do not sit on the way of people!"
 
-[^1]: 'Usul Kafi and the commentary by Ali ibn IbRuhim, Nur-uth-Thaqalyn
+[^1] 'Usul Kafi and the commentary by Ali ibn IbRuhim, Nur-uth-Thaqalyn
 Vol.3, p. 587
 
-[^2]: Bihar ul-'Anwar, Vol. 76, p. 336 and Man layahdaroh ul-Faqih
+[^2] Bihar ul-'Anwar, Vol. 76, p. 336 and Man layahdaroh ul-Faqih
 
-[^3]: Kanz ud-Daqa'iq, the Commentary
+[^3] Kanz ud-Daqa'iq, the Commentary
 
-[^4]: Ibid
+[^4] Ibid
 
 The audience said: "We have no choice." The Prophet (p.b.u.h.) said:
 "Then honour what is true and right!" They asked: "What is the right?"
@@ -171,15 +171,15 @@ and lustfully at a man who is not related within forbidden degrees).
 When she does so,Allah, Almighty and Glorious, rejects and nullifies all
 good deeds and worships she has done.When she lies with a person
 
-[^1]: Ruh ul-Bayan, the Commentary
+[^1] Ruh ul-Bayan, the Commentary
 
-[^2]: Ibid
+[^2] Ibid
 
-[^3]: Urar ul-Hikam
+[^3] Urar ul-Hikam
 
-[^4]: Bihar ul-'Anwar, Vol. 104, p. 38
+[^4] Bihar ul-'Anwar, Vol. 104, p. 38
 
-[^5]: Kanz ud-Daqa'iq
+[^5] Kanz ud-Daqa'iq
 
 other than her husband, Allah has right to burn her after He chastises
 her in the purgatory world."[^1]
@@ -197,11 +197,11 @@ defaces him in the world he will not leave this world. Allah also will
 divulge all his sins and faults in the Hereafter and disgrace him before
 other men (therein)."[^3]
 
-[^1]: Man Layahduruh ul-Faqih
+[^1] Man Layahduruh ul-Faqih
 
-[^2]: Ibid
+[^2] Ibid
 
-[^3]: E'aqaab Al-A'amal
+[^3] E'aqaab Al-A'amal
 
 **Commentary : Verse 31**
 
@@ -296,7 +296,7 @@ their head (scarf).
 The Arabic word /juyub/ is the plural form of the word /jayb/, that
 means the collar of a shirt which is rendered to the
 
-[^1]: Ali-ibn-IbRuhim, the Commentary
+[^1] Ali-ibn-IbRuhim, the Commentary
 
 throat and it is sometimes applied to the upper part of the breast,
 because it is located near it.
@@ -380,7 +380,7 @@ promiscuity as part of women's liberty,speaking about veil is not
 welcomed by them and sometimes it is considered as legends of the past
 times!
 
-[^1]: Nur-uth-Thaqallyn, the commentary
+[^1] Nur-uth-Thaqallyn, the commentary
 
 But umpteen corruptions and increasing problems and difficulties that
 are caused by these unrestrained freedoms cause gradually some people to
@@ -518,7 +518,7 @@ at all. These men are usually hired to do simple jobs and work as
 servants. The application of the Arabic word /'at-tabi'an/ also
 strengthens this meaning.[^1]
 
-[^1]: Wasa'il-ush-Shi'ah, chapter 124, Tradition 8
+[^1] Wasa'il-ush-Shi'ah, chapter 124, Tradition 8
 
 Since this quality, that is the quality of the lack of sexual desire,
 is correct about a group of old men, it is possible that this verse can

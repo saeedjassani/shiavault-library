@@ -146,7 +146,7 @@ as the servant’s good assumption of his creator is to be the amount of
 his fear of Him, best person in his good assumption of Allah is him
 whose fear from Allah is greater” [^75]
 
-[^76]: It worthies mentioning that people in their natures and behavior
+[^76] It worthies mentioning that people in their natures and behavior
 differ very much, so it is wise to take into consideration the best way
 in guiding and ushering them using hope and frightening. For some of
 them can be reformed by hope they are the regretted disobedient who have
@@ -178,168 +178,168 @@ a sinful person to despair, so many a sin committer had a good end and
 so many people were practicing a good deed at the end of their age,
 would go to Hell may Allah save us from it”.[^79]
 
-[^1]: Alseerah Alnabaweiah, Abbilfeda’a: 2:420 Dar alreaed Alarabi
+[^1] Alseerah Alnabaweiah, Abbilfeda’a: 2:420 Dar alreaed Alarabi
 edition: 3.
 
-[^2]: Albakarah: 2: 216.
+[^2] Albakarah: 2: 216.
 
-[^3]: Nahjilbalaaghah, Subhi Al-Salih: 378-Kitaab 22.
+[^3] Nahjilbalaaghah, Subhi Al-Salih: 378-Kitaab 22.
 
-[^4]: Fusseilat: 41: 49.
+[^4] Fusseilat: 41: 49.
 
-[^5]: Hood: 11: 9.
+[^5] Hood: 11: 9.
 
-[^6]: Yousif: 12- 87.
+[^6] Yousif: 12- 87.
 
-[^7]: Nahj Al-Balagha, Subhi Al-Saleh, p. 349.
+[^7] Nahj Al-Balagha, Subhi Al-Saleh, p. 349.
 
-[^8]: Nahjil balaaghah, Subhel Saleh: 534.
+[^8] Nahjil balaaghah, Subhel Saleh: 534.
 
-[^9]: Nehjil balaghah: Subhi Alsaalih: Sermon 103, p. 148
+[^9] Nehjil balaghah: Subhi Alsaalih: Sermon 103, p. 148
 
-[^10]: Nehjil balagha: 310.
+[^10] Nehjil balagha: 310.
 
-[^11]: Sinan Al-Turmuzi 4: 508/ 2377, CH. 44-Daar alfikr edition 1408.
+[^11] Sinan Al-Turmuzi 4: 508/ 2377, CH. 44-Daar alfikr edition 1408.
 A.H.
 
-[^12]: Nehjelbalagha: Subhi Alsaalih: 167/ sermon 113.
+[^12] Nehjelbalagha: Subhi Alsaalih: 167/ sermon 113.
 
-[^13]: Ershaadel quloob: Aldailemi: 1- 30, Alrezi publications, Qom.
+[^13] Ershaadel quloob: Aldailemi: 1- 30, Alrezi publications, Qom.
 
-[^14]: Tenbeehilkhawaatir: Ameer Warram: 1: 79, baab Aleitaab.
+[^14] Tenbeehilkhawaatir: Ameer Warram: 1: 79, baab Aleitaab.
 
-[^15]: Aalaam Aldeen: Aldailemi: 278.
+[^15] Aalaam Aldeen: Aldailemi: 278.
 
-[^16]: Behaarelanwaar 82: 122- from Mussakin Alfuaad
+[^16] Behaarelanwaar 82: 122- from Mussakin Alfuaad
 
-[^17]: Behaarel Anwaar 82: 123 from Meshkaatel anwaar: 280.
+[^17] Behaarel Anwaar 82: 123 from Meshkaatel anwaar: 280.
 
-[^18]: Rawzatel Waeezeen; Fattaal Alneishabouri: 489
+[^18] Rawzatel Waeezeen; Fattaal Alneishabouri: 489
 
-[^19]: Alkaafi: Alkulaini 3: 262/ 42: baab alnawaadir.
+[^19] Alkaafi: Alkulaini 3: 262/ 42: baab alnawaadir.
 
-[^20]: Aal Aumraan 3: 185.
+[^20] Aal Aumraan 3: 185.
 
-[^21]: Alnesa’a 4: 78.
+[^21] Alnesa’a 4: 78.
 
-[^22]: Alahzaab 33: 16.
+[^22] Alahzaab 33: 16.
 
-[^23]: Aalaumraan: 3:145.
+[^23] Aalaumraan: 3:145.
 
-[^24]: Aljuma’aa 62: 6-7.
+[^24] Aljuma’aa 62: 6-7.
 
-[^25]: Nehjilbalagha, Subhi Alsaalih 81/ sermon 38.
+[^25] Nehjilbalagha, Subhi Alsaalih 81/ sermon 38.
 
-[^26]: Tenbeehil Khawaatir, Ameer Warraam 1-2/ 268/ baab Zekrelmawt.
+[^26] Tenbeehil Khawaatir, Ameer Warraam 1-2/ 268/ baab Zekrelmawt.
 
-[^27]: Ma’ani Alakhbaar: Alsadouq: 288, Jama’at Almuderriseen, edition of
+[^27] Ma’ani Alakhbaar: Alsadouq: 288, Jama’at Almuderriseen, edition of
 1379 h.
 
-[^28]: Nehjilbalagha, short hekam/ 175.
+[^28] Nehjilbalagha, short hekam/ 175.
 
-[^29]: Ma’ani Alakhbaar, Al-Sadouq: 290.
+[^29] Ma’ani Alakhbaar, Al-Sadouq: 290.
 
-[^30]: Auyoun Akhbaar Alreza, Ebin babawaih 2: 248 Ala’alemi foundation
+[^30] Auyoun Akhbaar Alreza, Ebin babawaih 2: 248 Ala’alemi foundation
 edition: 1.
 
-[^31]: Rawzatel Waaeizeen, Alfattal Alneeisaabouri 486, in remembering
+[^31] Rawzatel Waaeizeen, Alfattal Alneeisaabouri 486, in remembering
 death.
 
-[^32]: Tenbeehilkhawaatir 1: 269.
+[^32] Tenbeehilkhawaatir 1: 269.
 
-[^33]: Alkhesaal Alsadouq 2: 616, the hadeth of 400.
+[^33] Alkhesaal Alsadouq 2: 616, the hadeth of 400.
 
-[^34]: Nehjilbalagha 400: letter 31.
+[^34] Nehjilbalagha 400: letter 31.
 
-[^35]: Rawzatelwaeizeen: 490.
+[^35] Rawzatelwaeizeen: 490.
 
-[^36]: Alzaareiat 51: 58.
+[^36] Alzaareiat 51: 58.
 
-[^37]: Alesra’a: 17: 31.
+[^37] Alesra’a: 17: 31.
 
-[^38]: Rawzatelwaaeizeen, Alfattaal Alneeshaabouri 2: 454.
+[^38] Rawzatelwaaeizeen, Alfattaal Alneeshaabouri 2: 454.
 
-[^39]: Nehjilbalagha, subhi Alssaalih 124/ sermon 91.
+[^39] Nehjilbalagha, subhi Alssaalih 124/ sermon 91.
 
-[^40]: Alershaad: Sheikh Almufeed: 160, Beseeretilibrary, Qom.
+[^40] Alershaad: Sheikh Almufeed: 160, Beseeretilibrary, Qom.
 
-[^41]: Alkaafi 5: 74/ 2
+[^41] Alkaafi 5: 74/ 2
 
-[^42]: sherh Alnahag 1:7.
+[^42] sherh Alnahag 1:7.
 
-[^43]: Akhlaaq Ahlilbait, Sayyed M.Alsadre: 143 Darel Ketaab Aleslaami.
+[^43] Akhlaaq Ahlilbait, Sayyed M.Alsadre: 143 Darel Ketaab Aleslaami.
 
-[^44]: Nehjil balagha 551, wisdom 426.
+[^44] Nehjil balagha 551, wisdom 426.
 
-[^45]: Thawaabila’amaal waekaabila’amaal, sheikh Alsadouk, 228
+[^45] Thawaabila’amaal waekaabila’amaal, sheikh Alsadouk, 228
 
-[^46]: the previous source, 230.
+[^46] the previous source, 230.
 
-[^47]: Ketaab Altawheed: sheikh alsadouq: 400: Alneshaleslaami-Qom.
+[^47] Ketaab Altawheed: sheikh alsadouq: 400: Alneshaleslaami-Qom.
 
-[^48]: The above sources: Sheikh alsadouq: 229, baab thawaab il maradh
+[^48] The above sources: Sheikh alsadouq: 229, baab thawaab il maradh
 (disease).
 
-[^49]: Albedaayah walnahaayah: Ebnilatheer Aldimeskki 1: 254/ 1 Dar
+[^49] Albedaayah walnahaayah: Ebnilatheer Aldimeskki 1: 254/ 1 Dar
 Ehya’a ilturaath 1408 edition 1.
 
-[^50]: Nehjilbalagha, Subhi Alsaalih: 526.
+[^50] Nehjilbalagha, Subhi Alsaalih: 526.
 
-[^51]: Alanaam 6: 15.
+[^51] Alanaam 6: 15.
 
-[^52]: Alnaazeaat 79: 40-41.
+[^52] Alnaazeaat 79: 40-41.
 
-[^53]: Kenzelaummaal: 3: 148/ 5909.
+[^53] Kenzelaummaal: 3: 148/ 5909.
 
-[^54]: Tuhafil aukoul: Ebin Shu’aba Alharraani: 28 Al’alami edit: 5th.
+[^54] Tuhafil aukoul: Ebin Shu’aba Alharraani: 28 Al’alami edit: 5th.
 
-[^55]: Ausoulil Kaafi 2: 68/4 ch. Fear and hop.
+[^55] Ausoulil Kaafi 2: 68/4 ch. Fear and hop.
 
-[^56]: Alensaan 76: 8-10.
+[^56] Alensaan 76: 8-10.
 
-[^57]: Tuhaf alaukool: 208.
+[^57] Tuhaf alaukool: 208.
 
-[^58]: Alhashr 59: 19.
+[^58] Alhashr 59: 19.
 
-[^59]: Yousif 12: 53.
+[^59] Yousif 12: 53.
 
-[^60]: Alnessa’a: 4:128.
+[^60] Alnessa’a: 4:128.
 
-[^61]: Alhashr 59: 9.
+[^61] Alhashr 59: 9.
 
-[^62]: Nehjil balagha, Subhi Alsaalih: 427, letter 53.
+[^62] Nehjil balagha, Subhi Alsaalih: 427, letter 53.
 
-[^63]: Nehjilbalagha 169/ sermon 114.
+[^63] Nehjilbalagha 169/ sermon 114.
 
-[^64]: Mizaan Alhikmah 1: 16, from Meshkaat el anwaar.
+[^64] Mizaan Alhikmah 1: 16, from Meshkaat el anwaar.
 
-[^65]: Nehjilbalaagha: 231.
+[^65] Nehjilbalaagha: 231.
 
-[^66]: Mizaanil Hikmah: 5: 33, from Noorel Thaqalain 5: 291.
+[^66] Mizaanil Hikmah: 5: 33, from Noorel Thaqalain 5: 291.
 
-[^67]: Mizaanil Hikma 10: 134 from Ghurarel Hikam.
+[^67] Mizaanil Hikma 10: 134 from Ghurarel Hikam.
 
-[^68]: The morals of Ahlilbait sayed M. Alsadre : 351, Alwaafi 3: 62,
+[^68] The morals of Ahlilbait sayed M. Alsadre : 351, Alwaafi 3: 62,
 from Alkaafi.
 
-[^69]: Almehajjah Albaiza’a: Almuhaquaq alkaashaani 8: 68, Ala’alami
+[^69] Almehajjah Albaiza’a: Almuhaquaq alkaashaani 8: 68, Ala’alami
 foundation edit: 2.
 
-[^70]: Nehjilbalagha: Subhi Alsaalih: 419.
+[^70] Nehjilbalagha: Subhi Alsaalih: 419.
 
-[^71]: Wassaaeil Alsheea’a 16: 508, Dar Ehiaaelturaath elarabi.
+[^71] Wassaaeil Alsheea’a 16: 508, Dar Ehiaaelturaath elarabi.
 
-[^72]: Wassaaeil Alsheea’a 16: 509.
+[^72] Wassaaeil Alsheea’a 16: 509.
 
-[^73]: Alzumer: 39: 9.
+[^73] Alzumer: 39: 9.
 
-[^74]: Kenzel Aumaal 3: 144/ 5894.
+[^74] Kenzel Aumaal 3: 144/ 5894.
 
-[^75]: Nehjil Balagha: 384.
+[^75] Nehjil Balagha: 384.
 
-[^77]: Akhlaaq Ahlilbait: Sayed M.Alsadre: 129, Dareketaabil Islaami.
+[^77] Akhlaaq Ahlilbait: Sayed M.Alsadre: 129, Dareketaabil Islaami.
 
-[^78]: Rawzatel Waaeizeen: 285, merits of Abbizar.
+[^78] Rawzatel Waaeizeen: 285, merits of Abbizar.
 
-[^79]: Tuhafil Aukoul: 66, Ala’alami foundation edit: 5.
+[^79] Tuhafil Aukoul: 66, Ala’alami foundation edit: 5.
 

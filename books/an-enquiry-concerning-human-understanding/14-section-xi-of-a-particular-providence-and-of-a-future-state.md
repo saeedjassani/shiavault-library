@@ -614,11 +614,11 @@ attention. There is, I own, some dif- ficulty, how we can ever return
 from the cause to the effect, and, reasoning from our ideas of the
 former, infer any alteration on the latter, or any, addition to it.
 
-[^1]: Luciani, [3 greek words].
-[^2]: Luciani, [greek word].
-[^3]: Luciani and Dio.
+[^1] Luciani, [3 greek words].
+[^2] Luciani, [greek word].
+[^3] Luciani and Dio.
 
-[^4]: In general, it may, I think, Be established as a maxim, that where
+[^4] In general, it may, I think, Be established as a maxim, that where
 any cause is known only by its particular effects, it must be impossible
 to infer any new effects from that cause; since the qualities, which are
 requisite to produce these new effects along with the former, must

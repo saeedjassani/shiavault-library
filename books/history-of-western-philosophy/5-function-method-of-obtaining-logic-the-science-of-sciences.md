@@ -58,7 +58,7 @@ to realize an end or purpose.
 
 **2.3.2.5 Four causes**
 
-[^1] Material [constituents], [^2] formal [structure], [^3] efficient or
+[^1]: Material [constituents], [^2] formal [structure], [^3] efficient or
 moving [the producer', [^4] the final cause [end or purpose]
 
 Everything is explicable, at the same time, by all four causes. In

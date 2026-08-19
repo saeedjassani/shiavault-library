@@ -41,8 +41,8 @@ For the hawk of my information and the eagle of my pen, in spite of my
 wide knowledge and information, are not able to ascend to that throne
 mutinous to intellects, of
 
-[^1]: Qur’an, 55, 19.
-[^2]: Qur'an, 55, 22.
+[^1] Qur’an, 55, 19.
+[^2] Qur'an, 55, 22.
 
 which thoughts, though exalted and excessive, nothing obtain except
 astonishment and perplexity.
@@ -235,7 +235,7 @@ have refuted a large group of them in our studies, and showed the
 weaknesses in them whether in the chain of authorities or other than
 it.
 
-[^1]: In his book Ali wa Banuh (Ali and his Sons), Dr. Taha Husayn has
+[^1] In his book Ali wa Banuh (Ali and his Sons), Dr. Taha Husayn has
 depended on the fabricated reports. We will mention and criticize them
 in the book.
 
@@ -281,8 +281,8 @@ Prophet (a.s) for the outstanding qualities and talents Allah had given
 to them. It has been narrated that they said: “Surely the Prophethood
 and the caliphate should not meet together in
 
-[^1]: Qur’an, 49, 6.
-[^2]: In his book Abu Hurayra, Imam Sharaf al-Deen has mentioned Abu
+[^1] Qur’an, 49, 6.
+[^2] In his book Abu Hurayra, Imam Sharaf al-Deen has mentioned Abu
 Hurayra’s fables. In his book Sheikh al-Mudira, the great ‘Allama,
 Sheikh Mahmud Abu Riyah, has also mention Abu Hurayra’s fabrications and
 lies.
@@ -368,9 +368,9 @@ they say. They wronged the Prophet’s pure family, who are equal to the
 Qur’an, whom the Muslims should take care of and should honor. However,
 to Allah we belong and to Him is our return!
 
-[^1]: Ibn al-Athir, Tarikh, vol. 3, p. 24. Ibn Abi al-Hadeed, Sharh Nahjj
+[^1] Ibn al-Athir, Tarikh, vol. 3, p. 24. Ibn Abi al-Hadeed, Sharh Nahjj
 al-Balagha, vol. 3, p. 107.
-[^2]: Ibn Abi al-Hadeed, Sharh Nahjj al-Balagha, vol. 1, p.361.
+[^2] Ibn Abi al-Hadeed, Sharh Nahjj al-Balagha, vol. 1, p.361.
 
 We have pondered on the events that took place during the time of Imam
 Abu Muhammad al-Hasan (a.s). History, as we have already mentioned, has

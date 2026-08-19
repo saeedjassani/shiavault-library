@@ -215,7 +215,7 @@ shall be no fear, nor shall they grieve.”*** **[2:111-112]**
 
 “***Those who believe*** ***(in Islam)*** ***and those who follow the
 Jewish*** ***(Scriptures)*** ***and the Christians and the Sabians***
-[^4]: ***, any who believe in Allah and the Last Day, and work
+[^4] ***, any who believe in Allah and the Last Day, and work
 righteousness, shall have their reward with their Lord; on them shall be
 no fear, nor shall they grieve.”*** [^5] [2:62]
 

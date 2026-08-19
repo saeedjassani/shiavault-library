@@ -22,13 +22,13 @@ them, however, differ from this one.
 The “saints” who wrote the Gospels named after them are: John, Mark,
 Luke, and Matthew. Let us see what Christians tell us about them:[^2]
 
-[^1]: It is a tax on agricultural produce, goods, or personal items set
+[^1] It is a tax on agricultural produce, goods, or personal items set
 aside as an offering to God. Very few Christians nowadays pay it. Here
 in the U.S., taxes collected by federal, state, social security,
 insurance, etc. take out about 30% of one's hard earned income, leaving
 him in need for charity himself!
 
-[^2]: The following text material is excerpted from two sources: The
+[^2] The following text material is excerpted from two sources: The
 Columbia Viking Desk Encyclopedia (The Viking Press, New York, 1968),
 and the Encyclopedia Britannica III.
 
@@ -60,7 +60,7 @@ was employed as a tax collector by Herod Antipas, tetrach of Galilee. He
 is described as one of the twelve disciples of Jesus Christ. He is
 author of the first synoptic Gospel which, like the rest, gives an
 
-[^1]: The city of Antioch is situated on the banks of the river al-Asi
+[^1] The city of Antioch is situated on the banks of the river al-Asi
 (Orontes). It was founded about 300 B.C. by Celeucus I (Nicator) who
 died in 280 B.C. Celeucus I was a general of Alexander the Great.
 Antioch is the city where the followers of Jesus Christ were called
@@ -75,7 +75,7 @@ Syria by Western powers in 1920 (1339 A.H.) but restored to Turkey in
 identified as a Syrian town and sometimes as a Turkish one! What a busy
 little town!
 
-[^2]: Encyclopedia Britannica II, Vol. 11, p. 178.
+[^2] Encyclopedia Britannica II, Vol. 11, p. 178.
 
 (67)
 

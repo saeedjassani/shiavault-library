@@ -36,11 +36,11 @@ doubt about that. He regarded him as a fearful person. He mentioned him
 frequently during his privacy. He remembered him very much during his
 illness of which
 
-[^1]: Al-Kamil, vol. 3, p. 195.
-[^2]: We have fully mentioned his speech along with his biography in the
+[^1] Al-Kamil, vol. 3, p. 195.
+[^2] We have fully mentioned his speech along with his biography in the
 chapters of the book.
-[^3]: Al-Isaba, vol. 1, p. 314.
-[^4]: His full name is Mo’awiya bin Khudayj bin Jaffna al-Sukuni. It was
+[^3] Al-Isaba, vol. 1, p. 314.
+[^4] His full name is Mo’awiya bin Khudayj bin Jaffna al-Sukuni. It was
 said that (his surname) was al-Kindi. It was he who killed the
 righteous, good servant (of Allah), Muhammed bin Abi Bakr, according to
 the command of (‘Amr) bin al-‘Aas. He invaded Africa three times. This
@@ -90,8 +90,8 @@ you?
 -(He said that) you would cut off my hands and my feet, and that you
 would crucify me.
 
-[^1]: Al-Tabari, Tarikh, vol. 6, p. 156.
-[^2]: Al-Ta‘liqat ‘alaa Minhajj al-Maqal, p. 140.
+[^1] Al-Tabari, Tarikh, vol. 6, p. 156.
+[^2] Al-Ta‘liqat ‘alaa Minhajj al-Maqal, p. 140.
 
 -By Allah, I will confute his statement. Set him free.
 
@@ -134,8 +134,8 @@ obedience and loyalty to Imam Ali (a.s), saying: “O Commander of the
 faithful, by Allah, I [^1] Safinat al-Bihar, vol. 1, p. 522. Al-Hafiz
 al-Dhahabi has said: “Ziyad killed Rasheed al-Hijri, cut out his tongue,
 and crucified him because he was a Shi‘ite (a follower of Imam Ali).”
-[^2]: Al-Isaba, vol. 2, p. 526.
-[^3]: Safinat al-Bihar, vol. 2, p. 360.
+[^2] Al-Isaba, vol. 2, p. 526.
+[^3] Safinat al-Bihar, vol. 2, p. 360.
 
 have not loved you for the life in this world nor for a position I have
 in it. Rather I have loved you because of five qualities: You are the
@@ -183,7 +183,7 @@ recognized him and immediately sent Mu’awiya a letter in which he
 informed him of the affair. Mu’awiya answered Abdurrahman, saying: “He
 (Amr) claimed that he stabbed ‘Uthman bin ‘Affan nine times with the
 spearheads he had. We do not
-[^1]: Al-Ta‘liqat, p. 246.
+[^1] Al-Ta‘liqat, p. 246.
 
 want to aggress against him. Therefore, stab him nine times just as he
 stabbed ‘Uthman bin ‘Affan.”
@@ -227,8 +227,8 @@ killing than her!”
 She said to him: “Fie on you! Woe unto you! There is (something) like
 the body of a frog between your beard! Then you are asking him to kill
 me as he
-[^1]: Al-Tabari, Tarikh.
-[^2]: Al-Isti‘ab, vol. 2, p. 517.
+[^1] Al-Tabari, Tarikh.
+[^2] Al-Isti‘ab, vol. 2, p. 517.
 
 killed my husband yesterday! You desire nothing but that you should be
 a tyrant in the land, and you do not desire to be of those who act
@@ -270,8 +270,8 @@ Imam al-Husayn lauded Amr’s excellence. He mentioned that Amr was the
 companion of Allah’s Apostle, may Allah bless him and his family, and
 that prayer exhausted his body. He also mentioned that Mu’awiya
 concluded as to
-[^1]: A‘lam al-Nisa’, vol. 1, p. 4.
-[^2]: Al-Ta‘liqat, p. 246.
+[^1] A‘lam al-Nisa’, vol. 1, p. 4.
+[^2] Al-Ta‘liqat, p. 246.
 his affair a covenant that included giving security to him and
 refraining from aggressing him. However Mu’awiya violated his covenant
 and did not fulfill it.
@@ -305,8 +305,8 @@ meant when he said: “The best kind of jihad is a word of truth in the
 presence of a tyrannical sultan. The best of martyrs is Hamza bin ‘Abd
 al-Muttalib, and a man who talks in the presence of a tyrannical sultan,
 and he ordered him to be killed.”[^2]
-[^1]: Al-Kamil, vol. 3, p. 183.
-[^2]: Al-Nasaa’ih al-Kafiya, p. 60.
+[^1] Al-Kamil, vol. 3, p. 183.
+[^2] Al-Nasaa’ih al-Kafiya, p. 60.
 
 Juwayriyya Bin Mus’hir al-Abdi
 
@@ -342,18 +342,18 @@ your father will be of al-Khamees Police. Indeed Allah’s Apostle, may
 Allah bless him and his family, told me that your name and that of your
 father would be among al-Khamees Police.”[^5]
 
-[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha. A narration similar to
+[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha. A narration similar to
 this narration has been mentioned in al-Ta‘liqat, p. 366.
-[^2]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha.
-[^3]: Al-Ta‘liqat, p. 366.
-[^4]: Al-Khamees was a name of the army. The Army was named so because it
+[^2] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha.
+[^3] Al-Ta‘liqat, p. 366.
+[^4] Al-Khamees was a name of the army. The Army was named so because it
 was divided into five parts that were the vanguard, the right wing, the
 left wing, the center, and the rearguards. It was said that it was named
 so because a one fifth was taken of the booty taken by it. This has been
 mentioned in Ibn al-Athir’s al-Nihaya. Some sources have mentioned that
 the police of al-Khamees were so trustworthy and just that the witness
 of each one of them was equal to a witness of two men
-[^5]: Al-Ta‘liqat, p. 214.
+[^5] Al-Ta‘liqat, p. 214.
 
 When Imam Ali (a.s) (a.s) was martyred, Abdullah showed exhausting
 sadness at his death. He left Kufa and built a cell. He and his

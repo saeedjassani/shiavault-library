@@ -12,7 +12,7 @@ Garden, came to the world of existence in the month of Ramadan when the
 Qur’an was revealed. It was in the second or the third year of hijra.[^1]
 The appearance of
 
-[^1]: Al-Isaba, vol. 1, p. 328. Al-Isti‘ab, vol. 1, p. 368. Al-Sayuti,
+[^1] Al-Isaba, vol. 1, p. 328. Al-Isti‘ab, vol. 1, p. 368. Al-Sayuti,
 Tarikh al-Khulafa’, p. 73. Al-Bustani, Da’irat al-Ma‘rif, vol. 7, p. 38.
 In these books it has been mentioned that he was born in the middle of
 the month of Ramadan, in the third year A. H. In the book Shadharat
@@ -97,13 +97,13 @@ in six months and remained alive except ‘Isa, son of Maryam, peace be on
 him, just as the late al-Amini, may Allah have mercy on him, has
 mentioned in his book A‘yan al-Shi‘a, vol. 4, p. 3.
 
-[^1]: Al-Bustani, Da’irat al-Ma‘arif, vol. 7, p. 38.
-[^2]: Ahmed, Musnad, vol. 6, p. 391. Al-Turmidhi, Saheeh, vol. 1, p. 286.
+[^1] Al-Bustani, Da’irat al-Ma‘arif, vol. 7, p. 38.
+[^2] Ahmed, Musnad, vol. 6, p. 391. Al-Turmidhi, Saheeh, vol. 1, p. 286.
 Abu Dawud, Saheeh, vol. 33, p. 214. It was said that he did not do that
 by himself; rather he ordered Asma’, daughter of Umays and Umm Salama to
 perform that an hour after the birth. This has been mentioned by
 al-Shiblanji’s Noor al-Absar, p. 107.
-[^3]: Al-Jawahir, a Chapter on Marriage.
+[^3] Al-Jawahir, a Chapter on Marriage.
 
 in it. The first words to knock on his ear were those of his
 grandfather, the Prophet (a.s), the cause of beings and master of
@@ -127,7 +127,7 @@ Some minutes later, the Revelation called out the Prophet (a.s) and
 carried to him the name from Allah, the Exalted. Gabriel said to him:
 “Name him Hasan!”[^1]
 
-[^1]: In the book Tarikh al-Khamees, vol. 1, p. 470, it has been
+[^1] In the book Tarikh al-Khamees, vol. 1, p. 470, it has been
 mentioned: “The one entrusted with the revelation, Gabriel, came down to
 the Prophet (a.s.) and said to him: ‘I am reciting to you your Lord’s
 words. He says to you: Ali is in the same position with respect to you
@@ -192,7 +192,7 @@ them the names of al-Hasan and al-Husayn.’” This narration is also weak,
 for Allah’s Apostle (a.s.) gave these names to his two grandsons after
 their birth. No one has mentioned what Ahmed has mentioned.
 
-[^1]: It is among the most recommended acts. Some jurists have thought
+[^1] It is among the most recommended acts. Some jurists have thought
 that it is obligatory. When the Prophet (a.s.) slaughtered the ram, he
 said: “In the name of Allah, this is the aqiqa of al-Hasan. O Allah, its
 flesh (i.e., the flesh of the sacrifice of the aqiqa) for his flesh, its
@@ -200,7 +200,7 @@ blood for his blood, its bone for his bone, its hair for his hair, its
 skin for his skin. O Allah, let it be a protection of the family of
 Muhammed (a.s.).”
 
-[^2]: Tarikh al-Khamees, vol. 1, p. 470. Mushkil al-Aathaar, vol. 1, p.
+[^2] Tarikh al-Khamees, vol. 1, p. 470. Mushkil al-Aathaar, vol. 1, p.
 456. Al-Hulya, vol. 1, p. 116. Al-Turmidhi, Saheeh, vol. 1, p. 286.
 A‘yan al-Shi‘a, vol. 4, p. 108. In al-Shiblanji’s Noor al-Absar,
 al-Tahawi’s Mushkil al-Aathaar, vol. 1, p. 456, and al-Hakim’s
@@ -212,11 +212,11 @@ Sawar, the reporter of the narration, is weak in reporting traditions.
 Secondly, the leading jurists have mentioned that only one sacrifice
 should be offered.”
 
-[^3]: Tarikh al-Khamees, vol. 1, p. 470. Noor al-Absar, p. 107.
+[^3] Tarikh al-Khamees, vol. 1, p. 470. Noor al-Absar, p. 107.
 Al-Turmidhi, Saheeh, vol. 1, p. 286. In them it has been mentioned that
 the weigh of al-Hasan’s hair was a dirham and some.
 
-[^4]: Al-khuluq is a perfume composed of saffron and other things. In the
+[^4] Al-khuluq is a perfume composed of saffron and other things. In the
 book al-Bihar, vol. 10, p. 68 it has been mentioned that the people in
 the pre-Islamic period used to put blood on the child’s hair, so the
 Prophet (a.s.) said: “(Putting ) blood (on the and kindness similar to
@@ -248,20 +248,20 @@ Prophet than al-Hasan bin Ali.”[^4]he traditionists have mentioned
 al-Hasan’s form, which was child’s hair) was among the acts of those who
 lived before Islam.” He prevented Asma’ from doing that.
 
-[^1]: Noor al-Absar, p. 108.
-[^2]: Jawahir al-Ahkam, Chapter on Marriage. In it, it has been mentioned
+[^1] Noor al-Absar, p. 108.
+[^2] Jawahir al-Ahkam, Chapter on Marriage. In it, it has been mentioned
 that Allah’s Apostle (a.s.) has said: “Circumcise your male babies on
 the seventh day of birth. For it is the best, purest, and quickest (of
 all deeds) in making flesh grow, and for the earth becomes impure for
 forty days due to the urine of those uncircumcised.”
-[^3]: Usd al-Ghaba, vol. 1, p. 9. A kunya is the name by which an Arab is
+[^3] Usd al-Ghaba, vol. 1, p. 9. A kunya is the name by which an Arab is
 usually referred to and which refers to him or her as the father or
 mother of someone, usually his or her eldest son. It is among the rites
 of birth. It has been narrated on the authority of Imam Muhammed
 al-Baqir, peace be on him, who has said: “We give kunyas to our children
 during their childhood for fear that nicknames may be given to them.”
 
-[^4]: Fada’il al-Sahaba, p. 166. In his book al-Saheeh, vol. 2, p. 307,
+[^4] Fada’il al-Sahaba, p. 166. In his book al-Saheeh, vol. 2, p. 307,
 al-Turmidhi has mentioned on the authority of Ali, peace be on him, who
 has said: “Al-Hasan was like Allah’s Apostle (a.s.) from his head to his
 chest, while al-Husayn was like him from his chest to his feet.” In the
@@ -295,9 +295,9 @@ youth.
 saying to it: “I swear by my father, you are similar to my father and
 not to Ali.”
 
-[^1]: Tarikh al-Khamees, vol. 1, p. 171. In his book Da’irat al-Ma‘arif,
+[^1] Tarikh al-Khamees, vol. 1, p. 171. In his book Da’irat al-Ma‘arif,
 vol. 7, p. 38, al-Bustani has mentioned some of these features.
-[^2]: Al-Ya‘qubi, Tarikh, vol. 2, p. 201. In his book Ihya’ al-Uloom,
+[^2] Al-Ya‘qubi, Tarikh, vol. 2, p. 201. In his book Ihya’ al-Uloom,
 al-Ghazali has mentioned: Allah’s Apostle (a.s.) said to al-Hasan: ‘You
 are similar to me in form and manner.’”
 

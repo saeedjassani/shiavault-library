@@ -26,9 +26,9 @@ deeds fair seeming to them …” [^1]
 Imam Ka-zim (a.s.) says: “Seeing bad things as good ones is the premise
 of haughtiness and self-administration.”[^2]
 
-[^1]: Sura Al-'An'a-m, No. 8, verse 48
+[^1] Sura Al-'An'a-m, No. 8, verse 48
 
-[^2]: Al-Ka-fi-, Vol. 2, P. 313
+[^2] Al-Ka-fi-, Vol. 2, P. 313
 
 In view of the fact that in the previous verses people were divided
 into two groups: a believing group and a disbelieving group, or ‘the
@@ -187,5 +187,5 @@ I said: “Yes, O Messenger of Allah.”
 He (p.b.u.h.) said: “In such a way Allah quickens the dead and this is
 its sign in the creation.” [^1]
 
-[^1]: The Commentary book by Qurtabi-, Vol. 8, P. 5409
+[^1] The Commentary book by Qurtabi-, Vol. 8, P. 5409
 

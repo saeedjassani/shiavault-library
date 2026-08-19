@@ -76,75 +76,75 @@ Notes
 
 ------------------------------------------------------------------------
 
-[^1]: Maryam Dikko is a lecturer with the Centre for Islamic Legal
+[^1] Maryam Dikko is a lecturer with the Centre for Islamic Legal
 Studies, Ahmadu Bello University, Zaria
 
-[^2]: Qureshi, M.M.(1971) Landmarks of Jihad, S.H.Muhammad Ashraf  p4
+[^2] Qureshi, M.M.(1971) Landmarks of Jihad, S.H.Muhammad Ashraf  p4
 
-[^3]: Malik. Al –Muwatta, Hadith no [^21]:4
+[^3] Malik. Al –Muwatta, Hadith no [^21]:4
 
-[^4]: Ibid. Hadith [^21]:1
+[^4] Ibid. Hadith [^21]:1
 
-[^5]: Bukhari.  Sahih, Hadith no [^9]:469
+[^5] Bukhari.  Sahih, Hadith no [^9]:469
 
-[^6]: Qur’an 22:39
+[^6] Qur’an 22:39
 
-[^7]: Ibid. 9:29
+[^7] Ibid. 9:29
 
-[^8]: Bukhari. Sahih, Hadith no. [^3]:60
+[^8] Bukhari. Sahih, Hadith no. [^3]:60
 
-[^9]: Ibid. hadith no. [^4]:71
+[^9] Ibid. hadith no. [^4]:71
 
-[^10]: Qur’an 47:23
+[^10] Qur’an 47:23
 
-[^11]: Arabic word for society
+[^11] Arabic word for society
 
-[^12]: Qur’an 2:256
+[^12] Qur’an 2:256
 
-[^13]: This is a strong view held by Sayyid Qutb in his book  In the
+[^13] This is a strong view held by Sayyid Qutb in his book  In the
 Shade of the Qur’an particularly in the introduction to Suratul An’am
 
-[^14]: Qur’an 6:81
+[^14] Qur’an 6:81
 
-[^15]: Ibid 4:90
+[^15] Ibid 4:90
 
-[^16]: Ibid 4:94
+[^16] Ibid 4:94
 
-[^17]: Bukhari. Op.cit, No.[^4]:280
+[^17] Bukhari. Op.cit, No.[^4]:280
 
-[^18]: Muslim, sahih, Hadith no. 4345
+[^18] Muslim, sahih, Hadith no. 4345
 
-[^19]: Mutahhari, Ayatollah.(1985). Jihad (The Holy War of Muslims and
+[^19] Mutahhari, Ayatollah.(1985). Jihad (The Holy War of Muslims and
 its Legitimacy in the Qur’an), Islamic Propagation Organisation, Tehran,
 Iran.
 
-[^20]: Abdulkadir As-Sufi. (1978), Jihad, A Groundplan, Diwan Press
+[^20] Abdulkadir As-Sufi. (1978), Jihad, A Groundplan, Diwan Press
 England
 
-[^21]: Qur’an 9”29
+[^21] Qur’an 9”29
 
-[^22]: Oxford Law Dictionary. 6th Edition
+[^22] Oxford Law Dictionary. 6th Edition
 
-[^23]: Verse 30
+[^23] Verse 30
 
-[^24]: [24] Though muslim scholars agree that there is no ban on
+[^24] [24] Though muslim scholars agree that there is no ban on
 performing the funeral prayer for a muslim who committed suicide. The
 Prophet’s refusal to do so being a form of reprimand and not creating a
 prohibition.
 
-[^25]: Bukhari, op.cit. Hadith no. [^2]:445
+[^25] Bukhari, op.cit. Hadith no. [^2]:445
 
-[^26]: Sayed Moammed Musawi is the head of the World Islamic League
+[^26] Sayed Moammed Musawi is the head of the World Islamic League
 
-[^27]: Otherwise referred to as Ahl-al sunna (followers of the traditions
+[^27] Otherwise referred to as Ahl-al sunna (followers of the traditions
 of the Prophet)
 
-[^28]: Such as Sheikh In Uthaymeen Khaled Ibn al Fadl
+[^28] Such as Sheikh In Uthaymeen Khaled Ibn al Fadl
 
-[^29]: Qur’an 2:195
+[^29] Qur’an 2:195
 
-[^30]: Ibid 2:190
+[^30] Ibid 2:190
 
-[^31]: This is the view held by Imam Muhammad Nasiruddeen Al- Albanee
+[^31] This is the view held by Imam Muhammad Nasiruddeen Al- Albanee
 
-[^32]: At Tirmidhi, Hadith no 168
+[^32] At Tirmidhi, Hadith no 168

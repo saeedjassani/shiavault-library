@@ -30,7 +30,7 @@ at His creatures, He keeps us away from their company."[^3] Similarly,
 Imam al-Baqir (PBUH) wrote, "When Allah dislikes too see us nearby a
 group of people, He removes us from among them."[^4]
 
-[^1]: Tawqi' is a signed written statement by Imam al-Mahdi (PBUH) that
+[^1] Tawqi' is a signed written statement by Imam al-Mahdi (PBUH) that
 has been obtained through four special deputies during the minor
 occultation (260~329 AH).
 
@@ -80,7 +80,7 @@ bitter fact is that out of many people who have claimed to be his
 partisans in each era, the Imam (PBUH) did not have 313 true followers
 to start his mission. Abdullah Ibn Hammad al-Ansari narrated:
 
-[^1]: Kamal al-Din, part 2, p. 483, Hadith 4; al-Ghaiba, al-Tusi, p. 290;
+[^1] Kamal al-Din, part 2, p. 483, Hadith 4; al-Ghaiba, al-Tusi, p. 290;
 al-Ihtijaj, vol. 2, p. 469; Bihar al-Anwar, vol. 53, p. 180, Hadith
 10.
 
@@ -157,7 +157,7 @@ Allah. If they do what is expected from them as followers and fulfill
 their duties, the Imam (PBUH) will certainly do what is expected from
 him as their leader, by the permission of Allah.
 
-[^1]: The ten thousand helpers may include the first group of the dead
+[^1] The ten thousand helpers may include the first group of the dead
 among those who were the true expectant of al-Qa'im during their time,
 who will return to this world in the phenomena of al-Raj'a by will of
 Allah.

@@ -253,7 +253,7 @@ The inimitable nature of the Qur'an was recognized by generation after
 generation of scholars. Al-Tabari (d. 923) dealt with this subject in
 his voluminous study of the Holy Book. [^23] Al-Zamakhshari elaborated on
 this theme in his famous al-Kashshaf, [^24] as did Baydawi in his Tafsir.
-[^25]: AlBaqillam, a prominent scholar, wrote a book which he devoted
+[^25] AlBaqillam, a prominent scholar, wrote a book which he devoted
 entirely to this subject and to which he gave the title I'jaz al-Qur'an
 (The Inimitability of the Qur'an). [^26] Here he wrote:
 
@@ -856,75 +856,75 @@ its bond with Islam and the Qur'an.
 
 **Footnotes:**
 
-[^1]: See, for this view, 'Abbas Hasan, Al-Lugha wa-l-nahw bayn al-qadim
+[^1] See, for this view, 'Abbas Hasan, Al-Lugha wa-l-nahw bayn al-qadim
 wa-l-hadith, Cairo, 1966, and Ibrahim Anis, Min asrar al-lugha, Cairo,
 1970.
 
-[^2]: Anwar Cheyne, The Arabic language: its role in history, Minnesota,
+[^2] Anwar Cheyne, The Arabic language: its role in history, Minnesota,
 1969, ch. 4,pp. 53 ff.
-[^3]: Ibid.
-[^4]: On this subject, see Taha Husayn's excellent argument in his Mir'at
+[^3] Ibid.
+[^4] On this subject, see Taha Husayn's excellent argument in his Mir'at
 al-Islam, pp. 125 ff., and Sayyid Qutbs Al-Taswir al-fanni fi l-Qur'an,
 chs. 1-3.
-[^5]: Philip K. Hitti, History of the Arabs, London, 1967, pp. 87 ff.
-[^6]: Cheyne, Op. Cit., ch. 4, pp. 52 ff.
-[^7]: Ibid. ,ch.4,pp.52ff.
-[^8]: Ibid.
-[^9]: Hitti, Op. Cit., pp. 90 ff.
-[^10]: Ibrahim Anis, Fi l-lahajat al'arabiyya, Cairo, 1962, ch. 2, pp. 33
+[^5] Philip K. Hitti, History of the Arabs, London, 1967, pp. 87 ff.
+[^6] Cheyne, Op. Cit., ch. 4, pp. 52 ff.
+[^7] Ibid. ,ch.4,pp.52ff.
+[^8] Ibid.
+[^9] Hitti, Op. Cit., pp. 90 ff.
+[^10] Ibrahim Anis, Fi l-lahajat al'arabiyya, Cairo, 1962, ch. 2, pp. 33
 ff.
-[^11]: Vicente Cantarino, Arabic poetics in the golden age, Leiden, 1975,
+[^11] Vicente Cantarino, Arabic poetics in the golden age, Leiden, 1975,
 pp. 17 ff.
-[^12]: Ibid., ch. 1, pp. 9 ff.
-[^13]: Al-Jahiz, Kitab al-Bayan, Cairo, 1965
-[^14]: Ibn Rashiq, 'Umda, Cairo, 1934, vol. 1, 65; also in al-Suyuti,
+[^12] Ibid., ch. 1, pp. 9 ff.
+[^13] Al-Jahiz, Kitab al-Bayan, Cairo, 1965
+[^14] Ibn Rashiq, 'Umda, Cairo, 1934, vol. 1, 65; also in al-Suyuti,
 Muzhir,Cairo, n.d., vol. 2, 203.
-[^15]: Ibn Qutayba, 'Uyun al-akhbar, Cairo, 1964, vol. 2, 185.
-[^16]: Ibn Khaldun, Al-Muqaddima, vol. 3, 375.
-[^17]: Al-Suyuti, Op. Cit., vol. 2, 291.
-[^18]: All Qur'anic quotations are taken, with some modification, from
+[^15] Ibn Qutayba, 'Uyun al-akhbar, Cairo, 1964, vol. 2, 185.
+[^16] Ibn Khaldun, Al-Muqaddima, vol. 3, 375.
+[^17] Al-Suyuti, Op. Cit., vol. 2, 291.
+[^18] All Qur'anic quotations are taken, with some modification, from
 the translation of Yusuf A. Ali, The Holy Qur'an, London, 1983.
-[^19]: Hitti, Op. Cit., pp. 90-91.
-[^20]: Ibid.
-[^21]: Cheyne. Op. Cit.. pp. 56 ff
-[^22]: A number of excellent works were devoted entirely to this aspect
+[^19] Hitti, Op. Cit., pp. 90-91.
+[^20] Ibid.
+[^21] Cheyne. Op. Cit.. pp. 56 ff
+[^22] A number of excellent works were devoted entirely to this aspect
 of tne Qur'an, e.g., al-Suyiti, al Itqan, and al-Baqillani, I'jaz
 al-Qur'an, Beirut, 1979.
-[^23]: Abu Ja far Muhammad b. Jarir al-Tabari, Tafsir al-Qur'an.
-[^24]: Mahmud b. Umar al-Zamakhashari (d. 1143).
-[^25]: Nasr al-Din al-Baidawi (d. 1286)
-[^26]: Al Baqillan, Op. Cit.. pp 45 ff
-[^27]: Ibn Qayyim al-Jawziyya, Kitab al-Fawai'id al-mushawwig ila •ulum
+[^23] Abu Ja far Muhammad b. Jarir al-Tabari, Tafsir al-Qur'an.
+[^24] Mahmud b. Umar al-Zamakhashari (d. 1143).
+[^25] Nasr al-Din al-Baidawi (d. 1286)
+[^26] Al Baqillan, Op. Cit.. pp 45 ff
+[^27] Ibn Qayyim al-Jawziyya, Kitab al-Fawai'id al-mushawwig ila •ulum
 al-Qur'an wa'ilm al-bayan, Cairo, 1909, pp. 7, 246.
-[^28]: Ibn Khaldun, Op. Cit., vol. 3, 338
-[^29]: Ibn Qutayba, Kitab Ta'wil mushkil al-Qur'an, Cairo, 1954, p. 10.
-[^30]: Ibn Khaldun, Op. Cit., vol. 3, 1266
-[^31]: Taha Husayn, Op. Cit., p. 129.
-[^32]: Ibid., pp. 130 ff.
-[^33]: Ibid., pp. 129 ff.
-[^34]: Ibid., p. 125
-[^35]: Arthur Jeffrey, The Foreign vocabulary of the Qur'an. Lahore,
+[^28] Ibn Khaldun, Op. Cit., vol. 3, 338
+[^29] Ibn Qutayba, Kitab Ta'wil mushkil al-Qur'an, Cairo, 1954, p. 10.
+[^30] Ibn Khaldun, Op. Cit., vol. 3, 1266
+[^31] Taha Husayn, Op. Cit., p. 129.
+[^32] Ibid., pp. 130 ff.
+[^33] Ibid., pp. 129 ff.
+[^34] Ibid., p. 125
+[^35] Arthur Jeffrey, The Foreign vocabulary of the Qur'an. Lahore,
 1977, pp. 5 ff.
-[^36]: Ibid., pp. 6 ff.
-[^37]: Al-Suyuti, al Itqan, vol. 1, § 38, p. 136.
-[^38]: Ibid., p. 136.
-[^39]: Ibid., pp. 136 ff.
-[^40]: Ibid., pp. 137 ff.
-[^41]: Ibid.
-[^42]: Ibid., pp. 138 ff.
-[^43]: Al-Suyuti, Itqan
-[^44]: 'Abbas Hasan, Op. Cit., pp. 72 ff.
-[^45]: Sayyid Qutb, Op. Cit., pp. 34 ff.
-[^46]: Ibid., pp. 87 ff.
-[^47]: Ibid.
-[^48]: Ibid.
-[^49]: Cheyne, Op. Cit., pp. 5 ff.
-[^50]: Anwar al-Jindi, Al-Fusha lughat al-Qur'an, Beirut, n.d., p. 31.
-[^51]: Ibid, p. 45.
-[^52]: Ibid., p. 72.
-[^53]: Ibid., p. 72. See also Cheyne, Op. Cit., p. 1.
-[^54]: Al-Jindi, Op Cit.,p. 77
-[^55]: In a discussion with Dr Baynurza Hayit, a prominent Turkistani
+[^36] Ibid., pp. 6 ff.
+[^37] Al-Suyuti, al Itqan, vol. 1, § 38, p. 136.
+[^38] Ibid., p. 136.
+[^39] Ibid., pp. 136 ff.
+[^40] Ibid., pp. 137 ff.
+[^41] Ibid.
+[^42] Ibid., pp. 138 ff.
+[^43] Al-Suyuti, Itqan
+[^44] 'Abbas Hasan, Op. Cit., pp. 72 ff.
+[^45] Sayyid Qutb, Op. Cit., pp. 34 ff.
+[^46] Ibid., pp. 87 ff.
+[^47] Ibid.
+[^48] Ibid.
+[^49] Cheyne, Op. Cit., pp. 5 ff.
+[^50] Anwar al-Jindi, Al-Fusha lughat al-Qur'an, Beirut, n.d., p. 31.
+[^51] Ibid, p. 45.
+[^52] Ibid., p. 72.
+[^53] Ibid., p. 72. See also Cheyne, Op. Cit., p. 1.
+[^54] Al-Jindi, Op Cit.,p. 77
+[^55] In a discussion with Dr Baynurza Hayit, a prominent Turkistani
 scholar who lives and writes in West Germany, at the third annual
 meeting of the American Council for the Study of Islamic Societies held
 at Villanova University in May 1986, he informed me that Turkic
@@ -932,10 +932,10 @@ languages enjoyed a high degree of mutual intelligibility and
 interaction during that period in which the Arabic script was in use,
 and that this feature began to disappear following the switch of writing
 system in some of these languages.
-[^56]: Al-Jindi, Op. Cit., p. 81.
-[^57]: William H. Harris and Judith S. Levy, The New Columbia
+[^56] Al-Jindi, Op. Cit., p. 81.
+[^57] William H. Harris and Judith S. Levy, The New Columbia
 Encyclopedia, New York and London, 1975, p. 1670.
-[^58]: Banilmadina is a large resort on the Costa del Sol in southern
+[^58] Banilmadina is a large resort on the Costa del Sol in southern
 Spain, Guadalquivir is a river which runs through the ancient city of
 Seville, and the Alcazar is the famous palace in that city.
 

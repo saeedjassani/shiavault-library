@@ -212,5 +212,5 @@ our speech and deeds.
 
 The End of Sura Al-Fatir
 
-[^1] Nu-r-uth-Thaqalayn, Vol. 4, P. 370
+[^1]: Nu-r-uth-Thaqalayn, Vol. 4, P. 370
 

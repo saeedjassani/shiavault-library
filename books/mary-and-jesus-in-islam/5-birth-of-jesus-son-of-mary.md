@@ -179,7 +179,7 @@ with the trunk of a tree, and it was a dry palm tree with neither leaves
 nor a live trunk but a dead stump. The angels did not like the sight of
 that palm tree, and they were surrounding her in rows, and that palm
 tree was at a village called Bethlehem[^3]. When her crisis reached its
-[^1]: He is Abu al-Hasan Muqatil ibn Sulayman al-Balkhi (d. 150 A.H./767
+[^1] He is Abu al-Hasan Muqatil ibn Sulayman al-Balkhi (d. 150 A.H./767
 A.D.), a mufassir who moved to Baghdad then to Basra where he died. His
 most important work is Al-Tafsir al-Kabir.
 [^2]He is Abu Bakr Mujahid ibn Ahmed ibn Mousa (d. 324 A.H./936 A.D.), a
@@ -317,12 +317,12 @@ belying the claim of the “Christians” and making his argument against
 them.
 
 Imam Muhammed ibn \`Ali al-Baqir , is quoted as saying, “When Jesus
-[^1]: His full name is Muhammed ibn al-Sa'ib al-Kalbi (d. 763 A.D.), a
+[^1] His full name is Muhammed ibn al-Sa'ib al-Kalbi (d. 763 A.D.), a
 genealogist, traditionist, linguist, and chronologist from Kufa. He
 fought Mis\`ab ibn al-Zubayr then retired and dedicated his entire time
 to study Arabic and history. He studied in Kufa and lived for some time
 in Basra.
-[^2]: He is the great grandson of Prophet Mhammed and one of the most
+[^2] He is the great grandson of Prophet Mhammed and one of the most
 brilliant persons who ever walked on the face of earth, with knowledge
 so vast, he was said to “pierce through the knowledge of prophets.” He
 was Imam

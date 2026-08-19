@@ -750,7 +750,7 @@ especially when private motives take this form.
 
 **Notes:**
 
-[^1]: That which appears here is a translation of 'Ilal e gerayesh beh
+[^1] That which appears here is a translation of 'Ilal e gerayesh beh
 maddigari, 8th edition (Qum: Intesharat e Sadra, 1375 H. Sh.) There is a
 long introduction, dated rajab 1, 1398 H by the author written for the
 8th edition of the book titled 'Materialism in Iran', this will appear
@@ -775,7 +775,7 @@ Bargmann, pp. 40 (Tr.)
 [^6]: Irving William Knobloch, op. Cit, the article by Walter Oscar
 Lundberg
 
-[^7]: Will Durrant, The Story of Civilization, Persian transl. Tarikhe
+[^7] Will Durrant, The Story of Civilization, Persian transl. Tarikhe
 Tamaddun, v18 p350
 
 [^8]: Ibid., p360

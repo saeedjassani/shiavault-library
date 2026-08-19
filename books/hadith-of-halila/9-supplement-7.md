@@ -213,6 +213,6 @@ Unto Those Who Follow The Truth
 
 **END NOTES**
 
-[^1]: The Spirit of Islam.
-[^2]: Sahih Bukhari and Sahih Muslim
+[^1] The Spirit of Islam.
+[^2] Sahih Bukhari and Sahih Muslim
 

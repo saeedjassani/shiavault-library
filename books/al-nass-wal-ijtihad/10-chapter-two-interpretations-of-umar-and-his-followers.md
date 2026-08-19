@@ -28,8 +28,8 @@ Umar had said. When they did much noise and disagreement, the Prophet
 said: “It was the great calamity when their clamor and disagreement had
 prevented the Prophet (s) from writing that book.”
 
-[^1]: The Prophet’s death was on Monday; four days after this event.
-[^2]: In his Sahih, vol.1 chap. “Knowledge” and vol.4 chap. “The sick”.
+[^1] The Prophet’s death was on Monday; four days after this event.
+[^2] In his Sahih, vol.1 chap. “Knowledge” and vol.4 chap. “The sick”.
 
 (184)
 
@@ -67,9 +67,9 @@ prophet. They said: “The messenger of Allah is raving.” The Prophet (s)
 said: “Let me alone! What I am in is better than what you ascribe to
 me.” When he was about to die, he ordered
 
-[^1]: Vol.1 p.325.
-[^2]: As in Sharh Nahjol Balagha, vol. 2 p.20
-[^3]: vol.2 p.118.
+[^1] Vol.1 p.325.
+[^2] As in Sharh Nahjol Balagha, vol. 2 p.20
+[^3] vol.2 p.118.
 
 (185)
 
@@ -102,15 +102,15 @@ what the messenger of Allah is saying?” I (Umar) said (to the women):
 you press your eyes and if he becomes alright, you ride on his neck.”
 The Prophet (s) said: “Let them (the
 
-[^1]: Definitely the third thing was the order which the Prophet (s)
+[^1] Definitely the third thing was the order which the Prophet (s)
 wanted to write down to his umma in order not to go astray after that at
 all but politics had forced the narrators to pretend that they had
 forgotten it as the mufti of the Hanafites (in Soor) Sheikh Abu Sulayman
 Haj Dawood ad-Dada has said.
-[^2]: Vol.1 p.232.
-[^3]: This tradition with the same wording has been mentioned by Ahmad in
+[^2] Vol.1 p.232.
+[^3] This tradition with the same wording has been mentioned by Ahmad in
 his Musnad, vol.1 p.355 and by other scholars of Hadith.
-[^4]: Kanzol Ummal, vol. 3 p.138.
+[^4] Kanzol Ummal, vol. 3 p.138.
 
 (186)
 
@@ -158,7 +158,7 @@ you a book after which you will never go astray” and on his saying in
 the tradition of “Thaqalayn”: “I have left to you what if you keep to,
 you will never go astray; the Book of Allah and my progeny”
 
-[^1]: Sharh Nahjol Balagha, vol.3 p.114.
+[^1] Sharh Nahjol Balagha, vol.3 p.114.
 
 (187)
 
@@ -449,7 +449,7 @@ obligations which they had to follow. If the resistance of
 (and We have revealed to you the Reminder that you may make clear to
 men what has been revealed to them) 16:44.
 
-[^1]: The author addresses Sheikh al-Bishri.
+[^1] The author addresses Sheikh al-Bishri.
 
 (194)
 
@@ -492,7 +492,7 @@ The Prophet (s) left Medina on Monday, the first of Thul Qa’da in the
 sixth year of hijra to offer the minor hajj. He feared that Quraysh
 might wage a war against him or they might prevent him from
 
-[^1]: Al-Hudaybiya is a village about nine miles from Mecca.
+[^1] Al-Hudaybiya is a village about nine miles from Mecca.
 
 (195)
 
@@ -522,7 +522,7 @@ his companions. The polytheists said: “Muhammad and his companions have
 given you the opportunity to overcome them.” Khalid said: “Yes, they
 were in inadvertence. If we had attacked
 
-[^1]: It was also mentioned that they were more and it was mentioned that
+[^1] It was also mentioned that they were more and it was mentioned that
 they were less. The Prophet (s) took with him his wife Umm Salama (may
 Allah be pleased with her). Many of the nomads had not followed him.
 They were hypocrites whom Allah had dispraised in the Sura of al-Fath
@@ -533,12 +533,12 @@ resort).
 Among those, who went with him, were al-Mugheera bin Shu’ba and ibn
 Salool, who had paid homage to him under the tree in al-Hydaybaiya.
 
-[^2]: Umar said to the Prophet (s): “O messenger of Allah, you fear Abu
+[^2] Umar said to the Prophet (s): “O messenger of Allah, you fear Abu
 Sufyan and his companions. Why do you not take weapons with you?” The
 Prophet (s) said: “I do not take weapons with me while I am going to
 offer the hajj.”
 
-[^3]: A place near al-Hudaybiya.
+[^3] A place near al-Hudaybiya.
 
 (196)
 
@@ -617,7 +617,7 @@ but we say: go, you and your Lord, and fight; we will fight with you. O
 messenger of Allah, by Allah, if you take us to Bard al-Ghamad,[^1] we
 will go with you even if
 
-[^1]: It was one of the impenetrable forts in Yemen. Marching towards
+[^1] It was one of the impenetrable forts in Yemen. Marching towards
 that fort did mean that they would face inevitable death because the
 fort was very strong and defended.
 
@@ -652,12 +652,12 @@ the Prophet (s) in al-Hudaybiya, had refrained from paying homage to the
 Prophet (s) except al-Jadd bin Qays al-Ansary according to all of the
 historians.”
 
-[^2]: Al-Halabi said in his Seera that Salama bin al-Aqwa’ had said: “We
+[^2] Al-Halabi said in his Seera that Salama bin al-Aqwa’ had said: “We
 have promised the Prophet (s) to die for him and none of us has
 refrained from that save al-Jadd bin Qays. He has stuck to the armpit of
 his camel to hide himself from people.”
 
-[^3]: This homage had been paid to the Prophet (s) under a tree;
+[^3] This homage had been paid to the Prophet (s) under a tree;
 therefore it had been called the homage of the tree and it also had been
 called the homage of ar-Radhwan (pleasedness of Allah with the
 believers) due to the saying of Allah: (Certainly Allah was well pleased
@@ -714,7 +714,7 @@ believers are far above all the false traditions the fabricators have
 fabricated against them for the holy verses of the Qur'an refute all
 these false traditions.
 
-[^1]: As in al-Halabi’s Seera and other books of history.
+[^1] As in al-Halabi’s Seera and other books of history.
 
 (200)
 
@@ -750,8 +750,8 @@ this tradition in their books.
 
 Al-Bukhari mentioned in his Sahih[^2] that Umar had said to the
 
-[^1]: Woe! As if Umar doubted the prophethood of the Prophet (s)!
-[^2]: vol.2 p.81.
+[^1] Woe! As if Umar doubted the prophethood of the Prophet (s)!
+[^2] vol.2 p.81.
 
 (201)
 
@@ -780,11 +780,11 @@ Abu Bakr said: “Yes, we are.”
 Umar said: “Then why do we submit and do not defend our religion?”
 Abu Bakr said: “O man, he is the messenger of Allah. He does not
 
-[^1]: The Prophet’s saying “I do not disobey Him” confirms what we have
+[^1] The Prophet’s saying “I do not disobey Him” confirms what we have
 said that the Prophet (s) has been ordered by Allah to carry out the
 truce as it has been taken place.
 
-[^2]: In the year of al-Fat~h (the conquest) when the Prophet (s) took
+[^2] In the year of al-Fat~h (the conquest) when the Prophet (s) took
 the key of Mecca, he sent for Umar. When he came, the Prophet (s) said
 to him: “O Umar, it is this that I have said to you.” In the farewell
 hajj (al-wada’) when the Prophet (s) stopped at Arafa, he sent for Umar
@@ -821,11 +821,11 @@ that day: “O Umar, I myself have agreed so why have you not agreed?”
 They also mentioned that Umar often said after that: “I am still keeping
 on fasting, praying, paying charities
 
-[^1]: Abu Bakr’s saying “he does not disobey his Lord” showed that Abu
+[^1] Abu Bakr’s saying “he does not disobey his Lord” showed that Abu
 Bakr was aware that the Prophet (s) had been ordered by Allah to
 conclude the agreement of peace.
 
-[^2]: This word of Umar showed clearly the great doings he had done to
+[^2] This word of Umar showed clearly the great doings he had done to
 spoil the peace and because of that Umar and his followers did not obey
 the Prophet (s) when he ordered them to slaughter the sacrifices until
 he repeated his order for three times. You will see the details later on
@@ -870,7 +870,7 @@ companions were to go back from al-Hudaybiya to Medina and in the next
 year the people of Quraysh were to go out of Mecca so that the Prophet
 (s) and his companions would enter it and would stay there
 
-[^1]: This saying of the Prophet (s) has been considered by all of the
+[^1] This saying of the Prophet (s) has been considered by all of the
 Muslims as one of the signs of prophethood and one of the signs of
 Islam. The details have mentioned in al-Halabi’s Seera, ad-Dahlani’s
 Seera and other books of history.
@@ -907,10 +907,10 @@ had come to al-Hudaybiya, he played a trick to get out of prison. He
 took a way between the mountains until he came to the Muslims who became
 pleased to
 
-[^1]: Due to other traditions mentioned by the historians the period of
+[^1] Due to other traditions mentioned by the historians the period of
 the truce was two years or four years.
 
-[^2]: The tribe of Khuza’a concluded a treaty with the Prophet (s). They
+[^2] The tribe of Khuza’a concluded a treaty with the Prophet (s). They
 had been before the allies of the Prophet’s grandfather Abdul Muttalib.
 The tribe of Bakr allied with Quraysh. Then a war took place between
 Khuza’a and Bakr, in which Quraysh supported their ally (the tribe of
@@ -950,14 +950,14 @@ patient and to wait for the reward of Allah.[^3] He said to Umar: “Why do
 you yourself not kill him?” Umar said: “The Prophet (s) has forbidden us
 from killing him and other than him.”[^4]
 
-[^1]: The Muslims began weeping for him.
-[^2]: If Suhayl had been killed on that day, sedition would have occurred
+[^1] The Muslims began weeping for him.
+[^2] If Suhayl had been killed on that day, sedition would have occurred
 between the Muslims and Quraysh the evil of which would have spread
 everywhere.
-[^3]: No doubt that when Umar tempted Abu Jandal to kill his father, he
+[^3] No doubt that when Umar tempted Abu Jandal to kill his father, he
 objected to the Prophet (s), who had ordered Abu Jandal to be patient
 and to expect the deliverance of Allah.
-[^4]: This was another objection to the Prophet (s), who had forbidden
+[^4] This was another objection to the Prophet (s), who had forbidden
 his companions from killing Suhayl and other than Syhayl but Umar had
 tempted Abu Jandal to kill Suhayl.
 

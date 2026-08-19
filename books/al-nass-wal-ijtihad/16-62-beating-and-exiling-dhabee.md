@@ -49,8 +49,8 @@ in which he had showed his innocence and asked Umar to let him go
 
 --------------------------------------------------------------------------------
 
-[^1]: Sharh Nahjol Balagha, vol. 3 p.122.
-[^2]: He was Nasr bin Hajjaj bin Alabit al-Bahzi as-Salami.
+[^1] Sharh Nahjol Balagha, vol. 3 p.122.
+[^2] He was Nasr bin Hajjaj bin Alabit al-Bahzi as-Salami.
 
 (313)
 
@@ -91,7 +91,7 @@ Abdurrahman died.[^1]
 
 --------------------------------------------------------------------------------
 
-[^1]: This was one of the famous events in the history of Umar. It has
+[^1] This was one of the famous events in the history of Umar. It has
 been mentioned by the most of the historians. Refer to Sharh Nahjol
 Balagha, vol. 3 p. 123. Ibn Abul Hadeed mentioned in the same volume of
 his book that Umar had whipped one of his
@@ -138,7 +138,7 @@ talked about Abu Shahma, mentioned this case such as ibn Abdul Birr in
 his Istee’ab, ad-Dimyari in Hayat al-Haywan and ibn al-Jawzi in his book
 Tareekh Umar, chap.77.
 
-[^1]: Sharh Nahjol Balagha, vol. 1 p.59.
+[^1] Sharh Nahjol Balagha, vol. 1 p.59.
 
 (315)
 
@@ -179,9 +179,9 @@ Bilal to announce the azan. The Prophet (s)
 
 --------------------------------------------------------------------------------
 
-[^1]: Ham and Hakam were two tribes of Yemen, which had no any kinship
+[^1] Ham and Hakam were two tribes of Yemen, which had no any kinship
 with Quraysh, the Prophet’s tribe.
-[^2]: He was Umar bin al-Khattab undoubtedly.
+[^2] He was Umar bin al-Khattab undoubtedly.
 
 (316)
 
@@ -222,8 +222,8 @@ and Allah is Aware of what you do. Qur'an,
 
 --------------------------------------------------------------------------------
 
-[^1]: Thakha’ir al-Uqba by Muhibuddeen at-Tabari.
-[^2]: Vol.2 p.842.
+[^1] Thakha’ir al-Uqba by Muhibuddeen at-Tabari.
+[^2] Vol.2 p.842.
 
 (317)
 
@@ -262,7 +262,7 @@ Allah, the Mighty, the High!
 
 --------------------------------------------------------------------------------
 
-[^1]: Al-Hakim after mentioning this tradition in his Mustadrak said: “It
+[^1] Al-Hakim after mentioning this tradition in his Mustadrak said: “It
 is a true tradition according to the conditions of the two sheikhs;
 al-Bukhari and Muslim but they have not mentioned it.” The same has been
 said by ath-Thahabi after mentioning it in his Talkhees al-Mustadrak.
@@ -305,8 +305,8 @@ mad pregnant woman was brought to Umar and he
 
 --------------------------------------------------------------------------------
 
-[^1]: Al-Isaba by ibn Hajar, biography of Ma’ath bin Jabal.
-[^2]: Vol.4 p.389.
+[^1] Al-Isaba by ibn Hajar, biography of Ma’ath bin Jabal.
+[^2] Vol.4 p.389.
 
 (319)
 
@@ -344,8 +344,8 @@ woman free and he did not stone her.”[^2]
 
 --------------------------------------------------------------------------------
 
-[^1]: vol.1 p.154-.
-[^2]: Mustadrak of al-Hakim, vol.4 p.389, Talkees al-Mustadrak by
+[^1] vol.1 p.154-.
+[^2] Mustadrak of al-Hakim, vol.4 p.389, Talkees al-Mustadrak by
 ath-Thahabi. Al-Bukahri has summarized the tradition in his Sahih, vol.4
 p.117 saying: “Ali said to Umar: “Have you not known that three ones are
 free from being considered as sinful;
@@ -387,10 +387,10 @@ lover. Umar hesitated to kill two persons for one. Ali said to him:
 --------------------------------------------------------------------------------
 a mad one until he becomes sane, a child until he becomes adult and a
 sleeping one until he awakes.”
-[^1]: At-Turuq al-Hakamiyya fee as-Siyasa ash-Shar’iyya by ibn al-Qayyim,
+[^1] At-Turuq al-Hakamiyya fee as-Siyasa ash-Shar’iyya by ibn al-Qayyim,
 p.53.
-[^2]: Ibid. p.55.
-[^3]: p.285, quoted from the book A’lam al-Muwaqqi’een.
+[^2] Ibid. p.55.
+[^3] p.285, quoted from the book A’lam al-Muwaqqi’een.
 
 (321)
 
@@ -433,7 +433,7 @@ the other verse among which was “they are careful (of their duty) and
 
 --------------------------------------------------------------------------------
 
-[^1]: Sharh Nahjol Balagha, vol.1 p.58.
+[^1] Sharh Nahjol Balagha, vol.1 p.58.
 
 (322)
 
@@ -474,9 +474,9 @@ to repay him the money. After
 
 --------------------------------------------------------------------------------
 
-[^1]: Mustadrak of al-Hakim, vol.4 p.376, Talkhees al-Mustadrak by
+[^1] Mustadrak of al-Hakim, vol.4 p.376, Talkhees al-Mustadrak by
 ath-Thahabi.
-[^2]: P.30-.
+[^2] P.30-.
 
 (323)
 
@@ -559,10 +559,10 @@ People were afflicted with confusion, fickleness and
 
 --------------------------------------------------------------------------------
 
-[^1]: Darrah is a dry bunch of dates (after losing its fruits).
-[^2]: Sharh Nahjol Balagha, vol. 1 p.60. Al-Hajjaj was a tyrant emir of
+[^1] Darrah is a dry bunch of dates (after losing its fruits).
+[^2] Sharh Nahjol Balagha, vol. 1 p.60. Al-Hajjaj was a tyrant emir of
 the Umayyad state.
-[^3]: Sharh Nahjol Balagha, vol. 1 p.134.
+[^3] Sharh Nahjol Balagha, vol. 1 p.134.
 
 (325)
 
@@ -605,10 +605,10 @@ because he was the trustee of this umma[^4] and if Salim, the
 
 --------------------------------------------------------------------------------
 
-[^1]: Sharh Nahjol Balagha, vol. 1.
-[^2]: Referring to horrible event that Imam Ali (s) disliked to mention
+[^1] Sharh Nahjol Balagha, vol. 1.
+[^2] Referring to horrible event that Imam Ali (s) disliked to mention
 openly.
-[^3]: On Wednesday, four days before the end of Thul Hijja, 23 A.H. and
+[^3] On Wednesday, four days before the end of Thul Hijja, 23 A.H. and
 he died three days after that and then he was buried on Sunday. [^4] If
 Abu Ubayda was the trustee of this umma, then Imam Ali (s) was worthier
 of the umma than itself as they had known well. Umar himself had
@@ -648,7 +648,7 @@ the matter
 
 --------------------------------------------------------------------------------
 
-[^1]: I do not think that he has forgotten his coming back with the
+[^1] I do not think that he has forgotten his coming back with the
 banner after the coming back of his friend (Abu Bakr) from Khaybar
 defeated and sorrowful and I do not think that he has forgotten the good
 news of the Prophet (s) to Imam Ali (s), who has obtained the great
@@ -657,7 +657,7 @@ victory, nor has he forgotten the saying of the Prophet (s) on that day:
 grant victory. He loves Allah and His messenger and Allah and His
 messenger love him.”
 
-[^2]: Umar’s slighting the bloods of these men might encourage the
+[^2] Umar’s slighting the bloods of these men might encourage the
 killers of Othman to slight his blood and might encourage the Kharijites
 to slight the bloods of Imam Ali (s) and his companions on the days of
 al-Jamal, al-Basra, an-Nahrawan and Siffeen
@@ -690,17 +690,17 @@ when fighting him and killing him later on and encouraged Yazeed to
 slight the blood of the master of the martyrs Imam Husayn (s) in Kerbala
 for Umar was the example especially for those people with no doubt!
 
-[^1]: Umar’s covenant of Shura in this way as we have summarized is
+[^1] Umar’s covenant of Shura in this way as we have summarized is
 proved by the recurrent traditions that have been mentioned by all the
 historians and scholars of Hadith. Refer to al-Kamil by ibn al-Atheer,
 vol.3, the events of the year 23 of hijra, Tareekh al-Umam wel Mulook by
 by ibn Jareer, the events of 23 A.H., Sharh Nahjol Balagha, vol. 1 p.62
 and the rest of the books of history.
 
-[^2]: To see how Umar has described them, refer to Sharh Nahjol Balagha,
+[^2] To see how Umar has described them, refer to Sharh Nahjol Balagha,
 vol.1 p.72 and you will find wonders!
 
-[^3]: Therefore Imam Ali (s) said: “It (the caliphate) gone away from
+[^3] Therefore Imam Ali (s) said: “It (the caliphate) gone away from
 us.” His uncle al-Abbas said-as in al-Kamil by ibn al-Atheer and Tareekh
 al-Umam wel Mulook by ibn Jareer: “…how did you know?” Imam Ali (s)
 said: “Othman has been compared to me…they are with the majority; if two
@@ -742,22 +742,22 @@ followers, who had supported him on the day of the Saqeefa. It was him
 
 --------------------------------------------------------------------------------
 
-[^1]: In spite of that Allah has strongly prohibited shedding bloods in
+[^1] In spite of that Allah has strongly prohibited shedding bloods in
 the clear verses of the Qur'an and it has been prohibited by the
 prophetic traditions and by the consensus of the umma.
 
-[^2]: Al-Istee’ab by ibn Abdul Birr, biography of Salim.
+[^2] Al-Istee’ab by ibn Abdul Birr, biography of Salim.
 
-[^3]: Many scholars have declared the consensus on this matter such as
+[^3] Many scholars have declared the consensus on this matter such as
 an-Nawawi in his book Sharh Sahih Muslim, chap. of Imamate.
 
-[^4]: They justified that by saying that Umar had said that as an ijtihad
+[^4] They justified that by saying that Umar had said that as an ijtihad
 by him due to his own opinion. Among those who have mentioned this
 excuse was ibn Abdul Birr in his book al-Istee’ab. Refer to that to see
 that they were indifferent to the legal verdicts and the clear texts of
 Allah and His messenger.
 
-[^5]: Abu Bakr Ahmad bin Abdul Aziz al-Jawhari mentioned in his book
+[^5] Abu Bakr Ahmad bin Abdul Aziz al-Jawhari mentioned in his book
 Kitab as-Saqeefa a long tradition which also has been mentioned by ibn
 Abul Hadeed in Sharh Nahjol
 
@@ -789,12 +789,12 @@ came out to them with his sword. Umar said: “Arrest the dog!” Salama bin
 Aslam jumped to him (to az-Zubayr) and took the sword from his hand and
 threw it against the wall…”
 
-[^1]: Imam Ali (s) had lead his few companions in offering the prayer of
+[^1] Imam Ali (s) had lead his few companions in offering the prayer of
 funerals for Fatima (s) and Abu Bakr had not been allowed (or even
 informed) to offer the prayer for her. Refer to Sahih of al-Bukhari,
 vol.2 p.39 and Sahih of Muslim, vol.2 p.72.
 
-[^2]: Once Umar said from above the minbar in a long speech he made: “…I
+[^2] Once Umar said from above the minbar in a long speech he made: “…I
 have been informed that someone of you has said: “by Allah, if Umar
 dies, I will pay homage to so-and-so.” Let no one be deceived to say
 such a thing. By Allah, the homage of Abu Bakr was a slip…but Allah has
@@ -806,9 +806,9 @@ accomplished.” This saying reached Umar, who became very angry and then
 he made that speech. Such was what all the scholars, who had explained
 Sahih of al-Bukhari, mentioned in their books.
 
-[^3]: Taym was the tribe of Abu Bakr, the father of Aa’isha.
+[^3] Taym was the tribe of Abu Bakr, the father of Aa’isha.
 
-[^4]: All the historians have mentioned that she had incited people
+[^4] All the historians have mentioned that she had incited people
 against Othman. One of her coevals blamed her by reciting the following
 verses of poetry:
 
@@ -839,7 +839,7 @@ restore what had been corrupted.
 You have ordered the emir to be killed, And said to us that he has
 disbelieved! Refer to al-Kamil by ibn al-Atheer, vol.3 p.8.
 
-[^1]: Abu Othman mentioned in the book of as-Sufyaniyya as I Sharh Nahjol
+[^1] Abu Othman mentioned in the book of as-Sufyaniyya as I Sharh Nahjol
 Balagha, vol. 1 p.62 that Ma’mar bin Sulayman at-Tameemi narrated from
 his father from Sa’eed bin al-Musayyab that ibn Abbas had said: “I have
 heard Umar saying to the men of the Shura: “If you cooperate, support
@@ -884,7 +884,7 @@ point! He knew well the position of these
 
 --------------------------------------------------------------------------------
 
-[^1]: On the day of the Shura, Umar had said to Othman: “As if I see that
+[^1] On the day of the Shura, Umar had said to Othman: “As if I see that
 Quraysh has entrusted you with this matter (the caliphate) and then you
 will make bani Umayya (the Umayyads) and bani Ma’eet over the necks of
 people and will preferred them to the others with the wealth and then a

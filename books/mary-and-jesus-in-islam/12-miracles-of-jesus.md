@@ -24,7 +24,7 @@ When Jesus and his mother, peace be upon both of them, came out
 wandering about in the land, they left the Children of Israel behind and
 came to a villager who hosted them and was very kind to them. The
 
-[^1]: The discreet reader realizes that reference to Egypt does not mean
+[^1] The discreet reader realizes that reference to Egypt does not mean
 today's Egypt. We are talking not about now but about two thousand years
 ago. At that time, Egypt was a “superpower” that had extended its
 domination to a large part of its contemporary world. This statement
@@ -73,7 +73,7 @@ loved him more than anyone else. The king said, “A man who invokes Allah
 to turn water into wine and Allah answers his plea is surely capable of
 bringing my son back to life.” Jesus was brought to
 
-[^1]: This incident can be found in the Bible. Some Christians find no
+[^1] This incident can be found in the Bible. Some Christians find no
 harm in wine drinking, basing their argument on Jesus turning water into
 wine, but little do they consider the fact that Jesus never drank that
 particular wine at that particular time nor at any other time and we,
@@ -155,7 +155,7 @@ The next morning, he said to his host, “Go to the king's palace and
 tell him that you had come to ask for his daughter's hand. He will order
 to have you
 
-[^1]: These Gospels have continuously been undergoing changes, editings,
+[^1] These Gospels have continuously been undergoing changes, editings,
 distortions, additions, deletions, linguistic variations,
 mis-translations, etc. due to errors in translation, sectarian biases
 and prejudices and other factors. The only Gospel accepted by Muslims as
@@ -255,7 +255,7 @@ During the lifetime of Jesus Christ, nine cities were flourishing on its
 shores. Some of the disciples of Christ, the fishermen, were from that
 area.
 
-[^2]: Jesus Christ had a most beautiful and attractive conduct and a
+[^2] Jesus Christ had a most beautiful and attractive conduct and a
 brilliant sense of humour. This quotation testifies to this fact.
 
 (86)

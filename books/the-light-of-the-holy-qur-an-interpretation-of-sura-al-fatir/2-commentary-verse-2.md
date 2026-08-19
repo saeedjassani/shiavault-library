@@ -36,7 +36,7 @@ hurt, none can remove it but Him. And if He intends any good for you,
 none can repel His favour. He causes it to reach whomsoever of His
 servants He pleases, and He is the Forgiving, the Merciful.” [^1]
 
-[^1] Sura Yu-nus, No. 10, verse 107
+[^1]: Sura Yu-nus, No. 10, verse 107
 
 **Commentary : Verse 3**
 

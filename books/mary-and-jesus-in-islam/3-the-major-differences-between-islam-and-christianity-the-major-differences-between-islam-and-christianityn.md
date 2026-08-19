@@ -149,7 +149,7 @@ constantly pressured by “Christian” Western politicians to keep people
 away from Islam, to encourage the opening of more bars and night clubs
 and the closing of more mosques and religious centers.
 
-[^1]: Westerners seldom acknowledge Muslims' contributions to science and
+[^1] Westerners seldom acknowledge Muslims' contributions to science and
 technology. One is tempted to say that they are ingrates by nature.
 During my stay in the U.S., I noticed that the best minds in the U.S.
 are not American, and that the Americans do not work as hard as
@@ -180,5 +180,5 @@ presented to the reader in brief. Now let us research the life of Jesus
 and his saintly mother, starting from the latter, then learn something
 about the Bible, its authors and message.
 
-[^1]: This is the statement of Canon Barnes.
+[^1] This is the statement of Canon Barnes.
 

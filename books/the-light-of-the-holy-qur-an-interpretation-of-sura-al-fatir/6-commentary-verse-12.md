@@ -175,11 +175,11 @@ of lifetime. …” [^2]
 poverty and increase life-time, and prevent seventy kinds of evil
 death.” [^3]
 
-[^1]: The Commentary of Nu-r-uth-Thaqalayn, Vol. 4, PP. 354-355
+[^1] The Commentary of Nu-r-uth-Thaqalayn, Vol. 4, PP. 354-355
 
-[^2]: Ibid
+[^2] Ibid
 
-[^3]: Safi-nat-ul-Bih)a-r, Vol. 2, P. 23
+[^3] Safi-nat-ul-Bih)a-r, Vol. 2, P. 23
 
 There are also some indications in Islamic narrations concerning some
 other sins, such as injustice, and sins in absolute. Some of the
@@ -214,7 +214,7 @@ alms-giving in the cause of Allah, or union of kindred cause the length
 of lifetime to be prolonged and pests to be removed, in fact, they
 depend on these very factors.
 
-[^1]: 'A-lu-si-, the Commentary, Vol. 22, P. 164
+[^1] 'A-lu-si-, the Commentary, Vol. 22, P. 164
 
 And if we do not separate these two kinds of the term of death from
 each other, the comprehension of many of the issues in relation with
@@ -326,7 +326,7 @@ the accurate movements of the sun and the moon with all their favours.
 
 The verse continues again saying:
 
-[^1]: The Commentary of Rauh-ul-Baya-n, and Abul-Futu-h-i-Ra-zi-
+[^1] The Commentary of Rauh-ul-Baya-n, and Abul-Futu-h-i-Ra-zi-
 
 “… to Him belongs the kingdom, and those whom you call upon, apart from
 Him, possess not (so much as) the skin of a date-stone.”

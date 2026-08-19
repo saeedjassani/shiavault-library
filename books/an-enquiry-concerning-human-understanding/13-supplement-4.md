@@ -234,7 +234,7 @@ civil magistrate, and determined enemies to those opinions, in whose
 favour the miracles were said to have been wrought, ever able distinctly
 to refute or detect them.
 
-[^5]: Where shall we find such a number of circumstances, agreeing to the
+[^5] Where shall we find such a number of circumstances, agreeing to the
 corroboration of one fact? And what have we to oppose to such a cloud of
 witnesses, but the absolute impossibility or miraculous nature of the
 events, which they relate? And this surely, in the eyes of all
@@ -400,7 +400,7 @@ no less so, everything that is to be found in the writers of natural
 magic or alchimy, or such authors, who seem, all of them, to have an
 unconquerable appetite for falsehood and fable.
 
-[^7]: I am the better pleased with the method of reasoning here
+[^7] I am the better pleased with the method of reasoning here
 delivered, as I think it may serve to confound those dangerous friends
 or disguised enemies to the Christian Religion, who have undertaken to
 defend it by the principles of human reason. Our most holy religion is
@@ -453,9 +453,9 @@ in his own person, which subverts all the principles of his
 understanding, and gives him a determina- tion to believe what is most
 contrary to custom and ex- perience.
 
-[^1]: Plutarch, in vita Catonis.
+[^1] Plutarch, in vita Catonis.
 
-[^2]: No Indian, it is evident, could have experience that water did not
+[^2] No Indian, it is evident, could have experience that water did not
 freeze in cold climates.
 
 This is placing nature in a situation quite unknown to him; and it is
@@ -483,7 +483,7 @@ The inhabitants of Sumatra have always seen water fluid in their own
 climate, and the freezing of their rivers ought to be deemed a prodigy:
 But they never saw water in Muscovy during the winter; and therefore
 they cannot reasonably be positive what would there be the consequence.
-[^3]: Sometimes an event may not, in itself, seem to be contrary to the
+[^3] Sometimes an event may not, in itself, seem to be contrary to the
 laws of nature, and yet, if it were real, it might, by reason of some
 circum- stances, be denominated a miracle; because, in fact, it is
 contrary to these laws.
@@ -512,13 +512,13 @@ raising of a feather, when the wind wants ever so little of a force
 requisite for that purpose, is as real a miracle, though not so sensible
 with regard to us.
 
-[^4]: Hist.
+[^4] Hist.
 
-[^5]: By Mons.
+[^5] By Mons.
 
 Montgeron, counsellor or judge of the Parliament of Paris.
 
-[^6]: Lucret.
+[^6] Lucret.
 
-[^7]: Nov.
+[^7] Nov.
 

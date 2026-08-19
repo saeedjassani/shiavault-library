@@ -505,7 +505,7 @@ words that necessity, which we have already avowed, in every
 deliberation of our lives, and in every step of our conduct and
 behaviour.
 
-[^1]: But to proceed in this reconciling project with regard to the
+[^1] But to proceed in this reconciling project with regard to the
 question of liberty and necessity; the most contentious question of
 metaphysics, the most contentious science; it will not require many
 words to prove, that all mankind have ever agreed in the doctrine of
@@ -554,7 +554,7 @@ a defi- nition of cause, exclusive of these circumstances, will be
 obliged either to employ unintelligible terms or such as are synonymous
 to the term which he endeavours to define.
 
-[^2]: And if the definition above mentioned be admitted; liberty, when
+[^2] And if the definition above mentioned be admitted; liberty, when
 opposed to necessity, not to constraint, is the same thing with chance;
 which is universally allowed to have no existence.
 

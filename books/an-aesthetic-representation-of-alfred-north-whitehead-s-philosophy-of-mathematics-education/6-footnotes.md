@@ -3,7 +3,7 @@ FOOTNOTES
 
 ------------------------------------------------------------------------
 
-[^1]: A. N. Whitehead believes education should achieve automaticity so
+[^1] A. N. Whitehead believes education should achieve automaticity so
 that the mind is free to study higher-level problems (Ocken, 2007). He
 disagreed with the idea that people must always think about what they
 are doing. He believed thought is useful only at decisive moments
@@ -11,7 +11,7 @@ are doing. He believed thought is useful only at decisive moments
 which results from concentration and elimination of the irrelevant
 (Whitehead, 1938d).
 
-[^2]: The book, with no numbers and no practical problems, is a reference
+[^2] The book, with no numbers and no practical problems, is a reference
 to Alfred Whitehead’s unsuccessful effort with Bernard Russell to reduce
 mathematics to logic in Principia Mathematica (1910). Despite all their
 effort to put certainty back into the foundations of mathematics, the
@@ -23,18 +23,18 @@ causing a change in his brother’s mind. The brother was unaware of that
 change, and for him the book was only a source to understand the static
 matter-of-fact world around him.
 
-[^3]: Both real numbers and natural numbers are infinitely large, as well
+[^3] Both real numbers and natural numbers are infinitely large, as well
 as the daisies and the real numbers in the number plane. Cantor showed
 that the real numbers’ infinity is larger than the infinity of natural
 numbers. Interested readers may want to read Dauben (1979) who opposed
 that actual infinity is an expression of any sort of reality.
 
-[^4]: A. N. Whitehead’s process philosophy considers life as an organic
+[^4] A. N. Whitehead’s process philosophy considers life as an organic
 entity. The reality (and learning) is beauty-centered and holistic
 (Ernest, 2000). At this point, Ali sees the world as composed of
 disconnected bodies that are in constant competition with each other.
 
-[^5]: Rabbit’s inability to talk explains why A.N. Whitehead thinks
+[^5] Rabbit’s inability to talk explains why A.N. Whitehead thinks
 failure of language is the great problem of philosophy in the finite
 world (1938c). This relates to our inability to express concepts of the
 infinite world (where important things come from) by using the tools of
@@ -50,13 +50,13 @@ ability to express himself as humans do. The only communication tool
 that remained was what he used to have in his original world - speaking
 without uttering words.
 
-[^6]: Understandably, Ali doubts the reality of the rabbit as he has not
+[^6] Understandably, Ali doubts the reality of the rabbit as he has not
 met a talking rabbit before. Utilizing such a knowledge that is not
 connected to past experiences is a difficult task for Ali. A. N.
 Whitehead formulizes this by saying, “each actual occasion is a
 distillation of the totality of the past (McMahon, 1999, chap. 3)”.
 
-[^7]: A. N. Whitehead (1938a) explains the notion of importance as the
+[^7] A. N. Whitehead (1938a) explains the notion of importance as the
 “interest, involving [the] intensity of individual feeling which leads
 to publicity of expression” (p. 11). Ali’s interest in the story is to
 build a daisy chain, which is a definitely the way he chose to express
@@ -77,11 +77,11 @@ by individual interest. A. N. Whitehead’s education connects the finite
 with the infinite, and aims to bring importance and interest together in
 the classroom.
 
-[^8]: (Whitehead, 1938b, p.28)
+[^8] (Whitehead, 1938b, p.28)
 
-[^9]: (Whitehead, 1938b, p.28)
+[^9] (Whitehead, 1938b, p.28)
 
-[^10]: This reflects the organic connectedness of everything in the
+[^10] This reflects the organic connectedness of everything in the
 changing temporal world. According to A. N. Whitehead (1938a, p 30)
 “human body is that region of the world which is the primary field of
 human expression”, thus the correct answer to who or what we are should
@@ -89,13 +89,13 @@ be in whatever way we express ourselves. Because our body and mind are
 in constant change, each of the atoms within our body has been, and will
 be, a part of something else.
 
-[^11]: Evangelista Torricelli is the inventor of Gabriel's Horn figure
+[^11] Evangelista Torricelli is the inventor of Gabriel's Horn figure
 which has infinite surface area, but finite volume. The name refers to
 the Archangel Gabriel who blows the horn to announce Judgment Day. In
 the story, it is the metaphorical connection between the finite and the
 infinite worlds.
 
-[^12]: A. N. Whitehead claims “language is thought, and that thought is
+[^12] A. N. Whitehead claims “language is thought, and that thought is
 language,” (1938b) and it is the first step to achieve in the precision
 stage of a child’s cyclic growth after the initial romance period. Ali’s
 interest to build an infinitely large daisy chain was the first step in
@@ -106,9 +106,9 @@ in order to reach the stage of generalization. Such a language doesn’t
 exist in the temporal world, but the ripples of his words with this
 perfect language will help him reach the final stage.
 
-[^13]: (Whitehead, 1985, p. 346).
+[^13] (Whitehead, 1985, p. 346).
 
-[^14]: This “…is a rhyme which fits onto the tradition respecting Dr.
+[^14] This “…is a rhyme which fits onto the tradition respecting Dr.
 Whewell, who was Master of Trinity College, Cambridge, about eighty
 years ago. The rhyme is well-known, and runs thus:
 
@@ -130,15 +130,15 @@ education is, “…the acquisition of the art of the utilization of
 knowledge”. As his definition suggests, the role of the teacher is to
 teach how to learn this art.
 
-[^15]: As this is not the real world, no such teacher exists in the
+[^15] As this is not the real world, no such teacher exists in the
 temporal world. I am in no way implying that the teachers should play
 the role of God as the source of knowledge. I assume the sarcasm in
 these sentences is clear, as it targets those teachers who are very much
 fond of such a role.
 
-[^16]: (Whitehead, 1938c, p. 60)
+[^16] (Whitehead, 1938c, p. 60)
 
-[^17]: A. N. Whitehead (1929) claims, “[the] present contains all that
+[^17] A. N. Whitehead (1929) claims, “[the] present contains all that
 there is. It is the holy ground; for it is the past, and it is the
 future”. According to him, this is the type of knowledge we should be
 providing to our children, instead of teaching depreciation of the
@@ -150,7 +150,7 @@ experiences to their own lives, and learn from the process. A. N.
 Whitehead believes any other type of knowledge of the past is a deadly
 harm to the minds of our students.
 
-[^18]: Squaring the circle is the historical challenge of constructing a
+[^18] Squaring the circle is the historical challenge of constructing a
 square with the same area as a given circle by using only a finite
 number of steps with compass and ruler. Informally, one can also claim
 that Ali’s job of making a daisy chain with an infinite radius is
@@ -160,7 +160,7 @@ work on squaring the circle. It was much later proven that this task is
 not possible because the number pi was proved to not be an algebraic
 irrational number.
 
-[^19]: Ernest (2000) describes A. N. Whitehead’s notion of organic
+[^19] Ernest (2000) describes A. N. Whitehead’s notion of organic
 connectedness of all things as an inspiration to ecological philosophers
 which “posits human knowing and human culture as an open-ended
 phenomenon” (p. 226). According to A. N. Whitehead, various forms of
@@ -169,7 +169,7 @@ combination. The student doesn’t need to be taught too many subjects;
 but what is taught should be taught thoroughly. The most important
 subject matter of knowledge should be life itself (Whitehead, 1929).
 
-[^20]: A. N. Whitehead believes that uniform external examination is a
+[^20] A. N. Whitehead believes that uniform external examination is a
 deadly practice because there will always be some issues that are not
 covered by the individual teacher of the pupil, which will mean tricking
 the student. On the contrary, the educational system proposed by A N.
@@ -183,7 +183,7 @@ and skills. Humans are social beings, and each of them is a part of a
 culture; you cannot postpone life until you have sharpened their minds
 (Whitehead, 1929)..
 
-[^21]: As Ali gained the automaticity of basic knowledge and gained an
+[^21] As Ali gained the automaticity of basic knowledge and gained an
 understanding of the well-connectedness of life around him, it is now
 time for him to go back to his own world. At this time, he completed the
 precision stage, and is ready to apply his knowledge to further

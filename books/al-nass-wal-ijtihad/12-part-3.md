@@ -62,22 +62,22 @@ the truth in our books; al-Fusool al-Muhimma (the important chapters),
 Masa’il Fiqhiyya (juristic questions), The Answers of Musa Jarallah and
 what has been published in al-Irfan
 
-[^1]: Ar-Razi protested, in his book at-Tafseer al-Kabeer when talking
+[^1] Ar-Razi protested, in his book at-Tafseer al-Kabeer when talking
 about the verse (Then as to those whom you profit by, give them their
 dowries as appointed( against prohibiting temporary marriage by Umar.
 
-[^2]: Vol.1 p.467.
+[^2] Vol.1 p.467.
 
-[^3]: This saying shows clearly that prohibiting temporary marriage has
+[^3] This saying shows clearly that prohibiting temporary marriage has
 not been determined before Umar.
 
-[^4]: Would that someone knows if this word could justify a way to
+[^4] Would that someone knows if this word could justify a way to
 prohibit temporary marriage! Had Umar thought that this matter concerned
 the Prophet (s) especially or concerned his time only? Certainly not!
 Lawful things of Muhammad are lawful until the Day of Resurrection and
 his unlawful things are unlawful until the Day of Resurrection.
 
-[^5]: Stoning is one of the punishments of the Heaven which cannot be
+[^5] Stoning is one of the punishments of the Heaven which cannot be
 legislated except by a prophet. One, who believes in the permissibility
 of temporary marriage, has concluded its decree from the Book and the
 Sunna. If he is right in his conclusion, he cannot be blamed and if he
@@ -103,7 +103,7 @@ caliph.[^1]
 We have just intended to show the truth in our study on this subject.
 Our evidences have been derived from the Book, the Sunna and the
 
-[^1]: Among them was Abdul Melik bin Abdul Aziz bin Jurayj Abu Khalid
+[^1] Among them was Abdul Melik bin Abdul Aziz bin Jurayj Abu Khalid
 al-Mekki who was one of the famous scholars among the companions’
 successors. Ibn Khillikan mentioned his biography in his book wafiyyat
 al-A’yan, ibn Sa’d in his Tabaqat, vol.5 p.361 , ibn al-Qaysarani in his
@@ -168,9 +168,9 @@ any value for the (false) tradition narrated by Muhammad bin Khalid bin
 Abdullah al-Wasiti from his father from Abdurrahman bin Isshaq from
 az-Zuhri from Salim that his father
 
-[^1]: Azan is the call for the prayers (in their times).
-[^2]: Vol.1 p.25.
-[^3]: Hayya alal falah.
+[^1] Azan is the call for the prayers (in their times).
+[^2] Vol.1 p.25.
+[^3] Hayya alal falah.
 
 (228)
 
@@ -250,9 +250,9 @@ aware of his inners!
 The Prophet (s) had said a word about three men; Abu Mahthoora, Abu
 Hurayra and Samra bin Jundub. He warned them by saying:
 
-[^1]: When the Muslims conquered Mecca, the Prophet (s) forgave the
+[^1] When the Muslims conquered Mecca, the Prophet (s) forgave the
 polytheists and set them free.
-[^2]: Refer to al-Issaba, Abu Mahthoora’s biography.
+[^2] Refer to al-Issaba, Abu Mahthoora’s biography.
 
 (230)
 
@@ -289,9 +289,9 @@ remaining one after the two would be the one whom the Prophet (s) had
 meant by his saying and so the saying of the Prophet (s) would not be
 general or ambiguous.
 
-[^1]: Refer to Samra’s biography in al-Istee’ab, al-Isaba and other
+[^1] Refer to Samra’s biography in al-Istee’ab, al-Isaba and other
 books.
-[^2]: As it is well-known by whoever studies their affairs after this
+[^2] As it is well-known by whoever studies their affairs after this
 threat.
 
 (231)
@@ -327,7 +327,7 @@ this bad surprise; but it had been revealed to him by Allah to warn the
 umma against these men and their likes. (Nor does he speak out of
 desire. It is naught but revelation that is revealed).
 
-[^1]: Some historians said that Samra had died in the year fifty-eight of
+[^1] Some historians said that Samra had died in the year fifty-eight of
 hijra and Abu Hurayra in fifty-nine whereas other historians said that
 Abu Hurayra had died in fifty-seven of hijra and so on for the three of
 them. As for the alike dates, some historians said that the three of
@@ -370,8 +370,8 @@ as Abdullah bin Zayd will instruct you!” Then Bilal announced the
 azan…”[^2] Muhammad bin Abdullah bin Zayd al-Ansari said that his
 father
 
-[^1]: A prerequisite call to the prayer.
-[^2]: It has been mentioned by Abu Dawood in his Sunan, vol.1 chap. Start
+[^1] A prerequisite call to the prayer.
+[^2] It has been mentioned by Abu Dawood in his Sunan, vol.1 chap. Start
 of Azan and it has been mentioned in many other books of Hadith. The
 Sunni scholars have considered it as a true tradition.
 
@@ -408,13 +408,13 @@ that I have seen like what he has seen…”[^2]
 Malik abbreviated the tradition in his Muwatta’. He mentioned that
 Yahya bin Sa’eed had said: “The Prophet (s) wanted to use two pieces
 
-[^1]: This azan-as the narrators, who had narrated this tradition from
+[^1] This azan-as the narrators, who had narrated this tradition from
 Abdullah bin Zayd, claimed-was the first azan in Islam. As you see, it
 does not have “prayer is better than sleeping” although it was for Fajr
 prayer. Then wherefrom has it come to be a part of the azan, O you
 Muslims?!
 
-[^2]: Mentioned by Abu Dawood as-Sajistani in his Sunan, at-Tarmithi in
+[^2] Mentioned by Abu Dawood as-Sajistani in his Sunan, at-Tarmithi in
 his Sahih, ibn Hayyan in his Sunan, ibn Khuzayma in his Sunan, ibn Maja
 in his Sunan and other scholars of Hadith.
 
@@ -453,15 +453,15 @@ disobey my Lord, the punishment of a mighty day. Qur'an, 10:15” and
 “Say: I am not the first of the messengers, and I do not know what will
 be done with me or with you: I do not follow
 
-[^1]: Az-Zarqani said in his book Sharh al-Muwatta’ when commenting on
+[^1] Az-Zarqani said in his book Sharh al-Muwatta’ when commenting on
 this tradition: “It is the bell; a long piece of wood that is beaten
 with a smaller one to produce sound.” Az-Zarqani here has a noticeable
 comment on the tradition of Abdullah bin Zayd. I ask the researchers to
 refer to Sharh al-Muwatta’, vol.1 p.120-125.
 
-[^2]: For details, refer to Sharh al-Muwatta’ by az-Zarqani.
+[^2] For details, refer to Sharh al-Muwatta’ by az-Zarqani.
 
-[^3]: Sharh al-Muwatta’ by az-Zarqani.
+[^3] Sharh al-Muwatta’ by az-Zarqani.
 
 (235)
 
@@ -541,7 +541,7 @@ They mentioned in their Sahihs that Umar had said: “The Muslims, when
 they had come to Medina, gathered together and assigned the time of
 prayer without calling. One day
 
-[^1]: In his Seera, vol.2 chap. Azan.
+[^1] In his Seera, vol.2 chap. Azan.
 
 (237)
 
@@ -620,8 +620,8 @@ Then Allah revealed these verses to the Prophet (s) because Abu Bakr and
 Umar had preceded the Prophet (s) and hastened in giving their
 opinions
 
-[^1]: Al-Mustadrak, vol.4 p.348.
-[^2]: Sahih of al-Bukhari, vol.3 p.127.
+[^1] Al-Mustadrak, vol.4 p.348.
+[^2] Sahih of al-Bukhari, vol.3 p.127.
 
 (239)
 
@@ -702,7 +702,7 @@ make us among those who distort the bright facts especially those of the
 laws of Allah, His Sharia and His signs. Eighth: the Sunni’s traditions
 about the start of azan and iqama
 
-[^1]: Da’iy as-Sama’ (the caller of Heaven) by Professor al-Aqqad,
+[^1] Da’iy as-Sama’ (the caller of Heaven) by Professor al-Aqqad,
 p.136-142.
 
 (241)

@@ -41,7 +41,7 @@ ritual ablution well!” Then they calmly turned to the old man and
 appointed him as an arbitrator between them. They said to him: “O
 Sheikh
 
-[^1]: Mandir, Psychology in Life.
+[^1] Mandir, Psychology in Life.
 
 (i.e., an old man), each of us will perform the ritual ablution before
 you, and you decide which of the two ablutions is better.” They
@@ -89,7 +89,7 @@ Imam Ali (a.s) and he admired that and asked her:
 Imam Ali (a.s) hid himself in a corner of the house, that he might
 listen to his son. As usual al-Hasan came and told his mother about the
 verses of the
-[^1]: Bihar al-Anwar, vol. 10, p. 89.
+[^1] Bihar al-Anwar, vol. 10, p. 89.
 
 revelation he had memorized. He was unable to speak, so his mother
 asked him: “O my little son, why are you unable to speak?” “Mother, do
@@ -128,12 +128,12 @@ and he replied: “I heard him saying to some man: “Leave that which fills
 you with doubt for that which does not fill you with doubt. That is
 because evil is
 
-[^1]: Ibn Shahrashub, al-Manaqib, vol. 2, p. 148. Bihar al-Anwar, vol.
+[^1] Ibn Shahrashub, al-Manaqib, vol. 2, p. 148. Bihar al-Anwar, vol.
 10, p. 93.
-[^2]: Al-Turmidhi, Saheeh, vol. 1, p. 93. Ibn ‘Asakir, Tarikh, vol. 1, p.
+[^2] Al-Turmidhi, Saheeh, vol. 1, p. 93. Ibn ‘Asakir, Tarikh, vol. 1, p.
 20. Al-Hakim, Mustadrak, vol. 3, p. 172.
-[^3]: Usd al-Ghaba, vol. 2, p. 11.
-[^4]: Ibid. It is forbidden for Aal al-Bayt to take the obligatory alms
+[^3] Usd al-Ghaba, vol. 2, p. 11.
+[^4] Ibid. It is forbidden for Aal al-Bayt to take the obligatory alms
 such as Zakat and Zakat al-Fitra, and not the permissible alms.
 
 suspicion, and good is tranquility.”[^1]
@@ -155,13 +155,13 @@ the sake of the love for me, and honor him for the sake of honoring me.
 It is Gabriel that has told me from Allah, the great and Almighty, about
 what I told you.”[^2]
 
-[^1]: Al-Ya‘qubi, Tarikh, vol. 2, p. 20. In his book al-Musnad, vol. 1,
+[^1] Al-Ya‘qubi, Tarikh, vol. 2, p. 20. In his book al-Musnad, vol. 1,
 p. 200, Ahmed has mentioned: “He (al-Hasan), peace be on him, said: ‘I
 heard Allah’s Apostle (a.s.) say: ‘Leave that which fills you with doubt
 for that which does not fill you with doubt. That is because
 truthfulness is tranquility; and lying is suspicion.’”
 
-[^2]: Sheikh Muhammed Habeebullah al-Shanqeeti, Hayat Ali Bin Abi Talib,
+[^2] Sheikh Muhammed Habeebullah al-Shanqeeti, Hayat Ali Bin Abi Talib,
 p. 83. In his book al-Tasawuf al-Islami, vol. 1, p. 274, Dr. Zaki
 Mubarak has explained the criticisms for the faith of the Sufis in the
 master of the prophets, Muhammed (a.s.). He has said: “It is an act of

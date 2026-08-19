@@ -83,11 +83,11 @@ Apostle (a.s.). She died in the month of Ramadan at age of sixty-five.
 She was buried at al-Hijoon. This has been mentioned in the books Usd
 al-Ghaba, al-Isaba, al-Isti‘ab.
 
-[^1]: Is‘af al-Raghibeen. A narration similar to that has been narrated
+[^1] Is‘af al-Raghibeen. A narration similar to that has been narrated
 in Ahmed’s Musnad, vol. 6, p. 150, al-Isti‘ab, Usd al-Ghaba, al-Isaba,
 and Sinan Ibn Maja.
 
-[^2]: Ibn Hajar, al-Sawa‘iq, p. 96. In this book it has been mentioned:
+[^2] Ibn Hajar, al-Sawa‘iq, p. 96. In this book it has been mentioned:
 “Ali, peace be on him, asked Allah’s Apostle (a.s.): ‘Why has she been
 called Fatima?’ ‘Allah has protected her and her progeny from the Fire,’
 he (a.s.) replied.” Al-Hafiz Muhib al-Deen al-Tabari has mentioned the
@@ -141,16 +141,16 @@ The Prophet went too far in loving and respecting her, to the extent
 that when he wanted to travel, she should be the last one whom he
 visited before travel,
 
-[^1]: The tradition has been mentioned in the books Usd al-Ghaba,
+[^1] The tradition has been mentioned in the books Usd al-Ghaba,
 al-Isaba, Dhakha’ir al-‘Uqqba, p. 39.
-[^2]: Al-Hakim, Mustadrak, vol. 3, p.154.
-[^3]: Ibid., p. 157. Is‘af al-Raghibeen, p. 169.
-[^4]: Al-Hakim, Mustadrak, vol. 3, p. 157. Dhakha’ir al-‘Uqqba, p. 35. An
+[^2] Al-Hakim, Mustadrak, vol. 3, p.154.
+[^3] Ibid., p. 157. Is‘af al-Raghibeen, p. 169.
+[^4] Al-Hakim, Mustadrak, vol. 3, p. 157. Dhakha’ir al-‘Uqqba, p. 35. An
 addition to the narration has been mentioned in it, “It is worthy of
 saying the truth….” In the book al-Isti‘ab, it has been narrated on the
 authority of Burayda, who has said: “The most lovable (one) of the women
 to Allah’s Apostle (a.s.) was Fatim, of the men was Ali.”
-[^5]: Al-Sawa‘iq al-Muhriqa, p. 109.
+[^5] Al-Sawa‘iq al-Muhriqa, p. 109.
 
 and the first when he came back from travel. [^1]
 
@@ -184,8 +184,8 @@ he gave him an answer similar to that of his companion.[^3] When the
 Muslims came to know that the affair of Fatima al-Zahra’ was in the hand
 of Allah, and that the Prophet (a.s) had no
 
-[^1]: Al-Hakim, Mustadrak, vol. 3, p. 154.
-[^2]: In his book Fatima and Muhammed’s Daughters, Lamans, an
+[^1] Al-Hakim, Mustadrak, vol. 3, p. 154.
+[^2] In his book Fatima and Muhammed’s Daughters, Lamans, an
 orientalist, has written fallacies and wrong facts. Talking about Fatima
 (a.s.), he has said: “Her position in her father’s house was not
 apparently important. Rather, it was less than that of Aa’isha, Zaynab
@@ -199,7 +199,7 @@ already mentioned and on which the Muslims have agreed clearly indicate
 that the Prophet (a.s.) honored his daughter Fatimaa. However, Lamans
 has intended to distort Islam and to disparage its remarkable
 personalities.
-[^3]: Ibn Sa‘d, Tabaqat, vol. 8, p. 11. Tarikh al-Khamis, vol. 1, p. 407.
+[^3] Ibn Sa‘d, Tabaqat, vol. 8, p. 11. Tarikh al-Khamis, vol. 1, p. 407.
 Dhakha’ir al-‘Uqqba, p. 29.
 
 right to decide it, they refrained from asking him about that. After a
@@ -231,7 +231,7 @@ said to me: ‘O Allah’s Prophet, surely Allah recites you greetings and
 says to you: ‘I have married Fatima before the exalted chiefs (in the
 heaven); therefore, marry her to him (before those who
 
-[^1]: Some of those who have harbored malice against (Imam Ali), the
+[^1] Some of those who have harbored malice against (Imam Ali), the
 Commander of the faithful, explained that (Imam Ali) kept silent because
 he was afraid of that the Prophet would refuse him due to his poverty.
 This is an imaginary explanation, for the Prophet (a.s.) paid no
@@ -249,8 +249,8 @@ testamentary trustee (of authority), his helper, and his successor after
 him over his community. Imam Ali obtained this high position because of
 his great relationship with Allah.
 
-[^2]: Qur’an, 25, 54.
-[^3]: Nur al-Absar, p. 42. Kanz al-‘Ummal, vol. 6, p. 218. Al-Mustadrak,
+[^2] Qur’an, 25, 54.
+[^3] Nur al-Absar, p. 42. Kanz al-‘Ummal, vol. 6, p. 218. Al-Mustadrak,
 vol., 3, p. 153.
 
 are) on the earth.”[^1]
@@ -290,15 +290,15 @@ four hundred and eighty dirhams. He brought the money tied in the edge
 of his garment and put it before the Prophet (a.s).[^6] Shyness overcame
 him, for he knew that that
 
-[^1]: Majjma‘ al-Bayan (Beirut), vol. 9, p. 175.
-[^2]: Al-Khatib, al-Muttafaq. Al-Sayuti, Jama‘ al-Jawami‘, vol. 6, p.
+[^1] Majjma‘ al-Bayan (Beirut), vol. 9, p. 175.
+[^2] Al-Khatib, al-Muttafaq. Al-Sayuti, Jama‘ al-Jawami‘, vol. 6, p.
 398.
-[^3]: Kanz al-‘Ummal, vol. 6, p. 153.
-[^4]: Ahmed, Musnad, vol. 5, p. 26. Majjma‘ al-Zawa’id, vol. 6, p. 101.
+[^3] Kanz al-‘Ummal, vol. 6, p. 153.
+[^4] Ahmed, Musnad, vol. 5, p. 26. Majjma‘ al-Zawa’id, vol. 6, p. 101.
 Al-Riyad al-Nadira, vol. 2, p. 194.
-[^5]: Al-Manawi, Kunuz al-Haqa’iq, p. 124. Man la Yahdarahu al-Faqeeh,
+[^5] Al-Manawi, Kunuz al-Haqa’iq, p. 124. Man la Yahdarahu al-Faqeeh,
 vol. 3, p. 249.
-[^6]: Kanz al-‘Ummal, vol. 7, p. 114. In the book Tarikh al-Khamees, vol.
+[^6] Kanz al-‘Ummal, vol. 7, p. 114. In the book Tarikh al-Khamees, vol.
 1, p. 407: “ Ali sold his camel and some of his belongings and gave (the
 money) as a dower.” This narration opposes the famous one on which the
 Muslims have agreed, and that is dower was less than that which the poor
@@ -332,21 +332,21 @@ pleasures, eases and beautiful
 
 that he sold his breastplate and gave the money to Fatima as a dower.
 
-[^1]: In the books al-Mustadrak, vol. 3, p. 112 and al-Isti‘ab, vol. 3,
+[^1] In the books al-Mustadrak, vol. 3, p. 112 and al-Isti‘ab, vol. 3,
 p. 31, it has been mentioned that Muhammed (a.s.) was made a prophet on
 Monday, and Ali became a Muslim on Tuesday. The same narration has been
 mentioned in other books. The Muslims have unanimously agreed that he
 was the first to be a Muslim and to believe in the Prophet (a.s.).
 
-[^2]: Ibn Sa‘d, al-Tabaqat al-Kubra, vol. 8, p. 14. He has reported the
+[^2] Ibn Sa‘d, al-Tabaqat al-Kubra, vol. 8, p. 14. He has reported the
 narration through his chain of authorities on the authority Ja‘far bin
 Muhammed and his father, peace be on them.
 
-[^3]: Abu Na‘eem has reported the narration in his book Hulyat
+[^3] Abu Na‘eem has reported the narration in his book Hulyat
 al-Awliya’, vol. 3, p. 329. He has narrated it on the authority of
 ‘Ukrima.
 
-[^4]: Ahmed Ibn Hanbal, Musnad, vol. 1, p. 113. Kenz al-‘Ummal, vol. 7,
+[^4] Ahmed Ibn Hanbal, Musnad, vol. 1, p. 113. Kenz al-‘Ummal, vol. 7,
 p. 113. In his booked al-Mustadrak, vol. 2, p. 185, al-Hakim has said:
 
 “Allah’s Apostle (a.s.) prepared Fatimaa’s trousseau, which was velvet,
@@ -356,7 +356,7 @@ al-‘Uqqba, p. 35, it has been mentioned that Ali, peace be on him, said:
 it by night and gave food to al-Nadih (a camel used for watering) on it
 by day.”
 
-[^5]: Fatimaa and Muhammed’s Daughters.
+[^5] Fatimaa and Muhammed’s Daughters.
 
 things. He did not know that the position of the Prophet (a.s) was far
 above yielding to the sentiment of love leading to the embellishment of
@@ -400,9 +400,9 @@ and Exalted is His might, has made relationship by marriage as a
 following reason and an imposed command through which He has entwined
 relationships and made obligatory
 
-[^1]: Man la Yahdarahu al-Faqeeh, vol. 3, p. 243.
-[^2]: Tahdhib al-Ahkam, vol. 7, p. 366.
-[^3]: Muslim, Saheeh, vol. 1, p. 545.
+[^1] Man la Yahdarahu al-Faqeeh, vol. 3, p. 243.
+[^2] Tahdhib al-Ahkam, vol. 7, p. 366.
+[^3] Muslim, Saheeh, vol. 1, p. 545.
 
 on mankind. Allah, the Almighty, has said: ‘And He it is Who has
 created man from the water, then He has made for him blood relationship
@@ -442,13 +442,13 @@ said: “O Ali, it is necessary to give a banquet for the bride.”
 Accordingly, Sa‘d bin Ubada denoted a ram. The Ansar denoted measures of
 durra (corn).[^5] The
 
-[^1]: Qur’an, 25, 54.
-[^2]: Ibid., 13, 39.
-[^3]: Noor al-Absar, p. 42. The narration has been mentioned in a little
+[^1] Qur’an, 25, 54.
+[^2] Ibid., 13, 39.
+[^3] Noor al-Absar, p. 42. The narration has been mentioned in a little
 bit difference in the books al-Riyad al-Nadira, vol. 2, p. 183,
 Dhakha’ir al-Uqba, p. 29.
-[^4]: Dhakha’ir al-Uqba, p. 30. Al-Riyad al-Nadira, vol. 2, p. 181
-[^5]: Ibn Sa‘d, Tabaqat, vol. 8, p. 13. Usd al-Ghaba, vol. 5, p. 521. In
+[^4] Dhakha’ir al-Uqba, p. 30. Al-Riyad al-Nadira, vol. 2, p. 181
+[^5] Ibn Sa‘d, Tabaqat, vol. 8, p. 13. Usd al-Ghaba, vol. 5, p. 521. In
 the book Kanz al-‘Ummal, vol. 7, p. 114, it has been mentioned that
 Allah’s Apostle (a.s.) said: “It is necessary to give a banquet for the
 bride, and then he ordered a ram (to be Muslims were invited to have
@@ -494,13 +494,13 @@ and he poured the rest of the water between his two shoulders,
 supplicated for him, and said to him: “Come in to your wife in the name
 of Allah and His slaughtered) and gathered them around it.”
 
-[^1]: Ibn Sa‘d, Tabaqat, vol. 8, p. 14. It has been mentioned in al-Riyad
+[^1] Ibn Sa‘d, Tabaqat, vol. 8, p. 14. It has been mentioned in al-Riyad
 al-Nadira, vol. 2, p. 182 on the authority of Jabir, who said: “We
 attended the wedding of Ali. I have never seen a weeding better than it.
 We filled the house with perfume. We brought dates and oil , and then we
 ate of it.”
-[^2]: In another narration: “He poured the water upon her hands.”
-[^3]: Qur’an, 3, 36.
+[^2] In another narration: “He poured the water upon her hands.”
+[^3] Qur’an, 3, 36.
 
 blessing!”[^1] The women went to their houses. Asma’ bint Umays stayed.
 The Prophet (a.s) asked her: “Who are you?” “I am the one who will guard
@@ -525,9 +525,9 @@ pregnant. The Prophet (a.s) gave good news to her of giving birth to a
 male baby. That was when Umm al-Fadhl[^4] went to him and asked him to
 explain her dream. “I
 
-[^1]: Kanz al-‘Ummal, vol. 7, p. 114.
-[^2]: Al-Haythemi, Majjma‘, vol. 6, p. 207.
-[^3]: In the book Tarikh al-Khamees, vol. 1, p. 407, it has been
+[^1] Kanz al-‘Ummal, vol. 7, p. 114.
+[^2] Al-Haythemi, Majjma‘, vol. 6, p. 207.
+[^3] In the book Tarikh al-Khamees, vol. 1, p. 407, it has been
 mentioned: “Ali got engaged to Fatima in Ramadan, the second year A. H.
 and married her in Dhi al-Hijja.” In his book Murujj al-Dhahab, vol. 2,
 p. 187, al-Mas‘udi has mentioned: “Ali married Fatima, peace be on her,
@@ -543,7 +543,7 @@ the book Tabaqat al-Sahaba, vol. 8, p. 13. In the book Bihar al-Anwar,
 vol. 10, p. 4, it has been mentioned: “Fatimaa was ten years old and she
 died at the age of eighteen.”
 
-[^4]: Umm al-Fadhl was the wife of al-Abbas bin Abd al-Muttalib. Her name
+[^4] Umm al-Fadhl was the wife of al-Abbas bin Abd al-Muttalib. Her name
 was Lubaba. She was the daughter of al-Harith al-Hilali. She was the
 first woman after Khadija, may Allah be pleased with her, to believe in
 Islam. She was the sister of Maymuna, the wife of the Prophet (a.s.).

@@ -96,7 +96,7 @@ metaphorically to signify that the imams are the 'cushion', or source of
 justice, to whom all creatures must turn in all their affairs. (Editor's
 Note.)
 
-[^3] See Qur'an 2:58 and 7:161. See also Ayoub, M., The Qur'an and its
+[^3]: See Qur'an 2:58 and 7:161. See also Ayoub, M., The Qur'an and its
 Interpreters, pp.106-107. This is related on the authority of the fifth
 Imam al-Baqir, who said: "We are the gate of your hittah." See
 al-'Ayyashi, Abu 'n-Nadr Muhammad ibn Mas'ad as-Sulami as-Samarqandi,

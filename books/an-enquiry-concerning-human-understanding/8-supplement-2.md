@@ -65,7 +65,7 @@ this fancied experience has no authority when we thus apply it to
 subjects that lie entirely out of the sphere of ex- perience. But on
 this we shall have occasion to touch afterwards.
 
-[^5]: Secondly, I cannot perceive any force in the arguments on which
+[^5] Secondly, I cannot perceive any force in the arguments on which
 this theory is founded.
 
 We are ignorant, it is true, of the manner in which bodies operate on
@@ -85,7 +85,7 @@ Is it more difficult to conceive that motion may arise from impulse than
 that it may arise from volition? All we know is our profound ignorance
 in both cases.
 
-[^6]: PART II BUT to hasten to a conclusion of this argument, which is
+[^6] PART II BUT to hasten to a conclusion of this argument, which is
 already drawn out to too great a length: we have sought in vain for an
 idea of power or necessary connexion in all the sources from which we
 could suppose it to be derived.
@@ -264,8 +264,8 @@ world.
 This point of view we should endeavour to reach, and reserve the
 flowers of rhetoric for subjects which are more adapted to them.
 
-[^1]: Section II.
-[^2]: Mr.
+[^1] Section II.
+[^2] Mr.
 
 Locke, in his chapter of power, says that, finding from experience,
 that there are several new productions in matter, and concluding that
@@ -274,7 +274,7 @@ last by this reasoning at the idea of power. But no reasoning can ever
 give us a new, original, simple idea; as this philosopher himself
 confesses. This, therefore, can never be the origin of that idea.
 
-[^3]: It may be pretended, that the resistance which we meet with in
+[^3] It may be pretended, that the resistance which we meet with in
 bodies, obliging us frequently to exert our force, and call up all our
 power, this gives us the idea of force and power.
 
@@ -297,9 +297,9 @@ experience, though it can afford no accurate precise idea of power,
 enters very much into that vulgar, inaccurate idea, which is formed by
 it.
 
-[^4]: [three greek words] [^5] Section XII.
+[^4] [three greek words] [^5] Section XII.
 
-[^6]: I need not examine at length the vis inertiae which is so much
+[^6] I need not examine at length the vis inertiae which is so much
 talked of in the new philosophy, and which is ascribed to matter. We
 find by experience, that a body at rest or in motion continues for ever
 in its present state, till put from it by some new cause; and that a

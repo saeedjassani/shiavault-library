@@ -626,7 +626,7 @@ Answer: Looking at these types of photographs is not permitted. T
 
 **Notes:**
 
-[^2] Ahl al-Zhimmah are those Jews and Christians who, living under an
+[^2]: Ahl al-Zhimmah are those Jews and Christians who, living under an
 Islamic governemt, agree to pay the special Jizya tax. These Jews and
 Christians are protected under the Islamic Governement and their lives
 and property is sacrosanct and protected.

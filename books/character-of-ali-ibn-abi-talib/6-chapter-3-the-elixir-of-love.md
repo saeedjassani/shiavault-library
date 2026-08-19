@@ -155,5 +155,5 @@ Galen! (transl. Nicholson, bk.1, 1.23)
 [^7]: Hafiz
 [^8]: \`Al'amah Taba'taba'i
 [^9]: Rumi, Mathnavi
-[^10]: Adapted from Nicholson's translation of Rumi, Mathnavi, bk. 1
+[^10] Adapted from Nicholson's translation of Rumi, Mathnavi, bk. 1
 

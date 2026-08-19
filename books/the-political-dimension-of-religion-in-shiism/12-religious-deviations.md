@@ -446,15 +446,15 @@ profound form of deliverance."
 
 **References:**
 
-[^1]: Ayatullah Murtaza Mutahheri, Man and Universe, p.86
-[^2]: Imam Ali, Nahjol Balagha (compiled by Sayyid Shareef ar-Razi)
+[^1] Ayatullah Murtaza Mutahheri, Man and Universe, p.86
+[^2] Imam Ali, Nahjol Balagha (compiled by Sayyid Shareef ar-Razi)
 Sermon 197
-[^3]: Ayatullah Murtaza Mutahheri, Man and Universe, p.96
-[^4]: Al-Hakim, Al-Mustadrak, vol.3 p.109.
-[^5]: Ibid, vol.3 p.151; Ibn Hajar, Al-Sawaiq al-Muhriqah, pp. 184,234;
-[^6]: Kamal-ud-Din, p.445
-[^7]: Ayatullah Murtaza Mutahheri, Man and Universe, p.95
-[^8]: Al-Allamah as-Sayyid Muhammad Husayn at-Tabatabai, Al- Mizan, vol.
+[^3] Ayatullah Murtaza Mutahheri, Man and Universe, p.96
+[^4] Al-Hakim, Al-Mustadrak, vol.3 p.109.
+[^5] Ibid, vol.3 p.151; Ibn Hajar, Al-Sawaiq al-Muhriqah, pp. 184,234;
+[^6] Kamal-ud-Din, p.445
+[^7] Ayatullah Murtaza Mutahheri, Man and Universe, p.95
+[^8] Al-Allamah as-Sayyid Muhammad Husayn at-Tabatabai, Al- Mizan, vol.
 3 pp. 167,168
 [^9]: Ayatullah Murtaza Mutahheri, Man and Universe , p.85
 [^10]: Originally known as Torath Yahveh (instruction or moral law

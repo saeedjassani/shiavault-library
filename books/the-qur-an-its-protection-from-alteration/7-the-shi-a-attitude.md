@@ -95,5 +95,5 @@ are 6666 verses in the Qur'an. It is one more example of Muslims tragic
 carelessness towards the Qur'an.
 [^39]: al Hurr al Amili, Wasailu 'sh Shiah, vol. 3 (Kitabu 'l qadha: bab
 wujuhi 'l jam bayna 'l ahadithi 'l mukhtalifah), p. 380
-[^40]: Died in 1994.
+[^40] Died in 1994.
 

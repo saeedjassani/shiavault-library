@@ -697,7 +697,7 @@ with some villagers approached the Holy Prophet (s) and said:
 
 > لقد اتيناك وما لنا بعير يط لنا ولا صبيُ يعظ
 
-[^24]: [^25]  
+[^24] [^25]  
 *“We have come to you while we are neither having a camel with us to
 groan nor a child to sleep.”*
 

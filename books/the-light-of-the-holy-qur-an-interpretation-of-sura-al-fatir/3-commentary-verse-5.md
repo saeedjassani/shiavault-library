@@ -103,7 +103,7 @@ His enmity began from the first day of the creation of Adam. When Satan
 was rejected from the presence of Allah as the result of the lack of
 submission to the command of Allah
 
-[^1]: Tafsi-r-Nu-r-uth-Thaqalayn, following the verse
+[^1] Tafsi-r-Nu-r-uth-Thaqalayn, following the verse
 
 concerning prostration to Adam, he took an oath that he would be an
 enemy to Adam and his children for ever, and he even asked Allah a
@@ -171,7 +171,7 @@ party, and invites him toward Hell. The members of his party are those
 who are mentioned in some other verses of the Holy Qur’a-n and they have
 the following symptoms:
 
-[^1]: Safi-nat-ul-Biha-r, Vol. 1, P. 509
+[^1] Safi-nat-ul-Biha-r, Vol. 1, P. 509
 
 Those who have put the yoke of Satan’s servitude and friendship on
 their necks are as such: “His authority is only over those who befriend
@@ -201,9 +201,9 @@ punishment, the above verse suffices to the subject of disbelief, while
 for gaining ‘forgiveness and a great recompense’ it does not suffice to,
 ‘faith’ alone and adds ‘righteous deed’ to it,
 
-[^1]: Sura An-Nah)l, No. 16, verse 100
+[^1] Sura An-Nah)l, No. 16, verse 100
 
-[^2]: Sura Al-Muja-dalah, No. 58, verse 19
+[^2] Sura Al-Muja-dalah, No. 58, verse 19
 
 because only infidelity by itself causes a person to dwell eternally in
 Divine punishment, but having faith without good action does not cause

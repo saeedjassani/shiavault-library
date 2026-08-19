@@ -131,7 +131,7 @@ several books; has been considered *thiqah* by al-Suyuti. [^16]
 In his *Sunan* with his *isnad* from Zayd ibn Thabit, as cited in *Kanz
 al-’ummal,* i, 47. *Tawthiq* by Ibn Numayr, Ibn Khirash, Abu Hatim, Ibn
 Qani’ and al-Dhahabi; al-Khalili considers his *tawthiq* unanimous.
-[^17]: A leading traditionist.
+[^17] A leading traditionist.
 
 112. Dawud ibn ‘Amr al-Dabbi al-Baghdadi (d. 228/842).
 ------------------------------------------------------

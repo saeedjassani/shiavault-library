@@ -9,7 +9,7 @@ half of Fadak became a pure property for him where “whatever Allah
 restored to His Messenger from them you did not press forward against it
 any horse or a riding camel but Allah
 
-[^1]: It is mentioned that they have given the Prophet (s) all of their
+[^1] It is mentioned that they have given the Prophet (s) all of their
 land.
 
 (135)
@@ -31,7 +31,7 @@ for you.” Umm Aymen and another mawla (follower) of the messenger of
 Allah[^3] witnessed for Fatima but Abu Bakr wanted a witness, whose
 witnessing would be accepted
 
-[^1]: The infallible imams and their followers have not had any doubt
+[^1] The infallible imams and their followers have not had any doubt
 that the Prophet (s) had donated Fadak to Fatima (s) and that it had
 been in her hand until it had been extorted from her. Imam Ali (s) said
 to his administrative official on Basra, Othman bin Hunayf: “...Yes,
@@ -46,7 +46,7 @@ Majma’ul Bayan by at-Tabarsi when interpreting this verse 17:26. You
 will find there that it is this tradition that has made al-Ma’moon, the
 Abbasid caliph, give Fadak back to the progeny of Fatima.
 
-[^2]: By Allah O you Abu Bakr, have you really not known whether Fatima’s
+[^2] By Allah O you Abu Bakr, have you really not known whether Fatima’s
 claim was true or not after Umm Aymen (the Prophet’s nursemaid) and Imam
 Ali (s) had witnessed it was true? Have you considered them all to be
 liars, aggressive or mistaken? Certainly not! But (Nay, but your minds
@@ -95,8 +95,8 @@ without a trial? An imam could do that due to his general guardianship
 and what the value of Fadak was before the general advantage of the
 Muslims and before avoiding evils!
 
-[^1]: Tafseer Mafateehul Ghayb by ar-Razi, vol.8 p.125.
-[^2]: P.21 in his book Shubah ar-Rafidha.
+[^1] Tafseer Mafateehul Ghayb by ar-Razi, vol.8 p.125.
+[^2] P.21 in his book Shubah ar-Rafidha.
 
 (137)
 
@@ -130,20 +130,20 @@ speech has no answer!”[^4]
 
 Let us away from generosity and let us discuss the matter of the trial.
 The legal evidences were sufficient to make it obligatory to judge for
-[^1]: He was the caliph’s son-in-law. His wife was Asma’, the daughter of
+[^1] He was the caliph’s son-in-law. His wife was Asma’, the daughter of
 Abu Bakr.
 
-[^2]: Abu Bakr had given his daughter Aa’isha the prophet’s house, in
+[^2] Abu Bakr had given his daughter Aa’isha the prophet’s house, in
 which she buried him beside the tomb of the Prophet (s) after his death
 and in which she buried Umar later on but when Imam Hasan (s), the
 Prophet’s beloved grandson, died she refused to let him be buried in his
 grandfather’s house and then a sedition was about to happen! Just to
 Allah we resort!
 
-[^3]: Refer to ar-Risala al-Misriyya magazine, vol.518, 11th year,
+[^3] Refer to ar-Risala al-Misriyya magazine, vol.518, 11th year,
 p.457.
 
-[^4]: vol.4, p.106.
+[^4] vol.4, p.106.
 
 (138)
 
@@ -160,7 +160,7 @@ the women of the worlds[^4] and it was she, to whom the Prophet (s) had
 said: “O Fatima, are you not satisfied to be the head lady of the
 believing women or the head lady of the women of this umma?”[^5]
 
-[^1]: According to the true traditions; ibn Abdul Birr said in his book
+[^1] According to the true traditions; ibn Abdul Birr said in his book
 al-Istee’ab when mentioning the biography of Fatima (s): “The Prophet
 (s) visited Fatima when she was ill and said to her: “O my daughter, how
 are you today?” She said: “I feel pain and what hurts me more that I
@@ -172,7 +172,7 @@ world. By Allah, I have married you to a master in this world and in the
 afterworld”. Many such traditions have been mentioned by other scholars
 and historians.
 
-[^2]: The infallible imams and their followers have agreed unanimously
+[^2] The infallible imams and their followers have agreed unanimously
 that Fatima (s) is better than the Virgin Mary (s). Many Sunni scholars
 have declared that she is better than all the women of the worlds even
 the Virgin Mary (s), such as at-Taqiy as-Sabki, al-Hallal as-Sayooti,
@@ -182,15 +182,15 @@ when talking about the virtues of Fatima (s). The same has been said by
 Ahmad Zayni Dahlan, the mufti of the Shafiites when talking about the
 marriage of Fatima and Ali in his book as-Seera an-Nabawiyya.
 
-[^3]: It has been mentioned by Ahmad bin Hanbal in his Musnad, vol.1
+[^3] It has been mentioned by Ahmad bin Hanbal in his Musnad, vol.1
 p.293, by Abu Dawood as in al-Istee’ab, the biography of Khadeeja and by
 Qasim bin Muhammad as in al-Istee’ab, the biography of Fatima (s).
 
-[^4]: Narrated by Abu Dawood from Anass as mentioned in al-Istee’ab when
+[^4] Narrated by Abu Dawood from Anass as mentioned in al-Istee’ab when
 talking about Khadeeja’s biography and narrated by Abdul Warith bin
 Sufyan as in al-Istee’ab, biographies of Fatima (s) and Khadeeja.
 
-[^5]: Al-Bukhari’s Sahih, vol.4 p.64, Muslim’s Sahih, vol.2, the virtues
+[^5] Al-Bukhari’s Sahih, vol.4 p.64, Muslim’s Sahih, vol.2, the virtues
 of Fatima (s), at-Tarmithi’s Sahih, al-Jam’ bayna as-Sahihhayn, al-Jam’
 bayna as-Sihah as-Sitta, Imam Ahmad bin Hanbal’s Musnad, vol.6 p.282,
 ibn Abdul Birr’s Istee’ab, Muhammad bin Sa’d’s Tabaqat, vol.2, vol.8.
@@ -283,12 +283,12 @@ Allama an-Nabhani said in his book ash-Sharaf al-Mu’abbad: “O progeny
 of Taha, you are a progeny of the best of the Prophets.
 Your grandfather is elite and you are elite.
 
-[^1]: A place between Saudi Arabia and Yemen. It was a centre for the
+[^1] A place between Saudi Arabia and Yemen. It was a centre for the
 Christians before Islam.
-[^2]: This tradition has been mentioned by the interpreters, the
+[^2] This tradition has been mentioned by the interpreters, the
 narrators, the historians and by everyone, who has recorded the events
 of the tenth year of hijra, in which this event has taken place.
-[^3]: Prophet Muhammad (s).
+[^3] Prophet Muhammad (s).
 
 (141)
 
@@ -319,7 +319,7 @@ in her claim about her donation of Fadak: “Yes”. Ibn Abul Hadeed said to
 him: “Then why did Abu Bakr not give her Fadak while he knew well she
 was truthful?” He smiled and said nice words and then he added:
 
-[^1]: The Shia have agreed, following their imams, unanimously that these
+[^1] The Shia have agreed, following their imams, unanimously that these
 Verses have been revealed to concern Ali, Fatima, al-Hasan and al-Husayn
 because of a charity (food) they have paid to a poor one, an orphan and
 a prisoner of war in three successive nights whereas they themselves
@@ -394,7 +394,7 @@ Among those traditions is the one that has been mentioned by ibn Abu
 Aasim (as in al-Issaba-Fatima’s biography). He mentioned that the
 Prophet (s) had said to his daughter Fatima (s): “Allah becomes
 
-[^1]: Umm Aymen was the woman, who had brought up the Prophet (s) after
+[^1] Umm Aymen was the woman, who had brought up the Prophet (s) after
 the death of his mother. Her name was Baraka bint Tha’laba. The Prophet
 (s) said about her: “Umm Aymen is my mother after my (real) mother”. The
 Prophet (s), when looking at her, often said: “She is one of my family”.
@@ -406,13 +406,13 @@ Aymen had been martyred during the battle of Khaybar when fighting with
 the Prophet (s). She did not worry for that but she became patient
 hoping for the divine reward in the Hereafter.
 
-[^2]: With reference to the famous tradition of (ath-Thaqalayn-the two
+[^2] With reference to the famous tradition of (ath-Thaqalayn-the two
 weighty things), which has been mentioned in the books of Hadith (Sihah)
 and many other books. The Prophet (s) said: “I have left among you what
 if you keep to, you will never go astray at all; the Book of Allah and
 my family”. Definitely the head of his family was Imam Ali (s).
 
-[^3]: With reference to the Prophet’s saying narrated by Umm Salama that
+[^3] With reference to the Prophet’s saying narrated by Umm Salama that
 she said: “I have heard the messenger of Allah saying: Ali is with the
 Qur'an and the Qur'an is with Ali. They do never separate until they
 will come to me at the pond (in Paradise)”. It has been mentioned by
@@ -462,7 +462,7 @@ narrated by Abu Hurayra saying: “Once the Prophet (s) looked at Ali,
 al-Hasan, al-Husayn and Fatima and said: I am a war against whoever
 fights you and peace to whoever makes peace with
 
-[^1]: Al-Imama wes-Siyasa by ibn Qutayba and other books of history.
+[^1] Al-Imama wes-Siyasa by ibn Qutayba and other books of history.
 
 (145)
 
@@ -495,16 +495,16 @@ think he is the most beloved one to you. He said: But he (al-Husayn)
 asked for some milk before him. Then the Prophet (s) added: I, you,
 these two boys and that sleeping one
 
-[^1]: Ahmad’s Musnad, vol.2 p.442. It has also been mentioned by al-Hakim
+[^1] Ahmad’s Musnad, vol.2 p.442. It has also been mentioned by al-Hakim
 in his Mustadrak and by at-Tabarani in his al-Kabeer.
 
-[^2]: It has been mentioned by ibn Habban in his Sahih, al-Hakim in his
+[^2] It has been mentioned by ibn Habban in his Sahih, al-Hakim in his
 Mustadrak, ad-Dhiya’ in his Mukhtarat, at-Tabarani and ibn Shayaba from
 Zayd bin Arqam and by Abu Ya’la in as-Sunna and ad-Dhiya’ in
 al-Mukhtarat from Sa’d bin Abu Waqqas. Also mentioned by other famous
 scholars like allama Alawi in his book al-Qawl al-Fasl, vol.2 p.7.
 
-[^3]: This tent might be the garment, with which the Prophet (s) covered
+[^3] This tent might be the garment, with which the Prophet (s) covered
 them (Ali, Fatima, al-Hasan and al-Husayn) when Allah revealed to him:
 (Allah only desires to keep away the uncleanness from you, O people of
 the House! and to purify you a (thorough) purifying). Refer to chapt.2
@@ -542,8 +542,8 @@ became serious on the trial of Fatima (s), they considered Fatima, the
 Prophet’s piece, as any other woman, who was not purified from
 fabricating and lying.[^2]
 
-[^1]: Ahmad’s Musnad, vol.1 p.101.
-[^2]: In fact she was not even treated as an ordinary Muslim woman,
+[^1] Ahmad’s Musnad, vol.1 p.101.
+[^2] In fact she was not even treated as an ordinary Muslim woman,
 because when a Muslim woman, who was not purified from fabrication, had
 one witness (a fair Muslim man) on her claim, then it would be enough
 for her, instead of the other witness, to be put to oath and her claim
@@ -591,7 +591,7 @@ the saying of the Prophet (s) “Evidence is on him, who claims, and oath
 is on him, who denies”. This is one of the clear traditions that they
 have opposed depending on their own ijtihad.
 
-[^1]: Ibnul Atheer mentioned his biography in his book Usdol Ghaba and
+[^1] Ibnul Atheer mentioned his biography in his book Usdol Ghaba and
 mentioned another tradition narrated by Abu Sa’eed saying: “As the
 messenger of Allah was taking an oath one day, al-Khuwaysara at-Tameemi
 said: “O messenger of Allah, be just!” The Prophet (s) said: “Woe unto
@@ -675,10 +675,10 @@ al-Khidri, will know that the Prophet (s) has ordered to kill this man
 two times in different events. The first tradition narrated by Anass
 shows that the Prophet (s) has not known this
 
-[^1]: He is the pious Sheikh Mirza Husayn an-Noori, the author of
+[^1] He is the pious Sheikh Mirza Husayn an-Noori, the author of
 al-Mustadrakat ala al-Wassa’il.
 
-[^2]: Later on, during the rule of Imam Ali (s), they seceded from Imam
+[^2] Later on, during the rule of Imam Ali (s), they seceded from Imam
 Ali (s) and were called the Kharijites.
 
 (150)
@@ -756,7 +756,7 @@ here.
 Until now there is a remainder of them spread here and there. The
 explorer ibn Batota has met some of them in Oman during his travel
 
-[^1]: By doing that Imam Ali (s) just followed the orders of the Qur'an
+[^1] By doing that Imam Ali (s) just followed the orders of the Qur'an
 and the Sunna. Allah said: (fight that (group) which acts wrongfully
 until it returns to Allah's command) and: (The punishment of those who
 wage war against Allah and His messenger and strive to make mischief in
@@ -803,10 +803,10 @@ free. They apostate from Islam like an arrow slipping out of a game
 animal. If I live until they appear, I shall kill them like the killing
 of the people of Aad.”[^3]
 
-[^1]: Vol.1 p.172.
-[^2]: That he has been created out of making love during a period of
+[^1] Vol.1 p.172.
+[^2] That he has been created out of making love during a period of
 menstruation.
-[^3]: Muslim’s Sahih, vol.1 p.393.
+[^3] Muslim’s Sahih, vol.1 p.393.
 
 (153)
 
@@ -840,16 +840,16 @@ They will be killed by the righteous people.” And then the Prophet (s)
 gave an example when saying: “…like a man, who shots his arrow at an
 animal and then he looks at the arrowhead
 
-[^1]: Muslim’s Sahih, vol.1 p.394.
-[^2]: Narrated from Imam Ali (s) and mentioned by Muslim in his Sahih,
+[^1] Muslim’s Sahih, vol.1 p.394.
+[^2] Narrated from Imam Ali (s) and mentioned by Muslim in his Sahih,
 vol. 1 p.396.
-[^3]: It means that their hearts do not perceive what they recite and
+[^3] It means that their hearts do not perceive what they recite and
 they do not benefit from it. They do not do but uttering the words of
 the Qur'an in their mouths when reciting them. Their hearts are covered
 with the stain of the (ill) which they do! Nothing of the light of the
 Qur'an gets into their hearts. Neither their reciting the Qur'an nor any
 of their doings will be accepted by Allah.
-[^4]: Vol.1 p.398.
+[^4] Vol.1 p.398.
 
 (154)
 

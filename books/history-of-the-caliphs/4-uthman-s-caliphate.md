@@ -66,7 +66,7 @@ Jarrah, third, present emigrants in Saqifa,[^12] and the forth one Salim
 Mawla Hudhayfa who was not of Quraysh.[^13] Surprisingly, despite all
 'Umar's disagreements with Khalid Ibn Walid,[^14] he had been quoted
 saying, “If Khalid Ibn Walid were alive, he would be my successor.”
-[^15]: Thus, it becomes obvious if one of these people were alive, it
+[^15] Thus, it becomes obvious if one of these people were alive, it
 would not be a turn for Shura.[^16]
 
 In fact, all of his candidates for caliphate had passed away. Thus, it
@@ -580,7 +580,7 @@ completely in Mina, that instigated some people against him.
 “This is my belief”, said 'Uthman when they objected.[^90]
 
 'Ammar, who was one of his known opponents, said, **قتلناه كافراً**
-[^91]: “We killed him while being an unbeliever.”
+[^91] “We killed him while being an unbeliever.”
 
 He stood against rebels in the day of Jamal and asked them, “Why do you
 fight with us?”

@@ -130,7 +130,7 @@ global. This fact should aid the necessary philosophical distinction
 between the two, however, so that ethical agency is never confused with
 eschatological agency.
 
-[^1]: Some key texts: Meir M. Bar-Asher. Scripture and Exegesis in Early
+[^1] Some key texts: Meir M. Bar-Asher. Scripture and Exegesis in Early
 Imami Shiism (1999, Brill; with its extensive review of early exegetes,
 e.g., Furat ibn Furat ibn Ibrahim al-Kufi, Ali ibn Ibrahim al-Qummi,
 Abu-'l Nadr Muhammad ibn Mas'ud al\`Ayyashi & Muhammad ibn Ibrahim ibn
@@ -156,7 +156,7 @@ University Press of America, 1986; Géza G. Xeravits. King, priest,
 prophet: positive eschatological protagonists of the Qumran library.
 Leiden: Brill, 2003.
 
-[^2]: In the later work of Heidegger, he acknowledges that God appears in
+[^2] In the later work of Heidegger, he acknowledges that God appears in
 modern philosophy as the impersonal cause and ground of being, to which
 one does not pray nor can one sacrifice the idea. But the greater
 reality is the nearness of the "divine God" (g?ttlichen Gott) in the
@@ -167,23 +167,23 @@ Hannah Arendt and W.H. Auden. Stanford, Calif.: Stanford University
 Press, 2003; Martin Kavka. Jewish messianism and the history of
 philosophy. Cambridge: Cambridge University Press, 2004.
 
-[^3]: Judaism also sees two mediatorial figures in its eschatology:
+[^3] Judaism also sees two mediatorial figures in its eschatology:
 Mashiach ben David and Mashiach ben Yossef the latter preparing the way
 for the former. In Christianity, Moses and Elijah are seen to return to
 inaugurate the messianic appearing of Jesus.
 
-[^4]: NE, IX, 8.
+[^4] NE, IX, 8.
 
-[^5]: NE, IX, 4; cf., Harry Frankfurt. The Reasons of Love. Princeton
+[^5] NE, IX, 4; cf., Harry Frankfurt. The Reasons of Love. Princeton
 University Press, 2004.
 
-[^6]: Critique of Practical Reason, 5.73, 74.
+[^6] Critique of Practical Reason, 5.73, 74.
 
-[^7]: Groundwork, 4.398.
+[^7] Groundwork, 4.398.
 
-[^8]: Ibid, 4.402.
+[^8] Ibid, 4.402.
 
-[^9]: This has been most appropriately expressed already in the 16th
+[^9] This has been most appropriately expressed already in the 16th
 century by the theologian, Martin Luther, in his great formula: the
 believer as simil iustus et peccator, "simultaneously righteous and
 sinful"; and is no better interpreted in the 20th century than by the
@@ -193,19 +193,19 @@ immoral society: a study in ethics and politics. New York: C. Scribner's
 sons, 1932; The nature and destiny of man: a Christian interpretation.
 New York, C. Scribner's Sons, 1949.
 
-[^10]: From Lauda 33 as cited in Alessandro Vettori. Poets of Divine
+[^10] From Lauda 33 as cited in Alessandro Vettori. Poets of Divine
 Love. Franciscan Mystical Poetry of the Thirteenth Century. New York:
 Fordham University Press, 2004, p. 124.
 
-[^11]: Cf., Sophia Vasalou. Moral agents and their deserts: the character
+[^11] Cf., Sophia Vasalou. Moral agents and their deserts: the character
 of Mu'tazilite ethics. Princeton, NJ : Princeton University Press,
 2008.
 
-[^12]: Cf., Joseph A. Fitzmyer. The One who is to come. Grand Rapids:
+[^12] Cf., Joseph A. Fitzmyer. The One who is to come. Grand Rapids:
 Eerdmans, 2007; also very helpful: Jerry L. Walls, ed. The Oxford
 handbook of eschatology. Oxford: Oxford University Press, 2008.
 
-[^13]: Christianity has occasionally misinterpreted some of its
+[^13] Christianity has occasionally misinterpreted some of its
 scriptures in terms of hastening or constraining God to act
 eschatologically. In every case however, the proper translation requires
 the sense of following or traveling to the end to the age; some
@@ -234,7 +234,7 @@ Lord as salvation.
 
 Cf., also, 1Corinthians 1:8; Philippians 1:6.
 
-[^14]: Cf., Anthony D. Smith. Chosen peoples. Oxford: Oxford University
+[^14] Cf., Anthony D. Smith. Chosen peoples. Oxford: Oxford University
 Press, 2003; W.W. Meissner. Thy kingdom come: psychoanalytic
 perspectives on the Messiah and the millennium. Kansas City: Sheed &
 Ward, 1995; Chaim Nussbaum. Semblance and reality: Messianism in
@@ -245,18 +245,18 @@ of Chicago Press, 1996; Mercedes Garc?a-Arenal. Messianism and
 puritanical reform: Mahd¯is of the Muslim west. Translated from the
 Spanish by Martin Beagles. Leiden: Brill, 2006.
 
-[^15]: In the famous essay, "Die Kehre", there is a key quote from the
+[^15] In the famous essay, "Die Kehre", there is a key quote from the
 poet, H?lderlin's Patmos, stimulated by the vision of John's Apocalypse,
 "But where this is danger, also grows the redemptive," (Wo aber Gefahr
 ist, w?chst Das Rettende auch), Op. cit., p. 119.
 
-[^16]: Cf., John M. G. Barclay, Simon J. Gathercole. Divine and Human
+[^16] Cf., John M. G. Barclay, Simon J. Gathercole. Divine and Human
 Agency in Paul and His Cultural Environment. Continuum, 2006; Douglas H
 Knight. The Eschatological Economy: Time and the Hospitality of God.
 Eerdmans, Grand Rapids, 2006; Christiaan Mostert. God and the Future:
 Wolfhart Pannenberg's Eschatological Doctrine of God. Continuum, 2002.
 
-[^17]: Cf., Stephen J. Pope, ed. Hope & solidarity: Jon Sobrino's
+[^17] Cf., Stephen J. Pope, ed. Hope & solidarity: Jon Sobrino's
 challenge to Christian theology. Maryknoll, N.Y.: Orbis Books, 2008; J.
 Aaron Simmons and David Wood, eds. Kierkegaard and Levinas: ethics,
 politics, and religion. Bloomington, IN: Indiana University Press,

@@ -54,6 +54,14 @@ P_CLOSE = re.compile(r"^\s*</p>\s*$")
 
 FOOTNOTE_LINE = re.compile(r"^\[\^(\d+)\](:)?(\s.*)?$")
 
+# A reference is a marker that is not sitting at the start of its own line, i.e.
+# one used from inside a sentence rather than opening a definition.
+INLINE_REFERENCE = re.compile(r"(?<!^)\[\^(\d+)\]", re.M)
+
+# Below this share of locally referenced definitions a file is treated as a
+# standalone notes chapter rather than a footnote section.
+LOCAL_REFERENCE_THRESHOLD = 0.5
+
 # Pandoc escaped some tags as ``\<em\>``. Those render as literal text in every
 # reader, so they are unescaped first and then handled like any other tag.
 ESCAPED_TAG = re.compile(r"\\<(/?[a-zA-Z][^<>]*?)\\>")
@@ -263,54 +271,48 @@ def fix_inline_html(text: str, stats: Counter) -> str:
 
 
 def fix_footnote_definitions(text: str, stats: Counter) -> str:
-    """Add the missing colon to footnote definitions.
+    """Add the missing colon to footnote definitions — but only where the reader
+    will still show the text.
 
-    Only lines that sit in a *run* of definition lines with ascending numbers are
-    touched, so inline references such as ``[^473] *.* [^474]`` in body text are
-    left alone.
+    A footnote-aware renderer lifts ``[^n]: …`` definitions out of the body and
+    prints them only where a matching ``[^n]`` reference appears. Many books put
+    every note in a standalone ``Notes`` chapter that contains no references at
+    all; there the definitions are the chapter's visible prose, and adding the
+    colon would blank the page. So a colon is added only when
+
+    * the file reads like a per-chapter footnote section — at least half of its
+      candidate definitions are referenced from inside this same file — and
+    * this particular definition is one of the referenced ones.
+
+    Everything else is left as plain text, which is what it renders as today.
     """
     lines = text.split("\n")
-    marker_idx = [i for i, l in enumerate(lines) if FOOTNOTE_LINE.match(l)]
-    if len(marker_idx) < 2:
+    candidates = []
+    for i, line in enumerate(lines):
+        match = FOOTNOTE_LINE.match(line)
+        if match and not match.group(2) and (match.group(3) or "").strip():
+            candidates.append((i, match.group(1)))
+    if not candidates:
         return text
 
-    fixable: set[int] = set()
-    run: list[int] = []
+    referenced = set(INLINE_REFERENCE.findall(text))
+    linked = [(i, n) for i, n in candidates if n in referenced]
+    if len(linked) < len(candidates) * LOCAL_REFERENCE_THRESHOLD:
+        stats["footnote_sections_left_as_prose"] += 1
+        return text
 
-    def flush() -> None:
-        if len(run) >= 2:
-            fixable.update(run)
+    # Many books number their notes per printed page, so one file can define
+    # [^1] several times over. Footnote renderers keep the first definition of a
+    # number and drop the rest, which would silently delete citations and point
+    # the surviving references at the wrong source. Leave such files as prose.
+    numbering = Counter(n for _, n in candidates)
+    if any(count > 1 for count in numbering.values()):
+        stats["footnote_sections_with_repeated_numbers"] += 1
+        return text
 
-    for idx in marker_idx:
-        number = int(FOOTNOTE_LINE.match(lines[idx]).group(1))
-        if run and number > int(FOOTNOTE_LINE.match(lines[run[-1]]).group(1)):
-            run.append(idx)
-        else:
-            flush()
-            run = [idx]
-    flush()
-
-    # A lone marker line is still a definition when it carries real note text and
-    # its number is referenced from inside a paragraph somewhere in the file.
-    for idx in marker_idx:
-        if idx in fixable:
-            continue
-        match = FOOTNOTE_LINE.match(lines[idx])
-        rest = (match.group(3) or "").strip()
-        if match.group(2) or len(rest) < 20:
-            continue
-        ref = re.compile(r"(?<!^)\[\^%s\]" % match.group(1), re.M)
-        if ref.search(text):
-            fixable.add(idx)
-
-    for idx in sorted(fixable):
-        match = FOOTNOTE_LINE.match(lines[idx])
-        if match.group(2):  # already has a colon
-            continue
-        rest = match.group(3) or ""
-        if not rest.strip():
-            continue
-        lines[idx] = f"[^{match.group(1)}]:{rest}"
+    for i, number in linked:
+        rest = FOOTNOTE_LINE.match(lines[i]).group(3) or ""
+        lines[i] = f"[^{number}]:{rest}"
         stats["footnote_defs"] += 1
 
     return "\n".join(lines)

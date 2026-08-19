@@ -76,32 +76,32 @@ Jabir. Jabir said, “O Allah’s Messenger! To whom should I entrust the
 camel?” The Holy Prophet said, “May you enjoy the camel and its price
 and may Allah bless this transaction.”[^28]
 
-[^1]: Al-Khisal: 271/1, H 13.
-[^2]: Al-Amali by Shaykh al-Saduq: 465, H 6.
-[^3]: Qurb al-Isnad: 44.
-[^4]: Qurb al-Isnad: 69.
-[^5]: \`Uyun Akhbar al-Rida: 30/2, H 36.
-[^6]: Al-Amali by Shaykh al-Tusi: 393, H 866.
-[^7]: Al-Kafi: 312/5, H 38.
-[^8]: \`Ilal al-Shara’u\`: 187.
-[^9]: Al-Mahasin: 456/2, H 386.
-[^10]: Al-Mahasin: 457/2, H 388.
-[^11]: Tabaqat Ibn Sa\`d; 4.
-[^12]: Makarim al-Akhlaq: 17.
-[^13]: Makarim al-Akhlaq: 19.
-[^14]: Makarim al-Akhlaq: 21.
-[^15]: Kitab Al-Zuhd: 34, H 88.
-[^16]: Al-Kafi: 225/4, H 3.
-[^17]: Nasikh al-Tawarikh: 584/2.
-[^18]: Sharaf al-Nabi: 69.
-[^19]: Nasikh al-Tawarikh: 234/3.
-[^20]: Sharaf al-Nabi: 67.
-[^21]: Da\`a'im al-Islam: 60/2, H 162.
-[^22]: \`Awali al-La’ali: 249/2, H 20.
-[^23]: Manhaj al-Sadiqin: 370/9.
-[^24]: Manhaj al-Sadiqin: 370/9.
-[^25]: Manhaj al-Sadiqin: 371/9.
-[^26]: Sharaf al-Nabi: 75.
-[^27]: Sharaf al-Nabi: 79.
-[^28]: Sharaf al-Nabi: 68.
+[^1] Al-Khisal: 271/1, H 13.
+[^2] Al-Amali by Shaykh al-Saduq: 465, H 6.
+[^3] Qurb al-Isnad: 44.
+[^4] Qurb al-Isnad: 69.
+[^5] \`Uyun Akhbar al-Rida: 30/2, H 36.
+[^6] Al-Amali by Shaykh al-Tusi: 393, H 866.
+[^7] Al-Kafi: 312/5, H 38.
+[^8] \`Ilal al-Shara’u\`: 187.
+[^9] Al-Mahasin: 456/2, H 386.
+[^10] Al-Mahasin: 457/2, H 388.
+[^11] Tabaqat Ibn Sa\`d; 4.
+[^12] Makarim al-Akhlaq: 17.
+[^13] Makarim al-Akhlaq: 19.
+[^14] Makarim al-Akhlaq: 21.
+[^15] Kitab Al-Zuhd: 34, H 88.
+[^16] Al-Kafi: 225/4, H 3.
+[^17] Nasikh al-Tawarikh: 584/2.
+[^18] Sharaf al-Nabi: 69.
+[^19] Nasikh al-Tawarikh: 234/3.
+[^20] Sharaf al-Nabi: 67.
+[^21] Da\`a'im al-Islam: 60/2, H 162.
+[^22] \`Awali al-La’ali: 249/2, H 20.
+[^23] Manhaj al-Sadiqin: 370/9.
+[^24] Manhaj al-Sadiqin: 370/9.
+[^25] Manhaj al-Sadiqin: 371/9.
+[^26] Sharaf al-Nabi: 75.
+[^27] Sharaf al-Nabi: 79.
+[^28] Sharaf al-Nabi: 68.
 

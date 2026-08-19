@@ -94,7 +94,7 @@ Mu’in and al-’Ijli. [^15]
 
 Muslim in his *Sahih* and al-Hakim in *al-Mustadrak.* Has been
 considered *thiqah* by Ibn Mu’in, Ibn al-Madini, Ibn ‘Adi, Ibn Hibban,
-[^16]: and al-Dhahabi. [^17]
+[^16] and al-Dhahabi. [^17]
 
 71. Jarir ibn ‘Abd al-Hamid al-Dabbi al-Kufi (d. 188/803).
 ----------------------------------------------------------
@@ -230,7 +230,7 @@ In al-Tabarani (*al-Mu’jam al-kabir,* ii, No. 2678), from Muhammad ibn
 ‘Abd Allah al-Hadrami, from Manjab ibn Al-Harith from him, from ‘Abd
 al-Malik ibn Abi Sulayman, from ‘Atiyyah from Abu Sa’id al-Khudri.
 *Tawthiq* by Ibn Mu’in, al-’Ijli, Abu Zur’ah, al-Nasa'i, [^38] Ibn Sa’d
-[^39]: and Ahmad ibn Hanbal. [^40]
+[^39] and Ahmad ibn Hanbal. [^40]
 
 89. ‘AIi ibn Thabit al-Jazari.
 ------------------------------

@@ -15,7 +15,7 @@ Notes
 
 ------------------------------------------------------------------------
 
-[^1]: It is customary for Arabic Grammarians to commence their Naḥw works
+[^1] It is customary for Arabic Grammarians to commence their Naḥw works
 with a treatment of Kalām. The main reason for this is that Kalām is the
 goal that the study of Arabic Naḥw aspires to. In other words, by
 following and applying the rules of Naḥw the Arabic learner is able to
@@ -64,14 +64,14 @@ aspects of Naḥw are contingent on Ṣarf in that the latter furnishes the
 requisite background information for an adequate understanding of these
 aspects.
 
-[^2]: The word “compound” (Murakkab) refers to any utterance that is
+[^2] The word “compound” (Murakkab) refers to any utterance that is
 composed of two or more words whether it conveys a complete sense or
 not. The inclusion of Murakkab in the definition excludes the simple or
 single utterance (Lafz Mufrad) from the concept of Kalām. In other
 words, Kalām is not a simple or single utterance like:  زيد  (Zayd),
 قامَ  (stood), etc.
 
-[^3]: The word “utterance” (Lafz) denotes any sound that consists of some
+[^3] The word “utterance” (Lafz) denotes any sound that consists of some
 of the letters of the Alphabet whether it is actually used in Arabic
 (Musta‘mal/Mauḍū‘) or not (Muhmal) and whether it is simple (Mufrad) or
 compound (Murakkab). The inclusion of Lafz in the definition excludes
@@ -80,18 +80,18 @@ sign-language, etc. Thus, every form of communication that does not
 involve speaking, or any non-verbal sign is excluded from the
 definition.
 
-[^4]: The expression “that conveys a complete and self-contained meaning”
+[^4] The expression “that conveys a complete and self-contained meaning”
 (Mufīd) excludes the compound utterance that does not convey a complete
 and self-contained meaning (Murakkab Ghayr Mufīd) e.g.  هلْ زيدٌ  (Is
 Zayd…?),  إِنْ قامَ زيدٌ  (If Zayd stands…), etc.
 
-[^5]: Bi al-Waḍ‘ has been variously interpreted to mean (a) according to
+[^5] Bi al-Waḍ‘ has been variously interpreted to mean (a) according to
 Arabic usage as opposed to Turkish, English or Persian usage, for
 example, and (b) with the intention to communicate a message so as to
 exclude the “talking” of parrots and sleep-talkers for in none of the
 cases is there any intention to communicate a message.
 
-[^6]: The Ism is generally defined as a word that denotes a meaning that
+[^6] The Ism is generally defined as a word that denotes a meaning that
 is complete in and by itself without time forming a part of that
 meaning. By “complete in and by itself” we mean that the meaning of the
 Ism can be completely understood independently and without reference to
@@ -113,14 +113,14 @@ but because it lacks the signs of the Fi‘l it is regarded as an Ism
 instead. Likewise, a word could have the meaning of a Ḥarf but because
 it displays the signs of a Fi‘l it is regarded as Fi‘l.
 
-[^7]: The Fi‘l is generally defined as a word that denotes a meaning (in
+[^7] The Fi‘l is generally defined as a word that denotes a meaning (in
 the form of an action, state or quality) that is complete in and by
 itself with time being a part of it. Another way of defining the Fi‘l is
 to say that it is a word signifying the occurrence of an action in one
 of the three tenses (Past, Present and Future i.e. before, during and
 after the time of speaking respectively).
 
-[^8]: The Ḥarf is generally defined as a word that denotes a meaning that
+[^8] The Ḥarf is generally defined as a word that denotes a meaning that
 is not complete in and by itself such that its meaning cannot be
 completely understood except with reference to an Ism or a Fi‘l. It
 follows that the meaning of the Ḥarf is always relative such that it
@@ -137,7 +137,7 @@ Ta‘līl (causality), Rad‘ and Zajr (rebuke), Ta’nīţ (femininity), Sakt
 (pausing), Nidā’ (calling by way of address), Ṭalab (request in
 general), etc.
 
-[^9]: The reason for this qualification is to distinguish the word Ḥ arf
+[^9] The reason for this qualification is to distinguish the word Ḥ arf
 as a particle from the word Ḥarf as a letter of the Arabic alphabet. A
 letter is not used to signify a meaning i.e. it has no Semantic value.
 Instead, it is used as a unit in the construction of words. The two uses
@@ -147,7 +147,7 @@ of the word Ḥarf are clearly illustrated in the following expression:
 
 [”Min” is a Ḥarf (particle) composed of two Ḥarfs (letters)]
 
-[^10]: Khafḍ, as will be mentioned in the Chapter on I‘rāb, is a
+[^10] Khafḍ, as will be mentioned in the Chapter on I‘rāb, is a
 particular change at the end of a word in the form of a Kasrah, or one
 of its substitute signs (the Fatḥah and Ya’), caused by an ‘Āmil. Khafḍ
 occurs in three places viz:
@@ -199,7 +199,7 @@ famous Persian grammarian, Sībawayh, was Basran and his contemporary,
 Al-Kisā’iyy, one of the Seven Qurrā’ (Readers), was a representative of
 the Kufan Arabic school.
 
-[^11]: The Tanwīn is defined as a Nūn Sākinah (unvowelled Nūn) suffixed
+[^11] The Tanwīn is defined as a Nūn Sākinah (unvowelled Nūn) suffixed
 to Asmā’ which even though it is pronounced as a Nūn Sākinah is not
 written as one but rather as “the second of two Ḥarakahs” i.e. the
 second of two Ḍammahs, two Fatḥahs or two Kasrahs e.g.
@@ -268,7 +268,7 @@ double Fatḥah is almost always written with an Alif at its end. Thus,
 كتاباً  (Kitaban ) becomes كتاباَ (Kitabā) when a pause is performed. An
 exception to this rule is the Ta’ Marbūṭah
 
-[^12]: A more detailed explanation of the Ḥurūf al-Khafḍ/al-Jarr will be
+[^12] A more detailed explanation of the Ḥurūf al-Khafḍ/al-Jarr will be
 provided later in the Chapter on the Makhfūḍat al-Asmā’ (places of Khafḍ
 in the Ism) since the author merely mentions them here as one of the
 characteristics of the Ism such that when one of them precedes a word
@@ -276,18 +276,18 @@ directly then that word is an Ism. Thus, each of the underlined words in
 the examples given above is an Ism because it is preceded by a Ḥarf
 Khafḍ/Jarr.
 
-[^13]: The author does not give any examples for the Ḥurūf al-Jarr which
+[^13] The author does not give any examples for the Ḥurūf al-Jarr which
 is why I thought it appropriate to give examples so as to clarify the
 meanings and illustrate their operation and effect on the Ism. I have
 placed the examples between brackets to indicate that they are not part
 of the text.
 
-[^14]: The author mentions the Ḥurūf al-Qasam separately from the Ḥurūf
+[^14] The author mentions the Ḥurūf al-Qasam separately from the Ḥurūf
 al-Khafḍ/Jarr even though they form part of the Ḥurūf al-Khafḍ/Jarr to
 emphasise the point that only these three Ḥurūf are used to indicate
 Qasam.
 
-[^15]: The function of this Tā’ is to indicate that the Fā‘il (and other
+[^15] The function of this Tā’ is to indicate that the Fā‘il (and other
 similar structures) to whose Fi‘l it is suffixed, is feminine.
 Furthermore, the author’s qualification of “unvowelled” (الساكنة) is to
 distinguished the تاء التأنيثالساكنة   from the تاء التأنيثالمتحركة
@@ -304,14 +304,14 @@ Lam (since the Hamzah Wasl is to be ignored during continuous speech)
 and in the second case it is followed an Alif (the Alif of Iţnatayn –
 feminine dual) which is always unvowelled.
 
-[^16]: In other words, the Ḥarf does not feature any of the signs of the
+[^16] In other words, the Ḥarf does not feature any of the signs of the
 Ism and the Fi‘l such that the absence of a nominal or verbal sign is
 what marks and characterizes the Ḥarf and distinguishes it from the Ism
 and Fi‘l. The Ḥarf can be equated with the letter ح which is
 distinguished from the ج and the خ by the absence of a dot under or
 above it.
 
-[^17]: The author uses I‘rāb here in the sense of declinability in
+[^17] The author uses I‘rāb here in the sense of declinability in
 contrast to Binā‘ (indeclinability) which is when the ending of word
 permanently exists in a particular state despite the entry of different
 ‘Awāmil. In short, the difference between I‘rāb and Binā‘ is that the
@@ -364,7 +364,7 @@ isolates all the possible sentences and states whether or not they
 occupy particular places of I‘rāb by standing in place of the Asmā’ and
 Af‘āl that normally occupy those places.
 
-[^18]: The purpose of I‘rāb is to distinguish between different
+[^18] The purpose of I‘rāb is to distinguish between different
 grammatical functions and roles such as the Doer, Object, Subject,
 Predicate, Adverb, etc., which come into existence with the production
 of Kalām. In English these grammatical functions and roles are
@@ -389,7 +389,7 @@ Hence, because of I‘rāb Arabic has a flexible word-order as can be seen
 from the aforementioned examples while in English the word-order is
 fixed.
 
-[^19]: I‘rāb only features in the Ism and the Fi‘l and not in the Ḥarf.
+[^19] I‘rāb only features in the Ism and the Fi‘l and not in the Ḥarf.
 Moreover, in the case of the Ism it generally does not apply to the
 Ḍamīr (personal pronoun), Ism al-Ishārah (demonstrative/indicative
 pronoun), Ism Mauṣūl (relative pronoun), Ism Alistifhām (interrogative
@@ -408,7 +408,7 @@ I‘rāb of the Fi‘l, and so on. The disadvantage, however, is that the
 learner has to deal with two distinct word-types/parts of speech at the
 same time and this might be confusing to the beginner.
 
-[^20]: ‘Awāmil is the plural of ‘Āmil which refers to any word that
+[^20] ‘Awāmil is the plural of ‘Āmil which refers to any word that
 causes the ending of another word to change in the sense described
 above. The word that undergoes the change is called the Ma‘mūl (fīhi)
 and the change itself the ‘Amal (which is synonymous with I‘rāb). In the
@@ -424,7 +424,7 @@ words, it is not necessary for a word to undergo a change at its ending
 in order for it to be a Ma‘mūl but that it is sufficient that it only
 occupies a place governed by an ‘Āmil like  هؤلاء  .
 
-[^21]: Taqdīran simply means that there is a change at the ending of the
+[^21] Taqdīran simply means that there is a change at the ending of the
 word but something prevents this change from being pronounced or uttered
 like (a) when it is difficult (al-Tiqal) for the Ḍammah and Kasrah to be
 pronounced on the Wāw or Yā’ or (b) when it is impossible (al-Ta‘aḍḍur)
@@ -444,7 +444,7 @@ in the case of I‘rāb Lafđan and Taqdīran the effect is confined to the
 end of the word whereas in the case of I‘rāb Maḥallan the effect is
 distributed over the word as a whole.
 
-[^22]: The Ism in Arabic from the perspective of number is of three
+[^22] The Ism in Arabic from the perspective of number is of three
 types: Mufrad (singular) Muţannā (dual i.e. two) and Jam‘ (plural i.e.
 three and more). The Jam‘ is further divided into Jam‘ Taṣḥīḥ/Salāmah
 (sound plural i.e. the singular form remains intact when the plural is
@@ -463,7 +463,7 @@ Kasrah in its declension from Raf‘ to Jarr) or Ghayr Munṣarif
 declension such that the Fatḥah which is the regular sign of Naṣb is
 retained and used as a sign of Jarr as well).
 
-[^23]: This refers to the Muḍāri‘ that does not have the following
+[^23] This refers to the Muḍāri‘ that does not have the following
 appendages suffixed to them:
 
 the Nūn al-Taukīd (Nūn of Corroboration), in which case it is Mabniyy on
@@ -483,17 +483,17 @@ patterns/verbs):
 
 يفعلـا ن، يفعلـا ن، يفعلو ن، يفعلو ن، يفعليـ ن
 
-[^24]: Some grammarians addهنو ك (yourthing ) as a sixth one, but the
+[^24] Some grammarians addهنو ك (yourthing ) as a sixth one, but the
 more correct view is that it has the I‘rab (declension) of the Ism
 Mufrad.
 
-[^25]: The term Nāṣib, even though it can refer to anything that can
+[^25] The term Nāṣib, even though it can refer to anything that can
 serve as an ‘Āmil of Naṣb, its usage has nevertheless been restricted to
 refer to a member of a set of particles that make the Fi‘l the Manṣūb
 collectively called the Nawāṣib (sing. Nāîib). These particles are dealt
 with in the Chapter of the Af‘āl.
 
-[^26]: The al-Ism allađī lā yanṣarifu – also referred to as the Mamnū‘
+[^26] The al-Ism allađī lā yanṣarifu – also referred to as the Mamnū‘
 min al-Ṣarf and the Ism Ghayr Munṣarif – is an Ism Mufrad or Jam‘ Taksir
 that is debarred from the Tanwīn in its normal state (i.e. when it does
 not have the definite article  "ألْ"  prefixed to it). This is the case
@@ -518,7 +518,7 @@ two letters or three letters the middle one being a Ḥarf Madd and is
 called the Ṣīghah Muntahā al-Jumū ‘ or al-Jam‘ al-Aqṣā (final/extreme
 plural)  (مَساجِد، مَفاتيح، دراهم، دنانير، كُسالى، عَطايا)
 
-[^27]: The Sukūn, even though it is not a Ḥarakah, is nevertheless
+[^27] The Sukūn, even though it is not a Ḥarakah, is nevertheless
 included under the general term Ḥarakāt. Here the use of the word
 Ḥarakāt to include the Sukūn is an instance of the use of a word that
 signifies the majority (i.e. the Ḍammah, Fatḥah and Kasrah) to include
@@ -528,13 +528,13 @@ is the opposite of Ḥarakah and is sometimes referred to as Ḥađf
 al-Ḥarakah (the dropping of the Ḥarakah) so that the word Ḥarakāt
 signifies the three Ḥarakāt as well as their opposite, the Sukūn.
 
-[^28]: These vowels are the Ḍammah, Fatḥah, Kasrah and Ḥazf al-Ḥarakah
+[^28] These vowels are the Ḍammah, Fatḥah, Kasrah and Ḥazf al-Ḥarakah
 (omission of the vowel) which is the Sukūn. Technically speaking the
 Sukūn is not a vowel but because it stands for the absence of one it has
 been included under the term Ḥarakāt in this case. Furthermore, these
 Ḥarakāt are equivalent to your English short vowels.
 
-[^29]: These Ḥurūf are the Wāw, Alif, Yā’ and Nūn (its attachment and
+[^29] These Ḥurūf are the Wāw, Alif, Yā’ and Nūn (its attachment and
 detachment), the first three lengthening the Ḍammah, Fatḥah and Kasrah
 respectively to correspond to your long vowels in English. Furthermore,
 the Ya’ preceded by a Fatḥah in the Muţanna in the case of Naṣb and Jarr
@@ -547,7 +547,7 @@ is the fact it is often interchanged with one of these letters
 especially the Alif like when the Alif replaces the Nūn in the form of a
 Tanwīn when pausing on a word ending in a Fatḥah Tanwīn.
 
-[^30]: In order for these Asmā’ to be declined with a Wāw for Raf‘, an
+[^30] In order for these Asmā’ to be declined with a Wāw for Raf‘, an
 Alif for Naṣb and a Yā’ for Jarr the following conditions have to be
 met:
 
@@ -566,7 +566,7 @@ In addition to these four conditions,  (ذو)  has to have the meaning of
 according to the dialect of Tay’ and  (الفم)  has to have its Mīm
 dropped.
 
-[^31]: What is meant by the “Five Verbs” is not that they consist of five
+[^31] What is meant by the “Five Verbs” is not that they consist of five
 verbs only nor that they occur only on the scales of the five verbs
 mentioned in the text but rather any Muḍāri‘ that has the Alif of the
 Dual, the Wāw of the Masculine Plural or the Yā’ of the Second Person
@@ -575,13 +575,13 @@ mentioned in the text or not. Hence, the verb could be Mujarrad or
 Mazīd, Ṣaḥīḥ (Strong) or Mu‘tall (Weak), Ma‘lūm (Active) or Majhūl
 (Passive), etc.
 
-[^32]: The Yā’ that is preceded by a Fatḥah and followed by a Kasrah (as
+[^32] The Yā’ that is preceded by a Fatḥah and followed by a Kasrah (as
 opposed to the Yā’ of the Muţanna. See next footnote).
 
-[^33]: The Yā’ that is preceded by a Kasrah and followed by a Fatḥah (as
+[^33] The Yā’ that is preceded by a Kasrah and followed by a Fatḥah (as
 opposed to the Yā’ of the Jam‘ Muđakkar Sālim. See previous footnote).
 
-[^34]: Strictly speaking, the Fi‘l constitutes only the part highlighted
+[^34] Strictly speaking, the Fi‘l constitutes only the part highlighted
 in red. It is therefore wrong to translate the Fi‘l  كَتَبَ  as “he
 wrote” but rather as “wrote” or “writing in the past”. The reason for
 this is that “he wrote” is the translation of a complete sentence
@@ -591,7 +591,7 @@ that we have defined a Fi ‘l as a “word that signifies the occurrence of
 an action in one of the three tenses” and nowhere is it mentioned that
 the Ḍamīr is part of its meaning.
 
-[^35]: It does not matter whether the Fatḥah is Ḍāhirah (verbally
+[^35] It does not matter whether the Fatḥah is Ḍāhirah (verbally
 expressed) or Muqaddarah (conceived in the mind only) such that even if
 the Fatḥah does not appear to be physically present in speech it is
 nevertheless assumed to be present. This is the case when the Wāw
@@ -620,7 +620,7 @@ that the Fi‘l is actually Mabniyy on the Ḍammah or Sukūn in the case of
 – for example – ضربُوا  and  ضربْتُ  respectively, and not on an implied
 or assumed Fatḥah.
 
-[^36]: The view that the Amr is Majzūm is Kufan since the Basran view is
+[^36] The view that the Amr is Majzūm is Kufan since the Basran view is
 that it is Mabniyy (fixed) on the sign with which the Muḍāri‘ is Majzūm.
 This, furthermore, reiterates the view that the author had certain Kufan
 leanings. The Amr – based on this view – does not constitute a separate
@@ -632,7 +632,7 @@ letter) a Hamzah al-Waṣl is introduced to enable the pronunciation of
 the Sākin except the Fourth Form  أَفْعَلَ  in which case its original
 Hamzah al-Qaṭ‘ is restored.
 
-[^37]: These letters are called the Aḥruf al-Muḍāra‘ah as they cause the
+[^37] These letters are called the Aḥruf al-Muḍāra‘ah as they cause the
 Fi‘l to become Muḍāri‘. Furthermore, they are vowelled with a Ḍammah if
 the Fi‘l consists of four letters or it is in the Majhūl (passive) form
 other wise they are vowelled with a Fatḥah. In addition, the Alif is
@@ -643,7 +643,7 @@ plural and the Tā’ for the second person throughout (i.e. masculine and
 feminine, singular, dual and plural) and the third person feminine
 singular and dual.
 
-[^38]: The actual, Nawāṣib, according to the Basran school, are the first
+[^38] The actual, Nawāṣib, according to the Basran school, are the first
 four. The remaining six, according to the them, do not effect Naṣb by
 themselves but rather via the particle  "أنْ"  that is assumed to be
 hidden after them. The reason for this assumption is to maintain a
@@ -665,16 +665,16 @@ Naḥw.
 
 [^39]
 
-[^40]: For the Fi‘l to be Manṣūb after the Fā’ or the Wāw they have to be
+[^40] For the Fi‘l to be Manṣūb after the Fā’ or the Wāw they have to be
 preceded by Nafy (negation) or Ṭalab [a request which comprises the
 following: Amr (command), Nahy (prohibition), Taḥḍīḍ (urgent request),
 ‘Arḍ (mild/gentle request), Du‘ā’ (supplication), Istifhām
 (interrogation/questioning), Rajā’ (hoping) and Tamannī (wishing)]
 
-[^41]: For the Fi‘l to be Manṣūb after  أوْ  the latter has to covey the
+[^41] For the Fi‘l to be Manṣūb after  أوْ  the latter has to covey the
 meaning of either  إلى  (until) or  إلاّ  (except).
 
-[^42]: The author states that the Jawāzim are eighteen in number but yet
+[^42] The author states that the Jawāzim are eighteen in number but yet
 goes on to enumerate nineteen. The reason for this is that    – strictly
 speaking – is not a Jāzim since it only effects Jazm in a particular
 context, namely, that of poetry and the Jawāzim that the author meant
@@ -702,7 +702,7 @@ non-rational beings, time, place, state, etc., in addition to having
 Ḍamā’ir (personal pronouns) referring to them. Obviously, being Asmā’
 one has to account for their places of al-I‘rāb in the sentence.
 
-[^43]: What the author means by Marfū‘āt al-Asmā’ are all those
+[^43] What the author means by Marfū‘āt al-Asmā’ are all those
 categories of Asmā’ that are Marfū‘ whether Lafđan (verbally), Taqdīran
 (hypothetically/conceptually) or Maḥallan (locally/place-wise). Lafđan
 is where the particular sign of I‘rāb (which in this case is the Ḍammah,
@@ -736,7 +736,7 @@ dropped just as the Maf‘ūl bihī does becoming the Nā’ib Fā‘il. This
 would not have been the case if the Jārr and Majrūr-phrase did not
 occupy a place of Naṣb.
 
-[^44]: The diversity of the examples used by the author here indicates
+[^44] The diversity of the examples used by the author here indicates
 that the Fā‘il can be singular, dual or plural (sound or broken),
 masculine or feminine, a noun with real or hypothetical declension. The
 use of the Māḍī and Muḍāri‘ forms of the Fi‘l indicates that the Ḍāhir
@@ -744,13 +744,13 @@ is only used with these two verb types because the Ḍāhir falls in the
 category of the third person and the Amr comprises the second person
 only and therefore cannot have the Ḍāhir as its Fā ‘il.
 
-[^45]: These are only the Fā‘il-Ḍamā’ir for the Māḍī. If we include the
+[^45] These are only the Fā‘il-Ḍamā’ir for the Māḍī. If we include the
 Muḍāri‘ and the Amr then the following Fā‘il-Ḍamā’ir can be added: the
 Yā’ al-Mukhāṭabah in  (تضربي ن، اضربي )  and the three latent or hidden
 Ḍamā’ir (i.e. Mustatirah) in  {أضرب (أنا )، نضرب (نحن )، تضرب (أنتَ )،
 اضربْ (أنتَ )}  .
 
-[^46]: Notice that the Māḍī form  ضَرَبَتَا   [They (fem. dual) hit] is
+[^46] Notice that the Māḍī form  ضَرَبَتَا   [They (fem. dual) hit] is
 not mentioned here because the author’s intention here is not to give
 the conjugation of the Fi‘l (which falls under Sarf rather than Naḥw)
 but merely to enumerate the Fā‘il in the form of Ḍamā’ir which so happen
@@ -764,7 +764,7 @@ the Alif so as to make it different from the Alif in the masculine form
 ضَربَا   such that they constitute two separate Fā‘ils and therefore
 necessitating the inclusion of the feminine form  ضَرَبَتَا .
 
-[^47]: It is also called the Nā’ib Fā‘il (Deputy Doer/Agent of the Doer)
+[^47] It is also called the Nā’ib Fā‘il (Deputy Doer/Agent of the Doer)
 which is more preferred because the technical term used by the author
 does not exclude the second of two Maf‘ūls when the first becomes the
 Nā’ib Fā‘il for each of the two Maf‘ūls qualifies as a al-Maf‘ūl allađī
@@ -772,19 +772,19 @@ lam yusamma Fā‘iluhū. Yet the one Maf‘ūl is Marfū‘ and the other Mans�
 and what the author means by this term is the one that is Marfū‘ on
 taking the place of the dropped Fā‘il.
 
-[^48]: In fact, all vowelled letters before the penultimate letter are
+[^48] In fact, all vowelled letters before the penultimate letter are
 marked with a Ḍammah and not only the first. Furthermore, if the Fi‘l is
 Ajwaf (hollow) with the Alif as the middle weak letter then the Alif is
 transformed into a Yā’ and the letter before it bears a Kasrah, e.g.
 (قا ل – قِي ْل، با ع – بـِي ْع).
 
-[^49]: Not only is the letter before the final letter marked with a
+[^49] Not only is the letter before the final letter marked with a
 Fatḥah but all vowelled letters before it. Furthermore, if the Fi‘l is
 Ajwaf (hollow) with the Wāw or Yā’ as the weak middle, then the Wāw or
 Yā’ is transformed into an Alif e.g.  (يقُو ْل – يُقَا ل، يبِي ْع –
 يُبَا ع).
 
-[^50]: The Mubtada’ is Marfū‘ and as such it must be acted on by an ‘Āmil
+[^50] The Mubtada’ is Marfū‘ and as such it must be acted on by an ‘Āmil
 that makes it Marfū‘ since every change in the form of I‘rāb is the
 result of an ‘Āmil. However, since the Mubtada’ normally is the first
 word in the nominal sentence it follows that its ‘Āmil cannot be
@@ -800,7 +800,7 @@ called alibtidā’ (inception i.e. to be stripped of verbally expressed
 
 [^52]
 
-[^53]: This definition of the Na‘t covers both the Na‘t Ḥaqīqiyy and Na‘t
+[^53] This definition of the Na‘t covers both the Na‘t Ḥaqīqiyy and Na‘t
 Sababiyy. The Na‘t Ḥaqīqiyy is that which highlights a quality or
 attribute in the Man‘ūt itself and further agrees with the Man‘ūt in
 number and gender e.g.  هذا بستانٌجميلٌ   (This is a beautiful garden).
@@ -816,15 +816,15 @@ and only agrees with the Man‘ūt in Raf’ and Tankīr. As for gender and
 number the Na‘t is Mu’annath because the Sabab is Mu’annath and is
 always Mufrad.
 
-[^54]: The Mubham includes the Ism Mauṣūl (relative pronoun) e.g.   الذي
+[^54] The Mubham includes the Ism Mauṣūl (relative pronoun) e.g.   الذي
 [who/that which (masc. sing.)],  التي  [who/that which fem. sing.)] and
 الذينَ  [who/those whom (masc. pl.)].
 
-[^55]: Examples of this category are: كتاب ي  (my book), كتاب زيد
+[^55] Examples of this category are: كتاب ي  (my book), كتاب زيد
 (Zayd’s book), كتاب هذا الطالب  (this student’s book) and كتاب الرجل
 (the man’s book).
 
-[^56]: What is meant by “some places” is that  حتّى  is not a Ḥarf ‘Aṭf
+[^56] What is meant by “some places” is that  حتّى  is not a Ḥarf ‘Aṭf
 in every context but that in some contexts it is a Ḥarf ‘Aṭf, in others
 a Ḥarf Jarr and yet others a Ḥarf Ibtidā’ (particle of inception). The
 following example illustrates the differences between the three types
@@ -835,66 +835,66 @@ follows the same I‘rāb as  السمكةَ  , and with Raf‘ it is Ḥarf I
 in which case رأس ه  is the Mubtada’ and its Khabar is dropped assumed
 as:  مأكولٌ  (i.e. Even its head was eaten).
 
-[^57]: This example does not constitute a proper example of a Fi‘l Majzūm
+[^57] This example does not constitute a proper example of a Fi‘l Majzūm
 conjoined to another Fi‘l Majzūm since the second is not much Majzūm by
 virtue of it following the first or even by the ‘Āmil of the first but
 rather it is Majzūm because of the negative particle of Jazm, Lām, that
 immediately precedes it. To make it an example of a Majzām conjoined to
 a Majzūm the second Lām should be dropped, like:  زيد لم يقمْ ويقعدْ   .
 
-[^58]: The term Taukīd here is a Maṣdar but it used in the sense of the
+[^58] The term Taukīd here is a Maṣdar but it used in the sense of the
 Ism Fā‘il (active participle) Mu’akkid meaning that which corroborates
 or emphasises.
 
-[^59]: The substitute word follows the word for which it is substituted
+[^59] The substitute word follows the word for which it is substituted
 in all the latter’s cases of I‘rāb.
 
-[^60]: It is also called Badal al-Kull min al-Kull (Substitute of the
+[^60] It is also called Badal al-Kull min al-Kull (Substitute of the
 whole for the whole) or Badal Muṭābiq (Concordant/congruous Badal)
 
-[^61]: Two other types are normally added so as to make the total number
+[^61] Two other types are normally added so as to make the total number
 six. These two are: Badal al-Nisyān (Badal due to forgetfulness) e.g.
 جاء محمدٌزيدٌ   [Muhammad (or rather) Zayd came] and Badal al-Iḍrāb
 (Badal of opting for the better alternative) e.g.  اِرْكَبْ
 الحمارَالفرسَ   [Ride a donkey (even better) a horse].
 
-[^62]: This statement is supposed to read: You wanted to say: الفرس but
+[^62] This statement is supposed to read: You wanted to say: الفرس but
 then you erred (by saying: زيداً) so you substitutedالفرس .  for it
 (i.e.زيداً ).
 
-[^63]: Of these fifteen Manṣūbāt the Tamyīz, Mustathnā and Maf‘ūl min
+[^63] Of these fifteen Manṣūbāt the Tamyīz, Mustathnā and Maf‘ūl min
 ajlihī in particular, are not always Manṣūb in which case their names
 are only significant for the respective meanings that they convey and
 not as referring to particular places of Naṣb. As regards their I‘rāb
 they will now be counted amongst the Marfū‘āt or Makhfūdāt.
 
-[^64]: The author states here that the Manṣūbāt are fifteen in number but
+[^64] The author states here that the Manṣūbāt are fifteen in number but
 then only mentions fourteen.
 
-[^65]: The Nūn that is between the Fi‘l and the Yā’ al-Mutakallim is
+[^65] The Nūn that is between the Fi‘l and the Yā’ al-Mutakallim is
 called the Nūn al-Wiqāyah (the Nūn of Guarding) because it guards the
 Fi‘l from taking the Kasrah that the Yā’ al-Mutakallim forces on the
 letter before it by taking the Kasrah itself.
 
-[^66]: Here the actual Ḍamīr is the Kāf only. The Mīm is called the Ḥarf
+[^66] Here the actual Ḍamīr is the Kāf only. The Mīm is called the Ḥarf
 al-‘Imād (particle of support) since it serves as a prop or support for
 the Alif following it. The Alif itself is a Ḥarf denoting duality.
 
-[^67]: Here as with the previous one, the actual Ḍamīr is only the Kāf as
+[^67] Here as with the previous one, the actual Ḍamīr is only the Kāf as
 for the Mīm it is called the ‘Alāmah Jam‘ al-Đukūr (sign of masculine
 plural).
 
-[^68]: The actual Ḍamīr is the Kāf only as for the Nūn Mushaddadah
+[^68] The actual Ḍamīr is the Kāf only as for the Nūn Mushaddadah
 (emphatic/doubled Nūn) it is called the ‘Alāmah Jam‘ al-Niswah/al-Ināţ
 (sign of feminine plural).
 
-[^69]: The Ḍamīr proper according to the more correct view amongst the
+[^69] The Ḍamīr proper according to the more correct view amongst the
 Arabic Grammarians is the first part viz. "إيّا" where as the rest
 constitutes number, gender and person markers. However, for the purpose
 of simplicity we have decided to regard the whole expression as the
 Ḍamīr.
 
-[^70]: The more correct term for this type of Manṣūb is Maf‘ūl Muṭlaq
+[^70] The more correct term for this type of Manṣūb is Maf‘ūl Muṭlaq
 (Absolute Object) i.e. the Maf‘ul proper since it signifies what is
 actually done free from any reference to being done to something (bihī),
 in something (fihī), out of or for the purpose of something (min-ajlihī)
@@ -910,7 +910,7 @@ done to  الكتابَ  (the book), with or in the company of  سميراً
 (Samir), in the time of  اليومَ  (today) and the place of  أمامَ  (in
 front), out of or for the purpose of  رغبةً  (desire).
 
-[^71]: These two forms of the Maṣdar constitute one of the three
+[^71] These two forms of the Maṣdar constitute one of the three
 functions of the Maf‘ūl Muṭlaq, namely: lil-Taukīd (for the purpose of
 emphasis or corroboration). The other two functions are: li Bayān
 an-Nau‘ (for the purpose of clarifying the type) e.g.  ضرب زيد
@@ -919,14 +919,14 @@ severely) and li-Bayān al-‘Adad (for the purpose of clarifying the
 number) e.g.  ضرب زيد عمراًضربةً   (Zayd hit ‘Amr one hitting i.e. he
 hit him once).
 
-[^72]: It is for this reason that it is also called Maf‘ūl fīhi (what the
+[^72] It is for this reason that it is also called Maf‘ūl fīhi (what the
 action is done in as regards time or place). Even the word Ẓarf has
 connotations of “in-ness” because it means container or vessel as if
 time and place are containers or vessels of the act that is being done
 since every act has to be done in a time or a place (with exception of
 Allah’s Acts).
 
-[^73]: When someone does an action or does it to someone or something
+[^73] When someone does an action or does it to someone or something
 then each of these exists in a particular state or condition at the time
 the action is done. Thus, if Zayd, for example, goes to school, then he
 can do so walking, running, riding, feeling happy or sad, etc. These are
@@ -936,28 +936,28 @@ unless the speaker specifies it. The Ḥāl is what the speaker uses to
 specify or clarify the particular state or states Zayd is in when he
 goes to school.
 
-[^74]: In the first of the three examples the Ḥāl proceeds from the
+[^74] In the first of the three examples the Ḥāl proceeds from the
 Fā‘il  زيدٌ  , in the second it proceeds from the Maf‘ūl bihī  الفرسَ
 and in the third example it proceeds from either the Fā‘il  زيدٌ  or the
 Maf‘ūl bihī  عبدَالله  .
 
-[^75]: In other words, the Ḥāl is a Faḍlah (dispensable component of the
+[^75] In other words, the Ḥāl is a Faḍlah (dispensable component of the
 sentence) since what completes Kalām constitutes the ‘Umdahs
 (indispensable components of the sentence). This means that one can only
 determine an Ism to be Hal after one has already determined the
 indispensable components comprising the sentences such that the Hal
 normally occurs after a nominal or verbal sentence is complete.
 
-[^76]: The Ḥāl, Na‘t and Khabar have the following in common: They often
+[^76] The Ḥāl, Na‘t and Khabar have the following in common: They often
 occur as a Waṣf or Mushtaqq (i.e. Ism Fā‘il, Ism Maf‘ūl, Ṣifah
 Mushabbahah and Ism Tafḍīl) in which case there ought to be agreement
 between them and the Ṣāḥib al-Ḥāl, Man‘ūt and Mubtada’ respectively, in
 terms of gender and number.
 
-[^77]: The term Tamyīz here even though it is Maṣdar it is used in the
+[^77] The term Tamyīz here even though it is Maṣdar it is used in the
 sense of the Ism Fā‘il (active participle) i.e. Mumayyiz (specifier).
 
-[^78]: The Tamyīz itself comprises two broad categories: Tamyīz al-Mufrad
+[^78] The Tamyīz itself comprises two broad categories: Tamyīz al-Mufrad
 and Tamyīz al-Nisbah/al-Jumlah. Tamyīz al-Mufrad consists of four types:
 
 Tamyīz al-‘Adad e.g.  حضر عشرونطالباً   (Twenty students were
@@ -976,22 +976,22 @@ or whether he is good as a whole. By adding خُلُق   so that the sentence
 becomes حَسُنَ زيدٌخُلُقاً   (Zayd is good in character) it becomes
 clear that it is Zayd’s character that is good.
 
-[^79]: The term Istithnā’ here could either be used in the original sense
+[^79] The term Istithnā’ here could either be used in the original sense
 of the Maṣdar meaning ‘exception’ or ‘exclusion’ or in the sense of the
 Ism Maf‘ūl (passive participle) meaning the Mustathnā (i.e. the object
 excepted/excluded)
 
-[^80]: Obviously, not all of these eight words are Ḥurūf, since  غير،
+[^80] Obviously, not all of these eight words are Ḥurūf, since  غير،
 سِوى، سُوى، سواء  are Asmā’,  خلا، عدا، حاشا  can be Ḥurūf or Af‘āl. As
 for  إلاّ  it is only used as a Ḥarf. However, the reason for the author
 calling them all Ḥurūf is to show the dominance of  إلاّ  which is a
 Ḥarf over the rest.
 
-[^81]: The Mustathnā minhu is the Ism in the form of a class or genus
+[^81] The Mustathnā minhu is the Ism in the form of a class or genus
 from which the exception or exclusion is made like  الناس  and  القوم
 in the examples that are cited.
 
-[^82]: In fact, there are five ways in which to say this statement:
+[^82] In fact, there are five ways in which to say this statement:
 
 رجل   is Mabniyy and امرأة   is Mabniyy:  لارجلَ في الدار ولاامرأةَ
 
@@ -1003,10 +1003,10 @@ in the examples that are cited.
 
 رجل   is Marfu‘ and امرأة   is Mabniyy:  لارجلٌ في الدار ولاامرأةَ
 
-[^83]: The Ism زيد   (Zayd) is an example of a Mufrad ‘Alam and the
+[^83] The Ism زيد   (Zayd) is an example of a Mufrad ‘Alam and the
 Ism رجل   (man) is an example of a Nakirah Maqṣūdah.
 
-[^84]: Examples of these three are:
+[^84] Examples of these three are:
 
 يارجلاً ، خذ بيدي  [Oman , take my hand (like when a blind man
 requests any man in front of him)]
@@ -1015,7 +1015,7 @@ requests any man in front of him)]
 
 يارؤوفاً بالعباد  (OThou who art compassionate with the servants)
 
-[^85]: In order for an Ism to be Manṣūb as the Maf‘ūl min ajlihī the
+[^85] In order for an Ism to be Manṣūb as the Maf‘ūl min ajlihī the
 following conditions have to be satisfied:
 
 it has to be a Maṣdar
@@ -1028,47 +1028,47 @@ action
 the Maṣdar Qalbiyy has to exist at the same time of the action being
 performed
 
-[^86]: The author, even though he mentions the Tābi‘ of something that is
+[^86] The author, even though he mentions the Tābi‘ of something that is
 Makhfūḍ as a third category of the Makhfūḍāt al-Asmā’, he does not
 actually discuss it in this section as he does with the two other
 categories. The reason for this is that the author already dealt with
 the Tābi‘ in general in the chapter on the Marfū‘āt al-Asmā’such that it
 is not necessary to repeat it here.
 
-[^87]: (From you and from Nuh)
+[^87] (From you and from Nuh)
 
-[^88]: (To Allah is your return – all of you) (To Him you will return)
+[^88] (To Allah is your return – all of you) (To Him you will return)
 
-[^89]: (Allah is pleased with the believers) (Allah is pleased with them
+[^89] (Allah is pleased with the believers) (Allah is pleased with them
 and they are pleased with Him)
 
-[^90]: [On it (the cattle) and the ships you are carried]
+[^90] [On it (the cattle) and the ships you are carried]
 
-[^91]: (And in the heavens is your sustenance) [And in it (Paradise) is
+[^91] (And in the heavens is your sustenance) [And in it (Paradise) is
 that which the souls desire]
 
-[^92]: (Seldom I meet a pious man)
+[^92] (Seldom I meet a pious man)
 
-[^93]: (Say: We believe in Allah) (Those are the one who believe in Him)
+[^93] (Say: We believe in Allah) (Those are the one who believe in Him)
 
-[^94]: (Nothing is like unto Him)
+[^94] (Nothing is like unto Him)
 
-[^95]: (To Allah belong what is in the heavens and what is on earth) (For
+[^95] (To Allah belong what is in the heavens and what is on earth) (For
 them therein is an Abode of Eternity)
 
-[^96]: (By Allah)
+[^96] (By Allah)
 
-[^97]: (By Allah)
+[^97] (By Allah)
 
-[^98]: (By Allah)
+[^98] (By Allah)
 
-[^99]: (Perhaps a night like the swell of the ocean lowering its drapes)
+[^99] (Perhaps a night like the swell of the ocean lowering its drapes)
 
-[^100]: (I have not seen him since Friday) (I have not seen him today)
+[^100] (I have not seen him since Friday) (I have not seen him today)
 
-[^101]: (I have not seen him since Friday) (I have not seen him today)
+[^101] (I have not seen him since Friday) (I have not seen him today)
 
-[^102]: The more popular view is that Iḍāfah is of three types with the
+[^102] The more popular view is that Iḍāfah is of three types with the
 addition of that which is implied by means of  في  e.g.  قيامالليلِ
 (Standing upin the night ) or  صلاةالصبحِ    (prayingin the early
 morning ).

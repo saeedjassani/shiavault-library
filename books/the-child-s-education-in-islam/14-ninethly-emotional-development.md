@@ -220,205 +220,205 @@ in a state of deprivation he will not become upright and may take up by
 perverted ones and focus him to unrighteousness and will become a
 harmful member to the society.
 
-[^1]: - Qaamoos Attifl Attibbi: 294.
+[^1] - Qaamoos Attifl Attibbi: 294.
 
-[^2]: - Manla yahdurhu faqeeh - by suduq vol-1:182/ 3rd ch - the
+[^2] - Manla yahdurhu faqeeh - by suduq vol-1:182/ 3rd ch - the
 punishment for children regards prayer - printed by Daru Atta'aruuf lil
 matbu'aat 1401 A.H.
 
-[^3]: - Ilmi Nnafs Attarbawi vol-2:132 -1407 A.H. By DR Ali Mansoor.
+[^3] - Ilmi Nnafs Attarbawi vol-2:132 -1407 A.H. By DR Ali Mansoor.
 
 [^4]- Mashaakilil Aabaa'a fi Ttarbiyatil Abnaa'a: 248.
 
-[^5]: - Mashaakilil Aabaa'a fi Ttarbiyatil Abnaa'a: 251
+[^5] - Mashaakilil Aabaa'a fi Ttarbiyatil Abnaa'a: 251
 
-[^6]: - Kanzul Umaal vol-16: 456/45409.
+[^6] - Kanzul Umaal vol-16: 456/45409.
 
-[^7]: - Tuhfal Uquul: 368.
+[^7] - Tuhfal Uquul: 368.
 
-[^8]: - Taareekh Yaquubi vol-2:320.
+[^8] - Taareekh Yaquubi vol-2:320.
 
-[^9]: - Qaamoos Attifl Attibbi: 328.
+[^9] - Qaamoos Attifl Attibbi: 328.
 
-[^10]: - Ilmi Nnafs: 264 by Abdul Azeez Al-Qusi.
+[^10] - Ilmi Nnafs: 264 by Abdul Azeez Al-Qusi.
 
-[^11]: - Ilmi Nnafs Attarbawi: 100- 101- by fakhir Aqil.
+[^11] - Ilmi Nnafs Attarbawi: 100- 101- by fakhir Aqil.
 
 [^12]- Mustadrakil Wasaa'il vol-2:618.
 
-[^13]: - Mustadrakil Wasaa'il vol-2:626.
+[^13] - Mustadrakil Wasaa'il vol-2:626.
 
-[^14]: - Uddati Ddaa'i: 61.
+[^14] - Uddati Ddaa'i: 61.
 
-[^15]: - Al-kafi vol-6:50/6 Children's obedience.
+[^15] - Al-kafi vol-6:50/6 Children's obedience.
 
-[^16]: - Ilmi Ijtimaa'a: 252- by Lanqula Al-Haddaad printed by Daru
+[^16] - Ilmi Ijtimaa'a: 252- by Lanqula Al-Haddaad printed by Daru
 Rraa'id 2nd edition 1982 A.D.
 
-[^17]: - Attarbiya WA binaa'il Ajyaal: 167.
+[^17] - Attarbiya WA binaa'il Ajyaal: 167.
 
-[^18]: - Mustadrakil Wasaa'il vol -2: 625.
+[^18] - Mustadrakil Wasaa'il vol -2: 625.
 
-[^19]: - Mustadrakil Wasaa'il vol -2: 626.
+[^19] - Mustadrakil Wasaa'il vol -2: 626.
 
-[^20]: - Mustadrakil Wasaa'il vol -2: 626.
+[^20] - Mustadrakil Wasaa'il vol -2: 626.
 
-[^21]: - Makarimul Akh'laq: 219.
+[^21] - Makarimul Akh'laq: 219.
 
-[^22]: - Al-kafi vol-6: 50 /6th ch- Good to the children.
+[^22] - Al-kafi vol-6: 50 /6th ch- Good to the children.
 
-[^23]: - Makarimul Akh'laq: 220.
+[^23] - Makarimul Akh'laq: 220.
 
-[^24]: - Uddati Ddaayi: 79.
+[^24] - Uddati Ddaayi: 79.
 
-[^25]: - Tuhfal Uquul: 267.
+[^25] - Tuhfal Uquul: 267.
 
-[^26]: - Mukhtasar Taareekh Demeshq vol-7:14 by bn Manzoor printed by
+[^26] - Mukhtasar Taareekh Demeshq vol-7:14 by bn Manzoor printed by
 Darul Fikr 1st edition 1405 A.H.
 
-[^27]: - Mustadrakil Wasaa'il vol-2:69.
+[^27] - Mustadrakil Wasaa'il vol-2:69.
 
-[^28]: - Tuhfal Uquul: 337.
+[^28] - Tuhfal Uquul: 337.
 
-[^29]: - Mashaakilil Aabaa'a: 141.
+[^29] - Mashaakilil Aabaa'a: 141.
 
-[^30]: - aareekh Yaaquubi vol- 2:320. T
+[^30] - aareekh Yaaquubi vol- 2:320. T
 
-[^31]: - Bihaaril Anwaar vol- 22:114.
+[^31] - Bihaaril Anwaar vol- 22:114.
 
-[^32]: - Attifl bainal wiraatha WA ttarbiya vol-2:180 from the book 'we
+[^32] - Attifl bainal wiraatha WA ttarbiya vol-2:180 from the book 'we
 and the children: 39'.
 
-[^33]: - Ilmi Nnafs Attarbawi: 535 - by DR. Fakhir Aqil.
+[^33] - Ilmi Nnafs Attarbawi: 535 - by DR. Fakhir Aqil.
 
-[^34]: - Tuhfal Uquul: 84.
+[^34] - Tuhfal Uquul: 84.
 
-[^35]: - Bihaaril Anwaar vol- 79: 102.
+[^35] - Bihaaril Anwaar vol- 79: 102.
 
-[^36]: - Mashaakilil Aabaa'a: 75.
+[^36] - Mashaakilil Aabaa'a: 75.
 
-[^37]: - Adwaa'i ala Nnafs bashariyyah: 302 - by DR. Zain Abbas
+[^37] - Adwaa'i ala Nnafs bashariyyah: 302 - by DR. Zain Abbas
 Ammarah -printed by Daruth thaqafah 1st edition 1407 A.H.
 
-[^38]: - Makaarimul Akh'laq: 220.
+[^38] - Makaarimul Akh'laq: 220.
 
-[^39]: - Makaarimul Akh'laq: 221.
+[^39] - Makaarimul Akh'laq: 221.
 
-[^40]: - Kanzul Amaal vol- 16: 445/ 45350.
+[^40] - Kanzul Amaal vol- 16: 445/ 45350.
 
-[^41]: - " " " - 16: 444/ 45346.
+[^41] - " " " - 16: 444/ 45346.
 
-[^42]: - " " " - 16: 444/ 45347.
+[^42] - " " " - 16: 444/ 45347.
 
-[^43]: - Makarimul Akh'laq: 221.
+[^43] - Makarimul Akh'laq: 221.
 
-[^44]: - Mustadrakil Wasaa'il vol- 12: 626.
+[^44] - Mustadrakil Wasaa'il vol- 12: 626.
 
-[^45]: - Bihaaril Anwaar vol- 43: 261.
+[^45] - Bihaaril Anwaar vol- 43: 261.
 
-[^46]: - " " "- 43: 275.
+[^46] - " " "- 43: 275.
 
-[^47]: - Bihaaril Anwaar vol- 43: 284.
+[^47] - Bihaaril Anwaar vol- 43: 284.
 
-[^48]: - Hadeeth Ila Umahaat: 68.
+[^48] - Hadeeth Ila Umahaat: 68.
 
-[^49]: - Makarimul Akh'laq: 221.
+[^49] - Makarimul Akh'laq: 221.
 
-[^50]: - Qaamoos Attifl Attibbi: 221- 222.
+[^50] - Qaamoos Attifl Attibbi: 221- 222.
 
-[^51]: - Al-ilaji Nnafs Al-jamaa'i lil Atfaal: 162 - by Kamiliya Abdul
+[^51] - Al-ilaji Nnafs Al-jamaa'i lil Atfaal: 162 - by Kamiliya Abdul
 Fataah printed by maktabatu Nnahdatil misriya 1975 A.D.
 
-[^52]: - Makaarimul Akh'laq: 222.
+[^52] - Makaarimul Akh'laq: 222.
 
-[^53]: - " " : 222.
+[^53] - " " : 222.
 
-[^54]: - " " : 223.
+[^54] - " " : 223.
 
-[^55]: - Mashaakilil Aabaa'a: 106.
+[^55] - Mashaakilil Aabaa'a: 106.
 
-[^56]: - Attifl bainal wiraatha WA ttarbiya vol- 2: 64, from the book
+[^56] - Attifl bainal wiraatha WA ttarbiya vol- 2: 64, from the book
 Nahnu wal- Abnaa'a: 56.
 
-[^57]: - Bihaaril Anwaar vol-103: 189.
+[^57] - Bihaaril Anwaar vol-103: 189.
 
-[^58]: - Al-kafi vol- 1: 311 /15th-ch, Book of proof.
+[^58] - Al-kafi vol- 1: 311 /15th-ch, Book of proof.
 
-[^59]: - Bihaaril Anwaar vol-43: 296.
+[^59] - Bihaaril Anwaar vol-43: 296.
 
-[^60]: - Mukhtasar Taareekh Demeshq vol- 7: 10.
+[^60] - Mukhtasar Taareekh Demeshq vol- 7: 10.
 
-[^61]: - Mustadrakil Wasaa'il vol- 2: 626.
+[^61] - Mustadrakil Wasaa'il vol- 2: 626.
 
-[^62]: - Qaamoos Attifl Attibbi: 222.
+[^62] - Qaamoos Attifl Attibbi: 222.
 
-[^63]: - Manla yahdurhul faqeeh vol- 3: 312 / 21st ch- The virtues of the
+[^63] - Manla yahdurhul faqeeh vol- 3: 312 / 21st ch- The virtues of the
 children.
 
-[^64]: - Attifl bainal wiraatha WA ttarbiyah vol- 2: 97
+[^64] - Attifl bainal wiraatha WA ttarbiyah vol- 2: 97
 
-[^65]: - Qaamoos Attifl Attibbi: 317.
+[^65] - Qaamoos Attifl Attibbi: 317.
 
-[^66]: - Ilmi Nnafs Ususihi watabaqaatihi Attarbawiyyah: 239 8th editions
+[^66] - Ilmi Nnafs Ususihi watabaqaatihi Attarbawiyyah: 239 8th editions
 1978 A.D. by AbdulAzeez Al-Qoosi.
 
-[^67]: - Ilmi Nnafs Al-ilaaji: 152 - by DR. Ijlaal Sirri printed by
+[^67] - Ilmi Nnafs Al-ilaaji: 152 - by DR. Ijlaal Sirri printed by
 Alaamul kutb 1st edition 1990 A.D.
 
-[^68]: - Mashaakilil Aabaa'a: 282.
+[^68] - Mashaakilil Aabaa'a: 282.
 
-[^69]: - " " : 283.
+[^69] - " " : 283.
 
-[^70]: - Ilmi Nnafs Al-Ilaaji: 106.
+[^70] - Ilmi Nnafs Al-Ilaaji: 106.
 
-[^71]: - Wasaa'ili sh-shiyyah vol- 20: 133/ 2 ch- 67.
+[^71] - Wasaa'ili sh-shiyyah vol- 20: 133/ 2 ch- 67.
 
-[^72]: - " " " - 20: 134/ 7 " .
+[^72] - " " " - 20: 134/ 7 " .
 
-[^73]: - Attarbiya wabinaa'il Ajyaal: 166 - by Anwar Al-jundi 1st edition
+[^73] - Attarbiya wabinaa'il Ajyaal: 166 - by Anwar Al-jundi 1st edition
 printed by Darul kitaab Beirut 1975 A.D.
 
-[^74]: - Mashaakilil Abaa'a: 205.
+[^74] - Mashaakilil Abaa'a: 205.
 
-[^75]: - Makaarimul Akh'laq: 223.
+[^75] - Makaarimul Akh'laq: 223.
 
-[^76]: - Makaarimul Akh'laq: 223.
+[^76] - Makaarimul Akh'laq: 223.
 
-[^77]: - Mashaakilil Aabaa'a: 284.
+[^77] - Mashaakilil Aabaa'a: 284.
 
-[^78]: - Qur'an 76: 8.
+[^78] - Qur'an 76: 8.
 
-[^79]: - Qur'an 90:14-15.
+[^79] - Qur'an 90:14-15.
 
-[^80]: - Qur'an 2:177.
+[^80] - Qur'an 2:177.
 
-[^81]: - Qur'an 8: 41.
+[^81] - Qur'an 8: 41.
 
-[^82]: - Qur'an2: 215.
+[^82] - Qur'an2: 215.
 
-[^83]: - Qur'an 6: 152.
+[^83] - Qur'an 6: 152.
 
-[^84]: - Tuhfal Uquul: 198.
+[^84] - Tuhfal Uquul: 198.
 
-[^85]: - Mustadrakil Wasaa'il vol - 1: 148.
+[^85] - Mustadrakil Wasaa'il vol - 1: 148.
 
-[^86]: - Al-mahjatul badaa'i vol - 3: 403.
+[^86] - Al-mahjatul badaa'i vol - 3: 403.
 
-[^87]: - Qur'an 2: 83.
+[^87] - Qur'an 2: 83.
 
-[^88]: - " 4: 127.
+[^88] - " 4: 127.
 
-[^89]: - Al-mahjatul badaa'i vol - 3: 403.
+[^89] - Al-mahjatul badaa'i vol - 3: 403.
 
-[^90]: - Al-mahjatul badaa'i vol - 3: 403.
+[^90] - Al-mahjatul badaa'i vol - 3: 403.
 
-[^91]: - Al-mahjatul badaa'i vol - 3: 403.
+[^91] - Al-mahjatul badaa'i vol - 3: 403.
 
-[^92]: - Mustadrakil Wasaa'il vol - 2: 623.
+[^92] - Mustadrakil Wasaa'il vol - 2: 623.
 
-[^93]: - Mustadrakil Wasaa'il vol - 2: 623.
+[^93] - Mustadrakil Wasaa'il vol - 2: 623.
 
-[^94]: - Kanzul Umaal vol - 3 : 170/ 6008.
+[^94] - Kanzul Umaal vol - 3 : 170/ 6008.
 
-[^95]: - Al-kafi vol- 6: 48/8 ch- educating the child.
+[^95] - Al-kafi vol- 6: 48/8 ch- educating the child.
 

@@ -25,7 +25,7 @@ the least of which is severe!
 Then he left her and went to al-Zubayr. He reminded him of his past
 relationship with Imam Ali (a.s) saying:
 
-[^1]: Uthman bin Hunayf al-Ansari was from al-Aws tribe. He was appointed
+[^1] Uthman bin Hunayf al-Ansari was from al-Aws tribe. He was appointed
 as a governor by Umar. Then Imam Ali appointed him as a governor over
 Basra. When the Imam left it, he removed him from it and appointed over
 it Abdullah bin Abbas. It was said that Umar bin al-Khattab consulted
@@ -82,9 +82,9 @@ summon is martyr, and the one who remains alive is successful. And going
 quickly to Allah before the reward is better than the delay in the
 world. And this is (the tribe of) Rabee‘a. They are with you.”[^3]
 
-[^1]: Sharh Nahj al-Balagha, vol. 2, p. 8.
-[^2]: Qur’an, 48, 10.
-[^3]: Al-Imama wa al-Siyasa, vol. 1, pp. 64-65.
+[^1] Sharh Nahj al-Balagha, vol. 2, p. 8.
+[^2] Qur’an, 48, 10.
+[^3] Al-Imama wa al-Siyasa, vol. 1, pp. 64-65.
 
 After that the people decided to resist the aggression and to return in
 kind if they had aggressed against them and not to start them with
@@ -132,7 +132,7 @@ of Government in the dark night. They arrested and punished him. They
 pulled out the hair of his head, his beard, and his eye-brows.[^1] They
 looted that which
 
-[^1]: Sharh Nahj al-Balagha, vol. 2, p. 50. It has been mentioned: “They
+[^1] Sharh Nahj al-Balagha, vol. 2, p. 50. It has been mentioned: “They
 dismissed
 
 was in the public treasury. When the time of the prayer came, Talha and
@@ -178,10 +178,10 @@ to him: ‘I left you while I had hair, and I have come to you without
 hair.’ So Ali said: ‘To Allah we belong and to Him is our return!’ He
 said that three times.”
 
-[^1]: Al-Ya‘qubi, Tarikh, vol. 2, p. 157.
-[^2]: Qur’an, 70, 1.
-[^3]: Ibn Sa‘d, Tabaqat, vol. 5, p. 39.
-[^4]: Al-Tabari, Tarikh, vol. 5, p. 183.
+[^1] Al-Ya‘qubi, Tarikh, vol. 2, p. 157.
+[^2] Qur’an, 70, 1.
+[^3] Ibn Sa‘d, Tabaqat, vol. 5, p. 39.
+[^4] Al-Tabari, Tarikh, vol. 5, p. 183.
 
 imprisoned.”[^1] Then she ordered the policemen and the guards of the
 public treasury to be killed. Their number was seventy persons. They
@@ -225,12 +225,12 @@ the mutiny against his government and refused to pay homage to him.
 While he was earnest in managing the affair, he was surprised by the
 news of that
 
-[^1]: Al-Tabari, Tarikh, vol. 5, p. 178.
-[^2]: Sharh Nahj al-Balagha, vol. 2, p. 50.
-[^3]: In another narration it is that he went out along with seven
+[^1] Al-Tabari, Tarikh, vol. 5, p. 178.
+[^2] Sharh Nahj al-Balagha, vol. 2, p. 50.
+[^3] In another narration it is that he went out along with seven
 hundred of his companions.
-[^4]: Usd al-Ghaba, vol. 2, p. 40.
-[^5]: Sharh Nahj al-Balagha, vol. 2, p. 51.
+[^4] Usd al-Ghaba, vol. 2, p. 40.
+[^5] Sharh Nahj al-Balagha, vol. 2, p. 51.
 
 the people of Mecca were excited to avenge Uthman out of the
 provocation of Talha, al-Zubayr, A’isha, and their Umayyad followers.
@@ -267,7 +267,7 @@ trust with me and with your leader. Therefore, if there is no escape
 from fighting, we will not fight against anyone until we put an end to
 those who killed Uthman!”
 
-[^1]: Muhammad bin Ja‘far bin Abi Talib al-Hashimi was the first emigrant
+[^1] Muhammad bin Ja‘far bin Abi Talib al-Hashimi was the first emigrant
 to be given the name of Muhammad. It was said that he was born in
 al-Habasha. He married Umm Kulthum, daughter of Imam Ali. It was said
 that he was martyred in Tastur, and it was said that he was martyred at
@@ -280,7 +280,7 @@ Oun went out to him. He put them on his thigh and prayed for them, and
 then he said: “I am their guardian in the world and in the hereafter.”
 Then he said: “As for Muhammad, he looks like our uncle Abu Talib.”
 
-[^2]: Al-Tabari, Tarikh, vol. 3, p. 393.
+[^2] Al-Tabari, Tarikh, vol. 3, p. 393.
 
 The two Muhammads sent the news to the Imam and informed him of the
 mutiny of Abu Musa and his discouraging the people. The Imam sent Hashim
@@ -367,8 +367,8 @@ Ammar turned to the people and said to them: -Most surely, Allah’s
 Apostle meant Abu Musa with that. For when he sits down is better than
 when he rises.
 
-[^1]: Qur’an, 4, 29.
-[^2]: Ibid., 4, 93.
+[^1] Qur’an, 4, 29.
+[^2] Ibid., 4, 93.
 
 Ammar’s speech, and al-Hasan’s kindness and long patience were useless
 to this rude, rebellious person, who did not yield to anything except

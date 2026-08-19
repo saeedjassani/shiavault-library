@@ -48,7 +48,7 @@ successfully pass the trial of occultation with firm belief in the Imam
 Satanic views and the intruders in the domain of religion. Abu Salt
 al-Hirawi narrated:
 
-[^1]: Kamal al-Din, sec. 31, p. 324, Hadith 9; Mustadrak al-Wasa'il, vol.
+[^1] Kamal al-Din, sec. 31, p. 324, Hadith 9; Mustadrak al-Wasa'il, vol.
 17, p. 262, Hadith 21289; Bihar al- Anwar, vol. 2, p. 303, Hadith 40.
 
 [^2]Nahj al-Balagha, Sermon 97.
@@ -86,7 +86,7 @@ they shall believe by means of black (letters) over white (sheets)
 
 In a Tawqi', Imam al-Mahdi (PBUH) mentioned:
 
-[^1]: Kamal al-Din, p. 51, Bihar al-Anwar, vol. 51, p. 68, Hadith 10.
+[^1] Kamal al-Din, p. 51, Bihar al-Anwar, vol. 51, p. 68, Hadith 10.
 Similar traditions have been narrated from Imam Ali (PBUH), Imam
 al-Sadiq (PBUH). See Bihar al-Anwar, vol. 51, p. 119 & p. 145.
 [^2]Man La Yahdhuruhu al-Faqih, vol. 4, p. 366; Kamal al-Din, p. 288,

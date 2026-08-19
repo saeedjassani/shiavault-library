@@ -59,9 +59,9 @@ The verse continues saying:
 
 “… And (moreover) the Warner came to you. …”
 
-[^1]: Sura At-Taubah, No. 9, verse 37
+[^1] Sura At-Taubah, No. 9, verse 37
 
-[^2]: Sura Al-Kahf, No. 18, verse 104
+[^2] Sura Al-Kahf, No. 18, verse 104
 
 Now that the case is such and all the means of felicity have been
 available for you, but you did not enjoy them, you should be afflicted
@@ -107,9 +107,9 @@ people of sixty years old! (Where are you?) This is the same lifetime
 about which Allah has said: ‘Did We not give you long life enough to
 remember therein for him who would remember?’” [^2]
 
-[^1]: Majma'-ul-Baya-n, following the verse
+[^1] Majma'-ul-Baya-n, following the verse
 
-[^2]: The commentary by Tabarsi-, following the verse.
+[^2] The commentary by Tabarsi-, following the verse.
 
 **Section 5 : Never can anyone see Allah’s plan Commentary : Verse
 38**

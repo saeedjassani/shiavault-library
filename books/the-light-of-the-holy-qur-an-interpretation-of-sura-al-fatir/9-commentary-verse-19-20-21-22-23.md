@@ -179,7 +179,7 @@ we cannot communicate with the dead.
 Another Question is: If our sound does not reach the dead, what is the
 meaning of our greeting to the Prophet (p.b.u.h.)
 
-[^1]: Tafsi-r-i-Rauh-ul-Baya-n, under the verse, and Sah)i-h)-Bukha-ri-,
+[^1] Tafsi-r-i-Rauh-ul-Baya-n, under the verse, and Sah)i-h)-Bukha-ri-,
 Vol. 5, P. 97
 
 and to the Imams (a.s.), resorting to them, visiting of their tombs,
@@ -294,7 +294,7 @@ punishment.
 
 However, Allah caused some pagans to be faced with a tempest, another
 group with a destructive hurricane, and some
-[^1]: The Arabic word /zubur/ is the plural form of /zabu-r/ which means
+[^1] The Arabic word /zubur/ is the plural form of /zabu-r/ which means
 the books the scriptures of which have been written to be permanent
 (like writings on the stone, and the likes that here it indicates to the
 firmness of their matters.

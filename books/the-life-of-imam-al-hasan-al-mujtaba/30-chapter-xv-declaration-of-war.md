@@ -81,8 +81,8 @@ disobey him. Mu’awiya and his army covered the desert. When they arrived
 at the Bridge of Manbaj,[^2] they stayed there. There he made his affair
 firm, that he might overcome the events.
 
-[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 13.
-[^2]: The Bridge of Manbaj was an old town. There was a two days’
+[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 13.
+[^2] The Bridge of Manbaj was an old town. There was a two days’
 distance between it and Halabin. Khousrow (the Persian king) was the
 first to build it. Some poets lived there like al-Buhtary. This has been
 mentioned (in the book) Mu‘jam al-Buldan, vol. 8, p. 169.
@@ -112,11 +112,11 @@ the summons to jihad warned of the danger, indicated pessimism and
 despair of setting them right. When ‘Adiy bin Hatam[^3] , a great,
 determined, and watchful companion of the Prophet, came to
 
-[^1]: Al-Nukhaylah was a place near Kufa in the direction of al-Sham
+[^1] Al-Nukhaylah was a place near Kufa in the direction of al-Sham
 (Syria). At it Mu‘awiya killed the Kharijites when he came to Kufa. This
 has been mentioned (in the book) Mu‘jam al-Buldan, vol. 8, p. 276.
-[^2]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 13.
-[^3]: His full name is ‘Adi bin Hatam al-Taa’i. His father Hatam was
+[^2] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 13.
+[^3] His full name is ‘Adi bin Hatam al-Taa’i. His father Hatam was
 cited as an example of generosity and munificence. ‘Adi was given the
 Kunya of Abu Tareef. He came to the Prophet, may Allah bless him and his
 family, in the year 9 A. H. He was a Christian, and then he became a
@@ -178,8 +178,8 @@ died in Qirqisya. The former is more correct. This has been mentioned in
 been mentioned in (the books) al-Isaba, al-Isti‘ab, and Tahdhib
 al-Tahdhibin
 
-[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 14.
-[^2]: Ma‘qal bin Qays al-Riyahi lived during the time of the Prophet, may
+[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 14.
+[^2] Ma‘qal bin Qays al-Riyahi lived during the time of the Prophet, may
 Allah bless him and his family. Ibn ‘Asakir has said: “‘Ammar (bin
 Yasir) sent Ma‘qal to ‘Umar to tell him about the conquest of Tastar. He
 also sent him to the Banu Najiya when they became apostates. He (Ma‘qal
@@ -220,7 +220,7 @@ force. He supplied him with this valuable advice which is as follows: “O
 cousin, I am going to send with you twelve thousand Arab horsemen and
 reciters (of the
 
-[^1]: Al-Mughira bin Nawfal bin al-Harth bin ‘Abd al-Muttalib was born in
+[^1] Al-Mughira bin Nawfal bin al-Harth bin ‘Abd al-Muttalib was born in
 Mecca at the time of the Prophet, may Allah bless him and his family.
 That was before the Hijri calendar. It was said that he did not live
 during the lifetime of Allah’s Apostle, may Allah bless him and his
@@ -235,7 +235,7 @@ bless him and his family: “Whoever does not praise justice and does not
 dispraise injustice fights against Allah.” This has been mentioned in
 (the book) Asad al-Ghaba, vol. 4, p. 407.
 
-[^2]: In the book al-Kharaiij wa al-Jaraiih, p. 228 it has been
+[^2] In the book al-Kharaiij wa al-Jaraiih, p. 228 it has been
 mentioned: “Those who wanted to go out went with Imam al-Hasan. Many
 people tarried. They did not fulfill what they had said and promised.
 They deceived him just as they had deceived Imam Ali, peace be on him,
@@ -335,7 +335,7 @@ went with Imam al-Hasan to Saabaat. Ibn Abi al-Haddeed has mentioned
 that a huge Army went with Imam al-Hasan, but he has not mentioned its
 number. He has mentioned the number of the vanguard under the leadership
 of
-[^1]: Sulh al-Hasan, p. 96.
+[^1] Sulh al-Hasan, p. 96.
 
 Ubaydillah. He has said: “The number of the vanguard was twelve
 thousand men from among the Arab knights and the reciters (of the
@@ -359,15 +359,15 @@ entrusted other than them with other numbers. He intended to return to
 Siffin. When Friday came to him, Abdurrahman bin Muljim struck him with
 the sword.”[^7]
 
-[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 14.
-[^2]: Tarikh al-Tabari, vol. 6, p. 94.
-[^3]: Al-Imama wa al-Siyasa, vol. 1, p. 151.
-[^4]: Al-Ya‘qubi, Tarikh, vol. 2, p. 194. Ziyad has said: “Most surely
+[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 14.
+[^2] Tarikh al-Tabari, vol. 6, p. 94.
+[^3] Al-Imama wa al-Siyasa, vol. 1, p. 151.
+[^4] Al-Ya‘qubi, Tarikh, vol. 2, p. 194. Ziyad has said: “Most surely
 the son of the woman who ate the liver (of Hamza at the Battle of Uhd),
 cave of hypocrisy, and remainder of the allies (Mu‘awiya) has written (a
 letter in which he has) threatened me while there are between me and him
 two grandsons of the Prophet along with ninety thousand (people).
-[^5]: Al-Bidaya wa al-Nihaya, vol. 8, p. 42. It has been mentioned in it:
+[^5] Al-Bidaya wa al-Nihaya, vol. 8, p. 42. It has been mentioned in it:
 “A man came in to al-Hasan bin Ali in whose hand there was a letter. The
 man asked him: ‘What is this?’ ‘Mu‘awiya has threatened me in it,’
 replied the Imam. ‘You treated him with justice,’ retorted the man. The
@@ -378,7 +378,7 @@ for help against those who shed their blood.’” A narration similar to
 this has been mentioned by Ibn Abi al-Hadeed in his book Sharh Nahj
 al-Balagha, vol. 4, p. 7.
 
-[^6]: Nawf al-Bakali was among the companions of Imam Ali, the Commander
+[^6] Nawf al-Bakali was among the companions of Imam Ali, the Commander
 of the faithful, peace be on him. It has been reported on the authority
 of Taghlub that he (Nawf al-Bakali) was ascribed to Bakal, a tribe from
 Hamadan (a city in Iran). It was said that (the name of the tribe was)
@@ -387,7 +387,7 @@ Himyar to whom belongs this person, who is Nawf bin Fudala, the
 companion of Imam Ali, peace be on him.” This has been mentioned in (the
 book) al-Ta‘leeqat, p. 354.
 
-[^7]: Muhammed ‘Abda, Sharh Nahj al-Balagha, vol. 2, p. 132.
+[^7] Muhammed ‘Abda, Sharh Nahj al-Balagha, vol. 2, p. 132.
 
 This speech narrates to us that a huge, armed troops were ready to war
 against Mu’awiya. It has mentioned the name of some of their commanders
@@ -429,10 +429,10 @@ regardless of their number, they suffered from disagreement, division,
 and weakness; therefore, how would they win a victory? What would the
 huge number benefit them?
 
-[^1]: Abu al-Fida’, Tarikh, vol. 1, p. 193.
-[^2]: Al-Kamil, vol. 3, p. 61.
-[^3]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 6.
-[^4]: Sulh al-Hasan, p. 106.
+[^1] Abu al-Fida’, Tarikh, vol. 1, p. 193.
+[^2] Al-Kamil, vol. 3, p. 61.
+[^3] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 6.
+[^4] Sulh al-Hasan, p. 106.
 
 **A Description of the Army**
 
@@ -476,7 +476,7 @@ of the caliphate, the guardians of the Prophet, supporters and
 protectors of Islam, and that the obedience to them was obligatory on
 all the Muslims.
 
-[^1]: Al-Irshad, p. 169. This has been mentioned by Ali bin Muhammed,
+[^1] Al-Irshad, p. 169. This has been mentioned by Ali bin Muhammed,
 better known as Ibn al-Sabbagh, in (his book) al-Fusool al-Muhimma, p.
 143. Al-Arbali, Kashf al-Ghumma, p. 161. Al-Majjlsi, Bihar al-Anwar,
 vol. 10, p. 110.
@@ -573,9 +573,9 @@ enter the obedience to him. If he had not intended to war (against him),
 he would not have gone up on the pulpit and urged the people to struggle
 (against him) and summoned them to
 
-[^1]: Al-Hakim, Mustadrak, vol. 3, p. 174.
-[^2]: Al-Ya‘qubi, Tarikh, vol. 2, p. 191.
-[^3]: Al-Bidaya wa al-Nihaya, vol. 8, p. 14.
+[^1] Al-Hakim, Mustadrak, vol. 3, p. 174.
+[^2] Al-Ya‘qubi, Tarikh, vol. 2, p. 191.
+[^3] Al-Bidaya wa al-Nihaya, vol. 8, p. 14.
 
 war (against him); we have mentioned that in detail. As for his speech:
 “They held a great meeting the like of which was not heard,” it is

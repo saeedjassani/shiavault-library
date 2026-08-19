@@ -360,17 +360,17 @@ attitude as a ruler toward the people under his rule.
 
 **Notes:**
 
-[^1]: That is, in the absence of a righteous government, an unjust
+[^1] That is, in the absence of a righteous government, an unjust
 government, at least preserves law and order in society, which is, of
 course, better than chaos and rule of jungle.
 
-[^2]: Jean Jacques Rousseau, The Social Contract (trns. by Maurice
+[^2] Jean Jacques Rousseau, The Social Contract (trns. by Maurice
 Granston Penguin Books, 1978, p. 51
 
-[^3]: (Ibid p. 53)
+[^3] (Ibid p. 53)
 
-[^4]: Thomas Hobbes, Leviathan, The Liberal Arts Press, New York, 1958,
+[^4] Thomas Hobbes, Leviathan, The Liberal Arts Press, New York, 1958,
 p. 173
 
-[^5]: Bukhari, Kitab al Nikah, vol. VIII
+[^5] Bukhari, Kitab al Nikah, vol. VIII
 

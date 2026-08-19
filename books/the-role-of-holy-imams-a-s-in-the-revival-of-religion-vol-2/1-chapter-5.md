@@ -619,7 +619,7 @@ Agreement With Regards To The Sentence: 'Blessed Be Allah...
 
 Tayalesi in his 'Musnad' narrates from the Caliph as such: 'When the
 verse ... [وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ مِّن طِينٍ]
-[^27]: came to an end and it described the creation of men, I said:
+[^27] came to an end and it described the creation of men, I said:
 [تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ]
 
 After this, another revelation came as a result of which Omar's sentence

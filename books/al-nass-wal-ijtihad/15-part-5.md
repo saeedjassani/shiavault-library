@@ -35,12 +35,12 @@ Then Umar
 
 --------------------------------------------------------------------------------
 
-[^1]: Ibn Jareer’s Tareekh, Ibnul Atheer’s Tareekh, Ibn Sa’d’s Tabaqat,
+[^1] Ibn Jareer’s Tareekh, Ibnul Atheer’s Tareekh, Ibn Sa’d’s Tabaqat,
 al-Halabi’s Seera, ad-Dahlani’s Seera, al-Bidayeh wen-Nihayeh by Abul
 Fida’ and all the books of history that have recorded the events of the
 battle of Uhud.
 
-[^2]: As if the Prophet (s) was not safe from Abu Sufyan and his men to
+[^2] As if the Prophet (s) was not safe from Abu Sufyan and his men to
 attack him if they knew that he was still alive; therefore he ordered
 his companions not to answer Abu Sufyan and as if Umar, when answering
 Abu Sufyan, was not afraid and did not think that the caution of the
@@ -84,9 +84,9 @@ not make him know that you have seen what he has
 
 --------------------------------------------------------------------------------
 
-[^1]: Makarim al-Akhlaq by al-Khara’ity, Kanzol Ummal, vol. 2 p.167,
+[^1] Makarim al-Akhlaq by al-Khara’ity, Kanzol Ummal, vol. 2 p.167,
 Sharh Nahjol Balagha, vol. 3 p.96, Ihya’ul Uloom by al-Ghazali, p.137.
-[^2]: Al-Qat’ wes-Sariqa (cut and theft) by Abu al-Sheikh, Kanzol Ummal,
+[^2] Al-Qat’ wes-Sariqa (cut and theft) by Abu al-Sheikh, Kanzol Ummal,
 vol.2 p. 141.
 
 (298)
@@ -124,12 +124,12 @@ spying in this way without any effect on those
 
 --------------------------------------------------------------------------------
 
-[^1]: Kanzol Ummal, vol. 2 tradition no.3694.
-[^2]: Narrated by Abdurrazaq, Abd bin Hameed and al-Khara’ity in Makarim
+[^1] Kanzol Ummal, vol. 2 tradition no.3694.
+[^2] Narrated by Abdurrazaq, Abd bin Hameed and al-Khara’ity in Makarim
 al-Akhlaq, Kanzol Ummal, vol.2 tradition no.3693, Mustadrak of al-Hakim,
 vol.4 p.377, Talkhees of ath-Thahabi.
-[^3]: Kanzol Ummal, vol. 2 p.141.
-[^4]: Ibid.
+[^3] Kanzol Ummal, vol. 2 p.141.
+[^4] Ibid.
 
 (299)
 
@@ -170,10 +170,10 @@ al-Khattab, Allah gives us and you deprive us of (our rights)” and
 
 --------------------------------------------------------------------------------
 
-[^1]: According to the value of that time.
-[^2]: Sharh Nahjol Balagha, vol. 3 p.96 and mentioned by other historians
+[^1] According to the value of that time.
+[^2] Sharh Nahjol Balagha, vol. 3 p.96 and mentioned by other historians
 and scholars of Hadith.
-[^3]: Az-Zamakhshari in his Kashshaf when interpreting the mentioned
+[^3] Az-Zamakhshari in his Kashshaf when interpreting the mentioned
 verse.
 
 (300)
@@ -208,7 +208,7 @@ claimed.
 
 --------------------------------------------------------------------------------
 
-[^1]: At-Tafseer al-Kabeer by ar-Razi, vol.3 p.175. Ar-Razi had a stumble
+[^1] At-Tafseer al-Kabeer by ar-Razi, vol.3 p.175. Ar-Razi had a stumble
 in his speech when talking about this verse. He said: “I think that the
 verse has no evidence showing that exceeding in dowries is
 permissible…to the last of his crooked speech, in which he wanted to
@@ -259,8 +259,8 @@ had talked about: “But he who is driven by necessity, neither craving
 
 --------------------------------------------------------------------------------
 
-[^1]: Al-Bukhari's Sahih, vol. 1 p.19.
-[^2]: A’lam al-Muwaqqi’een, p.32, Fajr al-Islam by Ahmad Ameen, p.287,
+[^1] Al-Bukhari's Sahih, vol. 1 p.19.
+[^2] A’lam al-Muwaqqi’een, p.32, Fajr al-Islam by Ahmad Ameen, p.287,
 al-Isaba by ibn Hajar, vol.2 biography of Abdurrahman bin Hatib.
 
 (302)
@@ -302,9 +302,9 @@ from visiting any woman, whose husband was absent.
 
 --------------------------------------------------------------------------------
 
-[^1]: Al-Istee’ab by ibn Abdul Birr, Hayat al-Hauwan by ad-Dimyari, chap.
+[^1] Al-Istee’ab by ibn Abdul Birr, Hayat al-Hauwan by ad-Dimyari, chap.
 of “snake”.
-[^2]: Vol.3 p.205.
+[^2] Vol.3 p.205.
 
 (303)
 
@@ -512,7 +512,7 @@ Would that my mother had not begotten me!
 
 --------------------------------------------------------------------------------
 
-[^1]: Al-Iqd al-Fareed by ibn Abd Rabbih al-Andalusi, vol.1 p.187, Arabic
+[^1] Al-Iqd al-Fareed by ibn Abd Rabbih al-Andalusi, vol.1 p.187, Arabic
 Lessons for secondary schools, vol.1 p.62 edition of al-Kashshaf Press,
 Beirut, quoted from al-Aghani by Abul Faraj al-Isfahani.
 
@@ -597,8 +597,8 @@ Muslims? Umayma[^2] has begotten you just to graze donkeys.”
 
 --------------------------------------------------------------------------------
 
-[^1]: A dry bunch of dates he was used to hold in his hand.
-[^2]: Umayma was Abu Hurayra’s mother. This word of the caliph was among
+[^1] A dry bunch of dates he was used to hold in his hand.
+[^2] Umayma was Abu Hurayra’s mother. This word of the caliph was among
 the worst words of abuse.
 
 (310)
@@ -640,8 +640,8 @@ asked him for some gift. Khalid gifted him with ten thousand
 
 --------------------------------------------------------------------------------
 
-[^1]: p.104, edition of Egypt.
-[^2]: Vol.4, p.p.90.
+[^1] p.104, edition of Egypt.
+[^2] Vol.4, p.p.90.
 
 (311)
 
