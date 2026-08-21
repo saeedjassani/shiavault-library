@@ -92,7 +92,7 @@ It is none other than the 'alim-e rabbani.
 
 He was a faqih (jurisprudent)
 
-[^2]: , a philosopher, a man of letters and a physician, all at once. He
+[^2] , a philosopher, a man of letters and a physician, all at once. He
 was well versed in fiqh (jurisprudence), philosophy, the Arabic and
 Persian literature and the traditional medicine, and was considered a
 specialist of the first order in some of these fields. He was a masterly
@@ -143,7 +143,7 @@ His sermons, since they came from the heart, had a deep effect on the
 hearts. Whenever he visited Qum, the scholars of the first rank would
 persuade him to deliver sermons from the minbar.
 
-[^4]: His sermons were charged with a passionate purity and sincerity
+[^4] His sermons were charged with a passionate purity and sincerity
 that made them profoundly effective. They were not just words to be
 heard, but a spiritual state to be experienced.
 
@@ -285,7 +285,7 @@ heading "Fi dhikr luma' min kalamihi, wa akhbarihi, wa zuhdih, says:
 That which has been preserved by people of 'Ali's sermons, delivered on
 various occasions, exceeds 480 in number. 'Ali ('a) used to deliver his
 sermons extempore without any previous preparation. The people recorded
-[^7]: his words and practically derived benefit from them.
+[^7] his words and practically derived benefit from them.
 
 [^8]
 
@@ -320,7 +320,7 @@ gave greater attention to those passages which were more prominent from
 the literary point of view. This was the reason why he named his
 anthology "Nahj al-balaghah",
 
-[^10]: which means the "path of eloquence" giving little importance to
+[^10] which means the "path of eloquence" giving little importance to
 mentioning his sources, a point rarely ignored by compilers of hadith
 (traditions). Only at times does he casually mention the name of a
 certain book from which a particular sermon or epistle has been taken.
@@ -406,7 +406,7 @@ conceal his passion for listening to 'Ali speak or the enjoyment he
 derived from it. Once, when 'Ali was delivering his famous sermon called
 al-Shiqshiqiyyah,
 
-[^14]: Ibn al-'Abbas was also present. While 'Ali ('a) was speaking, an
+[^14] Ibn al-'Abbas was also present. While 'Ali ('a) was speaking, an
 ordinary man of Kufah handed him a paper containing some questions, thus
 causing 'Ali to discontinue his speech. 'Ali, after reading the letter,
 did not continue his speech in spite of Ibn al-'Abbas 'urging him to
@@ -468,7 +468,7 @@ everlasting life. When this happened, 'Ali's remark, which carries both
 eulogy and regret, was: "I feared this would happen. Strange, yet this
 is how effective admonition affects sensitive hearts."
 
-[^19]: This is an example of the kind of influence 'Ali's sermons had
+[^19] This is an example of the kind of influence 'Ali's sermons had
 over the minds and hearts of his contemporaries.
 
 The Opinions of Ancient and Modern Scholars:
@@ -505,7 +505,7 @@ From his remarks it is evident that a large number of 'Ali's sermons
 were commonly known to the people of his day. In the first volume of his
 Al-Bayan wa al-tabyin,
 
-[^23]: after mentioning that some people praise precision in talk or
+[^23] after mentioning that some people praise precision in talk or
 rather prefer silence and disapprove profusion in speech, al-Jahiz
 writes:
 

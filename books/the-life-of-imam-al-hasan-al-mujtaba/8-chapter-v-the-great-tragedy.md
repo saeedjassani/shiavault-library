@@ -40,8 +40,8 @@ the Muslims heard that, their hearts were cut into pieces, their
 strength collapsed, their eyes were covered with a flow of tears, a
 tremor shook their entity and spread
 
-[^1]: Qur’an, 39, 30.
-[^2]: Ibn Shahrashub, al-Manaqib, vol. 1, p. 127.
+[^1] Qur’an, 39, 30.
+[^2] Ibn Shahrashub, al-Manaqib, vol. 1, p. 127.
 
 among them impatience and fear.
 
@@ -86,10 +86,10 @@ revealed to you from your Lord. If you do not do it, you will not have
 made known His message. Allah will protect you from the people.[^4] The
 Prophet became confused due to this
 
-[^1]: Al-Khasa’is al-Kubra, vol. 2, p. 368.
-[^2]: Al-Turmidhi, Saheeh, vol. 2, p. 308.
-[^3]: Qur’an, 30, 32.
-[^4]: Ibid., 5, 67. This verse was revealed on the Day of al-Ghadir. This
+[^1] Al-Khasa’is al-Kubra, vol. 2, p. 368.
+[^2] Al-Turmidhi, Saheeh, vol. 2, p. 308.
+[^3] Qur’an, 30, 32.
+[^4] Ibid., 5, 67. This verse was revealed on the Day of al-Ghadir. This
 has been
 
 warning and this threat. If he had not carried out what Allah had
@@ -173,7 +173,7 @@ those who congratulated him was Umar bin al-Khattab. He shook hands with
 him and said to him: “Well done! Well done, O Ibn Abi Talib, you have
 become my
 
-[^1]: The Declaration at Ghadir Khum is among the authentic traditions
+[^1] The Declaration at Ghadir Khum is among the authentic traditions
 ensured by many ways of transmission. The Muslims have unanimously
 agreed on narrating it. Its chain of authorities and its meaning were
 searched by the genius of Islam, His Eminence, al-Hujjah al-Amini, may
@@ -183,8 +183,8 @@ rest volumes he has mentioned a large group of the poets who lauded the
 declaration at Ghadir Khumm. He has written their biographies and
 mentioned their literary and scientific works.
 
-[^2]: Al-Ghadir, vol. 2, p. 34.
-[^3]: Ibid., vol. 1, p. 271. Quoted from Roudat al-Safa, vol. 2, p. 273,
+[^2] Al-Ghadir, vol. 2, p. 34.
+[^3] Ibid., vol. 1, p. 271. Quoted from Roudat al-Safa, vol. 2, p. 273,
 by Khawand Shah, a historian.
 
 master and the master of every believing man and believing women.”[^1]
@@ -230,8 +230,8 @@ took my father by the hand and said to him: ‘Whoever I am his guardian,
 Ali is to be his guardian. O Allah, befriend whoever befriends him, and
 be hostile
 
-[^1]: Ahmed, Musnad, vol. 4, p. 281.
-[^2]: Qur’an, 5, 3. The revelation of the Sura on the Day of Ghadir Khum
+[^1] Ahmed, Musnad, vol. 4, p. 281.
+[^2] Qur’an, 5, 3. The revelation of the Sura on the Day of Ghadir Khum
 has been mentioned by al-Sayuti in his al-Durr al-Manthur, and by
 al-Khateeb al-Baghdadi in his al-Tarikh, vol. 8, p. 290. Other
 historians have mentioned that.
@@ -278,10 +278,10 @@ Allah, saying: “No, by Allah, I have chosen to meet my Lord.” Then he
 asked Allah to forgive the dead at the cemetery of al-Baqee, and then he
 went home.[^3]
 
-[^1]: Al-Ghadir, vol. 1, p. 197.
-[^2]: Abu Muhayba was the Prophet’s retainer. The Prophet had bought and
+[^1] Al-Ghadir, vol. 1, p. 197.
+[^2] Abu Muhayba was the Prophet’s retainer. The Prophet had bought and
 released him.
-[^3]: Ibn Hisham, Syrah, vol. 3, p. 93. Al-Tabari, Tarikh, vol. 3, p.
+[^3] Ibn Hisham, Syrah, vol. 3, p. 93. Al-Tabari, Tarikh, vol. 3, p.
 190. In his Bihar al-Anwar, vol. 6, p. 121, al-Majlisi has mentioned:
 “When Allah’s Apostle (a.s.) felt the illness, he took Ali, peace be on
 him, by the hand and headed for the cemetery of al-Baqee‘ and asked
@@ -316,9 +316,9 @@ On the 29th of Safar, the Prophet came to know that his companions
 mutinied (against Usama) and deserted (him). So he, though ill, went out
 and urged of people.”
 
-[^1]: Kanz al-‘Ummal, vol. 5, p. 312. Ibn Sa‘d, Tabaqat, vol. 4, p. 46.
+[^1] Kanz al-‘Ummal, vol. 5, p. 312. Ibn Sa‘d, Tabaqat, vol. 4, p. 46.
 Tarikh al-Khamees.
-[^2]: His full name is Usama bin Zayd bin Haritha bin Sharajil bin Ka‘b
+[^2] His full name is Usama bin Zayd bin Haritha bin Sharajil bin Ka‘b
 bin ‘Abd al-‘Uzza al-Kalbi. His mother was Umm Ayman, whose name was
 Baraka. She was the retainer and nursemaid of Allah’s Apostle (a.s.).
 (The historians) have differed over Usama’s age on the day when Allah’s
@@ -334,10 +334,10 @@ pledge allegiance to Imam Ali, the Commander of the faithful, when the
 caliphate returned to him. He deviated from the Commander of the
 faithful due to the gifts and the plentiful money the Umayyad gave to
 him.
-[^3]: Ubna is a district of al-Balqa’ of the land of Syria, between
+[^3] Ubna is a district of al-Balqa’ of the land of Syria, between
 ‘Asqalan and al-Ramla. It is neighboring Mu’ta, where Zayd bin Harith
 and Ja’far bin Abi Talib were martyred.
-[^4]: Al-Hakim, Mustadrak, vol. 3, p. 58.
+[^4] Al-Hakim, Mustadrak, vol. 3, p. 58.
 
 them to go. Then he himself handed the standard to Usama and said to
 him: “Invade in the name of Allah, and in the way of Allah, and fight
@@ -374,9 +374,9 @@ different excuse. The Prophet (a.s) did not excuse them and showed
 toward them anger and displeasure. Whoever carefully considers this
 important event concludes the following:
 
-[^1]: Al-Sirah al-Halabiya, vol. 3, p. 34. Other traditionists and
+[^1] Al-Sirah al-Halabiya, vol. 3, p. 34. Other traditionists and
 historians have mentioned that.
-[^2]: Ibid., vol. 3, p. 34.
+[^2] Ibid., vol. 3, p. 34.
 
 1. The Prophet (a.s) took great care of sending the people out of
 Medina (Yathrib) and cursed those who were slow to join the regiment of
@@ -422,8 +422,8 @@ over the Muslims and he sees that there is someone more appropriate for
 that than he is among them, most surely betrays Allah, His Apostle, and
 the Muslims.”[^2]
 
-[^1]: Al-Bayqahi, Sunan, vol. 10, p. 111. Majjma‘ al-Zawa’id.
-[^2]: Al-Baqlani, Tamhid, p. 190.
+[^1] Al-Bayqahi, Sunan, vol. 10, p. 111. Majjma‘ al-Zawa’id.
+[^2] Al-Baqlani, Tamhid, p. 190.
 
 Certainly, Islam takes great care of appointing the best of people and
 greatest of them in qualifications over the government, for one should
@@ -461,11 +461,11 @@ I feel I am going to die very soon, and I had previously informed you as
 my duty, and to leave no excuse for you, that: I am leaving with you the
 book of Allah, the Great and Almighty, and my family, my household.”
 
-[^1]: We have in detail explained this subject-matter in our book Nizam
+[^1] We have in detail explained this subject-matter in our book Nizam
 al-Hukum wa al-Idara fi al-Islam.
-[^2]: Imam Sharaf al-Deen, al-Muraja‘at wa al-Nas wa al-Ijtihad. He has
+[^2] Imam Sharaf al-Deen, al-Muraja‘at wa al-Nas wa al-Ijtihad. He has
 wonderfully analyzed the Regiment of Usama.
-[^3]: Haykal, Hayat Muhammed, p. 484.
+[^3] Haykal, Hayat Muhammed, p. 484.
 
 Then he took Ali’s hand and said: “This is Ali. Ali is with the Qur’an,
 and the Qur’an is with Ali. They shall never separate from one another
@@ -512,7 +512,7 @@ Prophet (a.s). The Prophet ordered Bilal to give the whip to Sawada to
 punish him (the Prophet). It is worth mentioning that the Prophet was
 terribly ill.
 
-[^1]: Ibn Hajar, al-Sawa‘iq al-Muhriqa.
+[^1] Ibn Hajar, al-Sawa‘iq al-Muhriqa.
 
 Sawada walked towards the Prophet with shaking legs. The greatness and
 dignity of the Prophet covered him, so he said to him: “O Allah’s
@@ -553,7 +553,7 @@ cheerfulness, and content. A’isha, the Prophet’s wife, was astonished at
 this deed, and she said: “I have never seen (a day) like this day when
 rejoicing is similar to sadness!”
 
-[^1]: Bihar al-Anwar, vol.6, p. 1035.
+[^1] Bihar al-Anwar, vol.6, p. 1035.
 
 She asked her about what Allah’s Apostle (a.s) had said to her, and she
 refused to answer her. When the days passed, Fatima told A’isha about
@@ -645,7 +645,7 @@ you ride his neck!”
 Allah’s Apostle (a.s) looked at Umar because his speech had annoyed
 him. He said to him: “Leave them, for they are better than you.”
 
-[^1]: Ahmed, Musnad, vol. 1, p. 355. Other than him has mentioned the
+[^1] Ahmed, Musnad, vol. 1, p. 355. Other than him has mentioned the
 tradition.
 
 The people who wanted to carry out the Prophet’s request were about to
@@ -680,7 +680,7 @@ from the right way, turned away from the laws of justice, made the
 community get worse and worse in the fields of ignorance and deception,
 and closed before them the doors of mercy and guidance.
 
-[^1]: Al-Bukhari has mentioned the event several times in his book
+[^1] Al-Bukhari has mentioned the event several times in his book
 (al-Saheeh), vol. 4, pp. 69-99, vol. 6, p. 8. But he has hidden the name
 of the person who said these words. In his book Gharib al-Hadith, Ibn
 al-Athir has mentioned that it was ‘Umar bin al-Khattab who said these
@@ -689,9 +689,9 @@ prevented the Prophet (a.s.) from writing (some thing) concerning Ali
 and his family. This has been mentioned in the book Sharh Nahjj
 al-Balagha, vol. 3, p. 114, by Ibn Abi al-Hadeed.
 
-[^2]: Ahmed, Musnad, vol. 1, p. 355.
-[^3]: Qur’an, 53, 2-5.
-[^4]: Ibid., 81, 19-22.
+[^2] Ahmed, Musnad, vol. 1, p. 355.
+[^3] Qur’an, 53, 2-5.
+[^4] Ibid., 81, 19-22.
 
 **To the High Comrade**
 
@@ -738,8 +738,8 @@ kissed them. Imam Ali (a.s) tried to put them aside, but the Prophet
 (a.s) said to him: “Let them enjoy me, and let me enjoy them, for they
 will face a misfortune after me.”
 
-[^1]: Durrat al-Nasiheen, p. 66.
-[^2]: Ibn Sa‘d, Tabaqat, vol. 2, p. 48.
+[^1] Durrat al-Nasiheen, p. 66.
+[^2] Ibn Sa‘d, Tabaqat, vol. 2, p. 48.
 
 Then the Prophet turned to those who came to visit him and said to
 them: “Indeed I have left with you Allah’s Book and my family, my
@@ -773,8 +773,8 @@ face departed too. So the tongues set out to lament over him, the eyes
 wept for him; the crying and lamentation from the house of the Prophet
 (a.s) became loud. The greatest of his household in agony and
 
-[^1]: Al-Khawarizmi, Maqtal al-Husayn, vol. 1, p. 144.
-[^2]: Al-Manaqib, vol. 1, p. 29. Traditions ensured by many lines of
+[^1] Al-Khawarizmi, Maqtal al-Husayn, vol. 1, p. 144.
+[^2] Al-Manaqib, vol. 1, p. 29. Traditions ensured by many lines of
 transmission have been reported on that Allah’s Apostle (a.s.) died in
 the lap of Ali, peace be on him. It has been mentioned in the book Kanz
 al-‘Ummal, vol. 4, p. 55, that Abu Ghatafan said: “I asked Ibn Abbas: In
@@ -810,11 +810,11 @@ then Mikaiel, then Israfiel, and then the angels group by group.[^4] Then
 the Muslims came in to bid farewell to the Prophet and to pray over
 him.[^5] After performing
 
-[^1]: Ibn Maja, Sunan. In it he has been mentioned: “Hammad bin Zayd
+[^1] Ibn Maja, Sunan. In it he has been mentioned: “Hammad bin Zayd
 said: ‘I have seen Thabit, who related the tradition. When he related
 it, he wept to the extent that his ribs differed.’”
 
-[^2]: Wafa’ al-Wafa’, vol. 1, p. 227. In Kanz al-‘Ummal, vol. 4, p. 53,
+[^2] Wafa’ al-Wafa’, vol. 1, p. 227. In Kanz al-‘Ummal, vol. 4, p. 53,
 it has been mentioned: “(Iman) Ali washed Allah’s Apostle (a.s.).
 Al-Fadhl and Usama were giving him water from behind a curtain.” In the
 book it has also been mentioned: “The people have differed over his
@@ -824,9 +824,9 @@ have also mentioned other narrations on his shroud.” It has been
 narrated that Aba Qalla‘a would say: “Do you not wonder at their
 differing over the shroud of Allah’s Apostle (a.s.)?”
 
-[^3]: Ibn Sa‘d, Tabaqat, vol. 2, part 2, p. 63.
-[^4]: Hulyat al-Awliya’, vol. 4, p. 77.
-[^5]: Kanz al-‘Ummal, vol. 4, p. 54. In it he has been mentioned: “When
+[^3] Ibn Sa‘d, Tabaqat, vol. 2, part 2, p. 63.
+[^4] Hulyat al-Awliya’, vol. 4, p. 77.
+[^5] Kanz al-‘Ummal, vol. 4, p. 54. In it he has been mentioned: “When
 Imam (Ali), the Commander of the faithful, peace be on him, put the
 great body on the bed to pray over it, he said to the Muslims: ‘None
 should lead you in prayer, for he (the Prophet) is your Imam (Whether he

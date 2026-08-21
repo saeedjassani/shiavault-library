@@ -88,12 +88,12 @@ man from among the good, trustworthy companions of the Prophet, that the
 people might make use of his guidance and righteousness. However he
 intentionally
 
-[^1]: Al-Ansab, vol. 5, pp. 39-43. Al-Tabari, Tarikh, vol. 5, p. 88. Abu
+[^1] Al-Ansab, vol. 5, pp. 39-43. Al-Tabari, Tarikh, vol. 5, p. 88. Abu
 al-Fida’, Tarikh, vol. 1, p. 168.
-[^2]: Tahdhib al-Tahdhib, vol. 5, p. 282. In the book it has been
+[^2] Tahdhib al-Tahdhib, vol. 5, p. 282. In the book it has been
 mentioned the Uthman’s mother was Arwa, daughter of Kurayz.
-[^3]: Al-Isti‘ab, vol. 2, p. 253.
-[^4]: Al-Kamil, vol. 3, p. 38.
+[^3] Al-Isti‘ab, vol. 2, p. 253.
+[^4] Al-Kamil, vol. 3, p. 38.
 
 chose this young man, for he was his cousin. During his authority,
 Abdullah bin Aamir followed a way of luxury and lavishness. He spent
@@ -135,10 +135,10 @@ respect, who ordered him to banish the man to al-Sham on a camel’s back.
 Aamir was carried to Sham. Mu’awiya made him live at al-Khadra’ and sent
 a slave girl to spy on him.
 
-[^1]: Usd al-Ghaba, vol. 3, p. 192.
-[^2]: Al-Tabari, Tarikh, vol. 5, p. 94. Ibn Khaldun, Tarikh, vol. 2, p.
+[^1] Usd al-Ghaba, vol. 3, p. 192.
+[^2] Al-Tabari, Tarikh, vol. 5, p. 94. Ibn Khaldun, Tarikh, vol. 2, p.
 39.
-[^3]: Al-Fitnatu al-Kubra, vol. 1, p. 116.
+[^3] Al-Fitnatu al-Kubra, vol. 1, p. 116.
 
 The slave girl came to know that Aamir performed prayers during the
 night, went out in the early morning and came back in the evening, did
@@ -184,9 +184,9 @@ of Mu’awiya, saying: “He is the Khosrau of the Arabs!” Suppose he was
 such, then was it lawful for him to wear unlawful garments and spend
 lavishly from
 
-[^1]: Al-Isaba, vol. 3, p. 85.
-[^2]: Al-Iqd al-Farid, vol. 2, p. 261.
-[^3]: Usd al-Ghaba, vol. 3, p. 192.
+[^1] Al-Isaba, vol. 3, p. 85.
+[^2] Al-Iqd al-Farid, vol. 2, p. 261.
+[^3] Usd al-Ghaba, vol. 3, p. 192.
 
 the Muslims’ money? Umar was not satisfied with this laudation and
 support only, but he blew into him the spirit of ambition and opened for
@@ -230,8 +230,8 @@ soldiers, and the greatest of them in possessing the subjects’
 hearts.”[^2] Most surely, Uthman had paved the way for him and gave him
 an opportunity to battle against Imam Ali (a.s) to commit
 
-[^1]: Ibn Abi al-Haddeed, Nahj al-Balagha, vol. 1, p. 187.
-[^2]: Al-Fitnatu al-Kubra, vol. 1, p. 120.
+[^1] Ibn Abi al-Haddeed, Nahj al-Balagha, vol. 1, p. 187.
+[^2] Al-Fitnatu al-Kubra, vol. 1, p. 120.
 
 horrible, abominable things and serious offences. He paved the way for
 him to kill the righteous, trustworthy Muslims such as Hajr bin Adi and
@@ -274,11 +274,11 @@ was revealed to me as it was revealed to him. If he was untruthful, then
 I said just as he said.” Accordingly, he withdrew from Islam and joined
 the polytheists.[^4]
 
-[^1]: Al-Wilat wa al-Qudat, p. 11.
-[^2]: Al-Qurtubi, Tafseer, vol. 7, p. 134. Al-Shawkani, Tafseer, vol. 2,
+[^1] Al-Wilat wa al-Qudat, p. 11.
+[^2] Al-Qurtubi, Tafseer, vol. 7, p. 134. Al-Shawkani, Tafseer, vol. 2,
 p. 134. Abi Dauwd, vol. 2, p. 220.
-[^3]: Qur’an, 6, 93.
-[^4]: Al-Razi, Tafseer, 4: 96. Al-Khazin, Tafseer, vol. 2, p. 37.
+[^3] Qur’an, 6, 93.
+[^4] Al-Razi, Tafseer, 4: 96. Al-Khazin, Tafseer, vol. 2, p. 37.
 Al-Kashif, vol. 1, p. 461.
 
 Why was such an apostate, who disparaged the Prophet, appointed a
@@ -326,7 +326,7 @@ to remove Uthman or kill him.
 Most surely Uthman had planned his death by himself, drawn the
 tribulation against himself, subjected the community to misfortunes and
 disasters for the
-[^1]: Al-Ansab, vol. 5, 26.
+[^1] Al-Ansab, vol. 5, 26.
 
 sake of his family and strengthening their entity. If he had responded
 to Imam Ali’s viewpoint and of those who advised him, and if he had
@@ -369,11 +369,11 @@ answerable for any reckoning of theirs, nor are they [^1] Ahmed, Musnad,
 vol. 5, p. 389. Hulyat al-Awliya, vol. 1, p. 126. Kanz al-‘Ummal, vol.
 7, p. 55.
 
-[^2]: Safwat al-Safwa, vol. 1, p. 156. Ibn Maja, Sunan, vol. 1, p. 63.
-[^3]: Al-Hakim, Mustadrak, vol. 3, p. 315.
-[^4]: Ibn Sa‘d, Tabaqat, vol. 3, p. 108.
-[^5]: Qur’an, 3, 172.
-[^6]: Al-Tabari, Tafseer, vol. 7, p. 128. Al-Durr al-Manthur, vol. 3, p.
+[^2] Safwat al-Safwa, vol. 1, p. 156. Ibn Maja, Sunan, vol. 1, p. 63.
+[^3] Al-Hakim, Mustadrak, vol. 3, p. 315.
+[^4] Ibn Sa‘d, Tabaqat, vol. 3, p. 108.
+[^5] Qur’an, 3, 172.
+[^6] Al-Tabari, Tafseer, vol. 7, p. 128. Al-Durr al-Manthur, vol. 3, p.
 13.
 
 answerable for any reckoning of yours, so that you should drive them
@@ -417,8 +417,8 @@ Abdullah bin Mas‘ud answered him, saying: “I am not such, but I am the
 companion of Allah’s Apostle (a.s) on the Day of Badr and of the Homage
 of the good Pleasure (Bay‘at al-Ridwan).
 
-[^1]: Qur’an, 6, 52.
-[^2]: Usd al-Ghaba, vol. 3, p. 258.
+[^1] Qur’an, 6, 52.
+[^2] Usd al-Ghaba, vol. 3, p. 258.
 
 Uthman’s words made the people angry, so A’isha hurried to say: “O
 Uthman, why do you say this to the companion of Allah’s Apostle?”
@@ -459,7 +459,7 @@ Uthman from praying over him and to ask his companion Ammar bin Yasir to
 perform the prayer over him. When he passed away, some good companions
 of his buried
 
-[^1]: Al-Ansab, vol. 5, p. 36.
+[^1] Al-Ansab, vol. 5, p. 36.
 
 him in the cemetery of al-Baqee‘ and did not tell Uthman. When he knew
 of that, he became angry and said: “You preceded me!” Ammar bin Yasir
@@ -499,18 +499,18 @@ Abu Tharr was the best of people in renouncing the worldly pleasures,
 the least of them in taking care of the profits wherein, and the
 greatest of them in
 
-[^1]: Ibn Sa‘d, Tabaqat, vol. 4, p. 161. It has been mentioned in the
+[^1] Ibn Sa‘d, Tabaqat, vol. 4, p. 161. It has been mentioned in the
 book on the authority of Abu Dharr: “I was the fifth to believe in
 Islam.”
 
-[^2]: Shahada is saying: I bear witness that there is no god but Allah,
+[^2] Shahada is saying: I bear witness that there is no god but Allah,
 Who is unique and without partners, and I bear witness that Muhammad is
 His servant and His messenger.
 
-[^3]: Ahmed, Musnad, vol. 5, p. 174. Majjma‘ al-Zawa’id, vol. 9, p.
+[^3] Ahmed, Musnad, vol. 5, p. 174. Majjma‘ al-Zawa’id, vol. 9, p.
 329.
 
-[^4]: Ibn Maja, Sunan, vol. 1, p. 68.
+[^4] Ibn Maja, Sunan, vol. 1, p. 68.
 
 fear of Allah and turning away from the false things in life. Allah’s
 Apostle (a.s) trusted him when he trusted none and confided secrets to
@@ -551,11 +551,11 @@ them a painful punishment.[^5] Marwan bin al-Hakam told Uthman about this
 act of Abu Tharr’s. Uthman sent someone to Abu Tharr to prohibit him
 from saying this verse, but he said:
 
-[^1]: Kanz al-‘Ummal, vol. 8, p. 15.
-[^2]: Majjma‘ al-Zawa’id, vol. 9, p. 330.
-[^3]: Ibid.
-[^4]: Al-‘Adala al-Ijtima‘iya, p. 211.
-[^5]: Qur’an, 9, 34.
+[^1] Kanz al-‘Ummal, vol. 8, p. 15.
+[^2] Majjma‘ al-Zawa’id, vol. 9, p. 330.
+[^3] Ibid.
+[^4] Al-‘Adala al-Ijtima‘iya, p. 211.
+[^5] Qur’an, 9, 34.
 
 “Does Uthman prevent me from reciting Allah’s Book? By Allah, if I
 please Allah through displeasing Uthman is more lovable and better to me
@@ -602,7 +602,7 @@ extinguished, falsehood is given life, truthfulness is refuted, and
 preference without fear of Allah, and other things are preferred to
 righteousness.”[^1]
 
-[^1]: Al-Ansab, vol. 5, p. 52.
+[^1] Al-Ansab, vol. 5, p. 52.
 
 People listened to Abu Tharr’s speech and believed his talk. Mu’awiya
 was afraid of that, and he wrote a letter to Uthman and told him about

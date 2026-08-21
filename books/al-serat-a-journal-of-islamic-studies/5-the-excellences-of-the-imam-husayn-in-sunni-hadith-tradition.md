@@ -468,7 +468,7 @@ prepared for those who fear God'.
 [^2]: See 3:33.
 [^3]: Musnad Ibn Hanbal, quoted in M. Ayoub, Redemptive Suffering in
 Islam (The Hague, 1978), p. 25, and see also pp. 25-6
-[^4]: Ahmad b. Hanbal, Musnad (Cairo, 1313), IV, 323.
+[^4] Ahmad b. Hanbal, Musnad (Cairo, 1313), IV, 323.
 [^5]: Abu 'Abd Allah Muhammad b. Abd Allah al-Nisaburi, Mustadrak
 al-sahihayn (Haydarabad [Deccan], 1324), III, 147. See also 33:33.
 [^6]: See, for example, the commentary on this verse in al-Zamakhshari
@@ -496,7 +496,7 @@ Ahmad b. Hajar al-Haytami al-Asqalani, Al-Sawa'iq al-Muhriqa (Cairo,
 [^17]: Al-Muttaqi al-Hindi, I, 234.
 [^18]: Al-Fayruzabadi, III, 187.
 [^19]: Ibn Hanbal, II, 513; al-Muttaqi al-Hindi, VII, 109.
-[^20]: Al-Muttaqi al-Hindi, p. 221
+[^20] Al-Muttaqi al-Hindi, p. 221
 [^21]: Al-Tirmidhi, II, 307
 [^22]: Ibn Hajar, p. 118.
 [^23]: Abu Bakr Ahmad b Husayn b. al-Bayhaqi, Al-Sunan al-Kubra

@@ -26,7 +26,7 @@ have been harm on the Imam because of what we have explained about the
 reasons of the peacemaking. The most important thing is examining the
 stipulations
 
-[^1]: Ibn Khaldun, Tarikh, vol. 2, p. 186. In the book al-Isaba, it has
+[^1] Ibn Khaldun, Tarikh, vol. 2, p. 186. In the book al-Isaba, it has
 been mentioned: “When Imam al-Hasan was stabbed with a sword, he
 summoned ‘Amru bin Salama al-Arjahi and sent him to Mu‘awiya and
 stipulated against him.” In the book al-Kamil, vol. 3, p. 205, it has
@@ -34,10 +34,10 @@ been mentioned: “When Imam al-Hasan came to know that his companions
 scattered from him, he wrote to Mo’awiya.” Ibn Abi al-Hadeed, Sharh Nahj
 al-Balagha, vol.4, p.8., has also mentioned that.
 
-[^2]: Al-Shaykh al-Mufid, al-Irshad, p. 170. Kashf al-Ghumma, p. 154.
+[^2] Al-Shaykh al-Mufid, al-Irshad, p. 170. Kashf al-Ghumma, p. 154.
 Maqatil al-Talibiyyin, p. 26.
 
-[^3]: Tadhkirat al-Khawas, p. 206. In his book Fada’il al-Ashab, p. 157,
+[^3] Tadhkirat al-Khawas, p. 206. In his book Fada’il al-Ashab, p. 157,
 al-Hajj Ahmed Afandi has mentioned: “Surely it is possible to gather the
 narrations and say that it was Mo’awiya who firstly corresponded with
 al-Hasan concerning the peacemaking. So al-Hasan secondly wrote to him
@@ -92,7 +92,7 @@ the Imam. So the Imam (a.s) wrote what he wanted from among the
 stipulations. We will mention the text of what he wrote when we deal
 with some of the narrations, for it does not differ from them. Dr. Taha
 Husayn has depended on this narration.[^1]
-[^1]: Al-Fitnatu al-Kubra, vol. 2, p. 200.
+[^1] Al-Fitnatu al-Kubra, vol. 2, p. 200.
 
 2. Al-Tabari and Ibn al-Athir have narrated another copy saying that
 Imam al-Hasan corresponded with Mu’awiya regarding the peacemaking and
@@ -139,8 +139,8 @@ Imam demanded from him.
 Mu’awiya and told him that he would pass the authority to him provided
 that he should
 
-[^1]: Al-Kamil, vol. 3, p. 205. Al-Tabari, Tarikh, vol. 6, p. 93.
-[^2]: Abu al-Fida, Tarikh, vol. 1, p. 192.
+[^1] Al-Kamil, vol. 3, p. 205. Al-Tabari, Tarikh, vol. 6, p. 93.
+[^2] Abu al-Fida, Tarikh, vol. 1, p. 192.
 
 not pursue any of the people of Medina, al-Hijaz, and Iraq because of
 anything that happened during the days of his father. Mu’awiya responded
@@ -185,8 +185,8 @@ family. He should not terrorize any of them in any of the horizons
 (regions). So-and-so has borne witness as to that. Enough for a witness
 is Allah!”[^2]
 
-[^1]: Al-Isti‘ab, vol. 1, p. 370.
-[^2]: Ibn al-Sabbagh, al-Fusool al-Muhimma, p. 145. Al-Arbali, Kashf
+[^1] Al-Isti‘ab, vol. 1, p. 370.
+[^2] Ibn al-Sabbagh, al-Fusool al-Muhimma, p. 145. Al-Arbali, Kashf
 al-Ghumma, p. 170. Bihar al-Anwar, vol. 10. p. 115. Fada’il al-Ashab, p.
 157. Al-Sawa‘iq al-Muhriqa, p. 81.
 
@@ -219,21 +219,21 @@ the Commander of the faithful,[^6]
 
 5. That he did not have to bear witness in his presence,[^7]
 
-[^1]: This condition has been mentioned in the document we have
+[^1] This condition has been mentioned in the document we have
 mentioned. It has also been mentioned by Ibn Abi al-Hadeed in his Sharh
 Nahj al-Balagha, vol.4, p. 8.
-[^2]: Bihar al-Anwar, vol.10 p. 115. Al-Nasaa’ih al-Kafiya, p. 159
+[^2] Bihar al-Anwar, vol.10 p. 115. Al-Nasaa’ih al-Kafiya, p. 159
 (second edition). He quoted it from Fath al-Bari and Saheeh
 al-Bukhari.
-[^3]: Al-Isaba, vol. 1, p. 329. Al-Sha‘rani, al-Tabaqat al-Kubra, p. 23.
+[^3] Al-Isaba, vol. 1, p. 329. Al-Sha‘rani, al-Tabaqat al-Kubra, p. 23.
 Al-Dimyari, Hayat al-Hayawan, vol. 1, p. 57. Tahdhib al-Tahdhib, vol.2,
 p.229. Al-Nawawi, Tahdhib al-Lughat wa al-Asmaa’, vol. 1, p. 171.
 Al-Qunduzi, Yanabee‘ al-Mawadda, p. 293. It has been mentioned in it:
 “The authority after him would be consultation among the Muslims.”
-[^4]: Jamal al-Hasani, ‘Umdat al-Talib fi Ansab Aal Abi Talib, p. 52.
-[^5]: Al-Dinyawari, p. 200. Maqatil al-Talibiyyin, p. 26.
-[^6]: Ibn al-Jawzi, Tadhkirat al-Khawas, p. 206.
-[^7]: A‘yan al-Shia, vol. 4, p. 43.
+[^4] Jamal al-Hasani, ‘Umdat al-Talib fi Ansab Aal Abi Talib, p. 52.
+[^5] Al-Dinyawari, p. 200. Maqatil al-Talibiyyin, p. 26.
+[^6] Ibn al-Jawzi, Tadhkirat al-Khawas, p. 206.
+[^7] A‘yan al-Shia, vol. 4, p. 43.
 6. That Mu’awiya had to refrain from cursing Imam Ali, the Commander of
 the faithful;[^1] he had not to mention him except with good,[^2]
 7. That he had to repay rights to their owners.[^3]
@@ -257,20 +257,20 @@ of them or part of them, we will mention that when we deal with studying
 and analyzing the stipulations. Before we end this chapter, we have to
 deal with the place and time of the peacemaking:
 
-[^1]: A‘yan al-Shia, vol. 4, p. 43.
-[^2]: Maqatil al-Talibiyyin, p. 26. Ibn Abi al-Hadeed, Sharh Nahj
+[^1] A‘yan al-Shia, vol. 4, p. 43.
+[^2] Maqatil al-Talibiyyin, p. 26. Ibn Abi al-Hadeed, Sharh Nahj
 al-Balagha, vol. 4, p. 15.
-[^3]: Ibn al-Sabbagh, al-Fusool al-Muhimma, p. 144. Ibn Shahrashub,
+[^3] Ibn al-Sabbagh, al-Fusool al-Muhimma, p. 144. Ibn Shahrashub,
 al-Manaqib, vol. 2, p. 167.
-[^4]: A‘yan al-Shia, vol. 4, p. 43. Al-Tabari, Tarikh, vol. 6, p. 97.
+[^4] A‘yan al-Shia, vol. 4, p. 43. Al-Tabari, Tarikh, vol. 6, p. 97.
 ‘Ilal al-Sharaaiya‘, p. 81.
-[^5]: Bihar al-Anwar, vol. 10, p. 101. Tarikh Duwal al-Islam, vol. 1, p.
+[^5] Bihar al-Anwar, vol. 10, p. 101. Tarikh Duwal al-Islam, vol. 1, p.
 52. Al-Imam wa al-Siyasa, p. 200. Ibn ‘Asakir, vol. 4, p. 221. It has
 been mentioned in it that Mo’awiya had to give al-Hasan the land taxes
 of Bisa and Dar Abjard.
-[^6]: Tarikh Duwal al-Islam, vol. 1, p. 53.
-[^7]: Jawhart al-Kalam fi Madh al-Sada al-A‘laam, p. 112.
-[^8]: Bihar al-Anwar, vol. 10, p. 115.
+[^6] Tarikh Duwal al-Islam, vol. 1, p. 53.
+[^7] Jawhart al-Kalam fi Madh al-Sada al-A‘laam, p. 112.
+[^8] Bihar al-Anwar, vol. 10, p. 115.
 
 **The Place of the Peacemaking**
 
@@ -310,10 +310,10 @@ son, from an oppressor to an oppressor, to the extent that the nation
 has been drowned into blood, tragedies, and sorrows. Al-Jahiz says:
 “Mu’awiya controlled the authority and overcame the remainder of the
 
-[^1]: Tarikh al-Khamis, vol. 2, p. 323. Al-Bustani, Da’irat al-Ma‘rif,
+[^1] Tarikh al-Khamis, vol. 2, p. 323. Al-Bustani, Da’irat al-Ma‘rif,
 vol. 7, p. 38.
-[^2]: Abu al-Fida’, Tarikh, vol. 1, p. 193.
-[^3]: Tahdhib al-Tahdhib, vol. 2, p.299. In the book al-Isti‘ab it has
+[^2] Abu al-Fida’, Tarikh, vol. 1, p. 193.
+[^3] Tahdhib al-Tahdhib, vol. 2, p.299. In the book al-Isti‘ab it has
 been mentioned: “Imam (al-Hasan) handed over the authority to Mo’awiya
 in the half of Jamadi al-Ulaa, in the year 41. A. H. All those who said
 that it was in the year 40 A. H. are mistaken.” In Sina’s history: “Imam
@@ -366,7 +366,7 @@ Muslims’ properties from the unjust rulers is a necessary affair. We
 will explain that when we deal with the Imam’s travel to Damascus. I
 think that Mu’awiya gave these two stipulations at the beginning.
 However, some historian has
-[^1]: Al-Ghadir, vol. 10, p. 227.
+[^1] Al-Ghadir, vol. 10, p. 227.
 
 imagined that they were among the conditions Imam al-Hasan had made.
 
@@ -498,8 +498,8 @@ chose to his followers some properties far from the suspicion. Dar
 Abjard belonged to the Muslims and it was obligatory on the Imam to
 spend its revenue on Muslims’ interests.
 
-[^1]: Sulh al-Hasan, p. 258.
-[^2]: Dar Abjard is a wide land of Persia on the borders of al-Ahwaz. The
+[^1] Sulh al-Hasan, p. 258.
+[^2] Dar Abjard is a wide land of Persia on the borders of al-Ahwaz. The
 Muslims conquered it by force.
 
 **Mu’awiya should not oppress them**

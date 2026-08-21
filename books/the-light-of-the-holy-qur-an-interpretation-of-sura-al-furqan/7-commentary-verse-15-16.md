@@ -32,7 +32,7 @@ the pious ones? That shall be a reward and a resort for them'."
 This is the promised Paradise where they will abide for ever,
 (khalidin). And the next verse says:
 
-[^1]: Sura 'Al-i-'Imran, No. 3, verse 40
+[^1] Sura 'Al-i-'Imran, No. 3, verse 40
 
 "For them there will be therein whatever they desire: they will dwell
 (there) for aye. It is for your Lord a promise that must be
@@ -101,7 +101,7 @@ we consider the extensive meaning of this sentence, its result is that
 if the people of the Paradise ask the rank of prophets and Allah's
 friends, they will be given
 
-[^1]: Sura Al-Mu'min, No. 40, verse 8
+[^1] Sura Al-Mu'min, No. 40, verse 8
 
 what they have asked; or if they want that their sinful friends and
 relatives to be freed from the Hell (which they deserve), they will be
@@ -132,13 +132,13 @@ Paradise. Do not sell yourself but for the Paradise."[^3]
 4. The Prophet (p.b.u.h.) says: "Only Muslim will enter the
 Paradise."[^4]
 
-[^1]: TauHud by Saduq, p. 29
+[^1] TauHud by Saduq, p. 29
 
-[^2]: Kanz-ul-'Ummal, Vol. 14, p. 455
+[^2] Kanz-ul-'Ummal, Vol. 14, p. 455
 
-[^3]: Kanz-ul-'Ummal, Vol. 14, p. 645
+[^3] Kanz-ul-'Ummal, Vol. 14, p. 645
 
-[^4]: Kanz-ul-'Ummal, Vol. 1, p. 79
+[^4] Kanz-ul-'Ummal, Vol. 1, p. 79
 
 **Commentary : Verse 17.18**
 

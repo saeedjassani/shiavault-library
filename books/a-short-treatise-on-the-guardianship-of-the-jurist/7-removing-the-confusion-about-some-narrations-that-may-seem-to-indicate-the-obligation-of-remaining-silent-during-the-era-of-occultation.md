@@ -180,7 +180,7 @@ well is the eighth narration of the chapter which is narrated by the
 author of al-Wasail from al-Kulayni with his chain to al-Mu’alla ibn
 Khunays: *“I took the letter of Abdul Salam ibn Nu’aym and Sadeer and
 the letters of many others to Abu Abdullah (as) when the Black Army*
-[^5]: *were victorious and before the Abbasids were victorious. The
+[^5] *were victorious and before the Abbasids were victorious. The
 letters said that ‘we are able to transfer this affair to you, what do
 you think of this?’ He (as) threw the letters to the floor and said:
 ‘Uf! Uf! I am not an Imam for these people. Do they not know that it is

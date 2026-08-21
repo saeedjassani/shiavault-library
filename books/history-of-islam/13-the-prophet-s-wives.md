@@ -379,23 +379,23 @@ not accept Islam, they spread the news of the Holy Prophet's prophethood
 in their cities and towns; and this was a step ahead towards victory and
 success.
 
-[^1]: Al-Halabi, al-Sirah al-Halabiyyah 1:199-204; Ibn al-Athir, al-Sirah
+[^1] Al-Halabi, al-Sirah al-Halabiyyah 1:199-204; Ibn al-Athir, al-Sirah
 al-Nabawiyyah 1:250.
-[^2]: Nahj al-Balaghah, Sermon No 192.
-[^3]: Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 13:207.
-[^4]: Ibn Kathir, op cit, 1:389.
-[^5]: Halabi, op cit, 1:380-381; Ibn Husham, al-Sirah al-Nabawiyyah
+[^2] Nahj al-Balaghah, Sermon No 192.
+[^3] Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 13:207.
+[^4] Ibn Kathir, op cit, 1:389.
+[^5] Halabi, op cit, 1:380-381; Ibn Husham, al-Sirah al-Nabawiyyah
 1:250; tabari, Tarikh al-Umam wa’l-Muluk 2:203-204; Ibn Shahrashub,
 Manaqib 1:43; al-Majlisi, Bihar al-Anwar 18:84,193; Tarikh al-Ya\`qubi
 2:17.
-[^6]: Ibn Shahrashub, op cit, 1:44; al-Majlisi, op cit, 18:194; tabarsi,
+[^6] Ibn Shahrashub, op cit, 1:44; al-Majlisi, op cit, 18:194; tabarsi,
 I\`lam al-Wara, pp. 36.
 
 Concerning these records and documents, Shaykh al-Kulayni states the
 Muhammad was a prophet but he had not yet been Messenger of God. Al-Usul
 min al-Kafi 1:176.
 
-[^7]: Mount Hara' is situated northeast of Mecca. Because it was the
+[^7] Mount Hara' is situated northeast of Mecca. Because it was the
 place where the Divine Revelation came to the Holy Prophet for the first
 time, it was called jabal al-nur (Mountain of Light). Until several
 years ago, this mountain was far away from the city of Mecca. However,
@@ -409,50 +409,50 @@ space of one and a half meters high. The entrance is wide enough for
 people to enter. However, the inner half of it is narrower. Sunlight can
 penetrate only half of the cave.
 
-[^8]: Nahj al-Balaghah, Sermon 193; Ibn Husham, op cit, 1:25.
+[^8] Nahj al-Balaghah, Sermon 193; Ibn Husham, op cit, 1:25.
 
-[^9]: Ibn Husham, op cit, 1:251; tabari, op cit, 2:206; Ibn al-Athir, op
+[^9] Ibn Husham, op cit, 1:251; tabari, op cit, 2:206; Ibn al-Athir, op
 cit, 1:390; al-Buladhari, Ansab al-Ashraf 1:105.
 
-[^10]: Halabi, op cit, pp. 382.
+[^10] Halabi, op cit, pp. 382.
 
-[^11]: Ibn Husham, op cit, pp. 249; tabari, op cit, pp. 209;
+[^11] Ibn Husham, op cit, pp. 249; tabari, op cit, pp. 209;
 al-Buladhari, op cit, pp 114-115; Ibn Sa\`d, al-tabaqat al-Kubra 1:190;
 Mas\`udi, al-Tanbih wa’l-Ishraf, pp. 198; Halabi, op cit, pp. 363;
 al-Majlisi, op cit, pp. 204.
 
-[^12]: tabarsi, Majma\` al-Bayan 10:514; Mas\`udi, Muruj al-Dhahab
+[^12] tabarsi, Majma\` al-Bayan 10:514; Mas\`udi, Muruj al-Dhahab
 2:276.
 
-[^13]: Muslim scholars ascribe these verses to the prophethood of
+[^13] Muslim scholars ascribe these verses to the prophethood of
 Muhammad. There are some pieces of evidence which confirm this issue.
 See al-Majlisi, Bihar al-Anwar 18:246; Muhammad Hadi Ma\`rifat,
 al-Tamhid fi \`Ulum al-Qur'an 1:35; al-Qastalani, al-Mawahib
 al-Ludaniyyah 3:88-89. According to other exegeses, these verses are
 related to the Night Ascension (Mi\`raj).
 
-[^14]: sahih al-Bukhari 1:59-60; sahih Muslim 2:197-204.
+[^14] sahih al-Bukhari 1:59-60; sahih Muslim 2:197-204.
 
-[^15]: Al-\`Asqalani, al-Isabah fi Tamyiz al-sahabah 4:359.
+[^15] Al-\`Asqalani, al-Isabah fi Tamyiz al-sahabah 4:359.
 
-[^16]: Bihar al-Anwar 18:246, 254, 257.
+[^16] Bihar al-Anwar 18:246, 254, 257.
 
-[^17]: Ibn Sa\`d, op cit, 1:197; Ibn Shahrashub, Manaqib, op cit, 1:43;
+[^17] Ibn Sa\`d, op cit, 1:197; Ibn Shahrashub, Manaqib, op cit, 1:43;
 al-Majlisi, op cit, 18:271.
 
-[^18]: al-Majlisi, op cit, pp 268, 271; saduq, al-Tawhid, pp. 115.
+[^18] al-Majlisi, op cit, pp 268, 271; saduq, al-Tawhid, pp. 115.
 
-[^19]: saduq, Kamal al-Din 1:85; \`Ilal al-Shara'i\` 7:7.
+[^19] saduq, Kamal al-Din 1:85; \`Ilal al-Shara'i\` 7:7.
 
-[^20]: tabari, op cit, 2:207; al-Buladhari, op cit, 1:105; Mas\`udi,
+[^20] tabari, op cit, 2:207; al-Buladhari, op cit, 1:105; Mas\`udi,
 Muruj al-Dhahab 2:276; Tarikh al-Ya\`qubi 2:17.
 
-[^21]: Majma\` al-Bayan 10:384.
+[^21] Majma\` al-Bayan 10:384.
 
-[^22]: al-Majlisi, Bihar al-Anwar 18:262; Muhammad Hadi Ma\`rifat,
+[^22] al-Majlisi, Bihar al-Anwar 18:262; Muhammad Hadi Ma\`rifat,
 al-Tamhid fi \`Ulum al-Qur'an 1:49.
 
-[^23]: As far as we know, the first person who realized the lack of
+[^23] As far as we know, the first person who realized the lack of
 authenticity of this narration was Sayyid \`Abd al-Husayn Sharaf al-Din
 al-Musawi (1390-1377 AH), one of the distinguished Shi\`ite scholars of
 Jabal \`amil, who discussed and criticized it in his epistle to the Arab
@@ -467,10 +467,10 @@ min Sirat al-Nabi al-A\`zam 1:216-232, Treason in the historical
 accounts 2:3-23; al-Tamhid 1:52-56; Some Analytical Lessons From The
 History Of Islam 2:196-236.
 
-[^24]: Murtaza \`amili, The role of the Imams In the revival of the
+[^24] Murtaza \`amili, The role of the Imams In the revival of the
 religion 4:12.
 
-[^25]: Islamic Encyclopedia 3:398. Montgomery Watt, the head of the
+[^25] Islamic Encyclopedia 3:398. Montgomery Watt, the head of the
 Arabic department of Edinburgh University, is one of those who
 insinuates against Islam. He writes, “It is amazing for a man who used
 to live in a far-away city, like Mecca in the seventh century AD, to
@@ -487,22 +487,22 @@ in this way and he himself at times doubted whether people were right or
 wrong in their assumptions.” See Muhammad, the prophet and the
 politician, pp 26-27.
 
-[^26]: Ibn Husham, op cit, 1:280; tabari, op cit, 2:216; Mas\`udi, Muruj
+[^26] Ibn Husham, op cit, 1:280; tabari, op cit, 2:216; Mas\`udi, Muruj
 al-Dhahab 2:275-276; al-Buladhari, op cit, 1:116; Tarikh al-Ya\`qubi
 2:19; Halabi, op cit, 1:456; tusi, al-Ghaybah, pp. 202.
 
-[^27]: Tarikh al-Ya\`qubi 2:19; Ibn Sa\`d, al-tabaqat al-Kubra 1:199;
+[^27] Tarikh al-Ya\`qubi 2:19; Ibn Sa\`d, al-tabaqat al-Kubra 1:199;
 al-Buladhari, op cit, 1:115.
 
-[^28]: Halabi, op cit, 1:456-457.
+[^28] Halabi, op cit, 1:456-457.
 
-[^29]: Ibn Husham mentions the names of the first eight Muslims as
+[^29] Ibn Husham mentions the names of the first eight Muslims as
 follows: \`Ali, Zayd ibn Harith, Abu-Bakr, \`Uthman ibn \`Affan,
 al-Zubayr ibn al-\`Awwam, \`Abd al-Rahman ibn \`Awf, Sa\`d ibn
 Abi-Waqqas, and talhah ibn \`Ubaydullah. See al-Sirah al-Nabawiyyah
 1:262-364.
 
-[^30]: Imam \`Ali was monotheist even at his early age; he never served
+[^30] Imam \`Ali was monotheist even at his early age; he never served
 idols. Thus, his becoming a Muslim does not imply that he stopped
 worshipping idols like the other companions of the Holy Prophet. Imam
 \`Ali accepted Islam that is based on the Divine principle of
@@ -521,13 +521,13 @@ See al-sawa\`iq al-Muhriqah, pp. 120.
 Regarding \`Ali's age when he accepted Islam, see Sharh Nahj
 al-Balaghah, 13:234-235.
 
-[^31]: Ibn \`Abd al-Barr, al-Isi\`ab 3:28; Ibn Abi’l-Hadid, op cit,
+[^31] Ibn \`Abd al-Barr, al-Isi\`ab 3:28; Ibn Abi’l-Hadid, op cit,
 13:229; al-Hakim al-Naysaburi, al-Mustadrak \`Ala’l-sahihayn 2:81,
 Halabi, op cit, 1:432. In some narrations, we read, “The first to join
 the Divine Pond (on the Resurrection Day) will be the first to accept
 Islam; namely, \`Ali ibn Abi-talib.” See Halabi, op cit, pp. 432.
 
-[^32]: Ibn \`Abd al-Barr, op cit, pp. 32; Ibn al-Athir, al-Kamil
+[^32] Ibn \`Abd al-Barr, op cit, pp. 32; Ibn al-Athir, al-Kamil
 fi’l-Tarikh 2:57. Al-Hakim al-Naysaburi (al-Mustadrak \`Ala’l-sahihayn
 3:112) has recorded this narration in two ways, “Allah’s Messenger
 received prophethood…” and “Allah’s Messenger received the Divine
@@ -540,62 +540,62 @@ Tuesday.” See al-Suyuti, Tarikh al-Khulafa', pp. 166; Muhammad
 al-sabban, Is\`af al-Raghibin, pp. 148; Ibn Hajar, al-sawa\`iq
 al-Muhriqah.
 
-[^33]: Nahj al-Balaghah, Sermon 192.
+[^33] Nahj al-Balaghah, Sermon 192.
 
-[^34]: Ibid, Sermon 131.
+[^34] Ibid, Sermon 131.
 
-[^35]: tabari, op cit, 2:212; Ibn al-Athir, al-Kamil fi’l-Tarikh.
+[^35] tabari, op cit, 2:212; Ibn al-Athir, al-Kamil fi’l-Tarikh.
 
 The same issue is brought up in al-Mustadrak \`Ala’l-sahihayn 3:112;
 Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 13:200, 228; Ibn Mardawayh,
 Manaqib \`Ali ibn Abi-talib, pp 47-48.
 
-[^36]: tabari, op cit, 2:212; Ibn Abi’l-Hadid, op cit, 13:226. Ibn
+[^36] tabari, op cit, 2:212; Ibn Abi’l-Hadid, op cit, 13:226. Ibn
 Abi’l-Hadid has reported the same from \`Abdullah ibn Mas\`ud. Ibn \`Abd
 al-Barr, al-Isi\`ab 3:165; Ibn Ishaq, al-Siyar wa’l-Maghazi, pp.
 137-138; al-Karajaki, Kanz al-Fawa'id 1:262. For further information
 concerning Ali's pioneering in the acceptance of Islam, see al-Ghadir
 2:214, 3:220-224.
 
-[^37]: Ibn Sa\`d, Al-tabaqat al-Kubra 1:199.
+[^37] Ibn Sa\`d, Al-tabaqat al-Kubra 1:199.
 
-[^38]: al-Buladhari, Ansab al-Ashraf 1:299; Bihar al-Anwar 18:185.
+[^38] al-Buladhari, Ansab al-Ashraf 1:299; Bihar al-Anwar 18:185.
 
-[^39]: Ibn Sa\`d, op cit, pp. 212.
+[^39] Ibn Sa\`d, op cit, pp. 212.
 
-[^40]: Ibn Husham, op cit, 1:358; tabarsi, I\`lam al-Wara, pp. 44; Sibt
+[^40] Ibn Husham, op cit, 1:358; tabarsi, I\`lam al-Wara, pp. 44; Sibt
 ibn al-Jawzi, Tadhkirat al-Khawass, pp. 186.
 
-[^41]: al-Buladhari, op cit, pp. 128.
+[^41] al-Buladhari, op cit, pp. 128.
 
-[^42]: tabarsi, op cit, pp. 56.
+[^42] tabarsi, op cit, pp. 56.
 
-[^43]: Ibn Sa\`d, op cit, 3:139.
+[^43] Ibn Sa\`d, op cit, 3:139.
 
-[^44]: Halabi, al-Sirah al-Halabiyyah 1:446.
+[^44] Halabi, al-Sirah al-Halabiyyah 1:446.
 
-[^45]: Halabi, op cit, 1:434.
+[^45] Halabi, op cit, 1:434.
 
-[^46]: Ibn Sa\`d, op cit, 3:102.
+[^46] Ibn Sa\`d, op cit, 3:102.
 
-[^47]: op cit, pp. 124.
+[^47] op cit, pp. 124.
 
-[^48]: Ibn Sa\`d, op cit, 3:222.
+[^48] Ibn Sa\`d, op cit, 3:222.
 
-[^49]: Ibn Sa\`d, op cit, 3:244. \`Abd al-Muta\`al al-sa\`idi al-Misri
+[^49] Ibn Sa\`d, op cit, 3:244. \`Abd al-Muta\`al al-sa\`idi al-Misri
 has written a book entitled Youth of Quraysh in the Beginning of Islam
 (pp. 33-34) in which he has introduced forty young men from Quraysh who
 had pioneered in accepting Islam. In his list, Imam \`Ali is the
 first.
 
-[^50]: al-Buladhari, op cit, 1:156, pp. 181, see Al-tabaqat al-Kubra
+[^50] al-Buladhari, op cit, 1:156, pp. 181, see Al-tabaqat al-Kubra
 3:248.
 
-[^51]: Op cit.
+[^51] Op cit.
 
-[^52]: Ibn Sa\`d, op cit, 1:164; Halabi, op cit, 1:499.
+[^52] Ibn Sa\`d, op cit, 1:164; Halabi, op cit, 1:499.
 
-[^53]: Muslim scholars name this issue as bid' al-da\`wah (The Beginning
+[^53] Muslim scholars name this issue as bid' al-da\`wah (The Beginning
 of the Promulgation), yawm al-dar (The Day of the House), and yawm
 al-indhar (The Day of Warning). It is reported in the following
 reference books with some difference: Tarikh al-tabari 2:217; Ibn Athir,
@@ -615,21 +615,21 @@ al-Bidayah wa’l-Nihayah 3:40, al-Sirah al-Nabawiyyah 1:459). Considering
 the attitude of these two, it is not difficult to recognize their motive
 for this dramatic distortion.
 
-[^54]: Hadith al-Manzilah reads: “O \`Ali, your position to me is the
+[^54] Hadith al-Manzilah reads: “O \`Ali, your position to me is the
 same as Prophet Aaron’s position to Prophet Moses except that there
 shall be no prophet after me.”
 
-[^55]: Surah al-Shu\`ara' was revealed to the Holy Prophet after Surah
+[^55] Surah al-Shu\`ara' was revealed to the Holy Prophet after Surah
 al-Waqi\`ah. The following are the Surahs that were revealed after that:
 al-Naml, al-Qasas, al-Isra', Yunus, Hud, Yusuf and then al-Hijr in which
 the order for the public invitation was given. See Muhammad Hadi
 Ma\`rifat, al-Tamhid fi \`Ulum al-Qur'an 1:105.
 
-[^56]: Abtuh is a valley near Mina. See Yaqut al-Hamawi, Mu\`jam
+[^56] Abtuh is a valley near Mina. See Yaqut al-Hamawi, Mu\`jam
 al-Buldan. 1:74. This event probably took place at the time of Hajj when
 pilgrims had gathered at Mina.
 
-[^57]: Tarikh al-Ya\`qubi 1:19. There are other reports on the Holy
+[^57] Tarikh al-Ya\`qubi 1:19. There are other reports on the Holy
 Prophet’s first open declaration of his faith. Most probably, he invited
 the idolaters within short time intervals through the same statements.
 See Tarikh al-Ya\`qubi, pp. 19; tabari, op cit, 2:21; al-Buladhari,
@@ -637,39 +637,39 @@ Ansab al-Ashraf 1:121; al-Bayhaqi, op cit, 1:279; tabarsi, I\`lam
 al-Wara, pp. 39; al-Majlisi, Bihar al-Anwar 18:185; Halabi, op cit,
 1:461.
 
-[^58]: tabari, op cit, 2:218; Ibn Husham, al-Sirah al-Nabawiyyah 1:282;
+[^58] tabari, op cit, 2:218; Ibn Husham, al-Sirah al-Nabawiyyah 1:282;
 Ibn Sa\`d, al-tabaqat al-Kubra 1:199; Ibn al-Athir, al-Kamil fi’l-Tarikh
 2:63.
 
-[^59]: tabari, op cit, 2:218-220; Ibn Husham, op cit, pp. 282-287, 313,
+[^59] tabari, op cit, 2:218-220; Ibn Husham, op cit, pp. 282-287, 313,
 316; al-Bayhaqi, op cit, 1:282; Ibn Sa\`d, op cit, 1:202-203;
 al-Buladhari, op cit, 1:231-232; Ibn al-Athir, al-Kamil fi’l-Tarikh
 2:63-65; Halabi, op cit, 1:462-463; Ibn Kathir, al-Sirah al-Nabawiyyah.
 1:479; al-Majlisi, op cit, 18:185.
 
-[^60]: Ibn Husham, op cit, pp. 287; tabari, op cit, pp. 220; Ibn
+[^60] Ibn Husham, op cit, pp. 287; tabari, op cit, pp. 220; Ibn
 Shahrashub, al-Manaqib 1:59; Ibn al-Athir, op cit, pp. 65; Ibn Kathir,
 op cit, pp. 477, Halabi, op cit, pp. 463.
 
-[^61]: tabarsi, Majma\` al-Bayan 9:46.
+[^61] tabarsi, Majma\` al-Bayan 9:46.
 
-[^62]: Ibn Husham, al-Sirah al-Nabawiyyah 1:387; Ibn Shahrashub,
+[^62] Ibn Husham, al-Sirah al-Nabawiyyah 1:387; Ibn Shahrashub,
 al-Manaqib 1:50.
 
-[^63]: The Holy Qur'an’s chapters (i.e. Surahs) are divided according to
+[^63] The Holy Qur'an’s chapters (i.e. Surahs) are divided according to
 their revelation into Meccan and Medinan.
 
-[^64]: This holy Surah is the fourth in revelation. See al-Tamhid fi
+[^64] This holy Surah is the fourth in revelation. See al-Tamhid fi
 \`Ulum al-Qur'an 1:104.
 
-[^65]: This Surah is the sixth.
+[^65] This Surah is the sixth.
 
-[^66]: This Surah is the ninth.
+[^66] This Surah is the ninth.
 
-[^67]: These people, most probably, had invested their money in a Mecca
+[^67] These people, most probably, had invested their money in a Mecca
 economic center.
 
-[^68]: tabari, Tarikh al-Umam wa’l-Muluk 2:221.
+[^68] tabari, Tarikh al-Umam wa’l-Muluk 2:221.
 
 Those who look at man from a material prospect only concentrate all
 their attentions to the economic motive and base all other motives to
@@ -690,46 +690,46 @@ threat to their own interests. They hated him for these reasons. See
 Islam in Iran, pp. 26. In view of our previous discussions, we do not
 have to say how baseless the statement of this professor is.
 
-[^69]: tabarsi, Majma\` al-Bayan 7:260; Ibn Shahrashub, Manaqib 1:51.
+[^69] tabarsi, Majma\` al-Bayan 7:260; Ibn Shahrashub, Manaqib 1:51.
 
-[^70]: Manaqib 1:59.
+[^70] Manaqib 1:59.
 
-[^71]: Qisas al-\`Arab 2:258; Ibn Kathir, al-Bidayah wa’l-Nihayah
+[^71] Qisas al-\`Arab 2:258; Ibn Kathir, al-Bidayah wa’l-Nihayah
 3:144.
 
-[^72]: Ibn Husham, op cit, 1:337; Ibn Shahrashub, Manaqib 1:50; Ibn
+[^72] Ibn Husham, op cit, 1:337; Ibn Shahrashub, Manaqib 1:50; Ibn
 Kathir, al-Sirah al-Nabawiyyah 1:506-507.
 
-[^73]: Ibn Kathir, Al-Sirah al-Nabawiyyah 1:130.
+[^73] Ibn Kathir, Al-Sirah al-Nabawiyyah 1:130.
 
-[^74]: Tarikh al-tabari 2:221.
+[^74] Tarikh al-tabari 2:221.
 
-[^75]: al-Buladhari, Ansab al-Ashraf 1:197; Ibn al-Athir, Al-Kamil
+[^75] al-Buladhari, Ansab al-Ashraf 1:197; Ibn al-Athir, Al-Kamil
 fi’l-Tarikh 2:66.
 
-[^76]: al-Buladhari, op cit, pp. 156-196; Ibn al-Athir, op cit,
+[^76] al-Buladhari, op cit, pp. 156-196; Ibn al-Athir, op cit,
 2:66-70.
 
-[^77]: Ibn Husham, Al-Sirah al-Nabawiyyah; tabari, Tarikh al-Umam
+[^77] Ibn Husham, Al-Sirah al-Nabawiyyah; tabari, Tarikh al-Umam
 wa’l-Muluk 2:222; Ibn al-Athir, Al-Kamil fi’l-Tarikh 2:76.
 
-[^78]: tabari, op cit, pp. 221.
+[^78] tabari, op cit, pp. 221.
 
-[^79]: \`Umar Farrukh, Tarikh sadr al-Islam wa’l-Dawlah al-Umawiyyah, pp.
+[^79] \`Umar Farrukh, Tarikh sadr al-Islam wa’l-Dawlah al-Umawiyyah, pp.
 54; \`Abbas Ziryab, Sirat Rasulillah, pp. 169.
 
-[^80]: Ibn Sa\`d, op cit, pp. 204; Ibn Husham, op cit, pp. 344; tabari,
+[^80] Ibn Sa\`d, op cit, pp. 204; Ibn Husham, op cit, pp. 344; tabari,
 op cit, pp. 221-222.
 
-[^81]: al-Buladhari, op cit, pp. 227.
+[^81] al-Buladhari, op cit, pp. 227.
 
-[^82]: Ibn Sa\`d, op cit, pp. 207. The number of emigrants is recorded
+[^82] Ibn Sa\`d, op cit, pp. 207. The number of emigrants is recorded
 even less. But the number of their names, recorded in books of history,
 is the same as the above. See Ibn Husham, op cit, pp. 346-353; Dr.
 Muhammad Ibrahim ayati, The History of The Prophet of Islam, pp.
 122-132.
 
-[^83]: Ibn Husham, op cit, 1:357; al-Majlisi, Bihar al-Anwar 18:418.
+[^83] Ibn Husham, op cit, 1:357; al-Majlisi, Bihar al-Anwar 18:418.
 
 tabarsi has recorded that Abu-talib wrote the following poetic verses
 in his letter:
@@ -746,128 +746,128 @@ fabricated, report.
 So, do not associate others with God and follow Islam, for the path of
 the Right can never be darkened.
 
-[^84]: tabarsi, op cit, pp. 43-44, Ibn Husham, op cit, pp. 356-360; Ibn
+[^84] tabarsi, op cit, pp. 43-44, Ibn Husham, op cit, pp. 356-360; Ibn
 al-Athir, op cit, 2:79-81.
 
-[^85]: It is reported that Ja\`far ibn Abi-talib was escorted by seventy
+[^85] It is reported that Ja\`far ibn Abi-talib was escorted by seventy
 Abyssinians on his way back to Mecca. All of these, converted to Islam
 after they had had a conversation with the Holy Prophet. See Majma\`\`
 al-Bayan 3:234.
 
-[^86]: Ibn Sa\`d, op cit, pp. 208.
+[^86] Ibn Sa\`d, op cit, pp. 208.
 
-[^87]: Ibn Sa\`d, op cit, 8:97; Ibn Husham, op cit, pp. 238; Ibn Kathir,
+[^87] Ibn Sa\`d, op cit, 8:97; Ibn Husham, op cit, pp. 238; Ibn Kathir,
 al-Bidayah wa’l-Nihayah 4:143; ayati, op cit, pp. 132.
 
-[^88]: al-Majlisi, Bihar al-Anwar 43:7.
+[^88] al-Majlisi, Bihar al-Anwar 43:7.
 
 The majority of Sunni scholars believe that Lady Fatimah was born five
 years after prophethood. See Sayyid Ja\`far Shahidi, Life of Fatimah.
 
-[^89]: Tafsir al-Burhan 2:400.
+[^89] Tafsir al-Burhan 2:400.
 
-[^90]: Majma\` al-Bayan 6:395.
+[^90] Majma\` al-Bayan 6:395.
 
-[^91]: al-Majlisi, op cit,; 18, pp. 290; Tafsir Nemuneh 12:17. A
+[^91] al-Majlisi, op cit,; 18, pp. 290; Tafsir Nemuneh 12:17. A
 physics-based explanation of the Night Ascension can be seen in Tafsir
 Nemuneh 12:17-20 and Furugh Abadiyyat 2:393.
 
-[^92]: Shaykh al-Kulayni, al-Furu\` min al-Kafi 3:482-487; Ibn Sa\`d,
+[^92] Shaykh al-Kulayni, al-Furu\` min al-Kafi 3:482-487; Ibn Sa\`d,
 al-tabaqat al-Kubra 1:213; sahih al-Bukhari; al-Hurr al-\`amili, Wasa'il
 al-Shi\`ah 3:76; al-Majlisi, op cit, 18:238; Tafsir al-Burhan 2:933.
 
-[^93]: Allamah Amini, al-Ghadir 3:242.
+[^93] Allamah Amini, al-Ghadir 3:242.
 
-[^94]: Ibn Husham, Al-Sirah al-Nabawiyyah 1:375; tabari, op cit, 2:225;
+[^94] Ibn Husham, Al-Sirah al-Nabawiyyah 1:375; tabari, op cit, 2:225;
 al-Buladhari, Ansab al-Ashraf 1:234.
 
-[^95]: al-Buladhari, op cit, 1:234; Ibn Sa\`d, Al-tabaqat al-Kubra 1:209;
+[^95] al-Buladhari, op cit, 1:234; Ibn Sa\`d, Al-tabaqat al-Kubra 1:209;
 Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 4:58.
 
-[^96]: al-Buladhari, op cit, pp. 230; Is op cit, 1:63; Ibn Ishaq,
+[^96] al-Buladhari, op cit, pp. 230; Is op cit, 1:63; Ibn Ishaq,
 al-Siyar wal-Maghazi, pp. 159; al-Majlisi, Bihar al-Anwar 19:18.
 
-[^97]: Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 14:64; al-Fattal
+[^97] Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 14:64; al-Fattal
 al-Naysaburi, Rawzat al-Wa\`izin, pp. 63.
 
-[^98]: Ibn Shahrashub, op cit, 1:63; tabarsi, I\`lam al-Wara, pp. 49.
+[^98] Ibn Shahrashub, op cit, 1:63; tabarsi, I\`lam al-Wara, pp. 49.
 
-[^99]: Al-Fattal al-Naysaburi, Rawzat al-Wa\`izin, pp. 64; Ibn
+[^99] Al-Fattal al-Naysaburi, Rawzat al-Wa\`izin, pp. 64; Ibn
 Shahrashub, op cit, pp. 64; tabarsi, op cit, pp. 50; Ibn Abi’l-Hadid, op
 cit, 14:64; see Ibn Ishaq, op cit, pp. 160.
 
-[^100]: Ibn Shahrashub, op cit, pp. 65; Ibn Sa\`d, op cit, pp. 209;
+[^100] Ibn Shahrashub, op cit, pp. 65; Ibn Sa\`d, op cit, pp. 209;
 al-Buladhari, op cit, pp. 234; Ibn Ishaq, op cit, pp. 159.
 
-[^101]: tabarsi, op cit, pp. 50.
+[^101] tabarsi, op cit, pp. 50.
 
-[^102]: al-Majlisi, op cit, 19; Ibn Ishaq, op cit, pp. 159.
+[^102] al-Majlisi, op cit, 19; Ibn Ishaq, op cit, pp. 159.
 
-[^103]: Ibn Shahrashub, op cit, pp. 65; tabarsi, op cit, pp. 51.
+[^103] Ibn Shahrashub, op cit, pp. 65; tabarsi, op cit, pp. 51.
 
-[^104]: Ibn Ishaq, op cit, pp. 161; Ibn Husham, op cit, 1:379;
+[^104] Ibn Ishaq, op cit, pp. 161; Ibn Husham, op cit, 1:379;
 al-Buladhari, op cit, pp. 235; al-Majlisi, op cit, pp. 19.
 
-[^105]: Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 13:254.
+[^105] Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 13:254.
 
-[^106]: Ibn Wazih, Tarikh al-Ya\`qubi 2:25; tabarsi, I\`lam al-Wara, pp.
+[^106] Ibn Wazih, Tarikh al-Ya\`qubi 2:25; tabarsi, I\`lam al-Wara, pp.
 50.
 
-[^107]: tabarsi, op cit, pp. 50; Is op cit, 1:65.
+[^107] tabarsi, op cit, pp. 50; Is op cit, 1:65.
 
-[^108]: Ibn Ishaq, op cit, pp. 161; al-Buladhari, op cit, 1:234, Ibn
+[^108] Ibn Ishaq, op cit, pp. 161; al-Buladhari, op cit, 1:234, Ibn
 Sa\`d, op cit, 1:210; Ibn Shahrashub, op cit, 1:65.
 
-[^109]: Ibn Ishaq, op cit, pp. 162, 165, 166; al-Buladhari, op cit, p236;
+[^109] Ibn Ishaq, op cit, pp. 162, 165, 166; al-Buladhari, op cit, p236;
 Ibn Abi’l-Hadid, op cit, 14:59; Ibn al-Athir, Al-Kamil fi’l-Tarikh 2:88;
 al-Majlisi, Bihar al-Anwar 19:19.
 
-[^110]: That took place on the tenth year of Hegira. See Ibn Sa\`d, op
+[^110] That took place on the tenth year of Hegira. See Ibn Sa\`d, op
 cit, 1:210; al-Buladhari, op cit, 1:236.
 
-[^111]: tabarsi, op cit, pp. 51-52.
+[^111] tabarsi, op cit, pp. 51-52.
 
-[^112]: Nahj al-Balaghah, letter 9.
+[^112] Nahj al-Balaghah, letter 9.
 
-[^113]: al-Buladhari, op cit, 1:236; Ibn al-Athir, op cit, 2:90.
+[^113] al-Buladhari, op cit, 1:236; Ibn al-Athir, op cit, 2:90.
 
-[^114]: Ibn Wazih, Tarikh al-Ya\`qubi 2:29; the Holy Prophet called that
+[^114] Ibn Wazih, Tarikh al-Ya\`qubi 2:29; the Holy Prophet called that
 year “Year of Sadness”. See Bihar al-Anwar 19:25.
 
-[^115]: Ibn Ishaq, op cit, pp. 243; Ibn Husham, op cit, 2:57; tabarsi,
+[^115] Ibn Ishaq, op cit, pp. 243; Ibn Husham, op cit, 2:57; tabarsi,
 I\`lam al-Wara, pp. 53.
 
-[^116]: Ibn Ishaq, op cit, pp. 243; Ibn Husham, op cit, pp. 57.
+[^116] Ibn Ishaq, op cit, pp. 243; Ibn Husham, op cit, pp. 57.
 
-[^117]: Amir Muhanna al-Khayyami, pp. 62-63; Al-Dulabi, al-Dhurriyyah
+[^117] Amir Muhanna al-Khayyami, pp. 62-63; Al-Dulabi, al-Dhurriyyah
 al-tahirah, pp. 63-64.
 
-[^118]: Ibn \`Abd al-Barr, al-Isi\`ab 4:287; Dulabi, op cit, pp. 51.
+[^118] Ibn \`Abd al-Barr, al-Isi\`ab 4:287; Dulabi, op cit, pp. 51.
 
-[^119]: Al-Kulayni, al-Usul min al-Kafi 1:449; \`Allamah Amini, al-Ghadir
+[^119] Al-Kulayni, al-Usul min al-Kafi 1:449; \`Allamah Amini, al-Ghadir
 7:393; al-Majlisi, Bihar al-Anwar 18:187; al-Ghadir 7:259, 388, 393;
 Tarikh al-Ya\`qubi 2:20.
 
-[^120]: Ibn Sa\`d, Al-tabaqat al-Kubra 1:211; tabari, Tarikh al-Umam
+[^120] Ibn Sa\`d, Al-tabaqat al-Kubra 1:211; tabari, Tarikh al-Umam
 wa’l-Muluk (Tarikh al-tabari) 2:229; al-Bayhaqi, Dala'il al-Nubuwwah
 2:80; Ibn al-Athir, op cit 2:91.
 
-[^121]: Ibn Ishaq, al-Siyar wal-Maghazi, pp. 239; Ibn Husham, op cit,
+[^121] Ibn Ishaq, al-Siyar wal-Maghazi, pp. 239; Ibn Husham, op cit,
 2:58; tabari, op cit, pp. 229; Ibn Shahrashub, Manaqib 1:67; Ibn
 al-Athir, op cit, pp. 91; al-Bayhaqi, op cit, pp. 80; Sibt Ibn al-Jawzi,
 Tadhkirat al-Khawass, pp. 9.
 
-[^122]: Shaykh Mufid, Awa’il al-Maqalat, pp. 13; al-Fattal al-Naysaburi,
+[^122] Shaykh Mufid, Awa’il al-Maqalat, pp. 13; al-Fattal al-Naysaburi,
 op cit, pp. 155; Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 14:65; tabarsi,
 Majma\` al-Bayan 3:287; Ibn tawus; al-tara’if, pp. 298.
 
-[^123]: tabarsi, op cit, 7:260.
+[^123] tabarsi, op cit, 7:260.
 
-[^124]: Shaykh al-Kulayni, op cit, 1:448; saduq, al-Amali, pp. 366;
+[^124] Shaykh al-Kulayni, op cit, 1:448; saduq, al-Amali, pp. 366;
 al-Fattal al-Naysaburi, op cit, pp. 156; Allamah Amini, al-Ghadir 7:390;
 Mufid, al-Ikhtisas, pp. 241.
 
-[^125]: The poems of Abu-talib has been collected by Abu-Na\`im \`Ali ibn
+[^125] The poems of Abu-talib has been collected by Abu-Na\`im \`Ali ibn
 Hamzah al-Basri al-Tamimi, the linguist (375 AD). Shaykh agha Buzurg
 Tehrani saw a copy of this book in the Library of Sayyid \`«sa
 al-\`Attar in Baghdad. This book comprised more than five thousand
@@ -878,18 +878,18 @@ remark, “Learn these poems and teach them to your children. Abu-talib
 was a follower of God's religion and his poems contain a lot of
 knowledge.” al-Ghadir 7:393.
 
-[^126]: tabarsi, I\`lam al-Wara, pp. 45; Majma\` al-Bayan 4:288; Allamah
+[^126] tabarsi, I\`lam al-Wara, pp. 45; Majma\` al-Bayan 4:288; Allamah
 Amini, al-Ghadir 7:331.
 
-[^127]: Shaykh al-Kulayni, op cit, pp. 449. tabarsi, Majma\` al-Bayan
+[^127] Shaykh al-Kulayni, op cit, pp. 449. tabarsi, Majma\` al-Bayan
 4:4, 287; Ibn Husham, Al-Sirah al-Nabawiyyah 1:277; Ibn Abi’l-Hadid, op
 cit, 14:72; al-Karajaki, Kanz al-Fawa'id 1:181; Amini, al-Ghadir
 7:332.
 
-[^128]: Ibn Abi’l-Hadid, op cit, pp. 55; Amini, op cit, p334; \`Asqalani,
+[^128] Ibn Abi’l-Hadid, op cit, pp. 55; Amini, op cit, p334; \`Asqalani,
 al-Isabah 4, pp. 116. Ibn Kathir, al-Bidayah wa’l-Nihayah 3:42.
 
-[^129]: Many books have been written on Abu-talib's Faith. Some are
+[^129] Many books have been written on Abu-talib's Faith. Some are
 referred to in agha Buzurg’s al-Dhari\`ah 2:510-514. Allamah Amini in,
 al-Ghadir 7:330-403, deals with this issue in some details. He refers to
 nineteen books written by great Muslim scholars on Abu-talib’s belief in
@@ -897,60 +897,60 @@ Islam. He cites forty narrations proving this fact. At the beginning of
 the eighth volume, he answers the questions of the opponents regarding
 Abu-talib's belief in Islam.
 
-[^130]: \`Abbas Ziryab, Sirat Rasulillah, pp. 178-179.
+[^130] \`Abbas Ziryab, Sirat Rasulillah, pp. 178-179.
 
-[^131]: Ibn \`Abd al-Barr, al-Isi\`ab 4:282; sahih Muslim 15:201.
+[^131] Ibn \`Abd al-Barr, al-Isi\`ab 4:282; sahih Muslim 15:201.
 
-[^132]: Muhammad Hasanayn Haykal, Hayat Muhammad, pp. 315-316, 325.
+[^132] Muhammad Hasanayn Haykal, Hayat Muhammad, pp. 315-316, 325.
 
-[^133]: For further information, see commentaries on Surah al-Tahrim,
+[^133] For further information, see commentaries on Surah al-Tahrim,
 verses 1-5.
 
-[^134]: Muhammad Ibn Sa\`d, Al-tabaqat al-Kubra 7:97, Shaykh \`Abbas
+[^134] Muhammad Ibn Sa\`d, Al-tabaqat al-Kubra 7:97, Shaykh \`Abbas
 al-Qummi, Safinat al-Bihar 1:204.
 
-[^135]: Ibn al-Athir, Usd al-Ghabah 5:458; Mas\`udi, Muruj al-Dhahab
+[^135] Ibn al-Athir, Usd al-Ghabah 5:458; Mas\`udi, Muruj al-Dhahab
 2:289; Hamdullah Mustafawi, Tarikh Gozideh, pp. 161.
 
-[^136]: Ibn Kathir, al-Bidayah wa’l-Nihayah 4:144; Hamdullah Mustafawi,
+[^136] Ibn Kathir, al-Bidayah wa’l-Nihayah 4:144; Hamdullah Mustafawi,
 Tarikh Gozideh, pp. 161.
 
-[^137]: Ibn Sa\`d, op cit, pp. 99; \`Abbas al-Qummi, op cit, pp. 204.
+[^137] Ibn Sa\`d, op cit, pp. 99; \`Abbas al-Qummi, op cit, pp. 204.
 
-[^138]: \`Asqalani, al-Isabah 4:458; Ibn al-Athir, Usd al-Ghabah 5:588.
+[^138] \`Asqalani, al-Isabah 4:458; Ibn al-Athir, Usd al-Ghabah 5:588.
 
-[^139]: Ibn al-Athir, op cit, pp. 218.
+[^139] Ibn al-Athir, op cit, pp. 218.
 
-[^140]: op cit, pp. 588; Ibn Husham, Al-Sirah al-Nabawiyyah 4:294, Ibn
+[^140] op cit, pp. 588; Ibn Husham, Al-Sirah al-Nabawiyyah 4:294, Ibn
 Sa\`d, op cit, 8:87.
 
-[^141]: Ibn \`Abd al-Barr, al-Isi\`ab 4:82.
+[^141] Ibn \`Abd al-Barr, al-Isi\`ab 4:82.
 
-[^142]: Al-Khayyami, Zawjat al-Nabi wa-Awladuhu, pp. 199.
+[^142] Al-Khayyami, Zawjat al-Nabi wa-Awladuhu, pp. 199.
 
-[^143]: Ibn Hajar, op cit, pp. 458; Ibn Sa\`d, op cit, 8:87.
+[^143] Ibn Hajar, op cit, pp. 458; Ibn Sa\`d, op cit, 8:87.
 
-[^144]: Ibn Sa\`d, op cit, pp. 90-91; Muhammad Ibn Habib, al-Muhabbar,
+[^144] Ibn Sa\`d, op cit, pp. 90-91; Muhammad Ibn Habib, al-Muhabbar,
 pp. 84.
 
-[^145]: Mamuqani, Tanqih al-Maqal 3:72.
+[^145] Mamuqani, Tanqih al-Maqal 3:72.
 
-[^146]: Mamuqani, op cit, Al-Tustari, Qamus al-Rijal 10:396.
+[^146] Mamuqani, op cit, Al-Tustari, Qamus al-Rijal 10:396.
 
-[^147]: Ibn Sa\`d, op cit, 8:101; Ibn al-Athir, Usd al-Ghabah 2:226; Ibn
+[^147] Ibn Sa\`d, op cit, 8:101; Ibn al-Athir, Usd al-Ghabah 2:226; Ibn
 Hajar, al-Isabah 4:564.
 
-[^148]: Ibn Sa\`d, op cit; Ibn al-Athir, op cit, 2:224; Ibn Hajar, op
+[^148] Ibn Sa\`d, op cit; Ibn al-Athir, op cit, 2:224; Ibn Hajar, op
 cit, pp. 563.
 
-[^149]: al-alusi, Tafsir Ruh al-Ma\`ani 21:147.
+[^149] al-alusi, Tafsir Ruh al-Ma\`ani 21:147.
 
-[^150]: Ibn Sa\`d, op cit, 8:103.
+[^150] Ibn Sa\`d, op cit, 8:103.
 
-[^151]: Ibn al-Athir, op cit, 7:494; tabarsi, Majma\` al-Bayan 8:337;
+[^151] Ibn al-Athir, op cit, 7:494; tabarsi, Majma\` al-Bayan 8:337;
 Qastalani, al-Mawahib al-Ludaniyyah 2:87.
 
-[^152]: Islamic Encyclopedia; Muhammad Hasanayn Haykal, Hayat Muhammad,
+[^152] Islamic Encyclopedia; Muhammad Hasanayn Haykal, Hayat Muhammad,
 pp. 316, 323.
 
 According to Orientalists, Muhammad passed by Zayd's house and
@@ -973,42 +973,42 @@ Tanzih al-Anbiya', pp. 114. Al-alusi considers the issue as a myth
 uttered by story-tellers. He says, “We should acquit the Prophet from
 such accusations.” See Tafsir Ruh al-Ma\`ani 22:24-25.
 
-[^153]: Yaqut al-Hamawi, Mu\`jam al-Buldan 4:9.
+[^153] Yaqut al-Hamawi, Mu\`jam al-Buldan 4:9.
 
-[^154]: tabari, Tarikh al-Umam wa’l-Muluk 2:230; al-Buladhari, Ansab
+[^154] tabari, Tarikh al-Umam wa’l-Muluk 2:230; al-Buladhari, Ansab
 al-Ashraf 1:237.
 
-[^155]: Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 14:97 and 4:127-128.
+[^155] Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 14:97 and 4:127-128.
 
-[^156]: tabari, op cit, pp. 230; Ibn Husham, Al-Sirah al-Nabawiyyah
+[^156] tabari, op cit, pp. 230; Ibn Husham, Al-Sirah al-Nabawiyyah
 2:60.
 
-[^157]: Ibn Sa\`d, op cit, pp. 212.
+[^157] Ibn Sa\`d, op cit, pp. 212.
 
-[^158]: tabari, op cit, 2:230; Ibn Husham, op cit, 2:62.
+[^158] tabari, op cit, 2:230; Ibn Husham, op cit, 2:62.
 
-[^159]: Ibn Wazih, Tarikh al-Ya\`qubi 2:30.
+[^159] Ibn Wazih, Tarikh al-Ya\`qubi 2:30.
 
-[^160]: Ibn Sa\`d, op cit, 1:212; Ibn Abi’l-Hadid, op cit, 14:91;
+[^160] Ibn Sa\`d, op cit, 1:212; Ibn Abi’l-Hadid, op cit, 14:91;
 al-Majlisi, Bihar al-Anwar 19:22. It is also reported that the Holy
 Prophet stayed at aa’if more than this period.
 
 [^161]Nahj al-Balaghah, pp. 530.
 
-[^162]: This incident took place at a place between ta’if and Mecca. See
+[^162] This incident took place at a place between ta’if and Mecca. See
 al-Sirah al-Nabawiyyah 3:63.
 
-[^163]: tabari, op cit, pp. 231; Ibn Husham, op cit, pp. 63.
+[^163] tabari, op cit, pp. 231; Ibn Husham, op cit, pp. 63.
 
-[^164]: Al-sahih min Sirat al-Nabi al-A\`zam 2:167-168.
+[^164] Al-sahih min Sirat al-Nabi al-A\`zam 2:167-168.
 
-[^165]: Ibn Husham, op cit, pp. 288-289.
+[^165] Ibn Husham, op cit, pp. 288-289.
 
-[^166]: Ibn Husham, op cit, pp. 288-289.
+[^166] Ibn Husham, op cit, pp. 288-289.
 
-[^167]: tabari, I\`lam al-Wara, pp. 56.
+[^167] tabari, I\`lam al-Wara, pp. 56.
 
-[^168]: Ibn Husham, op cit, 2:65-66; tabari, Tarikh 2:232-233;
+[^168] Ibn Husham, op cit, 2:65-66; tabari, Tarikh 2:232-233;
 al-Buladhari, Ansab al-Ashraf 1:237-238; Ibn Ishaq, al-Siyar
 wa’l-Maghazi, pp. 232.
 
@@ -1018,11 +1018,11 @@ Banu-\`Udhrah, al-Hazarimah, Banu-Nasr, and Banu-Buka'. However, none of
 them accepted his religion. See Ibn Sa\`d, Al-tabaqat al-Kubra
 1:216-217.
 
-[^169]: Ibn Husham, op cit, 2:66; Zayni Dahlan, Al-Sirah al-Nabawiyyah
+[^169] Ibn Husham, op cit, 2:66; Zayni Dahlan, Al-Sirah al-Nabawiyyah
 1:145; Murtaza al-\`amili, al-sahih min Sirat al-Nabi al-A\`zam
 2:157-176.
 
-[^170]: Ibn Kathir, al-Bidayah wa’l-Nihayah 3:140.
+[^170] Ibn Kathir, al-Bidayah wa’l-Nihayah 3:140.
 
-[^171]: Ibn Sa\`d, op cit, 1:216.
+[^171] Ibn Sa\`d, op cit, 1:216.
 

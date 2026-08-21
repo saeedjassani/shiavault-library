@@ -5,7 +5,7 @@ Endnotes
 
 [^2]. Transpersonal Psychologies.
 
-[^3]: Qur'an (al-Baqarah) 2:[^109]:
+[^3] Qur'an (al-Baqarah) 2:[^109]:
 
 [^41]. Shakespeare, Hamlet.
 
@@ -57,7 +57,7 @@ Endnotes
 
 [^28].Qur’an (al-Baqarah) 2:[^186]:
 
-[^29]: Qur’an (al-Tawbah) 9:24
+[^29] Qur’an (al-Tawbah) 9:24
 
 [^30].Qur’an (an-Nisaa) 4:[^61]:
 
@@ -119,5 +119,5 @@ and Expansion of Universe is recommended.
 
 (ii) Ahmad bin Hambal in Musnad 3:[^55]:
 
-[^50]: Qur'an (al-An‘am) 6:[^122]:
+[^50] Qur'an (al-An‘am) 6:[^122]:
 

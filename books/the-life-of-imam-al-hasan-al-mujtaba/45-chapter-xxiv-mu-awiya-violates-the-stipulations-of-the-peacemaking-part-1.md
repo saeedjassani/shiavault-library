@@ -35,8 +35,8 @@ made His agreement and pledged the sign of security which He has spread
 over His creatures through His mercy and an asylum in which they stay in
 His protection and seek the benefit of nearness to Him.”
 
-[^1]: Qur’an, 17, 34.
-[^2]: Ibid., 8, 72.
+[^1] Qur’an, 17, 34.
+[^2] Ibid., 8, 72.
 
 This is the attitude of Islam toward treaties and stipulations. It has
 made it incumbent on Muslims to fulfill them and to take care of them.
@@ -113,10 +113,10 @@ installed for you through his sword? As for the reason that Mu’awiya
 cursed Imam Ali, it was that Mu’awiya came to know that the affairs
 would not go well except through cursing and
 
-[^1]: Al-Safi, Diwan, p. 589.
-[^2]: Al-Hakim, Mustadrak, vol. 3, p. 121. Dhakha’ir al-‘Uqba, p. 66.
+[^1] Al-Safi, Diwan, p. 589.
+[^2] Al-Hakim, Mustadrak, vol. 3, p. 121. Dhakha’ir al-‘Uqba, p. 66.
 
-[^3]: Imam Ahmed bin Hanbal, Musnad, vol. 3, p. 483. Asad al-Ghaba, vol.
+[^3] Imam Ahmed bin Hanbal, Musnad, vol. 3, p. 483. Asad al-Ghaba, vol.
 4, p. 113. In al-Haythami’s Majjma‘, vol. 9, p. 129, it has been
 mentioned on the authority of Sa‘d bin Abi Waqqas, who said: “I and two
 men were sitting in the mosque. We disparaged Ali. So Allah’s Apostle,
@@ -130,7 +130,7 @@ hurts Ali hurts me. Whoever hurts me hurts Allah.’”
 
 slandering him. Marwan bin al-Hakam declared that, saying: “The affair
 does not go well with us but through that (through cursing Imam Ali).”
-[^1]: Anyway when Mu’awiya returned to Damascus after concluding the
+[^1] Anyway when Mu’awiya returned to Damascus after concluding the
 peacemaking, he ordered the people to gather together. He arose among
 them and said: “O People, Allah’s Apostle, may Allah bless him and his
 family, said to me: ‘Surely you will undertake the caliphate after me.
@@ -148,11 +148,11 @@ Allah’s Apostle and master of this community (Imam Ali).
 The orators disowned Imam Ali and cursed him in all the districts and
 on all the pulpits.[^4]
 
-[^1]: Al-Sawa’iq al-Muhriqa, p. 33.
-[^2]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.3 , p.361.
-[^3]: Al-Nasaa’ih al-Kafiya, p. 72. He quoted it from Abu ‘Uthman
+[^1] Al-Sawa’iq al-Muhriqa, p. 33.
+[^2] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.3 , p.361.
+[^3] Al-Nasaa’ih al-Kafiya, p. 72. He quoted it from Abu ‘Uthman
 al-Jahiz in the book al-Radd ‘alaa al-Imamiya.
-[^4]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.3, p.15. It is an act
+[^4] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.3, p.15. It is an act
 of good to mention the attitude of Imam Ali, the Commander of the
 faithful, and of his son al-Hasan toward cursing Mo’awiya. In the book
 Sharh Nahj al-Balagha, vol.1, p.361, it has been mentioned that Imam
@@ -200,12 +200,12 @@ Islamic countries. Khalid bin Abdullah al-Qasri[^6] , an Umayyad governor
 over Mecca and Iraq, openly cursed Imam Ali, al-Hasna, and al-Husayn. He
 ascended the pulpit and said: “O Allah, curse Ali
 
-[^1]: Tatheer al-Jinan wa al-Lisan, p. 142.
-[^2]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 1, p.361. [^3]
+[^1] Tatheer al-Jinan wa al-Lisan, p. 142.
+[^2] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 1, p.361. [^3]
 Al-Mas‘udi, vol. 6, p. 99.
-[^4]: Al-Miqrim, Maqtal al-Husayn, p. 198.
-[^5]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 3, p.476.
-[^6]: Khalid bin Abdullahal-Qasri was appointed by Hisham bin ‘Abd
+[^4] Al-Miqrim, Maqtal al-Husayn, p. 198.
+[^5] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 3, p.476.
+[^6] Khalid bin Abdullahal-Qasri was appointed by Hisham bin ‘Abd
 al-Malik as a governor over Iraq. His mother was a Christian. He built
 to her a church to worship in it. Concerning that al-Farazdaq satirized
 him, saying:
@@ -227,7 +227,7 @@ Allah bless him and his family, the husband of his daughter, the father
 of al-Hasan and al-Husayn.”
 
 Then he turned to the people and said to them: “Have I used a kunya?”
-[^1]: Al-Hafiz al-Sayuti has mentioned that there were during the days of
+[^1] Al-Hafiz al-Sayuti has mentioned that there were during the days of
 the Umayyads more than seventy thousand pulpits on which (Ali) bin Abi
 Talib (a.s) was cursed. That was because Mu’awiya had legislated that.
 In connection with this Allama Ahmed Hafiz al-Shafi‘i has said: Sheikh
@@ -264,10 +264,10 @@ precedence over us in faith. And do not allow any spite to remain in our
 hearts towards those who believe; our Lord, surely You are Kind,
 Merciful.”[^4]
 
-[^1]: Al-Nasaa’ih al-Kafiya, p. 80.
-[^2]: Ibid. Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.356.
-[^3]: Mu‘jam al-Buldan.
-[^4]: Qur’an, 59, 10.
+[^1] Al-Nasaa’ih al-Kafiya, p. 80.
+[^2] Ibid. Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.356.
+[^3] Mu‘jam al-Buldan.
+[^4] Qur’an, 59, 10.
 
 It was said that he replaced that by these words of Him, the Most High:
 “Surely Allah enjoins the doing of justice and the doing of good (to
@@ -279,8 +279,8 @@ epochs. Sayyid al-Shareef al-Rady, a genius poet, may Allah have mercy
 on him, praised ‘Umar bin ‘Abd al-‘Aziz and thanked him for the service
 he rendered to all the Muslims, saying:
 
-[^1]: Qur’an, 59, 90.
-[^2]: Al-Ghadir, vol. 10, p. 266. In his book Sharh Nahj al-Balagha, vol.
+[^1] Qur’an, 59, 90.
+[^2] Al-Ghadir, vol. 10, p. 266. In his book Sharh Nahj al-Balagha, vol.
 1, p. 356, Ibn Abi al-Hadeed has mentioned: “Surely ‘Umar (bin ‘Abd
 al-‘Aziz) related the reason for his abstaining from cursing (Imam Ali),
 the Commander of the faithful, saying: ‘(When) I was a boy, I recited
@@ -367,10 +367,10 @@ after the year of the peacemaking. After he had finished
 circumambulating the Kaaba, he went to Dar al-Nadwa (Assembly House).
 After he had sat down, he cursed Imam Ali (a.s). So Sa‘d became angry.
 He turned to Mu’awiya and
-[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.357.
-[^2]: Al-Targheeb wa al-Tarheeb, vol. 3, p. 394. Fayd al-Qadeer, vol. 4,
+[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.1, p.357.
+[^2] Al-Targheeb wa al-Tarheeb, vol. 3, p. 394. Fayd al-Qadeer, vol. 4,
 p. 84.
-[^3]: Al-Turmidhi, Saheeh.
+[^3] Al-Turmidhi, Saheeh.
 
 said to him: “O Mu’awiya, you have seated me on your chair and begun
 cursing Ali. By Allah, if I had one of Ali’s qualities, it would be more
@@ -415,7 +415,7 @@ and al-Turmidhi in his al-Saheeh. There is a simple difference among the
 narrations. Al-Mas‘udi has mentioned Mo’awiya’s answer to Sa‘d. It is
 ugly to mention it. We think that it is better to leave it.
 
-[^2]: Al-‘Aqd al-Farid, vol. 3, p. 117. In the book Mustadrak
+[^2] Al-‘Aqd al-Farid, vol. 3, p. 117. In the book Mustadrak
 al-Saheehayn, vol. 1, p. 121, it has been mentioned on the authority of
 Abu Abdullahal-Jadali, who said: “I came in to Umm Salama and she said
 to me: ‘Is Allah’s Apostle, (a.s.) cursed among you?’ So I said: ‘I seek
@@ -498,7 +498,7 @@ do that, let it be secret. Do not make anyone hear it openly.[^1] This
 debate shows the deep plans on which Mu’awiya depended to fight against
 Ahl al-Bayt, to conceal their outstanding merits, and to veil the
 Muslims from them.
-[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 3, p.15.
+[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 3, p.15.
 
 **Al-Ahnaf Bin Qays**
 
@@ -541,7 +541,7 @@ even if I am killed.
 
 Mu’awiya dodged and said: “Therefore, we exempt you (from that), O Abu
 Bahr!”[^1]
-[^1]: Al-‘Aqd al-Farid, vol. 2, p. 144. al-Mustatraf, vol. 1, p. 54.
+[^1] Al-‘Aqd al-Farid, vol. 2, p. 144. al-Mustatraf, vol. 1, p. 54.
 
 **Katheer Bin Katheer**
 
@@ -574,7 +574,7 @@ earth.’ I swear by Allah that none is greater than him in taking care of
 kinship. Do you think that he will intercede for you and do not
 intercede for his household?”[^3]
 
-[^1]: Katheer bin Katheer bin al-Muttalib bin Abi Wada‘a al-Qarashi
+[^1] Katheer bin Katheer bin al-Muttalib bin Abi Wada‘a al-Qarashi
 al-Sahmi narrated (traditions) on the authority of his father, Sa‘d bin
 Jubayr, and a group (of traditionists). Another group (of traditionists)
 narrated (traditions) from him. Ahmed and Ibn Mu‘een said: “He is
@@ -591,8 +591,8 @@ Abdullahbin Katheer al-Sahmi. This is a mistake because such a name is
 not available in the biography books. The one who is available is
 Katheer bin Katheer. So these poetry lines belong to him.
 
-[^2]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.3, p.475.
-[^3]: Al-Isaba, vol. 1, p. 89. Asad al-Ghaba, vol. 1, p.134.
+[^2] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.3, p.475.
+[^3] Al-Isaba, vol. 1, p. 89. Asad al-Ghaba, vol. 1, p.134.
 
 **Zayd Bin Arqam**
 

@@ -111,8 +111,8 @@ authority, Mu’awiya would not have been more patient than he was, nor
 was he more steadfast than he was. However victory in Mu’awiya’s
 viewpoint depended on
 
-[^1]: Al-Daynwari, p. 203.
-[^2]: Al-Musayyab Bin Nujba was a Kufan. He narrated traditions on the
+[^1] Al-Daynwari, p. 203.
+[^2] Al-Musayyab Bin Nujba was a Kufan. He narrated traditions on the
 authority of Imam Ali, the Commander of the faithful, peace be on him,
 and Hudhayfa. A group of traditionists narrated on his authority. He and
 Sulayman bin Surad went out (in revolt) to avenge the blood of
@@ -125,7 +125,7 @@ transmitted (traditions) on the authority of the Prophet, may Allah
 bless him and his family. He had no companionship (with the Prophet).”
 This has been mentioned in (the book) Tahdhib al-Tahdhib, vol. 10, p.
 154.
-[^3]: Ibn ‘Asakir, Tarikh, vol. 225.
+[^3] Ibn ‘Asakir, Tarikh, vol. 225.
 
 the ways the religion did not accept such as equivocation, flattering,
 deception, and the like. As for Imam al-Hasan, he refused to employ such
@@ -159,7 +159,7 @@ people of Kufa. None feels strength through them but one abased. Their
 opinions are different. My father met from them difficult affairs and
 bitter
 
-[^1]: Malik bin Damra al-Damri was famous for abundant knowledge and
+[^1] Malik bin Damra al-Damri was famous for abundant knowledge and
 excellence. He associated Abu Dharr, the great companion of (the
 Prophet). He lived during the lifetime of the Prophet, may Allah bless
 him and his family. When he was about to die, he ordered his weapon to
@@ -175,7 +175,7 @@ Malik’s women folks asked him (Malik): “O Musa, did you not remember
 your father’s will?” When he heard of that, he looked for him. He took
 the spear from him and broke it. This has been mentioned in (the book)
 al-Isaba, vol. 3, p. 460.
-[^2]: Bihar al-Anwar.
+[^2] Bihar al-Anwar.
 
 hardships. Kufa is the quickest of the cities to be destroyed. Its
 inhabitants are those who divided their religion and became parties.”
@@ -266,7 +266,7 @@ alive. If he died, you and we were alive, we would ask Allah for a
 determination for guiding us and help with our affair and not to entrust
 us to ourselves. Surely Allah is with those who guard (against evil) and
 those who do good (to others).”[^1]
-[^1]: Al-Bayqahi, al-Mahasin wa al-Masawi’, vol. 1, pp. 60-65.
+[^1] Al-Bayqahi, al-Mahasin wa al-Masawi’, vol. 1, pp. 60-65.
 
 Imam al-Hasan ordered his followers to incline to patience and calmness
 as long as Mu’awiya was alive. He justified his making peace as we have

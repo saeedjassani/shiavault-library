@@ -210,124 +210,124 @@ Ameen
 
 **References**
 
-[^1]: Tafsir Durr al-Manthur, al-Suyuti, v7, under commentary of Verse
+[^1] Tafsir Durr al-Manthur, al-Suyuti, v7, under commentary of Verse
 47:18; Sunan, Abu Dawud, v2, Chapter 35 (Kitab al-Mahdi), Bab 1, Hadith
 4279; Sahih, al-Tirmidhi, v3, Chapter of Fitan, Bab 44 (what has come
 about al-Mahdi (AS)), Hadith 2331-2332.
-[^2]: Kitab al-Ghaiba, al-Nu'mani, p234, Hadith 22; p253, Hadith 13;
+[^2] Kitab al-Ghaiba, al-Nu'mani, p234, Hadith 22; p253, Hadith 13;
 Bihar al-Anwar, v52, p348, Hadith 99; p230, Hadith 96.
-[^3]: al-Kafi, v8, p212, Hadith 258; al-Irshad, v2, p374; Kitab
+[^3] al-Kafi, v8, p212, Hadith 258; al-Irshad, v2, p374; Kitab
 al-Ghaiba, al-Tusi, p444; Bihar al-Anwar, v52, p213, Hadith 67.
-[^4]: Bihar al-Anwar, v52, p204, Hadith 34.
-[^5]: Kitab al-Ghaiba, al-Nu'mani, p302, Hadith 10; Bihar al-Anwar, v52,
+[^4] Bihar al-Anwar, v52, p204, Hadith 34.
+[^5] Kitab al-Ghaiba, al-Nu'mani, p302, Hadith 10; Bihar al-Anwar, v52,
 p250, Hadith 138.
-[^6]: Tafsir, al-Nu'mani, as quoted in Bihar al-Anwar, v90, pp 83-84.
-[^7]: Uddat al-Da'i, p17; Bihar al-Anwar, v90, p296.
-[^8]: al-Kafi, v1, p146, Hadith 1; Kitab al-Tawhid, p331, Hadith 1 & 2;
+[^6] Tafsir, al-Nu'mani, as quoted in Bihar al-Anwar, v90, pp 83-84.
+[^7] Uddat al-Da'i, p17; Bihar al-Anwar, v90, p296.
+[^8] al-Kafi, v1, p146, Hadith 1; Kitab al-Tawhid, p331, Hadith 1 & 2;
 Bihar al-Anwar, v4, p107, Hadith 19 & 20.
-[^9]: Sunan, Ibn Maja, v2, p269; Ahmad Ibn Hanbal, as quoted in
+[^9] Sunan, Ibn Maja, v2, p269; Ahmad Ibn Hanbal, as quoted in
 al-Sawa'iq al-Muhriqa, by Ibn Hajar al-Haithami, Ch. 11, section 1,
 p250.
-[^10]: Bihar al-Anwar, v17, p351, Hadith 1.
-[^11]: Bihar al-Anwar, v51, p63, Hadith 64.
-[^12]: Bihar al-Anwar, v 51, p50, Hadith 23.
-[^13]: Bihar al-Anwar, v51, p61, Hadith 61.
-[^14]: al-Kafi, v1, p343, Hadith 30; Kitab al-Ghaiba, al-Tusi, p164;
+[^10] Bihar al-Anwar, v17, p351, Hadith 1.
+[^11] Bihar al-Anwar, v51, p63, Hadith 64.
+[^12] Bihar al-Anwar, v 51, p50, Hadith 23.
+[^13] Bihar al-Anwar, v51, p61, Hadith 61.
+[^14] al-Kafi, v1, p343, Hadith 30; Kitab al-Ghaiba, al-Tusi, p164;
 Bihar al-Anwar, v51, Hadith 49.
-[^15]: Bihar al-Anwar, v52, p389, Hadith 209.
-[^16]: Kamal al-Din, p151; Bihar al-Anwar, v13, p42.
-[^17]: See for instance:; Kamal al-Din, p316, Hadith 1; p329, Hadith 12;
+[^15] Bihar al-Anwar, v52, p389, Hadith 209.
+[^16] Kamal al-Din, p151; Bihar al-Anwar, v13, p42.
+[^17] See for instance:; Kamal al-Din, p316, Hadith 1; p329, Hadith 12;
 p377, Hadith 1; Bihar al-Anwar, v51, p132, Hadith 2; p156, Hadith 1;
 p218, Hadith 8.
-[^18]: Bihar al-Anwar, v95, p159, Hadith 4.
-[^19]: Bihar al-Anwar, v52, p268, Hadith 157.
-[^20]: Kitab al-Ghaiba, al-Nu'mani, p199, Hadith 14; Bihar al-Anwar, v52,
+[^18] Bihar al-Anwar, v95, p159, Hadith 4.
+[^19] Bihar al-Anwar, v52, p268, Hadith 157.
+[^20] Kitab al-Ghaiba, al-Nu'mani, p199, Hadith 14; Bihar al-Anwar, v52,
 p139, Hadith 48.
-[^21]: Kitab al-Ghaiba, al-Nu'mani, p200, Hadith 17; Bihar al-Anwar, v52,
+[^21] Kitab al-Ghaiba, al-Nu'mani, p200, Hadith 17; Bihar al-Anwar, v52,
 p139, Hadith 49.
-[^22]: al-Amali, al-Tusi, p412, Hadith 926; Bihar al-Anwar, v52, p189,
+[^22] al-Amali, al-Tusi, p412, Hadith 926; Bihar al-Anwar, v52, p189,
 Hadith 17.
-[^23]: Kamal al-Din, Shaikh Saduq, p336, Hadith 8; Bihar al-Anwar, v51,
+[^23] Kamal al-Din, Shaikh Saduq, p336, Hadith 8; Bihar al-Anwar, v51,
 p51, Hadith 25; v52, p149, Hadith 76 (a similar narration from Abu
 Basir).
-[^24]: Kamal al-Din, p378, Hadith 3; Bihar al-Anwar, v51, p30, Hadith
+[^24] Kamal al-Din, p378, Hadith 3; Bihar al-Anwar, v51, p30, Hadith
 4.
-[^25]: al-Kafi, v1, p336, Hadith 3; p338, Hadith 11; Kamal al-Din, p347,
+[^25] al-Kafi, v1, p336, Hadith 3; p338, Hadith 11; Kamal al-Din, p347,
 Hadith 35; Bihar al-Anwar, v52, p281, Hadith 9.
-[^26]: Kitab al-Ghaiba, al-Tusi, p337; al-Kafi, v1, p336, Hadith 2; Bihar
+[^26] Kitab al-Ghaiba, al-Tusi, p337; al-Kafi, v1, p336, Hadith 2; Bihar
 al-Anwar, v52, p113, Hadith 26.
-[^27]: Kamal al-Din, p409, Hadith 8; Bihar al-Anwar, v51, p160, Hadith
+[^27] Kamal al-Din, p409, Hadith 8; Bihar al-Anwar, v51, p160, Hadith
 6
-[^28]: Kitab al-Ghaiba, al-Nu'mani, p296, Hadith 1.
-[^29]: al-Irshad, v2, p383; Bihar al-Anwar, v51, p30, Hadith 7.
-[^30]: al-Ihtijaj, v2, p499; Bihar al-Anwar, v53, p177, Hadith 8.
-[^31]: al-Kafi, v1, p343, Hadith 31.
-[^32]: Kamal al-Din, part 2, p483, Hadith 4; Kitab al-Ghaiba, al-Tusi,
+[^28] Kitab al-Ghaiba, al-Nu'mani, p296, Hadith 1.
+[^29] al-Irshad, v2, p383; Bihar al-Anwar, v51, p30, Hadith 7.
+[^30] al-Ihtijaj, v2, p499; Bihar al-Anwar, v53, p177, Hadith 8.
+[^31] al-Kafi, v1, p343, Hadith 31.
+[^32] Kamal al-Din, part 2, p483, Hadith 4; Kitab al-Ghaiba, al-Tusi,
 p290; al-Ihtijaj, v2, p469; Bihar al-Anwar, v53, p180, Hadith 10.
-[^33]: al-Kafi, v1, p371, Hadith 2; Kitab al-Ghaiba, al-Nu'mani, p329,
+[^33] al-Kafi, v1, p371, Hadith 2; Kitab al-Ghaiba, al-Nu'mani, p329,
 Hadith 2; Bihar al-Anwar, v52, p141, Hadith 53.
-[^34]: Bihar al-Anwar, v36, p407, Hadith 16.
-[^35]: al-Kafi, v1, p390, Hadith 1; Wasa'il al-Shia, v27, p67, Hadith
+[^34] Bihar al-Anwar, v36, p407, Hadith 16.
+[^35] al-Kafi, v1, p390, Hadith 1; Wasa'il al-Shia, v27, p67, Hadith
 33216; Bihar al-Anwar, v2, p202, Hadith 74.
-[^36]: Ma'ani al-Akhbar, p399, Hadith 57; Wasa'il al-Shia, v27, p129,
+[^36] Ma'ani al-Akhbar, p399, Hadith 57; Wasa'il al-Shia, v27, p129,
 Hadith 33397; Bihar al-Anwar, v2, p83, Hadith 7.
-[^37]: Kamal al-Din, sec. 31, p324, Hadith 9; Mustadrak al-Wasa'il, v17,
+[^37] Kamal al-Din, sec. 31, p324, Hadith 9; Mustadrak al-Wasa'il, v17,
 p262, Hadith 21289; Bihar al-Anwar, v2, p303, Hadith 40.
-[^38]: Nahj al-Balagha, Sermon 97.
-[^39]: al-Kafi, p186, Hadith 2; Bihar al-Anwar, v71, p258, Hadith 56.
-[^40]: Bihar al-Anwar, v2, p30, Hadith 13.
-[^41]: al-Tafsir, Imam Hasan al-Askari (AS), p338-339, Hadith 213-214;
+[^38] Nahj al-Balagha, Sermon 97.
+[^39] al-Kafi, p186, Hadith 2; Bihar al-Anwar, v71, p258, Hadith 56.
+[^40] Bihar al-Anwar, v2, p30, Hadith 13.
+[^41] al-Tafsir, Imam Hasan al-Askari (AS), p338-339, Hadith 213-214;
 Bihar al-Anwar, v2, p2, Hadith 1.
-[^42]: al-Kafi, v2, p46, Hadith 2; al-Amali, al-Tusi, p84; Bihar
+[^42] al-Kafi, v2, p46, Hadith 2; al-Amali, al-Tusi, p84; Bihar
 al-Anwar, v65, p343, Hadith 15.
-[^43]: Bihar al-Anwar, v27, p58, Hadith 19.
-[^44]: Bihar al-Anwar, v27, p58, Hadith 18.
-[^45]: Tafsir, Ali Ibn Ibrahim al-Qummi, v2, pp 171-172; Bihar al-Anwar,
+[^43] Bihar al-Anwar, v27, p58, Hadith 19.
+[^44] Bihar al-Anwar, v27, p58, Hadith 18.
+[^45] Tafsir, Ali Ibn Ibrahim al-Qummi, v2, pp 171-172; Bihar al-Anwar,
 v27, p51, Hadith 1.
-[^46]: al-Amali, al-Saduq, p605, Hadith 8; Wasa'il al-Shia, v16, p180,
+[^46] al-Amali, al-Saduq, p605, Hadith 8; Wasa'il al-Shia, v16, p180,
 Hadith 21292; Bihar al-Anwar, v66, p237, Hadith 3.
-[^47]: al-Tafsir, Furat al-Kufi, p428, Hadith 567; Mustadrak al-Wasa'il,
+[^47] al-Tafsir, Furat al-Kufi, p428, Hadith 567; Mustadrak al-Wasa'il,
 v12, p226, Hadith 13950; Bihar al-Anwar, v65, p63, Hadith 114.
-[^48]: al-Kafi, v2, p125, Hadith 5; al-Mahasin, p262, Hadith 326; Bihar
+[^48] al-Kafi, v2, p125, Hadith 5; al-Mahasin, p262, Hadith 326; Bihar
 al-Anwar, v66, p241, Hadith 16.
-[^49]: Mustadrak al-Wasa'il, v12, p221, Hadith 13934, p226, Hadith 13948;
+[^49] Mustadrak al-Wasa'il, v12, p221, Hadith 13934, p226, Hadith 13948;
 Bihar al-Anwar, v66, p252, Hadith 32.
-[^50]: Wasa'il al-Shia, v28, p345, Hadith 34923; Bihar al-Anwar, v27,
+[^50] Wasa'il al-Shia, v28, p345, Hadith 34923; Bihar al-Anwar, v27,
 p62.
-[^51]: Mustadrak al-Wasa'il, v1, p171, Hadith 280; Kanz al-Fawa'id, v2,
+[^51] Mustadrak al-Wasa'il, v1, p171, Hadith 280; Kanz al-Fawa'id, v2,
 p12; Bihar al-Anwar, v27, p199, Hadith 66.
-[^52]: al-Kafi, v2, p186, Hadith 1.
-[^53]: al-Amali, al-Tusi, p224, Hadith 390; Bihar al-Anwar, v1, p200,
+[^52] al-Kafi, v2, p186, Hadith 1.
+[^53] al-Amali, al-Tusi, p224, Hadith 390; Bihar al-Anwar, v1, p200,
 Hadith 8.
-[^54]: Qurb al-Isnad, p18; Bihar al-Anwar, v44, p282, Hadith 14.
-[^55]: Bihar al-Anwar, v50, p318, Hadith 14; v52, p125, Hadith 11; v52,
+[^54] Qurb al-Isnad, p18; Bihar al-Anwar, v44, p282, Hadith 14.
+[^55] Bihar al-Anwar, v50, p318, Hadith 14; v52, p125, Hadith 11; v52,
 p145, Hadith 65; v74, p143, Hadith 1.
-[^56]: Tuhaf al-Uqul, p403; Bihar al-Anwar, v75, p326, Hadith 4.
-[^57]: al-Khisal, p625; Tuhaf al-Uqul, p115; Bihar al-Anwar, v10, p104.
-[^58]: Kamal al-Din, p644, Hadith 2; al-Kafi, v8, p80, Hadith 27 (similar
+[^56] Tuhaf al-Uqul, p403; Bihar al-Anwar, v75, p326, Hadith 4.
+[^57] al-Khisal, p625; Tuhaf al-Uqul, p115; Bihar al-Anwar, v10, p104.
+[^58] Kamal al-Din, p644, Hadith 2; al-Kafi, v8, p80, Hadith 27 (similar
 narration); Bihar al-Anwar, v52, p126, Hadith 16.
-[^59]: Qurb al-Isnad, pp168-169; Bihar al-Anwar, v52, p110-111.
-[^60]: Kitab al-Ghaiba, al-Nu'mani, p200, Hadith 16; Bihar al-Anwar, v52,
+[^59] Qurb al-Isnad, pp168-169; Bihar al-Anwar, v52, p110-111.
+[^60] Kitab al-Ghaiba, al-Nu'mani, p200, Hadith 16; Bihar al-Anwar, v52,
 p140, Hadith 50.
-[^61]: Kamal al-Din, part 2, p483, Hadith 4; Kitab al-Ghaiba, al-Tusi,
+[^61] Kamal al-Din, part 2, p483, Hadith 4; Kitab al-Ghaiba, al-Tusi,
 p290; al-Ihtijaj, v2, p469; Bihar al-Anwar, v53, p180, Hadith 10.
-[^62]: See Mafatih al-Jinan, The supplication of Ahd (located after Du'aa
+[^62] See Mafatih al-Jinan, The supplication of Ahd (located after Du'aa
 Nudba). For the text and one of the Isnad of this supplication see Bihar
 al-Anwar, v83, p284, Hadith 47.
-[^63]: Tafsir, al-Ayyashi, v2, p154, Hadith 49; Mustadrak al-Wasa'il, v5,
+[^63] Tafsir, al-Ayyashi, v2, p154, Hadith 49; Mustadrak al-Wasa'il, v5,
 p239, Hadith 5773; Bihar al-Anwar, v52, p131, Hadith 34.
-[^64]: Kitab al-Ghaiba, al-Nu'mani, p274, Hadith 53; Bihar al-Anwar, v52,
+[^64] Kitab al-Ghaiba, al-Nu'mani, p274, Hadith 53; Bihar al-Anwar, v52,
 Hadith 119.
-[^65]: Jamal al-Usbu', p275; Mafatih al-Jinan, p43, under the Salat of
+[^65] Jamal al-Usbu', p275; Mafatih al-Jinan, p43, under the Salat of
 Imam Zain al-Abidin.
-[^66]: Kamal al-Din, p303, Hadith13; Kitab al-Ghaiba, al-Nu'mani, p179,
+[^66] Kamal al-Din, p303, Hadith13; Kitab al-Ghaiba, al-Nu'mani, p179,
 Hadith 24; Bihar al-Anwar, v51, p120, Hadith 21; p37, Hadith 10.
-[^67]: Kitab al-Ghaiba, al-Tusi, p426, Bihar al-Anwar, v52, p103, Hadith
+[^67] Kitab al-Ghaiba, al-Tusi, p426, Bihar al-Anwar, v52, p103, Hadith
 7; Kitab al-Ghaiba, al-Nu'mani, p294, Hadith 11 (similar narration);
 al-Kafi, v1, p368, Hadith 2.
-[^68]: al-Kafi, v1, p369, Hadith 7; Kitab al-Ghaiba, al-Nu'mani, p296,
+[^68] al-Kafi, v1, p369, Hadith 7; Kitab al-Ghaiba, al-Nu'mani, p296,
 Hadith 15; Bihar al-Anwar, v52, p118, Hadith 46.
-[^69]: Nahj al-Balagha, Sermon 189/190.
-[^70]: Mafatih al-Jinan, around the end of the book, under Du'aa in the
+[^69] Nahj al-Balagha, Sermon 189/190.
+[^70] Mafatih al-Jinan, around the end of the book, under Du'aa in the
 absence of the Imam (AS); Bihar al-Anwar, v53, p187, Hadith 18.
 

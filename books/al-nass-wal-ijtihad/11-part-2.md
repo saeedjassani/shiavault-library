@@ -159,12 +159,12 @@ more aware of Allah and His orders than us.”[^3]
 But Umar said then: “O messenger of Allah, have you not said that you
 would enter Mecca safely?”
 
-[^1]: In his Sahih, vol.3 chap.The battle of al-Hudaybiya.
-[^2]: How! Allah, the Almighty, said: (Surely We have given to you a
+[^1] In his Sahih, vol.3 chap.The battle of al-Hudaybiya.
+[^2] How! Allah, the Almighty, said: (Surely We have given to you a
 clear victory…) and the Prophet (s) recited it as it had been revealed
 to him by Allah but this man said: “This is not a victory!” Do you know
 who this man is?!
-[^3]: Refer to the story of al-Hudaybiya in ad-Dahlani’s Seera and the
+[^3] Refer to the story of al-Hudaybiya in ad-Dahlani’s Seera and the
 other books of history.
 
 (210)
@@ -199,8 +199,8 @@ oppressed and tortured men in Mecca there was a man called Abu Baseer[^2]
 who was one of the Muslim heroes. He played a trick and get out of
 prison and then he fled to resort to the Prophet
 
-[^1]: Al-Halabi’s Seera and others.
-[^2]: His name was Utba bin Asad bin Jariya bin Usayd ath-Thaqafi. Ibn
+[^1] Al-Halabi’s Seera and others.
+[^2] His name was Utba bin Asad bin Jariya bin Usayd ath-Thaqafi. Ibn
 Abdul Birr mentioned his biography in his book al-Istee’ab. Ibn Isshaq
 and other historians have mentioned this story in their books of
 biographies. Here we quoted it from al-Halabi’s Seera.
@@ -321,7 +321,7 @@ the hypocrites. In fact this verse had not prohibited that. We will
 explain this soon. When Umar saw the Prophet (s) standing to offer the
 prayer for the hypocrite dead, he thought that he had
 
-[^1]: Vol.4 p.18 and vol.3 p.92. It has also been mentioned by Ahmad in
+[^1] Vol.4 p.18 and vol.3 p.92. It has also been mentioned by Ahmad in
 his Musnad and by others.
 
 (214)
@@ -362,7 +362,7 @@ according to what he should do in dealing with people due to their
 apparentness. Ibn Ubayy was not one of the unbelievers, who had denied
 Islam. He had accepted Islam apparently and announced the
 
-[^1]: It has been mentioned by al-Bukhari, Muslim, at-Tarmithi, Ahmad bin
+[^1] It has been mentioned by al-Bukhari, Muslim, at-Tarmithi, Ahmad bin
 Hanbal, ibn Jareer, ibn Abu Hatim, ibn Mardwayh and others. Refer to
 Kanzol Ummal by al-Muttaqi al-Hindi, vol.1 p.247.
 
@@ -525,8 +525,8 @@ and “Most surely, it is the Word brought by an honored Messenger. And it
 is not the word of a poet; little is it that you believe. Nor the word
 of a soothsayer; little is it that you mind. It
 
-[^1]: Refer to Muslim’s Sahih.
-[^2]: Sharh Sahih Muslim, vol.1 p.404.
+[^1] Refer to Muslim’s Sahih.
+[^2] Sharh Sahih Muslim, vol.1 p.404.
 
 (219)
 
@@ -558,14 +558,14 @@ temporary marriage) has been permitted during the period between the two
 ihrams[^4] (of umra and great hajj). It was this thing that had been
 disliked by Umar and some of his followers.
 
-[^1]: During offering the umra (minor hajj) and the great hajj together
+[^1] During offering the umra (minor hajj) and the great hajj together
 (in the same year), the Muslims, after carrying out some rituals of the
 hajj, may sleep with their wives or practice temporary marriage. This is
 called “the pleasure of the hajj”.
 
-[^2]: Umra is the minor hajj.
-[^3]: Sharh Sahih Muslim by an-Nawawi, vol.7 p.46.
-[^4]: Ihram is the sacred state into which a Muslim must enter before
+[^2] Umra is the minor hajj.
+[^3] Sharh Sahih Muslim by an-Nawawi, vol.7 p.46.
+[^4] Ihram is the sacred state into which a Muslim must enter before
 performing a pilgrimage, during which sexual intercourse, shaving,
 cutting one's nails, and several other actions are forbidden.
 
@@ -600,14 +600,14 @@ messenger of Allah but I prohibit them and punish for them; the pleasure
 of the hajj (sexual intercourse during the hajj) and temporary
 marriage.”[^6]
 
-[^1]: Musnad of Ahmad, vol.1p. 50.
-[^2]: He means the pleasure during the hajj.
-[^3]: Musnad of Ahmad, vol.1 p.49.
-[^4]: By Allah, I do not know what to say! Has the Prophet (s) offered
+[^1] Musnad of Ahmad, vol.1p. 50.
+[^2] He means the pleasure during the hajj.
+[^3] Musnad of Ahmad, vol.1 p.49.
+[^4] By Allah, I do not know what to say! Has the Prophet (s) offered
 the hajj and umra unlike what Allah has ordered him? Was Umar more aware
 of the orders and verdicts of Allah than the Prophet (s)?!
-[^5]: Sahih of Muslim, vol.1 p.467.
-[^6]: This famous saying of Umar has been mentioned by most of the
+[^5] Sahih of Muslim, vol.1 p.467.
+[^6] This famous saying of Umar has been mentioned by most of the
 historians. Refer to Tafseer of ar-Razi when interpreting the verse
 no.196 of the sura of al-Baqara (2) and the verse no. 24 of the sura of
 an-Nissa’ (4).
@@ -647,10 +647,10 @@ to a group of his relatives. Neither a verse has been revealed to annul
 that nor has the Prophet (s) prohibited it until he has left to the
 better world. But then everyone followed his own opinion.”
 
-[^1]: Come on to the best of deeds! It is a part of azan.
-[^2]: Sharh at-Tajreed by al-Qoushaji.
-[^3]: Vol.1 p.472-475.
-[^4]: He meant Mo’awiya bin Abu Sufyan, who had forbidden people from
+[^1] Come on to the best of deeds! It is a part of azan.
+[^2] Sharh at-Tajreed by al-Qoushaji.
+[^3] Vol.1 p.472-475.
+[^4] He meant Mo’awiya bin Abu Sufyan, who had forbidden people from
 practicing the pleasure of umra following the same way of Umar and
 Othman.
 
@@ -694,8 +694,8 @@ by Muhammad bin Abdullah bin al-Harith bin Nawfal bin Abdul Muttalib
 that he had heard Sa’d bin Abu Waqqass and ad-Dhahhak bin Qayss
 mentioning the pleasure of umra in the year when Mo’awiya bin Abu Sufyan
 had gone to offer the hajj. Ad-Dhahhak bin
-[^1]: He means Umar.
-[^2]: Vol.1p.130.
+[^1] He means Umar.
+[^2] Vol.1p.130.
 
 (223)
 
@@ -730,11 +730,11 @@ permitted it.” At-Tarmithi mentioned in his Sahih[^5] that once Abdullah
 bin Umar had been asked about the pleasure of hajj and he said that it
 had been permissible. The asker said to him: “But your father has
 
-[^1]: Refer to Sharh Muwatta’ Malik by az-Zarqani, vol.2 p.178 to see the
+[^1] Refer to Sharh Muwatta’ Malik by az-Zarqani, vol.2 p.178 to see the
 explanation of the author about this tradition.
-[^2]: Refer to Jami’ Bayan al-Ilm by ibn Abdul Birr and Mukhtasar Jami’
+[^2] Refer to Jami’ Bayan al-Ilm by ibn Abdul Birr and Mukhtasar Jami’
 Bayan al-Ilm by al-Muhammisani p.226.
-[^3]: Ibid.
-[^4]: vol.1 p.479.
-[^5]: vol.1 p.157.
+[^3] Ibid.
+[^4] vol.1 p.479.
+[^5] vol.1 p.157.
 

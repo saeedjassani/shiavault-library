@@ -40,7 +40,7 @@ Jihad and the best deed and worship. If one continues to be in such
 state, Allah has guaranteed deliverance for him. Abd al-Hamid al-Wasiti
 narrated:
 
-[^1]: Bihar al-Anwar, vol. 50, p. 318, Hadith 14; vol. 52, p. 125, Hadith
+[^1] Bihar al-Anwar, vol. 50, p. 318, Hadith 14; vol. 52, p. 125, Hadith
 11; vol. 52, p. 145, Hadith 65; vol. 74, p. 143, Hadith 1.
 [^2]Tuhaf al-Uqul, p. 403; Bihar al-Anwar, vol. 75, p. 326, Hadith 4.
 [^3]al-Khisal, p. 625; Tuhaf al-Uqul, p. 115; Bihar al-Anwar, vol. 10,
@@ -81,7 +81,7 @@ would hasten."[^2]
 
 In addition, Abu Basir narrated:
 
-[^1]: Kamal al-Din, p. 644, Hadith 2; al-Kafi, vol. 8, p. 80, Hadith 27
+[^1] Kamal al-Din, p. 644, Hadith 2; al-Kafi, vol. 8, p. 80, Hadith 27
 (similar narration); Bihar al-Anwar, vol. 52, p. 126, Hadith 16.
 [^2]Qurb al-Isnad, pp. 168-169; Bihar al-Anwar, vol. 52, pp. 110-111.
 
@@ -122,7 +122,7 @@ of his disappearance who adhere to his leadership and wait for his
 manifestation are more superior to people of every era. This is
 because
 
-[^1]: al-Ghaiba, al-Nu'mani, p. 200, Hadith 16; Bihar al-Anwar, vol. 52,
+[^1] al-Ghaiba, al-Nu'mani, p. 200, Hadith 16; Bihar al-Anwar, vol. 52,
 p. 140, Hadith 50.
 
 Allah has granted them so much of understanding, comprehension, and

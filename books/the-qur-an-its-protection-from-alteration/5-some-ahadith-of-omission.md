@@ -104,27 +104,27 @@ and Shi'a books of ahadith contain a lot of such traditions. But there
 is a basic difference between the two sects' respective attitude towards
 such traditions.
 
-[^15]: As-Suyuti, ad-Durru 'l-Manthur, vol. 5, pp. 179-180; As-Suyuti,
+[^15] As-Suyuti, ad-Durru 'l-Manthur, vol. 5, pp. 179-180; As-Suyuti,
 al-Itqan, vol. 2. p. 25.
-[^16]: Al-Bukhari, at-Ta'rikh, as quoted by as-Suyuti in the above
+[^16] Al-Bukhari, at-Ta'rikh, as quoted by as-Suyuti in the above
 books.
 [17 Az-Zamakhshari, Tafsir al-Kashshaf, vol. 2 (Calcutta: Lees. 1856)
 p. 1117: Mulla Ali al-Muttaqi, Kanzu 'l-Ummal.
-[^18]: As-Suyuti, ad-Durru 'l-Manthur, vol. 5. p. 179.
-[^19]: As-Suyuti, ad-Durru 'l-Manthur, vol. 3. p. 208: al-Itqan, vol. 2.
+[^18] As-Suyuti, ad-Durru 'l-Manthur, vol. 5. p. 179.
+[^19] As-Suyuti, ad-Durru 'l-Manthur, vol. 3. p. 208: al-Itqan, vol. 2.
 p. 26: al-Hakim an-Nishapuri, al-Mustadrak alas-Sahihan, vol. 2
 (Hyderabad: Dairatul-Ma'arif. 1340 AH) p. 331.
-[^20]: As-Suyuti, al-Itqan, vol. 1, p. 65.
-[^21]: As-Suyuti, al-Itqan, vol. 1, p. 65.
-[^22]: Ibid, pp. 25-26.
-[^23]: As-Suyuti, ad-Durru 'l-Manthur, vol 1 p 105: Ibn al-Athir. Jami 'u
+[^20] As-Suyuti, al-Itqan, vol. 1, p. 65.
+[^21] As-Suyuti, al-Itqan, vol. 1, p. 65.
+[^22] Ibid, pp. 25-26.
+[^23] As-Suyuti, ad-Durru 'l-Manthur, vol 1 p 105: Ibn al-Athir. Jami 'u
 'l-Usul, vol 3 (Egypt: 1370 AH) p. 8 hadith no. 904.
-[^24]: Musabbihat: those surahs which begin with the words. yusabbihu or
+[^24] Musabbihat: those surahs which begin with the words. yusabbihu or
 sabbih.
-[^25]: Jami 'u 'l-usul, vol. 3. p. 8
-[^26]: As-Suyuti, al-Itqan, vol. 2. p 70.
-[^27]: As-Suyuti, al-Itqan, vol 2. p. 25: As-Suyuti, ad-Durru 'l-Manthur,
+[^25] Jami 'u 'l-usul, vol. 3. p. 8
+[^26] As-Suyuti, al-Itqan, vol. 2. p 70.
+[^27] As-Suyuti, al-Itqan, vol 2. p. 25: As-Suyuti, ad-Durru 'l-Manthur,
 vol 1. p. 106.
-[^28]: For details, see Mir Hamid Husayn al-Musawi al-Hindi, Istiqsa'u
+[^28] For details, see Mir Hamid Husayn al-Musawi al-Hindi, Istiqsa'u
 'l-Ifham, vol. 2 (Lucknow) the section on tahrif of the Qur'an
 

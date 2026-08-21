@@ -2379,7 +2379,7 @@ countries?[^133]
 
 He said: “This leader, who was accused of being mistaken,[^134] was one
 of the greatest powers, by which disasters and dangers were repelled.
-[^135]: What was the problem in marrying a woman unlike the traditions of
+[^135] What was the problem in marrying a woman unlike the traditions of
 the Arabs if it was done by a conqueror, who had conquered countries and
 consequently had captive women who would be his possession?”[^136]
 
@@ -2407,7 +2407,7 @@ especially those who had adopted Umar’s opinion, that Khalid was the
 qualified man who would defeat the difficulties and that he (Abu Bakr)
 had thrown him into a hell which would swallow him and that would be the
 punishment for what he had committed with Layla and her husband Malik
-[^142]: or victory would purify him and then he would come back to the
+[^142] or victory would purify him and then he would come back to the
 Muslims as triumphant and so he would calm their fears and then his
 doing committed in al-Bitah would be unmentionable thing beside his
 victory”.

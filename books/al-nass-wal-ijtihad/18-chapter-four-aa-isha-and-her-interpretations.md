@@ -27,8 +27,8 @@ of Allah from you.” The Prophet
 
 --------------------------------------------------------------------------------
 
-[^1]: Sahih of Muslim, vol.1 p.258.
-[^2]: The Prophet’s wife. She was Umar’s daughter.
+[^1] Sahih of Muslim, vol.1 p.258.
+[^2] The Prophet’s wife. She was Umar’s daughter.
 
 (342)
 
@@ -63,15 +63,15 @@ one of that!”
 
 --------------------------------------------------------------------------------
 
-[^1]: It has been mentioned by al-Hakim in his Mustadrak, vol.4 p.37, by
+[^1] It has been mentioned by al-Hakim in his Mustadrak, vol.4 p.37, by
 ibn Sa’d in his Tabaqat of ibn Sa’d, vol.8 p.104, by ibn Jareer and
 others.
-[^2]: Mustadrak of al-Hakim, vol.4 p.39, Talkhees al-Mustadrak by
+[^2] Mustadrak of al-Hakim, vol.4 p.39, Talkhees al-Mustadrak by
 ath-Thahabi. Refer to them to see the wonders!!
-[^3]: Maghafeer: a viscous secretion of a certain tree. It has bad
+[^3] Maghafeer: a viscous secretion of a certain tree. It has bad
 smell.
-[^4]: Vol.3 p.136.
-[^5]: Aa’isha and Hafsa were also the Prophet’s wives.
+[^4] Vol.3 p.136.
+[^5] Aa’isha and Hafsa were also the Prophet’s wives.
 
 (343)
 
@@ -159,10 +159,10 @@ this matter were true and recurrent and were
 
 --------------------------------------------------------------------------------
 
-[^1]: Kanzol Ummal, vol. 6 p.294, Tabaqat of ibn Sa’d, vol.8 p.115.
-[^2]: Kanzol Ummal, p.116, Ihya’ul Quloob by al-Ghazali, vol.2 p.35,
+[^1] Kanzol Ummal, vol. 6 p.294, Tabaqat of ibn Sa’d, vol.8 p.115.
+[^2] Kanzol Ummal, p.116, Ihya’ul Quloob by al-Ghazali, vol.2 p.35,
 Mukashafatul Quloob by al-Ghazali, p.238.
-[^3]: Ihya’ul Quloob by al-Ghazali, vol.2 p.35, Mukashafatul Quloob by
+[^3] Ihya’ul Quloob by al-Ghazali, vol.2 p.35, Mukashafatul Quloob by
 al-Ghazali, p.238.
 
 (345)
@@ -203,9 +203,9 @@ and the homage of Imam Ali (s) which have bolted the ears and
 
 --------------------------------------------------------------------------------
 
-[^1]: vol.2 p.77.
-[^2]: Na’thal was the surname of Othman near his mother.
-[^3]: Taym was the tribe of Abu Bakr.
+[^1] vol.2 p.77.
+[^2] Na’thal was the surname of Othman near his mother.
+[^3] Taym was the tribe of Abu Bakr.
 
 (346)
 
@@ -248,9 +248,9 @@ This tradition showed that the Prophet (s)-Allah forbid-was
 
 --------------------------------------------------------------------------------
 
-[^1]: The Prophet (s) was not the nephew of Waraqa bin Nawfal but the
+[^1] The Prophet (s) was not the nephew of Waraqa bin Nawfal but the
 Arabs often used such addressing.
-[^2]: Irshad as-Sari fee Sharh Sahih al-Bukhari, vol.1 p.171.
+[^2] Irshad as-Sari fee Sharh Sahih al-Bukhari, vol.1 p.171.
 
 (347)
 
@@ -293,7 +293,7 @@ down to the Prophet (s) in the cave of Hira’?
 
 --------------------------------------------------------------------------------
 
-[^1]: Sahih of al-Bukhari, vol.1, vol.3 when interpreting the sura of
+[^1] Sahih of al-Bukhari, vol.1, vol.3 when interpreting the sura of
 Iqra’ (Read), Sahih of Muslim, Sahih of at-Tarmithi and Sahih of
 an-Nassa’iy when interpreting this sura.
 
@@ -336,7 +336,7 @@ abused Othman and said bad things about him.[^1]
 
 --------------------------------------------------------------------------------
 
-[^1]: Here are many holy texts that Aa’isha has contradicted in her
+[^1] Here are many holy texts that Aa’isha has contradicted in her
 dealing with Imam Ali (s) and Othman. The traditions that Aa’isha has
 contradicted might be more than all the traditions the three caliphs
 have contradicted. It suffices you, as an example, to refer to her
@@ -387,8 +387,8 @@ an-Nahrawan and like Badr, Uhud and al-Ahzab. These two events
 rak’as) whereas the prayer in residence has become full (four rak’as)”.
 She herself had narrated this tradition and then she did the opposite.
 
-[^1]: It is the fourth month of the Islamic calendar.
-[^2]: The sixth month in the Islamic calendar.
+[^1] It is the fourth month of the Islamic calendar.
+[^2] The sixth month in the Islamic calendar.
 
 (350)
 
@@ -425,14 +425,14 @@ scholars that: “When Aa'isha arrived at Sarf on her way from Mecca, she
 met the slave of ibn Umm Kalam, who had been the slave of ibn Umm
 Salama. She asked him: “What is there?” He said:
 “They --------------------------------------------------------------------------------
-[^1]: Hisham bin Muhammad al-Kalbi in his book al-Jamal, at-Tabari in
+[^1] Hisham bin Muhammad al-Kalbi in his book al-Jamal, at-Tabari in
 Tareekh al-Umam wel Mulook, ibn al-Atheer in al-Kamil, al-Mada’ini in
 al-Jamal and others. To see more details, refer Sharh Nahjol Balagha,
 vol. 2 p.77-82, p.496-.
-[^2]: Ibn Abdul Birr in al-Istee’ab, ibn al-Atheer in Usdol Ghaba, ibn
+[^2] Ibn Abdul Birr in al-Istee’ab, ibn al-Atheer in Usdol Ghaba, ibn
 Hajar in al-Isaba, ibn Sa’d in his Tabaqat and others.
-[^3]: Vol.2 p.77.
-[^4]: in his book Tareekh al-Umam wel-Mulook, vol.3 p.476.
+[^3] Vol.2 p.77.
+[^4] in his book Tareekh al-Umam wel-Mulook, vol.3 p.476.
 
 (351)
 
@@ -517,9 +517,9 @@ will bark at her and she will be deviated from the right path?” We said:
 
 --------------------------------------------------------------------------------
 
-[^1]: vol.2 p.77-.
-[^2]: She was the Prophet’s wife.
-[^3]: A place between Hijaz and Basra.
+[^1] vol.2 p.77-.
+[^2] She was the Prophet’s wife.
+[^3] A place between Hijaz and Basra.
 
 (353)
 
@@ -563,7 +563,7 @@ Then Umm Salama wrote a book from Mecca to Imam Ali (s). She
 
 --------------------------------------------------------------------------------
 
-[^1]: Sharh Nahjol Balagha, vol. 2 p.79.
+[^1] Sharh Nahjol Balagha, vol. 2 p.79.
 
 (354)
 
@@ -603,10 +603,10 @@ liked,[^3] sent her messengers with her books to the
 
 --------------------------------------------------------------------------------
 
-[^1]: Then they were busy offering the minor hajj as Aa'isha, Talha and
+[^1] Then they were busy offering the minor hajj as Aa'isha, Talha and
 az-Zubayr themselves were.
-[^2]: Sharh Nahjol Balagha, vol. 2 p.80.
-[^3]: Ash-Shi’bi narrated from Muslim bin Abu Bakra that his father-as in
+[^2] Sharh Nahjol Balagha, vol. 2 p.80.
+[^3] Ash-Shi’bi narrated from Muslim bin Abu Bakra that his father-as in
 Sharh Nahjol Balagha, vol. 2 p.81-had said: “When Talha and az-Zubayr
 came to Basra, I girt myself with the sword intending to support them. I
 came to Aa'isha. I found her

@@ -9,9 +9,9 @@ guarded to him, and he mocked at them, made light of, and disrespected
 them. We will mention their names along with the persecutions they met.
 They are as follows:
 
-[^1]: Bihar al-Anwar, vol. 10. p. 102.
-[^2]: ‘Ayan al-Shia, vol. 4, p. 46.
-[^3]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 3, p. 15.
+[^1] Bihar al-Anwar, vol. 10. p. 102.
+[^2] ‘Ayan al-Shia, vol. 4, p. 46.
+[^3] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 3, p. 15.
 
 **1. Muhammad Bin Abi Hudhayfa**
 
@@ -103,7 +103,7 @@ Ziyad searched the district of Banu Makhzum until he found Abdullah. He
 sent him to Mu’awiya in the manner he wanted. Abdullah arrived in
 Damascus on Friday, the day of reception Mu’awiya had appointed to
 receive
-[^1]: Al-Kashi, Rijal, p. 47.
+[^1] Al-Kashi, Rijal, p. 47.
 
 the Qurayshi noblemen and the Iraqi dignitaries. Hashim suddenly came
 in to Mu’awiya. The latter recognized the former. However Amr bin
@@ -220,10 +220,10 @@ was great, his reason was abundant, that he was among the close
 companions of the Imam, and one of those the Imam consulted as to his
 important affairs.[^3]
 
-[^1]: Al-Mas‘udi, Murujj al-Dhahab, vol. 2, pp. 312-314. Ibn Abi
+[^1] Al-Mas‘udi, Murujj al-Dhahab, vol. 2, pp. 312-314. Ibn Abi
 al-Hadeed, Sharh Nahj al-Balagha.
-[^2]: Al-Fawa’id, p. 202.
-[^3]: Al-Fawa’id, p. 202..
+[^2] Al-Fawa’id, p. 202.
+[^3] Al-Fawa’id, p. 202..
 
 During Hijr’s ordeal, Abdullah bin Khalifa was on top of his companions
 and among those who opposed the Umayyad policy and one of those who took
@@ -311,9 +311,9 @@ and good in help.[^3] As Sa‘sa‘a was prudent in opinion and correct in
 speech, Imam Ali (a.s), sent him to carry out his tasks. One day he sent
 him with a letter to Mu’awiya.
 
-[^1]: Al-Tabari, vol. 6, p. 157. Al-Kamil, vol. 3, p. 241.
-[^2]: Al-Isti‘ab, vol. 2, p. 189.
-[^3]: Al-Ta‘liqat.
+[^1] Al-Tabari, vol. 6, p. 157. Al-Kamil, vol. 3, p. 241.
+[^2] Al-Isti‘ab, vol. 2, p. 189.
+[^3] Al-Ta‘liqat.
 
 Sa‘sa‘a reached Mu’awiya, who he praised himself and justified his
 acts, saying: “The earth belongs to Allah. I am the vicegerent of Allah.
@@ -423,8 +423,8 @@ released, (prisoner of war) son of a released one that Allah’s Apostle,
 may Allah bless him and his family, had released you. Therefore, how is
 it appropriate for a released (prisoner of war) to be a caliph?”
 
-[^1]: Qur’an, 6, 151.
-[^2]: Ibn ‘Asakir, Tarikh, vol. 6, p. 425.
+[^1] Qur’an, 6, 151.
+[^2] Ibn ‘Asakir, Tarikh, vol. 6, p. 425.
 
 Mu’awiya’s heart was full of rage and anger, so he turned to them and
 said: Where it not for that I resort to the speech of Abi Talib, who
@@ -463,9 +463,9 @@ saying: “A drop of ‘Uthman’s blood has remained. Nothing will remove it
 except the blood of a noble one from among the nobles of Yemen.” By that
 he meant Adiy.
 
-[^1]: Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 341.
-[^2]: Al-Kashi, Rijal, p. 46.
-[^3]: Al-Turufat were ‘Adi’s sons. They were Tareef, Taarif, and Turfa.
+[^1] Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 341.
+[^2] Al-Kashi, Rijal, p. 46.
+[^3] Al-Turufat were ‘Adi’s sons. They were Tareef, Taarif, and Turfa.
 
 Adiy denied him. He paid no attention to his threat. He said to him:
 “By Allah, our hearts through which we have detest you are still in our
@@ -508,7 +508,7 @@ times! I will not return to you! The life in you is insignificant! Your
 importance is slight! I moan because of the paucity of the provisions,
 the farness of the travel, and the fewness of the bosom friends.’”
 
-[^1]: Al-Mas‘udi, Murujj al-Dhahab, vol. 3, p. 309.
+[^1] Al-Mas‘udi, Murujj al-Dhahab, vol. 3, p. 309.
 
 So Mu’awiya’s eyes were full of tears. He dried them with his sleeve.
 Then he said:
@@ -543,8 +543,8 @@ have not ruled over us by force nor have you conquered us by force. But
 you had given us promises and covenants. If you were loyal to us, we
 would
 
-[^1]: Al-Mahasin wa al-Masawi’, vol. 1, p. 32.
-[^2]: According to Ibn ‘Abd Rabbah’s narration: “My mother gave birth to
+[^1] Al-Mahasin wa al-Masawi’, vol. 1, p. 32.
+[^2] According to Ibn ‘Abd Rabbah’s narration: “My mother gave birth to
 me for swords.”
 
 be loyal to you. If you wish something other than that, then we have
@@ -587,7 +587,7 @@ the two ranks stirring up the battle and urging (the people) to fight?
 What made you do that? -O Commander of the Faithful, the head died, the
 tail was cut off, and the time has changed. Whoever thinks comes to know
 (the results). Events follow each other.
-[^1]: Tarikh al-Khulafa’, p. 199.
+[^1] Tarikh al-Khulafa’, p. 199.
 
 -You have said the truth! Have you memorized the speech you said at the
 Battle of Siffin? -I have not memorized it. -But I, by Allah to Whom
@@ -624,7 +624,7 @@ bound myself that I will never ask a governor against whom I had helped
 others. The like of you gives generously without being asked or
 demanded. -You have said the truth.
 
-[^1]: Qur’an, 8, 42. Then he granted her a country estate with other
+[^1] Qur’an, 8, 42. Then he granted her a country estate with other
 gifts, and returned her to her homeland.[^1] Although he honored and gave
 her generously at last, he terrified and terrorized her and showed her
 that he had gained a victory over her.
@@ -657,7 +657,7 @@ it. Therefore, ask as you like. -How was your speech on the day when
 had I forged it after. It was only some words my tongue said at the time
 of the shock. If you wished to narrate you something other than that, I
 would do?
-[^1]: Tayfur, Balaghat al-Nisa’, (Najaf edition), p. 32. Subh al-A‘sha.
+[^1] Tayfur, Balaghat al-Nisa’, (Najaf edition), p. 32. Subh al-A‘sha.
 Al-Mustatraf.
 
 -I do not want that. Then Mu’awiya turned to his companions and asked
@@ -696,11 +696,11 @@ are nothing-so that they may desist.[^4] Be patient, O people of the
 Muhajireen and the Ansar! Fight according to certainty from your Lord!
 You have come to
 
-[^1]: Shaqshaqa is something like a lung the camel takes out of its mouth
+[^1] Shaqshaqa is something like a lung the camel takes out of its mouth
 when it is excited.
-[^2]: Qur’an, 22, 1.
-[^3]: Qur'an, 47, 31.
-[^4]: Ibid., 9, 12.
+[^2] Qur’an, 22, 1.
+[^3] Qur'an, 47, 31.
+[^4] Ibid., 9, 12.
 
 know that the people of Sham as if they were asses taking flight, that
 had fled from a lion, that they do not know in which way of the ways in

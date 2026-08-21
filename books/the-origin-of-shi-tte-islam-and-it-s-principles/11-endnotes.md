@@ -1,13 +1,13 @@
 Endnotes
 ========
 
-[^1]: (s.a.w.): is the abbreviation of the Arabic phrase "Salla 'llahu
+[^1] (s.a.w.): is the abbreviation of the Arabic phrase "Salla 'llahu
 'alayhi wa alih" (may God bless him and his progeny).
 
-[^2]: (a.s.): is the abbreviation of "'alayhi 's-Salam" (peace be upon
+[^2] (a.s.): is the abbreviation of "'alayhi 's-Salam" (peace be upon
 him)
 
-[^3]: The principle of 'awl (proportionate reduction) is applied by Sunni
+[^3] The principle of 'awl (proportionate reduction) is applied by Sunni
 jurists when the estate of the deceased is 'oversubscribed' by Quranic
 heirs. In such a case they scale down all the heirs' portions pro rata,
 or, in other words, they increase the number of portions into which the

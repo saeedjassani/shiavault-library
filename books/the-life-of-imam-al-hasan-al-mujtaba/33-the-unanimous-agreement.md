@@ -9,7 +9,7 @@ not afflicted with such parties, nor were they stricken by the opinions
 hostile to the standing government. Peace, harmony, and tranquility
 prevailed over Damascus and all its districts. In the Army and the
 kingdom the Kharijites had neither place nor
-[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 133.
+[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 133.
 
 summoners to them or to other than them from among those who worked to
 overthrow the government. This unanimous agreement was the reason for
@@ -99,7 +99,7 @@ peacemaking, not war and fighting. He was sure that war would bring
 about to the community bad complications whose dangers none knew except
 Allah.
 
-[^1]: Al-Nawruz is the Persian New Year’s Day.
+[^1] Al-Nawruz is the Persian New Year’s Day.
 
 **The Assassination of Imam Ali**
 
@@ -146,7 +146,7 @@ with Mu’awiya I wanted (nothing) except keeping murder away from
 you.”[^1] In the speech he made in al-Mada’in, he expressed his great
 taking care of sparing the Muslims’ blood. In it he has mentioned: “O
 people, most surely
-[^1]: Al-Daynawari, p. 303.
+[^1] Al-Daynawari, p. 303.
 
 the affair over which I and Mu’awiya have differed is a right (of
 mine). I am going to leave the right to set right the community’s affair
@@ -190,7 +190,7 @@ communication with Mu’awiya,
 3. Assassinating him, and
 4. Plundering his belongings.
 
-[^1]: A‘yan al-Shia, vol. 4, p. 42.
+[^1] A‘yan al-Shia, vol. 4, p. 42.
 
 These are some factors that moved Imam al-Hasan to make peace with
 Mu’awiya. As far as we know that they required him to make peace and not
@@ -236,7 +236,7 @@ Muslims other than the Prophet’s grandson and his inheritor.
 Accordingly, Imam al-Hasan preferred peace to war regardless of the
 hardships. Shams al-Deen al-Siqqli, died 565 A. H., maintained that
 the
-[^1]: We have mentioned the sources of the tradition in the first part of
+[^1] We have mentioned the sources of the tradition in the first part of
 the book, p. 81.
 
 reason which moved al-Hasan to abdicate the caliphate was the tradition
@@ -272,8 +272,8 @@ community turned away from supporting the truth and fighting against
 falsehood. For this reason, the freed prisoners of war and their
 children undertook the authority
 
-[^1]: Anba’ Nujaba’ al-Abnaa’, p. 56.
-[^2]: Al-Bidaya wa al-Nihaya, vol. 8, p. 41. I (the author) think that
+[^1] Anba’ Nujaba’ al-Abnaa’, p. 56.
+[^2] Al-Bidaya wa al-Nihaya, vol. 8, p. 41. I (the author) think that
 this tradition is fabricated. That is because the caliphate became a
 biting king during the days of ‘Uthman, who changed its concept and
 preferred the Umayyads to others in respect of the properties and
@@ -286,7 +286,7 @@ been narrated by al-Sayuti in his Tarikh al-Khulafa’, p. 6. His
 tradition became true. That is because the begging of the religion was
 prophethood and mercy, and then it changed during the time of the
 Umayyads into kingdom, tyranny, and fatalism.
-[^3]: Bihar al-Anwar.
+[^3] Bihar al-Anwar.
 
 over them, treated them unjustly, possessed alone the wealth of Allah,
 and regarded people as salves. As for Mu’awiya, he came to know that the
@@ -326,8 +326,8 @@ said: “It has been established that he (al-Hasan) is infallible and
 strengthened with manifest proofs and strong signs.[^2] Therefore, there
 is no escape form
 
-[^1]: Al-Mas‘udi Murujj al-Dhahab, vol. 2, p. 295.
-[^2]: Al-Shareef al-Murtada, is Ali bin al-Husayn. His very clear lineage
+[^1] Al-Mas‘udi Murujj al-Dhahab, vol. 2, p. 295.
+[^2] Al-Shareef al-Murtada, is Ali bin al-Husayn. His very clear lineage
 reaches the Imam of the Muslims, Musa bin Ja‘far, peace be on him. He
 was the head of al-Talibiyyin. He was given the nickname of al-Murtada
 and ‘Alam al-Huda (the Flag of Guidance). He was born in the year 355 A.
@@ -363,8 +363,8 @@ like. He has a collection of poems containing more than ten thousand
 (poetry) lines. He has many books on various sciences.” This has been
 mentioned in (the book) Mu‘jam al-Udaba’, vol. 13, p. 146.
 
-[^1]: Tanzeeh al-Anbiya’, p. 69.
-[^2]: Ibn Tawus is a great, perfect Sayyid, a worshipper, and mujahid.
+[^1] Tanzeeh al-Anbiya’, p. 69.
+[^2] Ibn Tawus is a great, perfect Sayyid, a worshipper, and mujahid.
 (His full name is) Radi al-Deen Abu al-Qasim bin Ali bin Musa bin Ja‘far
 bin Tawus al-Hasani, al-Husayni. He was given the nickname of al-Tawus
 because he was handsome and his legs were coarse. He lived in al-Hillah
@@ -429,7 +429,7 @@ knowledgeable forces. He showered them with various kinds of painful
 torture. He executed and severely punished whomever he wished. He forced
 the Muslims to disown the family of their Prophet, to curse them openly
 and to disparage them on the
-[^1]: Kashf al-Muhjah li Thamrat al-Muhjah, p. 46. It contains valuable
+[^1] Kashf al-Muhjah li Thamrat al-Muhjah, p. 46. It contains valuable
 commandments to his son.
 
 pulpits. Through that the hidden things of his soul appeared. The
@@ -515,7 +515,7 @@ came to know that sadness went away from my heart, I would weep! But
 nothing drives it away until I see with my own eye that my vengeance on
 those who killed my beloved ones is taken!”
 
-[^1]: The people before Islam used to delay their lamentation over their
+[^1] The people before Islam used to delay their lamentation over their
 killed until they took their vengeance. When it was taken, their
 womenfolk lamented for them. In this respect their poet say:
 
@@ -564,8 +564,8 @@ al-Waleed. He ordered the Muslims to avoid them and to call them the
 accursed tree. These things that Mu’awiya saw brought about in his soul
 malice against the Prophet (a.s) and his Household.
 
-[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 3, p. 342.
-[^2]: Ibid., p. 387.
+[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 3, p. 342.
+[^2] Ibid., p. 387.
 
 **The Prophetic Traditions about Mu’awiya**
 
@@ -596,22 +596,22 @@ listened to it. That had been before the wine was prohibited. The man
 came to us and told us that Mu’awiya and Amr Ibn al-‘Aas answered each
 other through this verse of poetry:
 
-[^1]: Al-Tabari, Tarikh, vol. 11, p. 357. Nasr bin Muzahim has narrated
+[^1] Al-Tabari, Tarikh, vol. 11, p. 357. Nasr bin Muzahim has narrated
 in his Kitab Siffin, p. 247, that the Prophet, may Allah bless him and
 his family, said: “A man will come to you from this mountain pass. When
 he dies, he dies in (a manner) other than my Sunna.”
 
-[^2]: Al-Tabari, Tarikh, vol. 11, p. 357. Imam al-Hasan, the Prophet
+[^2] Al-Tabari, Tarikh, vol. 11, p. 357. Imam al-Hasan, the Prophet
 grandson, peace be on him, narrated the tradition from his grandfather.
 Nasr bin Muzahim has mentioned it in his Kitab Siffin, p. 247.
 
-[^3]: Nasr bin Muzahim, Kitab Siffin, p. 244. Imam al-Hasan also narrated
+[^3] Nasr bin Muzahim, Kitab Siffin, p. 244. Imam al-Hasan also narrated
 it.
 
-[^4]: Ibn Sa‘d, Tabaqat, vol. 8, 200. Asas al-Ghaba, vol. 5, p. 527.
+[^4] Ibn Sa‘d, Tabaqat, vol. 8, 200. Asas al-Ghaba, vol. 5, p. 527.
 Tarikh al-Khamis, vol. 2, p. 29.
 
-[^5]: Abu Barzah al-Aslami is Naddlah bin ‘Ubayd. He was a companion of
+[^5] Abu Barzah al-Aslami is Naddlah bin ‘Ubayd. He was a companion of
 Allah’s Apostle. He narrated (traditions) from him and Abu Bakr. Some
 other traditionists reported (traditions) on his authority. Ibn Sa‘d has
 said: “He lived in Medina, and then he (lived) in Basrah. He invaded
@@ -650,9 +650,9 @@ Mu’awiya. He did not reckon him nor did he watch him. It was said to
 and wore silk garments, but he paid no attention to that; rather he gave
 him the
 
-[^1]: Waqi‘at Siffin, p. 246. Ahmed, Musnad, vol. 4, p. 421.
-[^2]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 79.
-[^3]: The devious have narrated the tradition in another way. For example
+[^1] Waqi‘at Siffin, p. 246. Ahmed, Musnad, vol. 4, p. 421.
+[^2] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 79.
+[^3] The devious have narrated the tradition in another way. For example
 al-Khatib, in his Tarikh, has narrated on the authority of Jabir, who
 said: “Allah’s Apostle said: ‘If you see Mu‘awiya make speech from on my
 pulpit, then accept him, for he is faithful.” In his Tarikh al-Hakim has
@@ -664,7 +664,7 @@ Or through his going too far in shedding the Muslims’ blood, killing the
 good and righteous people, and the like from among the heavy events that
 indicate that he had the beliefs of those lived before Islam, and that
 he paid no attention to the religion?
-[^4]: Waqi‘at Siffin.
+[^4] Waqi‘at Siffin.
 
 garment of pomp and glory, saying: “That (Mu’awiya) is the Khousrow of
 the Arabs!” When he distorted the rules of the Consultative Committee to
@@ -707,6 +707,6 @@ ordeals with which Islam was afflicted followed that, and through which
 the unity of the Muslims was divided. So the sorrowful events brought
 about his victory, deserting Imam Ali and his son Imam al-Hasan.
 
-[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 1, p. 187.
-[^2]: Samt al-Nujoom al-‘Awali, vol. 3, p. 48.
+[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 1, p. 187.
+[^2] Samt al-Nujoom al-‘Awali, vol. 3, p. 48.
 

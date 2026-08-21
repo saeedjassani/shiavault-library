@@ -91,37 +91,37 @@ promise that henceforth I shall obey my wife.” \`Ali turned to the woman
 and told her to go to the house and cautioned her not to behave in such
 a manner that her husband had to be angry again.[^33]
 
-[^1]: Al-Manaqib: 1112/2.
-[^2]: Al-Kafi: 268/7, H 40.
-[^3]: Al-Amali: 467, H 10.
-[^4]: Al-Manaqib: 114/2.
-[^5]: Al-Manaqib: 115/2.
-[^6]: Bihar al-Anwar, 54/41, H 1.
-[^7]: Al-Manaqib: 104/2.
-[^8]: Al-Mahasin: 629/2, 12, H 104.
-[^9]: Hilyat al-Awliya’: 139/4.
-[^10]: Sharh Nahj al-Balaghah: 65/17.
-[^11]: Al-Manaqib: 98/2.
-[^12]: Al-Gharat: 35/1.
-[^13]: Al-Gharat: 36/1.
-[^14]: Al-Gharat: 46/1.
-[^15]: Ihqaq al-Haqq; 539/8.
-[^16]: Kashf al-Ghummah: 173/1.
-[^17]: Al-Manaqib: 97/2.
-[^18]: The Path of \`Ali: 42.
-[^19]: Al-Manaqib: 74/2.
-[^20]: Al-Manaqib: 76/2.
-[^21]: The path of \`Ali: 53.
-[^22]: Kashf al-Yaqin: 86.
-[^23]: Kashf al-Ghummah: 163/1.
-[^24]: Al-Sirah al-Nabawiyyah: 430/2.
-[^25]: Sharh Nahj al-Balaghah: 253/11.
-[^26]: Sharh Nahj al-Balaghah: 201/2.
-[^27]: Al-Gharat: 55/1.
-[^28]: Sharh Nahj al-Balaghah: 249/1.
-[^29]: Nahj al-Balaghah: 880, Maxim, 412.
-[^30]: Jami\` al-Akhbar: 138.
-[^31]: Al-Gharat: 65/1.
-[^32]: Al-Gharat: 75/1.
-[^33]: Al-Manaqib: 106/2.
+[^1] Al-Manaqib: 1112/2.
+[^2] Al-Kafi: 268/7, H 40.
+[^3] Al-Amali: 467, H 10.
+[^4] Al-Manaqib: 114/2.
+[^5] Al-Manaqib: 115/2.
+[^6] Bihar al-Anwar, 54/41, H 1.
+[^7] Al-Manaqib: 104/2.
+[^8] Al-Mahasin: 629/2, 12, H 104.
+[^9] Hilyat al-Awliya’: 139/4.
+[^10] Sharh Nahj al-Balaghah: 65/17.
+[^11] Al-Manaqib: 98/2.
+[^12] Al-Gharat: 35/1.
+[^13] Al-Gharat: 36/1.
+[^14] Al-Gharat: 46/1.
+[^15] Ihqaq al-Haqq; 539/8.
+[^16] Kashf al-Ghummah: 173/1.
+[^17] Al-Manaqib: 97/2.
+[^18] The Path of \`Ali: 42.
+[^19] Al-Manaqib: 74/2.
+[^20] Al-Manaqib: 76/2.
+[^21] The path of \`Ali: 53.
+[^22] Kashf al-Yaqin: 86.
+[^23] Kashf al-Ghummah: 163/1.
+[^24] Al-Sirah al-Nabawiyyah: 430/2.
+[^25] Sharh Nahj al-Balaghah: 253/11.
+[^26] Sharh Nahj al-Balaghah: 201/2.
+[^27] Al-Gharat: 55/1.
+[^28] Sharh Nahj al-Balaghah: 249/1.
+[^29] Nahj al-Balaghah: 880, Maxim, 412.
+[^30] Jami\` al-Akhbar: 138.
+[^31] Al-Gharat: 65/1.
+[^32] Al-Gharat: 75/1.
+[^33] Al-Manaqib: 106/2.
 

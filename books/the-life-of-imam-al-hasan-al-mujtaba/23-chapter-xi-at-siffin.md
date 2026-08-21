@@ -43,7 +43,7 @@ which are as follows:
 Mu’awiya declared mutiny against Imam Ali’s government. He refused to
 pay homage to him and to follow what the Muslims had followed. As for
 the reasons for his rebellion, they are as follows:
-[^1]: The concept of Afro-Asiatic in the light of the Bandong
+[^1] The concept of Afro-Asiatic in the light of the Bandong
 Conference111.
 
 A. Mu’awiya knew that Imam Ali would not allow him to remain in his
@@ -90,7 +90,7 @@ D. There is another thing worthy of taking care and through which
 Mu’awiya justified his rebellion and revolt against the then government.
 This thing has been mentioned by Mu’awiya in the letter he sent to
 Muhammad bin Abi
-[^1]: ‘Abqariyat al-Imam Ali, p. 115.
+[^1] ‘Abqariyat al-Imam Ali, p. 115.
 
 Bakr: “Your father and his Faruq (Umar bin al-Khattab) were the first
 to usurp his (Ali) right and oppose his matter (the caliphate). They
@@ -134,8 +134,8 @@ Uthman was for nothing except that he used it as means for achieving his
 purpose and obtaining the power which he had dreamed of. These are some
 of the reasons that moved Mu’awiya to fight against Imam Ali.
 
-[^1]: Al-Mas‘udi ‘ala Hamish bin al-Athir, vol. 6, pp. 78-79.
-[^2]: Sharh Nahj al-Balagha, vol. 1, p. 163.
+[^1] Al-Mas‘udi ‘ala Hamish bin al-Athir, vol. 6, pp. 78-79.
+[^2] Sharh Nahj al-Balagha, vol. 1, p. 163.
 
 **Delegation of Jareer**
 
@@ -175,7 +175,7 @@ and them follow Allah’s Book. As for that which you want, it is as
 deceiving the baby to make it leave the milk. By my life, if you see
 with your own brain without any
 
-[^1]: The narrators have differed over the time when Jareer bin
+[^1] The narrators have differed over the time when Jareer bin
 Ubaydillah al-Bajali became Muslim. It was said that he became Muslim at
 the time of the Prophet’s advent. It was said that he became Muslim
 forty days before the death of the Prophet, and it was said other than
@@ -227,12 +227,12 @@ government and responding to his messenger or to declare mutiny and
 avenge Uthman. They showed him their urgent desire for avenging Uthman
 and to declare rebellion against the Imam’s government.
 
-[^1]: Al-Tulaqa’ is the plural of taleeq, who is a released prisoner of
+[^1] Al-Tulaqa’ is the plural of taleeq, who is a released prisoner of
 war. Allah’s Apostle (a.s.) released them on the day when he conquered
 Mecca and did not enslave them.
-[^2]: Nasr bin Muzahim, Waqi‘at Siffin, p. 34.
-[^3]: Imam Ali Bin Abi Talib, vol. 4, p. 27.
-[^4]: Waqi‘at Siffin, p. 33.
+[^2] Nasr bin Muzahim, Waqi‘at Siffin, p. 34.
+[^3] Imam Ali Bin Abi Talib, vol. 4, p. 27.
+[^4] Waqi‘at Siffin, p. 33.
 
 **Mu’awiya corresponds with Amr**
 
@@ -314,7 +314,7 @@ discussed with him the ways and means he had to follow during his war
 against Imam Ali. Amr bin al-Aas said to him: “As for Ali, by Allah, the
 Arabs do not regard you as equal to him in anything. In war he has a
 luck which none of Quraysh has except that you want to wrong him.”
-[^1]: Ibn Al-Athir, Tarikh, vol. 129.
+[^1] Ibn Al-Athir, Tarikh, vol. 129.
 
 Mu’awiya began explaining to him the reasons for his war and rebellion
 against the Imam, saying: “You are right! But we will fight against him
@@ -351,8 +351,8 @@ important crafty politician who played well over the rope and overcame
 the events. It was he who has said about his craftiness: “I am Abu
 Abdullah. If I itch an ulcer, I will make it bleed!”
 
-[^1]: Al-Ya‘qubi, Tarikh, vol. 2, p. 162.
-[^2]: Al-Iqd al-Farid, vol. 3, p. 113.
+[^1] Al-Ya‘qubi, Tarikh, vol. 2, p. 162.
+[^2] Al-Iqd al-Farid, vol. 3, p. 113.
 
 **Jareer is rejected**
 
@@ -395,7 +395,7 @@ lawful authority, to overthrow the Islamic government, and return the
 moralities of pre-Islamic era. When he arrived in Siffin, he stopped
 there and controlled the Euphrates.
 
-[^1]: Siffin is a place near al-Riqqa, on the western bank of the
+[^1] Siffin is a place near al-Riqqa, on the western bank of the
 Euphrates, between al-Riqqa and Balsin. There the battle between Imam
 Ali and Mu‘awiya took place at the beginning of the month of Safar, in
 the year 37. The historians have differed over the number of the
@@ -447,7 +447,7 @@ the commanders of the army. He urged them to help him and to go out with
 him to fight against the rebels. They all responded to the call of the
 truth and expressed their inclusive readiness for defending him.
 
-[^1]: Waqi‘at Siffin, p. 103.
+[^1] Waqi‘at Siffin, p. 103.
 
 **Al-Hasan’s Oration**
 
@@ -491,9 +491,9 @@ Some Iraqi leaders did not take part in the Battle of al-Jamal, nor did
 they help Imam Ali. Among them was Sulayman bin Surad al-Khuza’iy[^2] .
 After the
 
-[^1]: The poetry line belongs to al-Abbas bin Mardas al-Salami, just as
+[^1] The poetry line belongs to al-Abbas bin Mardas al-Salami, just as
 it has been mentioned (in the book) al-Khazana, vol. 2, p. 82.
-[^2]: Sulayman bin Surad al-Khuza’iy was a prominent, honorable person
+[^2] Sulayman bin Surad al-Khuza’iy was a prominent, honorable person
 among his people. He narrated traditions from the Prophet, Imam Ali, and
 Imam al-Hasan. He was among those who wrote letters to Imam al-Husayn,
 peace be on him, and asked him to come to Kufa. When Imam al-Husayn
@@ -541,7 +541,7 @@ met the sinful, Ubaydillah bin Ziyad, at a place called Ayn al-Warda. A
 battle took place between them. Sulayman and those with him were all
 killed. That was at the month of Rabee‘ al-Aakhar, in the year 65 A. H.
 He was then 93 years old.
-[^1]: Waqi‘at Siffin, pp. 9-10.
+[^1] Waqi‘at Siffin, pp. 9-10.
 
 come to know why they went out. They went out to support the truth and
 to fight against the enemies and opponents of Islam. With their quick
@@ -584,7 +584,7 @@ to Mu’awiya and say to him: ‘We have made this travel and we hate to
 start you with fighting without any warning. You have come along with
 your horses. You have started fighting against us before we start
 fighting. We think that
-[^1]: Waqi‘at Siffin, pp. 160-161.
+[^1] Waqi‘at Siffin, pp. 160-161.
 
 we have to refrain (from fighting) unless we summon you and protest
 against you. You have done another thing, to the extent that you have

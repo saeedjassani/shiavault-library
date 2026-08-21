@@ -56,7 +56,7 @@ Then Yazeed, according to a covenant from his father Mo’awiya,[^3] sent
 the criminal Muslim bin Aqaba to attack Medina. He committed horrible
 crimes against the people of Medina for three days. One thousand virgins
 from among the daughters of the Muhajireen and the Ansar were violated.
-[^4]: On that day ten thousand and seven hundred and eighty men of the
+[^4] On that day ten thousand and seven hundred and eighty men of the
 Muhajireen, the Ansar, their offspring and the rest of the Muslims had
 been killed. No one of the Muslims of Badr had remained alive after this
 event. [^5]
@@ -587,7 +587,7 @@ they will be overturned” (Qur’an 26:227).***
 Mo’awiya invited Imam Hasan (as) to peace and Imam Hasan (as) responded
 to him unwillingly because responding to the peace with Mo’awiya was the
 less one of the two evils and the easier of the two expected dangers
-[^35]: especially after Mo’awiya had accepted the conditions of Imam
+[^35] especially after Mo’awiya had accepted the conditions of Imam
 Hasan (as) and promised him before Allah that he would keep to them and
 he announced that in Iraq and Sham.
 

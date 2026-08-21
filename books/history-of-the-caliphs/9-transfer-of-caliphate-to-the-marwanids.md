@@ -1083,7 +1083,7 @@ According to Ibn A'tham, **وأحبّه الناس حُباً شديداً**[^12
 were attached to him.”
 
 Baladhuri narrated, **وأحسن المختار مجاورة أهل الكوفة والسيرة فيهم**
-[^127]: “Mukhtar was the best for the Kufiyans with his best conducts.”
+[^127] “Mukhtar was the best for the Kufiyans with his best conducts.”
 
 It definitively was concerned with the Shi'ite Muslims not those with
 whom Mukhtar was wrathful. In regard to this reason it is said, **(كان
@@ -1249,7 +1249,7 @@ did not make a sermon complimenting Mukhtar and praying for him.”
 
 Kashshi has quoted Imam al-Baqir (a) as saying, **لا تسبّوا المختار
 فانّه قتل قتلتنا وطلب ثارنا وزوّج ارامنا وقسّم فينا المال علي العسرة**
-[^144]: “Insult not Mukhtar owing to the fact that he has killed our
+[^144] “Insult not Mukhtar owing to the fact that he has killed our
 assassins, has taken revenge on them, has had our orphans marry and
 contributed us financially when in trouble.”
 

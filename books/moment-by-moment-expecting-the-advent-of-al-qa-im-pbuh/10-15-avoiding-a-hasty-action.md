@@ -32,7 +32,7 @@ He (PBUH) said, "O Mihzam! Verily those who appoint time are liars,
 those who hasten (al-Musta'jilun) shall perish, and those who are
 submissive (to Allah's orders and decrees) shall be saved."[^2]
 
-[^1] al-Ghaiba, al-Nu'mani, p. 198, Hadith 9, Ta'wil al-Ayat al-Dhahira,
+[^1]: al-Ghaiba, al-Nu'mani, p. 198, Hadith 9, Ta'wil al-Ayat al-Dhahira,
 p. 256 from al-Mufid; Bihar al-Anwar, vol. 52, p. 139, Hadith 46.
 
 [^2]al-Ghaiba, al-Tusi, p. 426, Bihar al-Anwar, vol. 52, p. 103, Hadith

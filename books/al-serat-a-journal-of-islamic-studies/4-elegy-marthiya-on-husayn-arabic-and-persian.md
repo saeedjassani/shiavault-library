@@ -503,16 +503,16 @@ The word, once wide, seemed as of it had become narrow:
 
 O Husayn, O Husayn![^17]
 
-[^1]: bi-'l-rahm: also, 'as one related to you'.
-[^2]: Muhammad Jawad Maghniya, Adab al-Taff aw Shu'ara' al-Husayn
+[^1] bi-'l-rahm: also, 'as one related to you'.
+[^2] Muhammad Jawad Maghniya, Adab al-Taff aw Shu'ara' al-Husayn
 (Beirut, 1388/1969), I, 61.
-[^3]: Hibat al-Din al-Husayni al-Shahristani, Nahdat al-Husayn (Karbala,
+[^3] Hibat al-Din al-Husayni al-Shahristani, Nahdat al-Husayn (Karbala,
 1388/1969), p. 154.
-[^4]: Ibid., pp. 159-160.
-[^5]: The K. al-Ta'azi wa al-Marathi of Muhammad h. Yazid al-Mubarrad (d.
+[^4] Ibid., pp. 159-160.
+[^5] The K. al-Ta'azi wa al-Marathi of Muhammad h. Yazid al-Mubarrad (d.
 282) explains the meaning of ta'ziya and gives examples (ed. Muhammad
 al-Dibaji [Damascus, 1396/1976], pp. 4ff).
-[^6]: Waddah Sharara, Transformations d'une manifestation religieuse dans
+[^6] Waddah Sharara, Transformations d'une manifestation religieuse dans
 un village du Liban-Sud (Beirut, 1968), pp. 43ff, As to the Arab Ashura
 representation or ta'ziya, it seems that it has until now received too
 little attention. It may be that the actual dramatic form owes much to
@@ -525,25 +525,25 @@ form. However, since the commemorative session itself began, of course,
 as an Arabic tradition, it would seem worthwhile to examine Arabic
 language ta'ziya separately for Arabic antecedents to the Persian.
 
-[^7]: Adab al-Taff, I, 214.
-[^8]: Dhabih Allah Safa, Tarikh-i Adabiyat dar Iran (Tehran, 2536), II,
+[^7] Adab al-Taff, I, 214.
+[^8] Dhabih Allah Safa, Tarikh-i Adabiyat dar Iran (Tehran, 2536), II,
 195.
-[^9]: Adab al-Taff, I, 217.
-[^10]: Hadiqat al-Haqiqa ed. Mudarrisi Razavi (Tehran, 1950), pp. 270
+[^9] Adab al-Taff, I, 217.
+[^10] Hadiqat al-Haqiqa ed. Mudarrisi Razavi (Tehran, 1950), pp. 270
 271.
-[^11]: Adab al-Taff, II, 206-208.
-[^12]: The cypress in Persian poetry is thought of metaphorically as a
+[^11] Adab al-Taff, II, 206-208.
+[^12] The cypress in Persian poetry is thought of metaphorically as a
 possessor of fair stature. Here the tall-standing and erect cypress is
 brought down below the ground, and is also in contrast to the sky, bent
 over in sorrow (the sky is thought of as an arc or dome).
-[^13]: Or: 'the spear of the son of mans, apparently implying the guilt
+[^13] Or: 'the spear of the son of mans, apparently implying the guilt
 of all humankind. Sinan b. Anos al-Nakhi, according to some accounts,
 was the murderer of Husayn.
-[^14]: Divan-i Muhtasham, ed. M. Gurgani (Tehran, 1344/ 1965), pp.
+[^14] Divan-i Muhtasham, ed. M. Gurgani (Tehran, 1344/ 1965), pp.
 299-300.
-[^15]: Divan-i Ansari, ed. A. Usuli (Qum, 1342/1963), pp. 343-344.
-[^16]: Al-Durr al-Nadid fi Marathi al-Sibt al-Shahid (Karbala', n.d.),
+[^15] Divan-i Ansari, ed. A. Usuli (Qum, 1342/1963), pp. 343-344.
+[^16] Al-Durr al-Nadid fi Marathi al-Sibt al-Shahid (Karbala', n.d.),
 pp. 339-340.
-[^17]: Anataly Kova;enko, Le Martyre de Husayn dans la poesie populaire
+[^17] Anataly Kova;enko, Le Martyre de Husayn dans la poesie populaire
 d'Iraq (Geneve, 1979), pp. 220-222
 

@@ -106,7 +106,7 @@ Uthman in al-Hijaz just as I had overburdened Mu’awiya in Sham. Uthman
 hated to let me neighbor his brother and his cousin in the two
 districts.[^1] He is afraid that I might move the
 
-[^1]: The two cities were Basrah and Egypt. Abdullah bin ‘Amir, Uthman’s
+[^1] The two cities were Basrah and Egypt. Abdullah bin ‘Amir, Uthman’s
 cousin, was the governor over Basrah. Abdullah bin Sa‘d bin Abi Sarh,
 Uthman’s uncle, was the governor over Egypt.
 
@@ -186,9 +186,9 @@ what you had said.” Allah, the Most High, has revealed this verse in
 respect of him: He who disbelieves in Allah after his having believed,
 not he who is compelled
 
-[^1]: Kanz al-‘Ummal, vol. 6, p. 85. Majjma‘ al-Zawa’id, vol. 9, p.
+[^1] Kanz al-‘Ummal, vol. 6, p. 85. Majjma‘ al-Zawa’id, vol. 9, p.
 293.
-[^2]: Ahmed, Musnad, vol. 1, p. 62.
+[^2] Ahmed, Musnad, vol. 1, p. 62.
 
 while his heart is at rest on account of faith.[^1]
 
@@ -222,28 +222,28 @@ The Prophet went on taking care of Ammar and respecting him, for he
 knew that Ammar was loyal, and had renounced the world, and loved the
 truth.
 
-[^1]: Qur’an, 16, 106. The reason for revealing this verse in respect of
+[^1] Qur’an, 16, 106. The reason for revealing this verse in respect of
 ‘Ammar has been mentioned by Ibn Sa‘d in his Tabaqat, vol. 3, p. 178,
 al-Wahidi in his Asbab al-Nuzool, p. 212, al-Tabari in his Tafseer, vol.
 14, p. 122, and the like.
 
-[^2]: Qur’an, 39, 9. The reason for revealing this verse in respect of
+[^2] Qur’an, 39, 9. The reason for revealing this verse in respect of
 ‘Ammar has been mentioned by al-Qurtubi in his Tafseer, vol. 1, p. 239,
 and Ibn Sa‘d in his Tabaqat, vol. 3, p. 178.
 
-[^3]: Qur’an, 6, 122. The reason for revealing this verse in respect of
+[^3] Qur’an, 6, 122. The reason for revealing this verse in respect of
 ‘Ammar has been mentioned by al-Sayuti in his Tafseer, vol. 3, p. 43,
 and Ibn Kuthayr in his Tafseer, vol. 2, p. 172.
 
-[^4]: Qur’an, 28, 61. The reason for revealing this verse in respect of
+[^4] Qur’an, 28, 61. The reason for revealing this verse in respect of
 ‘Ammar and al-Waleed has been mentioned by al-Zamakhshari in his
 Tafseer, vol. 2, p. 386, and al-Wahidi, Asbab al-Nizool, p. 255.
 
-[^5]: Ahmed, Musnad, vol. 4, p. 89.
+[^5] Ahmed, Musnad, vol. 4, p. 89.
 
-[^6]: Ibn Hisham, vol. 2, p. 114.
+[^6] Ibn Hisham, vol. 2, p. 114.
 
-[^7]: Ibn Maja, Sunan, vol. 1, p.66. Masabih al-Sunna, vol. 2, p. 288.
+[^7] Ibn Maja, Sunan, vol. 1, p.66. Masabih al-Sunna, vol. 2, p. 288.
 
 Ammar fought along with the Prophet at all the Battles such as Badr and
 Uhud. He took part in building the Prophetic Mosque. Each Muslim carried
@@ -288,8 +288,8 @@ that of the Sunna, that they would battle against him if he did not
 repent and change his plan. It was Ammar who handed him the letter.
 Uthman took the letter. When
 
-[^1]: al-Mattkaa’ is a big-bellied women who cannot control her urine.
-[^2]: Al-Ansab, vol. 5, p. 48.
+[^1] al-Mattkaa’ is a big-bellied women who cannot control her urine.
+[^2] Al-Ansab, vol. 5, p. 48.
 
 he read the first lines, he burst with anger and said:
 
@@ -328,8 +328,8 @@ supporting the Prophet in all the battles and situations. He paid no
 attention to that the Prophet took care of his affairs and preferred him
 to
 
-[^1]: Al-Ansab, vol. 5, p. 49. Al-Iqd al-Farid, vol. 2, p. 272.
-[^2]: Al-Ansab, vol. 5, p. 54. Al-Ya‘qubi, Tarikh, vol. 2, p. 150.
+[^1] Al-Ansab, vol. 5, p. 49. Al-Iqd al-Farid, vol. 2, p. 272.
+[^2] Al-Ansab, vol. 5, p. 54. Al-Ya‘qubi, Tarikh, vol. 2, p. 150.
 
 others. He was hostile to Ammar and harbored malice against him, for he
 (Ammar) asked him to follow justice, the clear truth, and to be moderate
@@ -376,7 +376,7 @@ Sunna!” Talha, al-Zubayr, Abdurrahman bin Awf, and other than them, from
 among those, upon whom Uthman lavishly spent, harbored malice against
 him. Uthman had no friend
 
-[^1]: Al-Fitnatu al-Kubra, vol. 2, pp. 193-194.
+[^1] Al-Fitnatu al-Kubra, vol. 2, pp. 193-194.
 
 and none to defend him except the Umayyads and Abu Ma’eet’s family. All
 the Muslims harbored malice against Uthman, so how was al-Hasan, who
@@ -418,9 +418,9 @@ similar to him in his noble moral traits, and noble natures?
 said, and that was according to an order from his father; therefore, how
 did he accuse him of killing Uthman?
 
-[^1]: Al-Baqillani, al-Tamhid, p. 220.
-[^2]: Al-Ansab, vol. 5, p. 81.
-[^3]: Al-Tabari, Tarikh, vol. 4, p. 240.
+[^1] Al-Baqillani, al-Tamhid, p. 220.
+[^2] Al-Ansab, vol. 5, p. 81.
+[^3] Al-Tabari, Tarikh, vol. 4, p. 240.
 
 3. Most surely there was no relationship between Imam Ali and the
 murder of Uthman and the plot against him. Rather, Uthman’s deeds killed
@@ -466,7 +466,7 @@ This letter has mentioned the dangerous events with which the Islamic
 world was afflicted because of the then government. They are as
 follows:
 
-[^1]: Al-Imama wa al-Siyasa, vol. 1, p. 35.
+[^1] Al-Imama wa al-Siyasa, vol. 1, p. 35.
 
 1. The Book of Allah was altered and its just laws were cancelled.
 2. The Sunna of the Prophet (a.s) was changed and what was reported
@@ -555,7 +555,7 @@ said.
 -Do you guarantee that on his behalf?
 -Yes.
 -We are satisfied.
-[^1]: Al-Ansab, vol. 5, p. 64-65. Al-Tabari, Tarikh, vol. 5, pp.
+[^1] Al-Ansab, vol. 5, p. 64-65. Al-Tabari, Tarikh, vol. 5, pp.
 111-112.
 
 The leading personalities of the people went with Imam Ali. They came
@@ -641,8 +641,8 @@ from helping him.”
 Anyway, Uthman wrote many letters to the cities and to those who
 attended the season of the hajj in Mecca. He asked them to help him.
 
-[^1]: Al-Tabari, Tarikh, vol. 5, p. 110. Al-Ansab, vol. 5, p. 74.
-[^2]: Al-Ya‘qubi, Tarikh, vol. 2, p. 152. Ibn al-Athir, al-Kamil, vol. 5,
+[^1] Al-Tabari, Tarikh, vol. 5, p. 110. Al-Ansab, vol. 5, p. 74.
+[^2] Al-Ya‘qubi, Tarikh, vol. 2, p. 152. Ibn al-Athir, al-Kamil, vol. 5,
 p. 67.
 
 **The Day of the House**
@@ -733,8 +733,8 @@ killed him, and he weltered in his blood. They left him as a motionless
 body.[^2] They did not bury him nor did they allow anybody to bury him.
 Some of his special associates talked with
 
-[^1]: Al-Ghadir, vol. 9, pp. 218-247.
-[^2]: Uthman was killed on Friday, Thil Hijja 18th, in the year 36 A. H.
+[^1] Al-Ghadir, vol. 9, pp. 218-247.
+[^2] Uthman was killed on Friday, Thil Hijja 18th, in the year 36 A. H.
 His caliphate lasted for twelve years but twelve days. He was eighty-
 two years old.
 
@@ -780,6 +780,6 @@ sake of their own interests. We hope that these researches, which we
 have exactly and honestly planned, have explained to us the events that
 took place during those times.
 
-[^1]: Hish Kawkab was a name of a garden where the Jews buried their
+[^1] Hish Kawkab was a name of a garden where the Jews buried their
 dead.
 

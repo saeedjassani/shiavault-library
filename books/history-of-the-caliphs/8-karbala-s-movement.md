@@ -1818,7 +1818,7 @@ which.[^189]
 Referring to the fact that Mu'awiya is the founder of “fatalism”, Qaďi
 'Abd al-Jabbar has quoted Mu'awiya making as remarkable remarks[^190] as
 follows, **ان أمر يزيد قضاء من القضاء وليس للقضاء الخيرة من أمرهم**
-[^191]: “This matter concerning Yazid is a destiny from among Divine
+[^191] “This matter concerning Yazid is a destiny from among Divine
 destinies and no one has any volition in this regard.”
 
 'Ubayd Allah Ibn Ziyad asked Iman as-Sajjad (a), **أو لم يقتل الله

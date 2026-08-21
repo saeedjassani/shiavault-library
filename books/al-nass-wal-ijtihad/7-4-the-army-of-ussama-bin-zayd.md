@@ -19,7 +19,7 @@ On the twenty-eighth of Safar, the Prophet (s) began to feel ill. He
 got fever and headache. In the morning of the twenty-ninth he found that
 his companions (the army) were sluggish. He went to them and
 
-[^1]: The historians agreed upon that Abu Bakr and Umar were in this army
+[^1] The historians agreed upon that Abu Bakr and Umar were in this army
 and they proved that as an irrefutable fact. Refer to at-Tabaqat by ibn
 Sa’d, At-Tabari’s Tareekh, Ibnul Atheer’s Tareekh, as-Seera
 ad-Dahlaniyya and others. Al-Halabi mentioned in his Seera, vol.3: “When
@@ -35,11 +35,11 @@ in which Abu Bakr and Umar were.” Al-Mahdi said: “Come on! May Allah
 bless you”. Al-Halabi mentioned that Ussama was seventeen years old
 then.
 
-[^2]: Umar often said to Ussama: “The Prophet (s) died and you were the
+[^2] Umar often said to Ussama: “The Prophet (s) died and you were the
 emir over me”. Some historians mentioned this like al-Halabi in his
 Seera when talking about the army of Ussama.
 
-[^3]: It is a village in Syria between Asqalan and ar-Ramla near Mu’ta,
+[^3] It is a village in Syria between Asqalan and ar-Ramla near Mu’ta,
 where Ja’far bin Abu Talib, Zayd bin Haritha and Abdullah bin Rawaha
 have been martyred.
 
@@ -83,7 +83,7 @@ Ussama came from his camp to the Prophet (s). The Prophet (s) ordered
 him by saying: “Move in the morning with the blessing of Allah”. Ussama
 farewelled the Prophet
 
-[^1]: Refer to Ibn Sa’d’s Tabaqat, al-Halabi’s Seera, ad-Dahlani’s Seera
+[^1] Refer to Ibn Sa’d’s Tabaqat, al-Halabi’s Seera, ad-Dahlani’s Seera
 and all the books that talked about the army of Ussama.
 
 (110)
@@ -120,14 +120,14 @@ preferring their benefits to obeying the clear orders of the Prophet
 (s). They thought that their doing would be better to be carried out and
 worthier to be cared for because the army would not stop if they
 
-[^1]: Al-Halabi in his Seera, ad-Dahlani in his Seera, ibn Jareer
+[^1] Al-Halabi in his Seera, ad-Dahlani in his Seera, ibn Jareer
 at-Tabari in his Tareekh, the events of the eleventh year of hijra and
 other historians.
-[^2]: He attacked the people of Ubna, burnt their houses, cut their
+[^2] He attacked the people of Ubna, burnt their houses, cut their
 palm-trees, made the horses tread on their properties, killed many of
 them and captured the rest. On that day he killed his father’s killer.
 No one of the Muslims was killed on that day.
-[^3]: Ash-Shahristani in his book al-Milal wen-Nihal, the fourth
+[^3] Ash-Shahristani in his book al-Milal wen-Nihal, the fourth
 introduction.
 (111)
 
@@ -155,10 +155,10 @@ at the head of them were Abu Bakr and Umar.[^2]
 These were five things in the matter of the army of Ussama, which they
 (the companions) had not obeyed whereas they (these things)
 
-[^1]: This was the most certain saying. It was also said that he was 18,
+[^1] This was the most certain saying. It was also said that he was 18,
 19 or 20 years old but no one had said more than that.
 
-[^2]: He was not in the army of ibn Zayd (Ussama)
+[^2] He was not in the army of ibn Zayd (Ussama)
 to be led by ibn Zayd
 nor was he afraid on the day of the cave
 nor hid himself on the day of al-Fareesh
@@ -251,7 +251,7 @@ We said when replying to the sheikh: “You have-may Allah keep you
 safe-acknowledged that those companions have been sluggish in al-Jurf
 and then they have not joined the army when moving to fight
 
-[^1]: Mursal is a tradition narrated without a series of narrators or the
+[^1] Mursal is a tradition narrated without a series of narrators or the
 narrators are unknown or unreliable. Musnad is a tradition narrated by
 truthful and reliable narrators.
 
@@ -371,7 +371,7 @@ Umar and most of the Muhajireen and from the Ansar there were Usayd bin
 Khudhayr, Basheer bin Sa’d and many other notable personalities. Then
 the messenger of Umm Aymen[^1] came saying to Ussama: “Come back to
 
-[^1]: She was the Prophet’s nursemaid.
+[^1] She was the Prophet’s nursemaid.
 
 (117)
 
@@ -408,7 +408,7 @@ Thus was the conduct of the Prophet (s) towards those, whose hearts had
 been reconciled to Islam, since this verse had been revealed to him
 until he left to the better world. He had never ordered anyone to
 
-[^1]: A type of religious levy, equivalent to one fifth of taxable
+[^1] A type of religious levy, equivalent to one fifth of taxable
 income.
 
 (118)
@@ -490,11 +490,11 @@ assigned for them certain allowances as some countries do nowadays when
 assigning some expenses from their budgets for the political
 propaganda.”[^3] He added: “But when
 
-[^1]: He is Sheikh Muhammad Ma’roof, the professor in jurisprudence and
+[^1] He is Sheikh Muhammad Ma’roof, the professor in jurisprudence and
 Roman laws in the College of Laws-Syrian University.
-[^2]: Where he has mentioned examples about changing the verdicts
+[^2] Where he has mentioned examples about changing the verdicts
 according to the changes of the ages in p.239.
-[^3]: They (the countries) might have learnt this from the Qur’anic verse
+[^3] They (the countries) might have learnt this from the Qur’anic verse
 talking about those, whose hearts have been reconciled to Islam.
 England, U.S.A. and their likes supply the poor and needy people of the
 weak countries with food and clothes and reformative projects although
@@ -531,7 +531,7 @@ according to temporary circumstances of a certain time, when it was to
 reconcile their hearts to Islam when Islam was still weak and not in
 other times?
 
-[^1]: There was no cause here, on which the verdict relied, that
+[^1] There was no cause here, on which the verdict relied, that
 following it would be required by the text (verse). Reconciling those
 people, whom Allah had assigned this share from the charities for, was
 not a cause for this legal verdict but it was from among the maxims and
@@ -545,7 +545,7 @@ lineages of the fetuses that may be in their mothers’ wombs? In spite of
 that the iddat of a woman is obligatory even if it becomes certain that
 she is not pregnant!
 
-[^2]: The revelation of the Qur'an at the beginning of Islam and when
+[^2] The revelation of the Qur'an at the beginning of Islam and when
 Islam was still weak was not limited to any restrictions.
 
 (121)
@@ -624,10 +624,10 @@ by the Holy Qur'an, we could have said that the two caliphs (Abu Bakr
 and Umar) had not contradicted the Qur'anic verse even if they had not
 given those people their shares then
 
-[^1]: The details of this matter are available in the books of the Shia
+[^1] The details of this matter are available in the books of the Shia
 jurisprudence, which are widespread everywhere.
-[^2]: Ad-Dawaleebi in his book Usool al-Fiqh, p.294.
-[^3]: Usool al-Fiqh by ad-Dawaleebi, p.206.
+[^2] Ad-Dawaleebi in his book Usool al-Fiqh, p.294.
+[^3] Usool al-Fiqh by ad-Dawaleebi, p.206.
 
 (123)
 
@@ -657,7 +657,7 @@ are available everywhere. Let the professor refer to them and quote from
 them directly instead of quoting from the books of Ahmad bin Hanbal (may
 Allah forgive him).
 
-[^1]: p.207, 209 in his book Usool al-Fiqh.
+[^1] p.207, 209 in his book Usool al-Fiqh.
 
 (124)
 
@@ -685,7 +685,7 @@ Fatima (s) sent a messenger to Abu Bakr asking him for her inheritance
 of what her father (s) had left in Medina and Fadak and what had
 remained of the khums of Khaybar but Abu Bakr refused to
 
-[^1]: The two sheikhs al-Bukhari and Muslim mentioned in their Sahihs
+[^1] The two sheikhs al-Bukhari and Muslim mentioned in their Sahihs
 (books of Hadith) a tradition narrated by ibn Abbas that the Prophet (s)
 had said to the delegation of Abdul Qayss when ordering them to believe
 in Allah, the One and the Only: “Do you know what believing in Allah
@@ -693,11 +693,11 @@ alone is?” They said: “Allah and His messenger are more aware”. He said:
 “Witnessing that there is no god but Allah and Muhammad is the messenger
 of Allah, offering the prayers, paying the zakat, fasting in Ramadan and
 giving the fifth of one’s income”.
-[^2]: The meaning of this conditional phrase is that the khums (fifth) is
+[^2] The meaning of this conditional phrase is that the khums (fifth) is
 a legal right that must be paid to the ones mentioned in the verse. The
 verse said: Do not be greedy for this right and pay it to its deserving
 ones if you have believed in Allah.
-[^3]: Refer to al-Kashshaf when talking about the verse of the khums. The
+[^3] Refer to al-Kashshaf when talking about the verse of the khums. The
 author mentioned a tradition narrated by ibn Abbas: “The khums is six
 shares; two shares for Allah and His messenger and a share for the
 messenger’s relatives…but Abu Bakr made it three shares”. He mentioned
@@ -742,9 +742,9 @@ poor and the wayfarers of the rest of the Muslims where there was no
 difference, according to their opinion, between the Hashemites and the
 other Muslims.
 
-[^1]: Al-Bukhari’s Sahih, vol.3 p.36, Muslim’s Sahih vol.2 p.72 and
+[^1] Al-Bukhari’s Sahih, vol.3 p.36, Muslim’s Sahih vol.2 p.72 and
 mentioned in other places of their Sahihs.
-[^2]: Vol.2 p.105.
+[^2] Vol.2 p.105.
 
 (126)
 
@@ -783,7 +783,7 @@ lexicons have shown this meaning clearly and the point of discussion
 here is the ijtihad to omit the share of the relatives (of the Prophet)
 although the verse has confirmed it so clearly.
 
-[^1]: Al-Jihad wes-Siyyer, vol.2 p.105.
+[^1] Al-Jihad wes-Siyyer, vol.2 p.105.
 
 (127)
 
@@ -906,11 +906,11 @@ She lived after the Prophet (s) for six months and when she died, her
 husband Ali buried her in the night according to her own will[^2] …and
 Abu Bakr did not attend the funerals…”[^3]
 
-[^1]: This tradition has been refuted by Fatima (s) and the infallible
+[^1] This tradition has been refuted by Fatima (s) and the infallible
 imams. Refer to al-Bukhari’s Sahih, chap. The battle of Khaybar.
-[^2]: Sharh Sahih al-Bukhari, vol.8 p.157, al-Qastalani’s Irshad,
+[^2] Sharh Sahih al-Bukhari, vol.8 p.157, al-Qastalani’s Irshad,
 al-Ansari’s Tuhfa.
-[^3]: Al-Bukhari’s Sahih, vol.3 p.37, Muslim’s Sahih, vol.2 p.72, Ahmad’s
+[^3] Al-Bukhari’s Sahih, vol.3 p.37, Muslim’s Sahih, vol.2 p.72, Ahmad’s
 Musnad, vol.1 p.6.
 (130)
 
@@ -933,8 +933,8 @@ gone too far with its tendencies without caring for anything.
 He, who reads her speech on that day,[^2] will find what there was
 between her and those people[^3] (the caliph Abu Bakr and his
 
-[^1]: Al-Mustafa is one of the Prophet’s surnames; Fatima’s father.
-[^2]: The progeny of Ali and Fatima narrated the speech of Fatima, which
+[^1] Al-Mustafa is one of the Prophet’s surnames; Fatima’s father.
+[^2] The progeny of Ali and Fatima narrated the speech of Fatima, which
 she had speechified on that day, one after the other until it reached
 us. We, the Fatimites, narrate this speech from our fathers and our
 fathers narrate it from their fathers and so on for all generations
@@ -948,7 +948,7 @@ to Sharh Nahjol Balagha, vol. 4 p.78, 93, 94. Zayd bin Ali bin al-Husayn
 bin Ali bin Abu Talib said: “I have heard the notables of the Talibites
 narrating this speech from their fathers and teaching it to their
 children”.
-[^3]: She said to Abu Bakr when he deprived her of her right
+[^3] She said to Abu Bakr when he deprived her of her right
 (inheritance): “O Abu Bakr, if you die, who will inherit you?” He said:
 “My children and family”. She said: “Then why have you inherited the
 messenger of Allah instead of his children and family?” He said: “O
@@ -1037,7 +1037,7 @@ this general verse “Allah enjoins you concerning your children: The male
 shall have the equal of the portion of two females… Qur'an, 11:11” She
 denied his limiting the
 
-[^1]: They had not opposed her on that day with this excuse but they had
+[^1] They had not opposed her on that day with this excuse but they had
 just confiscated her inheritance. Abu Bakr said to her: “O daughter of
 the messenger of Allah, I swear that Allah has not created anyone more
 beloved to me than your father. I wished the sky fell over the ground on

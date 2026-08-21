@@ -260,7 +260,7 @@ identical to those of Jews and Christians about 'Aziz and Jesus Christ
 were expressed about Ahl al-Bayt.
 
 Iman as-Sajjad (a) stated, **احبّونا حب الاسلام ولاترفعونا فوق حدنا**
-[^24]: “Love us as well as you do Islam and keep us as high as we are.”
+[^24] “Love us as well as you do Islam and keep us as high as we are.”
 Somewhere else he told,
 
 > إنَّ قوماً من شيعتنا سيحبونا حتى يقولوا فينا ما قالت اليهود في عزير
@@ -1403,7 +1403,7 @@ done even sooner. This time in contrast it was not the matter of
 treachery since they were all besieged in mosque not being able to join
 him. Being severely in need of help in that predicament, Zayd could not
 justify their absence and said, **لا والله ، ما هذا لمن بايعنا بعذر**
-[^177]: “This is not a justification for those paying allegiance to us.”
+[^177] “This is not a justification for those paying allegiance to us.”
 
 From the very beginning steps of their riot, Zayd had repeatedly
 reminded Nasr Ibn Khuzayma, one of his devotees, of what had happened to
@@ -1969,7 +1969,7 @@ Among the faithful, there are men who abide by their pledge to God”
 
 and equated him with individuals such as 'Ali (a) and Imam Husayn (a)
 and ended his speech by saying, **ويل لقاتلهم من جبّار الارض والسماء**
-[^247]: “Woe unto their murderers from revenge of Almighty God.”
+[^247] “Woe unto their murderers from revenge of Almighty God.”
 
 Abul-Jarud also in the Sunnites books had said that he was a confederate
 of Qur'an.[^248] In the scholastic books, he was said to be not
@@ -2108,7 +2108,7 @@ anxiety. Imam asked him the reason.He replied, **إن ظفر زيد وأصحاب
 أحد اسوأ حالاً عندهم منا وإن ظفر بني امية، فنحن عندهم بتلك المنـزلة،
 قال: فقال لي: ليس عليك بأس من أولي ومن أولي** Our condition would be
 worst of all no matter whether Zayd oercomes the Umayyads or otherwise.
-[^263]: “
+[^263] “
 
 Imam said, “Do not worry, neither of them can harm you.” This
 conversation reveals the fact that the Twelve-Imam Shi'ite Muslims, on

@@ -187,7 +187,7 @@ However, the Arabic word/tabaraka/ is derived either from /baraka/ with
 the sense of 'fix' and 'ever lasting', or from /barakat/ which means
 'abundant goodness'
 
-[^1] Nahj-ul-Balaqah, sermon 192
+[^1]: Nahj-ul-Balaqah, sermon 192
 
 **Commentary : Verse 11**
 

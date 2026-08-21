@@ -65,7 +65,7 @@ one said the same and the Prophet (s) paid no attention to
 
 --------------------------------------------------------------------------------
 
-[^1]: We have mentioned this tradition in our book al-Muraja’at with its
+[^1] We have mentioned this tradition in our book al-Muraja’at with its
 series of narrators and sources from the books of the Sunni. Refer to
 Muraja’a no. 20 and 22. Let you ponder on the Prophet’s saying to his
 close relative, among whom were his uncles like Abu Talib and others
@@ -74,7 +74,7 @@ Imam Ali (s) since those first days was to the Prophet (s) as Aaron was
 to Moses except that there would be no prophet after Prophet Muhammad
 (s).
 
-[^2]: You find this text in a true tradition having more than ten aspects
+[^2] You find this text in a true tradition having more than ten aspects
 of Ali’s each of which nominating him to the imamate. Refer to our book
 al-Muraja’at, muraja’a no.26-34.
 
@@ -117,8 +117,8 @@ they disagree on after me.”[^2]
 
 --------------------------------------------------------------------------------
 
-[^1]: Refer to al-Muraja’at, muraja’a no.36.
-[^2]: Al-Muraja’at, muraja’a no.68.
+[^1] Refer to al-Muraja’at, muraja’a no.36.
+[^2] Al-Muraja’at, muraja’a no.68.
 
 (414)
 
@@ -150,14 +150,14 @@ He had also said: “Ali is with the Qur'an and the Qur'an is with Ali;
 
 --------------------------------------------------------------------------------
 
-[^1]: Kanzol Ummal, vol. 6 p.157.
-[^2]: Al-Muraja’at, muraja’a no.32.
-[^3]: As-Sawa’iq al-Muhriqa by ibn Hajar, p. 106, chap. 11 when talking
+[^1] Kanzol Ummal, vol. 6 p.157.
+[^2] Al-Muraja’at, muraja’a no.32.
+[^3] As-Sawa’iq al-Muhriqa by ibn Hajar, p. 106, chap. 11 when talking
 about the verse 14 mentioned in this chapter.
-[^4]: Kanzol Ummal, vol. 6 p.153, al-Muraja’at, p.167, 172 third
+[^4] Kanzol Ummal, vol. 6 p.153, al-Muraja’at, p.167, 172 third
 edition.
-[^5]: Kanzol Ummal, vol. 6 p.157.
-[^6]: As-Sawa’iq al-Muhriqa by ibn Hajar, p.75 part 2 chap.9 narrated by
+[^5] Kanzol Ummal, vol. 6 p.157.
+[^6] As-Sawa’iq al-Muhriqa by ibn Hajar, p.75 part 2 chap.9 narrated by
 al-Bara’ and ad-Daylami from ibn Abbas.
 
 (415)
@@ -187,10 +187,10 @@ meaning of the traditions that comes to mind
 
 --------------------------------------------------------------------------------
 
-[^1]: Mustadrak of al-Hakim, vol.3 p.124, Talkhees al-Mustadrak by
+[^1] Mustadrak of al-Hakim, vol.3 p.124, Talkhees al-Mustadrak by
 ath-Thahabi.
 
-[^2]: Mentioned by at-Tabarani from ibn Abbas as in al-Jami’ as-Sagheer
+[^2] Mentioned by at-Tabarani from ibn Abbas as in al-Jami’ as-Sagheer
 by as-Sayooti, p.107 and al-Hakim in his Mustadrak, vol.3 p.126-127 in
 two ways; from ibn Abbas and Jabir bin Abdullah al-Ansari. Al-Hakim has
 proved the tradition to be true with many exact evidences. Ahmad bin
@@ -207,15 +207,15 @@ as Salahuddeen al-Ala’iy has declared by saying: “They have no evidence
 in denying this tradition save pretending that it is a fabricated
 tradition.”
 
-[^3]: Mentioned by at-Tarmithi and ibn Jareer in their Sahihs and quoted
+[^3] Mentioned by at-Tarmithi and ibn Jareer in their Sahihs and quoted
 from them by some scholars like al-Muttaqi al-Hindi in Kanzol Ummal,
 vol. 6 p.401.
 
-[^4]: Mustadrak of al-Hakim, vol.3 p.122. Al-Hakim said that it had been
+[^4] Mustadrak of al-Hakim, vol.3 p.122. Al-Hakim said that it had been
 a true tradition according to the conditions of al-Bukhari and Muslim
 but they had not mentioned it.
 
-[^5]: Ibid. vol.3 p.121, Talkhees al-Mustadrak by ath-Thahabi in the same
+[^5] Ibid. vol.3 p.121, Talkhees al-Mustadrak by ath-Thahabi in the same
 page. They said it was true according to al-Bukhari and Muslim.
 
 (416)
@@ -300,10 +300,10 @@ As for that Allah has not revealed a clear verse in the Qur'an about
 
 --------------------------------------------------------------------------------
 
-[^1]: Refer to muraja’a no.84 p.262-265 third edition and chap.8 in
+[^1] Refer to muraja’a no.84 p.262-265 third edition and chap.8 in
 al-Fusool al-Muhimma, p.81-85 second edition.
 
-[^2]: Muraja’a no.82 and 84.
+[^2] Muraja’a no.82 and 84.
 
 (418)
 
@@ -343,9 +343,9 @@ umma of remaining on guidance if it would keep to
 
 --------------------------------------------------------------------------------
 
-[^1]: From p.17 to the end of the thesis.
-[^2]: As-Sawa’iq al-Muhriqa, chap.2 p.75.
-[^3]: As in al-Halabi’s Seera and ad-Dahlani’s Seera.
+[^1] From p.17 to the end of the thesis.
+[^2] As-Sawa’iq al-Muhriqa, chap.2 p.75.
+[^3] As in al-Halabi’s Seera and ad-Dahlani’s Seera.
 
 (419)
 
@@ -371,7 +371,7 @@ the people would face problems after the death of the Prophet
 
 --------------------------------------------------------------------------------
 
-[^1]: Ibn Hajar said in as-Sawa’iq al-Muhriqa: “Know that this tradition
+[^1] Ibn Hajar said in as-Sawa’iq al-Muhriqa: “Know that this tradition
 has been narrated by more than twenty companions. In some ways of this
 tradition it has been said that the Prophet (s) had said it in his last
 (farewell) hajj and in another occasion he had said it in Medina during
@@ -392,7 +392,7 @@ recurrent tradition because those, who had heard it and narrated it from
 the Prophet (s), were about ninety thousands at least in each of those
 two occasions.
 
-[^2]: Mentioned by Ahmad bin Hanbal in his Musnad, vol.4 p.164 from
+[^2] Mentioned by Ahmad bin Hanbal in his Musnad, vol.4 p.164 from
 Habashi bin Junada in many ways all of which were true. Ahmad has
 mentioned the tradition from Yahya bin Adam from Israel bin Younus from
 his grandfather as-Subay’iy from Habashi and all these narrators were
@@ -435,7 +435,7 @@ unbelieving people)[^2] 5:67.
 
 --------------------------------------------------------------------------------
 
-[^1]: This is the meaning of carrying out the affairs of the Prophet (s)
+[^1] This is the meaning of carrying out the affairs of the Prophet (s)
 that Imam Ali (s) was the only one who had been permitted to do. The
 jurisprudents carry out the principles and branches of the religion as
 Allah and His messenger have legislated, the people of Hadith carry out
@@ -444,7 +444,7 @@ knowledge of the Prophet (s) but no one has a right to legislate legal
 verdicts after Allah and His messenger. He, who ascribes fabricated lies
 to Allah or His messenger, will be in Hell.
 
-[^2]: The Shia have no doubt that this verse have been revealed about the
+[^2] The Shia have no doubt that this verse have been revealed about the
 guardianship of Imam Ali (s) on the day of Ghadeer Khum. The true
 traditions narrated from our infallible imams (s) are many and
 recurrent. As for the traditions narrated by the
@@ -537,12 +537,12 @@ respond. I am responsible and you are responsible,[^2] then what do
 
 --------------------------------------------------------------------------------
 
-[^1]: He told them that he was about to die to warn them that it was time
+[^1] He told them that he was about to die to warn them that it was time
 to announce his covenant of appointing the caliph after him and that he
 could not delay that for fear that he might leave this world before
 confirming this task which the umma could not do without.
 
-[^2]: Since his covenant to his brother Ali (s) was heavy for the people
+[^2] Since his covenant to his brother Ali (s) was heavy for the people
 of competition, envy, enmity and hypocrisy, he wanted, before declaring
 the covenant, to excuse his situation to reconcile their hearts so he
 said: “I am responsible and you are responsible” to make them know that
@@ -584,7 +584,7 @@ the Prophet (s) had said: “Question them! They are responsible for the
 guardianship of Ali.” Al-Wahidi said: “They are responsible for the
 guardianship of Ali and Ahlul Bayt (s).”
 
-[^1]: He, who ponders on this speech, will know that it has intended to
+[^1] He, who ponders on this speech, will know that it has intended to
 show that the guardianship of Ali (s) was one of the basic principles
 (usool) of the religion as the Shia have believed. The Prophet (s) asked
 them first: “Do you not witness that there is no god but Allah and that
@@ -595,11 +595,11 @@ immediately to make them know that guardianship was as important as the
 matters he had asked them about and they acknowledged. This is clear to
 whoever knows the styles of speech in the language.
 
-[^2]: It means: (Allah is worthier of me than myself and I am worthier of
+[^2] It means: (Allah is worthier of me than myself and I am worthier of
 the believers than themselves and whoever I am worthier of him than
 himself , Ali is worthier of him than himself).
 
-[^3]: Such it has been mentioned by at-Tabari, ibn Jareer, al-Hakim and
+[^3] Such it has been mentioned by at-Tabari, ibn Jareer, al-Hakim and
 at-Tarmithi from Zayd bin Arqam. Many other scholars have mentioned the
 tradition from Zayd bin
 
@@ -644,7 +644,7 @@ desert under the heat of summer? Why did he send for the advanced
 
 Arqam in the same way mentioned above such as Ibn Hajar al-Haythami in
 as-Sawa’iq al-Muhriqa, chap.5 p.25.
-[^1]: We have proved the truthfulness of this tradition in our book
+[^1] We have proved the truthfulness of this tradition in our book
 al-Muraja’at, muraja’a no.56 with true evidences.
 
 (425)
@@ -689,7 +689,7 @@ for?[^1] What was the task that needed all these fore
 
 --------------------------------------------------------------------------------
 
-[^1]: Glory and praise be to Allah! How wonderful the result of this
+[^1] Glory and praise be to Allah! How wonderful the result of this
 great interest was! As the Prophet (s) had put Ali (s) and the
 infallible imams (s) of his progeny in the same position of the Qur'an
 and as its equal in the scales that they had the right to order, to
@@ -781,7 +781,7 @@ commandment prevailed although they were averse (from it). Qur'an,
 
 --------------------------------------------------------------------------------
 
-[^1]: Refer to Usool al-Kafi by Muhammad bin Ya’qoob al-Kulayni.
+[^1] Refer to Usool al-Kafi by Muhammad bin Ya’qoob al-Kulayni.
 
 (428)
 
@@ -850,20 +850,20 @@ be safe.”[^5] The companions asked the Prophet (s): “Should we fight
 them?” He said: “No, you should not as long as they offer prayers.”[^6]
 
 --------------------------------------------------------------------------------
-[^1]: Sahih of Muslim, vol.2 p.120 and other books of Hadith. He, who
+[^1] Sahih of Muslim, vol.2 p.120 and other books of Hadith. He, who
 knows what has befallen upon the Muslims after the death of the Prophet
 (s), recognizes that that time was not for dispute and nothing could be
 done save being patient before the harms because the disputes would lead
 to the decline of the Muslims.
-[^2]: Sahih of Muslim, vol.2 p.18.
-[^3]: Ibid. vol.2.
-[^4]: Ibid. vol.2 p.119.
-[^5]: It means: he, who knows the abominable (impermissible) doings and
+[^2] Sahih of Muslim, vol.2 p.18.
+[^3] Ibid. vol.2.
+[^4] Ibid. vol.2 p.119.
+[^5] It means: he, who knows the abominable (impermissible) doings and
 he is not in doubt about them, will be innocent of their sin and
 punishment because he can change that abominable doings with his hand or
 tongue but if he is unable to do that, he can hate those doings and deny
 them with his heart.
-[^6]: Sahih of Muslim, vol.2 p.122. Praise be to Allah! This is the end
+[^6] Sahih of Muslim, vol.2 p.122. Praise be to Allah! This is the end
 of our comment on the book “an-Nass wel-Ijtihad” by the poor slave of
 Allah and the son of His two slaves, the guilty and the mistaken
 
@@ -956,7 +956,7 @@ worlds)
 
 --------------------------------------------------------------------------------
 
-[^1]: They were the polytheists of Mecca. The Prophet (s) had forgiven
+[^1] They were the polytheists of Mecca. The Prophet (s) had forgiven
 them and set them free when conquering Mecca and then they became
 Muslims unwillingly.
 
@@ -989,7 +989,7 @@ and praise be to Allah, the Lord of the worlds.
 
 --------------------------------------------------------------------------------
 
-[^1]: A city in Lebanon.
-[^2]: Bin and ibn mean the son of.
-[^3]: Related to the progeny of Abu Talib.
+[^1] A city in Lebanon.
+[^2] Bin and ibn mean the son of.
+[^3] Related to the progeny of Abu Talib.
 

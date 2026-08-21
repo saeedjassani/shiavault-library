@@ -101,23 +101,23 @@ Notes
 
 ------------------------------------------------------------------------
 
-[^1]: He is graduate student of International Relations at Ritsumeikan
+[^1] He is graduate student of International Relations at Ritsumeikan
 University and also lecturer at History Department of Universitas Negeri
 Yogyakarta, Indonesia.
 
-[^2]: PBUH stands for Peace Be Upon Him, that is to honor Mohamed the
+[^2] PBUH stands for Peace Be Upon Him, that is to honor Mohamed the
 Prophet. However in the following texts it does not put in again.
 
-[^3]: Sufi is Islamic teachings which focus on emotional aspect of Islam.
+[^3] Sufi is Islamic teachings which focus on emotional aspect of Islam.
 Sufi becomes feature of Islam in Indonesia because it has similar
 characters to former religions of Hind and Buda. Sufi has become major
 issue between both Islamic groups. At first Muhammadiyah refused sufi
 and then she accepted some dimensions of Sufi.
 
-[^4]: It means Muhammadiyah assume that they follow the straight true of
+[^4] It means Muhammadiyah assume that they follow the straight true of
 Islam by referring directly to Islamic sources of Koran and Haditst.
 
-[^5]: Ijtihad is a religious interpretation of Islam in conjunction to
+[^5] Ijtihad is a religious interpretation of Islam in conjunction to
 the advancement of the worldly life. Ijtihad should be conducted by
 capable Moslem thinker and it is difficult to classify them, especially
 when Islamic civilization reduced its influences. That is why the gate
@@ -125,8 +125,8 @@ of ijtihad was closed in Sunni countries in where salaf movement took a
 place. The gate of ijtihad is never closed in Shiite sect such as in
 Iran.
 
-[^6]: Muktamar is conference held regularly each five years.
+[^6] Muktamar is conference held regularly each five years.
 
-[^7]: Tareqat is a kind of practical Sufi to divide with philosophical
+[^7] Tareqat is a kind of practical Sufi to divide with philosophical
 Sufi. Actually Islam has developed some tareqat groups which consists of
 both practical and philosophical aspects of Sufi.

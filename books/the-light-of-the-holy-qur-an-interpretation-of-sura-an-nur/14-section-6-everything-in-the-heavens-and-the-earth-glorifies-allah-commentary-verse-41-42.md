@@ -92,9 +92,9 @@ geographical position of the earth at the time of traveling and
 migrating from a continent to another continent and even from the north
 polar areas to the south polar parts,
 
-[^1]: Sura Isra', No. 17, verse 44
+[^1] Sura Isra', No. 17, verse 44
 
-[^2]: The Commentary Fakhr-i-Razi and Ruh ul-Bayan
+[^2] The Commentary Fakhr-i-Razi and Ruh ul-Bayan
 
 and a strange system that guides them in this long journey, even when
 the sky is cloudy, are of surprising issues and of the obvious reasons
@@ -258,7 +258,7 @@ mountains of ice, or, in other words, mountains in which there is a kind
 of ice, and this is very interesting.For after invention of aircraft and
 the possibility of
 
-[^1]: Frpm Encyclopedia Britannica
+[^1] Frpm Encyclopedia Britannica
 
 high flight, man's knowledge was developed and scientists found clouds
 that consist of icy pillars and so the appellation 'mountains of ice' is

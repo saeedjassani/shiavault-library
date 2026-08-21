@@ -68,7 +68,7 @@ themselves. These are the extension of “Some who wrong themselves”.
 Another group did a considerable amount of this duty concerning the act
 of protection and practicing on this Book,
 
-[^1]: Nu-r-uth-Thaqalayn, Vol. 4, P. 361 on
+[^1] Nu-r-uth-Thaqalayn, Vol. 4, P. 361 on
 
 although they had some faults and shortcomings in their deeds, too.
 These are the extension of “Some who follow the middle course”.
@@ -101,7 +101,7 @@ in the traditions are also from the kind of the statement of extension;
 and if we see that in some narrations the existence of scholars in the
 concept of the verse has totally
 
-[^1]: Nu-r-uth-Thaqalayn, the Commentary, Vol. 4, P. 461
+[^1] Nu-r-uth-Thaqalayn, the Commentary, Vol. 4, P. 461
 
 been negated, in fact, is for attracting attentions to the existence of
 Immaculate Imam in front of these rows.

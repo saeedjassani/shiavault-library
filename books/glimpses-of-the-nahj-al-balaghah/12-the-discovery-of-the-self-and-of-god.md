@@ -421,27 +421,27 @@ Concluded; wal-hamdu lilla-h
 
 **Notes:**
 
-[^1]: This is a tradition of the Prophet (S).
-[^2]: This is in reference to a sentence from Nahj al-balaghah, Khutab,
+[^1] This is a tradition of the Prophet (S).
+[^2] This is in reference to a sentence from Nahj al-balaghah, Khutab,
 No. 28
-[^3]: This is in reference to a sentence from Nahj al-balaghah, Hikam,
+[^3] This is in reference to a sentence from Nahj al-balaghah, Hikam,
 No. 131
-[^4]: This is in reference to a sentence from Nahj al-balaghah, Hikam,
+[^4] This is in reference to a sentence from Nahj al-balaghah, Hikam,
 No. 131
-[^5]: Nahj al-balaghah, Hikam, No. 131
-[^6]: Ibid., Khutab, No. 223
-[^7]: Ibid, Khutab, No. 203
-[^8]: al Amudi, al Shurar wa al durar, vol. 4 p. 340
-[^9]: Safinat ul Bihar, under hubb
-[^10]: This reference to the famous words of Ibn al Arabi about one who
+[^5] Nahj al-balaghah, Hikam, No. 131
+[^6] Ibid., Khutab, No. 223
+[^7] Ibid, Khutab, No. 203
+[^8] al Amudi, al Shurar wa al durar, vol. 4 p. 340
+[^9] Safinat ul Bihar, under hubb
+[^10] This reference to the famous words of Ibn al Arabi about one who
 imagines to have known the mysteries of the self through the statement
 of the philosophers.
-[^11]: Nahj al-balaghah, Khutab, No. 179
-[^12]: Ibid, Khutab, No. 222
-[^13]: A. Einstein, Ideas and Opinions (London 1973) based on Mein
+[^11] Nahj al-balaghah, Khutab, No. 179
+[^12] Ibid, Khutab, No. 222
+[^13] A. Einstein, Ideas and Opinions (London 1973) based on Mein
 Weltbild; ed by Carl Seeling, p. 38
-[^14]: Muhammad Iqbal, The Reconstruction of Religious Thought in Islam,
+[^14] Muhammad Iqbal, The Reconstruction of Religious Thought in Islam,
 Lahore 1971, p. 89
-[^15]: Ibid., p. 90
-[^16]: Wasail al Shiah, vol. 2 p. 535 (Bab No. 82, hadith No. 2)
+[^15] Ibid., p. 90
+[^16] Wasail al Shiah, vol. 2 p. 535 (Bab No. 82, hadith No. 2)
 

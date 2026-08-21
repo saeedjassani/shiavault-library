@@ -55,7 +55,7 @@ Thus, true love is always accompanied with true hate, and one does not
 really love Ahl al-Bait (PBUT) unless he also becomes a hater of their
 enemies. Several authorities narrated:
 
-[^1]: Tafsir, Ali Ibn Ibrahim al-Qummi, vol. 2, pp. 171-172; Ta'wil
+[^1] Tafsir, Ali Ibn Ibrahim al-Qummi, vol. 2, pp. 171-172; Ta'wil
 al-Ayat al-Dhahira, p. 439; Bihar al-Anwar, vol. 31, p. 5.
 
 [^2]al-Amali, al-Saduq, p. 605, Hadith 8; Wasa'il al-Shia, vol. 16, p.
@@ -97,7 +97,7 @@ Imam al-Sadiq (PBUH) said:
 "Whoever doubts in the disbelief of our enemies and those who have
 wronged us, is a disbeliever."[^4] Sulaiman al-A'mash has narrated:
 
-[^1]: Tafsir, Furat al-Kufi, p. 428, Hadith 567; Mustadrak al-Wasa'il,
+[^1] Tafsir, Furat al-Kufi, p. 428, Hadith 567; Mustadrak al-Wasa'il,
 vol. 12, p. 226, Hadith 13950; Bihar al- Anwar, vol. 65, p. 63, Hadith
 114.
 [^2]al-Kafi, vol. 2, p. 125, Hadith 5; al-Mahasin, p. 262, Hadith 326;
@@ -141,7 +141,7 @@ remembered, Satan has been remembered."[^4]
 
 It is also narrated:
 
-[^1]: Mustadrak al-Wasa'il, vol. 1, p. 171, Hadith 280; Kanz al-Fawa'id,
+[^1] Mustadrak al-Wasa'il, vol. 1, p. 171, Hadith 280; Kanz al-Fawa'id,
 vol. 2, p. 12; Bihar al-Anwar, vol. 27, p. 199, Hadith 66.
 [^2]See the holy Quran, 3:28, 5:51, 9:1, 9:3, 9:16, 9:23, 60:1.
 [^3]See chapter 2, verse 98 and chapter 4, verse 101 of the Quran.

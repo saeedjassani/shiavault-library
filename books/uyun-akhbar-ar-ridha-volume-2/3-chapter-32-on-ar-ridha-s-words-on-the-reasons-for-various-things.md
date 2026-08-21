@@ -214,7 +214,7 @@ it is our tradition. Then *‘So he began (the search) with their baggage,
 before (he came to) the baggage of his brother: at length he brought it
 out of his brother's baggage…’*[^4] That is why Joseph’s brothers said,
 *‘If he steals, there was a brother of his who did steal before (him).’*
-[^5]: They were referring to that belt. *‘…But these things did Joseph
+[^5] They were referring to that belt. *‘…But these things did Joseph
 keep locked in his heart, revealing not the secrets to them.’”*[^6]
 
 32-7 Abdul Wahid Muhammad ibn Ubdoos al-Neishaboori al-Attar - may God
@@ -897,7 +897,7 @@ the authority of his father, “I asked Ar-Ridha’ (a.s.) about the reason
 why a woman who has been divorced three times cannot be married to her
 original husband again, until after she marries someone else (and her
 new husband either dies or divorces her before she can be married).
-[^28]: Ar-Ridha’ (a.s.) replied, ‘The Blessed the Sublime God has only
+[^28] Ar-Ridha’ (a.s.) replied, ‘The Blessed the Sublime God has only
 granted the permission for divorce (and return) twice as the Honorable
 the Exalted God says, *‘A divorce is only permissible twice: after that,
 the parties should either hold together on equitable terms, or separate

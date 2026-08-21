@@ -50,9 +50,9 @@ them) has accused me of unbelief because of the love for you. And
 another group has said: evil and guilty. They say: His inclination and
 opinion is Turabi. By that I am called and surnamed among them.[^3]
 
-[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 3, p.15.
-[^2]: Ibid., p. 15.
-[^3]: Al-Hashimiyat.
+[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 3, p.15.
+[^2] Ibid., p. 15.
+[^3] Al-Hashimiyat.
 
 Abu al-Aswad al-Du’ali has said:
 
@@ -93,9 +93,9 @@ if I gave it to you and that Mu’awiya would kill me.” It was difficult
 for Hijr to be impure. He supplicated Allah to enable him to find some
 water. Allah responded to him. A cloud came and heavily rained.
 
-[^1]: The guardian is (Imam Ali), the Commander of the faithful.
-[^2]: Al-Mubarrad, al-Kamil, p. 545.
-[^3]: Al-Bayan wa al-Tabiyyin, vol. 3, p. 360.
+[^1] The guardian is (Imam Ali), the Commander of the faithful.
+[^2] Al-Mubarrad, al-Kamil, p. 545.
+[^3] Al-Bayan wa al-Tabiyyin, vol. 3, p. 360.
 
 Hijr took his need of the rain.[^1] He had many virtues and glorious
 deeds. We have to deal with the reason for his martyrdom:
@@ -141,7 +141,7 @@ ones of this city and shed their blood. They will be happy with that,
 and I shall be unhappy. Mu’awiya will be mighty in the world, and
 al-Mughira will be low on the Day of Resurrection.”
 
-[^1]: Al-Isaba, vol. 1, p. 313.
+[^1] Al-Isaba, vol. 1, p. 313.
 
 Al-Mughira’s retinue insisted on him as to the affair of Hijr, so he
 responded to them with the response of an experienced hypocrite, saying:
@@ -310,10 +310,10 @@ worth mentioning that Hijr had asked the people for a need dear to him
 and cheap to them. He said to them: “Let me perform the ritual ablution
 and pray, for when I perform the ritual ablution, I pray.”
 
-[^1]: Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 307. It was said that the
+[^1] Al-Mas‘udi, Murujj al-Dhahab, vol. 2, p. 307. It was said that the
 poetry lines belonged to Hind al-Ansariya, daughter of Zayd. She
 bewailed Hijr with them. She was a Shi‘ite.
-[^2]: Al-Kamil, vol. 3, p. 192. In his book al-Isaba, Ibn Hajar has
+[^2] Al-Kamil, vol. 3, p. 192. In his book al-Isaba, Ibn Hajar has
 mentioned: “Hijr conquered Marjj ‘Adhra’ and was martyred in it.”
 
 They allowed him to do that. Hijr prayed for a long time. After
@@ -356,8 +356,8 @@ martyred with him and after him. They paid no attention to death.
 Beliefs are based on these people and the like of them from among the
 immortal heroes and the great ones in the world. Through them the truth
 shines, justice spreads, and
-[^1]: Al-Kamil, vol. 3, p. 192.
-[^2]: Al-Isti‘ab, vol. 1, p. 256.
+[^1] Al-Kamil, vol. 3, p. 192.
+[^2] Al-Isti‘ab, vol. 1, p. 256.
 
 injustice disappears. We will mention their names along with brief
 accounts on the oppression and torture they met from Mu’awiya and his
@@ -392,8 +392,8 @@ punishment he deserves and kill him with the worst killing.” When Ziyad
 received Mu’awiya’s letter, he sent Abdurrahman to Qas al-Natif.[^1] He
 ordered him to be buried alive, and he was buried alive.[^2]
 
-[^1]: Qas al-Natif was a place near Kufa.
-[^2]: Al-Tabari, Tarikh, vol. 6, p. 155.
+[^1] Qas al-Natif was a place near Kufa.
+[^2] Al-Tabari, Tarikh, vol. 6, p. 155.
 
 **Sayfi Bin Faseel**
 
@@ -471,7 +471,7 @@ he said to him: “By Allah, I will distract you from making troubles and
 attacking the commanders!” “I have not come to you but according to that
 you have given me security!” said Qubaysa
 
-[^1]: Al-Tabari, Tarikh, , vol. 4, p. 197, Al-Kamil, vol. 3, p. 139.
+[^1] Al-Tabari, Tarikh, , vol. 4, p. 197, Al-Kamil, vol. 3, p. 139.
 “Take him to prison!” commanded Ziyad.[^1]
 
 Ziyad violated the security and broke the covenant. Then he ordered him
@@ -516,8 +516,8 @@ to the field of execution. They regarded shedding their blood as lawful
 not because of a guilt they had committed, but because of their love for
 the pure family (of the
 
-[^1]: Al-Tabari, Tarikh, vol. 6, p. 149.
-[^2]: Al-Tabari, Tarikh, vol. 6, p. 149.
+[^1] Al-Tabari, Tarikh, vol. 6, p. 149.
+[^2] Al-Tabari, Tarikh, vol. 6, p. 149.
 
 Prophet), who is equal to the Holy Qur’an in that it is obligatory to
 take care of them and to show love to them.
@@ -565,7 +565,7 @@ killing Hijr. That was when Mu’awiya came in to here after his
 performing the hajj. She said to him: “Do you feel secure that I have
 not hidden anyone to kill you?”
 
-[^1]: Bihar al-Anwar, vol.10, p.149.
+[^1] Bihar al-Anwar, vol.10, p.149.
 
 He said to her with cunning: “I have entered the house of security!”
 “Did you not fear Allah as to (the murder of) Hijr and his companions?”
@@ -598,11 +598,11 @@ killed unjustly after him (after the murder of Hijr). If they had
 revolted when he was killed, none of them would have been killed
 unjustly. They kept silent, so they became abased.”
 
-[^1]: Al-Tabari, Tarikh, vol. 6, p. 156.
-[^2]: Al-Bidaya wa al-Nihaya, vol. 8, p. 55. Al-Isaba, vol. 1, p. 314.
-[^3]: l-Isti‘ab, vol. 1, p. 357.
+[^1] Al-Tabari, Tarikh, vol. 6, p. 156.
+[^2] Al-Bidaya wa al-Nihaya, vol. 8, p. 55. Al-Isaba, vol. 1, p. 314.
+[^3] l-Isti‘ab, vol. 1, p. 357.
 
-[^4]: Al-Rabee‘ bin Ziyad bin Anas al-Harithi, al-Basri was Mo’awiya’s
+[^4] Al-Rabee‘ bin Ziyad bin Anas al-Harithi, al-Basri was Mo’awiya’s
 governor over Khurasan. His scribe was al-Hasan al-Basri. He (al-Rabee‘)
 narrated (traditions) on the authority of Ubay bin Ka‘ab and on the
 authority of a group (of traditionists). Some people narrated

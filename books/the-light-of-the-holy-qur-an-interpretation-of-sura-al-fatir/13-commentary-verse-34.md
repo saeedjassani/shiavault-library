@@ -96,7 +96,7 @@ sense of weakness and fatigue resulted from toil and pain, and thus,
 Therefore, in the Heaven, there is neither any factor of bodily toils,
 nor any means of spiritual pain.
 
-[^1] Rauh-ul-Ma'a-ly, Vol. 22, P. 184
+[^1]: Rauh-ul-Ma'a-ly, Vol. 22, P. 184
 
 **Commentary : Verse 36**
 

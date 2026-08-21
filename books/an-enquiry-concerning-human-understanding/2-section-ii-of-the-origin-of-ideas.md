@@ -193,7 +193,7 @@ suspicion. By bringing ideas into so clear a light we may reasonably
 hope to remove all dispute, which may arise, concerning their nature and
 reality.
 
-[^1] [^1] It is probable that no more was meant by these, who denied
+[^1]: [^1] It is probable that no more was meant by these, who denied
 innate ideas, than that all ideas were copies of our impressions; though
 it must be confessed, that the terms, which they employed, were not
 chosen with such caution, nor so exactly defined, as to prevent all

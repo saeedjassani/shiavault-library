@@ -26,7 +26,7 @@ them. He killed a great number of
 
 --------------------------------------------------------------------------------
 
-[^1]: For more details refer to Abqariyat Umar by al-Aqqad, p.266.
+[^1] For more details refer to Abqariyat Umar by al-Aqqad, p.266.
 
 (374)
 
@@ -57,7 +57,7 @@ present, said: “O messenger
 
 --------------------------------------------------------------------------------
 
-[^1]: Here Khalid was not satisfied with contradicting the order of the
+[^1] Here Khalid was not satisfied with contradicting the order of the
 Prophet (s) but also he violated many basic principles of Islam. Islam
 has forgiven all the sins that had been committed before the advent of
 the mission. Allah has said: (And do not kill any one whom Allah has
@@ -73,10 +73,10 @@ Prophet (s) to those people, were among the worst denied doings and they
 were not less than his crimes on the day of al-Bitah that could not be
 forgotten until the Day of Resurrection.
 
-[^2]: Sahih of al-Bukhari, vol.3 p.48, also mentioned by Ahmad bin Hanbal
+[^2] Sahih of al-Bukhari, vol.3 p.48, also mentioned by Ahmad bin Hanbal
 in his Musnad.
 
-[^3]: Mentioned by Ibn Jareer in his Tareekh, ibnul Atheer in his Tareekh
+[^3] Mentioned by Ibn Jareer in his Tareekh, ibnul Atheer in his Tareekh
 and all the historians and biographers who have recorded the biography
 of Khalid. Ibn abdul Birr said in his book al-Istee’ab after mentioning
 this story: “This is a true tradition.”

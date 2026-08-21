@@ -27,7 +27,7 @@ Indianapolis, Indiana.[^1] Saint Barnabas was originally called Joseph
 the Levite or Joses the Levite and is better known as Matthai or
 Matthias. In the Christian document known as Recognitions, Matthias
 
-[^1]: For the benefit of our reader, the full address of the said
+[^1] For the benefit of our reader, the full address of the said
 Publisher is: ATP, 10900 W. Washington Street, Indianapolis, IN 46231,
 U.S.A. I think this book ought to be in every personal and public
 library. May the Almighty bless and reward its author and publisher,
@@ -68,7 +68,7 @@ the people with exceedingly great joy, and they implored him to abide
 with them, for his words were not as those of the scribes, but were with
 power; for they touched the heart.
 
-[^1]: This misleading statement exists in Vol. One of the world renown
+[^1] This misleading statement exists in Vol. One of the world renown
 Encyclopedia Britannica III. How many other errors exist in this
 Encyclopedia?! [^2]That copy was later deposited at the Imperial Library
 at Vienna. It was at a much later date translated into English and
@@ -102,19 +102,19 @@ will give you another Counselor to be with you forever\_\_the Spirit of
 Truth.”[^3] No man of righteousness has earned the title of “the Spirit
 of Truth” (in Arabic al-Sadiq) more than Prophet Muhammed. A
 
-[^1]: This statement, among many others in the Gospel of St. Barnabas,
+[^1] This statement, among many others in the Gospel of St. Barnabas,
 agrees with what we, Muslims, have in the Holy Qur’an. Jesus Christ was
 not crucified. Indeed, it was Judas Iscariot who was crucified. Let the
 Christians of the world stand corrected. But they will never accept this
 correction simply because it means undermining the very foundation of
 their present day's creed.
 
-[^2]: The reader can easily see that there were two men among the
+[^2] The reader can easily see that there were two men among the
 disciples of Jesus named Judas; one of them was crucified, so he was
 rewarded in heaven, and the other was not, so he was rewarded by the
 Romans for his treachery. The latter is Judas Iscariot.
 
-[^3]: The Great News: The New Testament (Colorado Springs, Colorado:
+[^3] The Great News: The New Testament (Colorado Springs, Colorado:
 International Bible Society, 1984).
 
 (71)
@@ -190,7 +190,7 @@ it fresh; John and Matthew brought it back to us.” Imam al-Rida said,
 your claim, then why do you dispute with one another about the Bible?
 Rather, controversy has always revolved around the Bible which is in
 
-[^1]: This is a rough translation of the original Arabic text. A thorough
+[^1] This is a rough translation of the original Arabic text. A thorough
 research of the Bible may yield better results and reveal the exact
 Biblical verse to which the Imam was referring. Unfortunately, the Imam
 did not specify which of the four Gospels he was quoting. Consulting a
@@ -270,7 +270,7 @@ text in the Gospel of St. Barnabas:
 Thereupon said the disciples, “O master, it is thus written in the book
 of Moses, that in Isaac was the promise made.”
 
-[^1]: al-Majlisi, Bihar al-Anwar, Vol. 14, pp. 331-333. Again, since this
+[^1] al-Majlisi, Bihar al-Anwar, Vol. 14, pp. 331-333. Again, since this
 text is my translation from the Arabic original, the Imam's quotations
 may not be exact. Consulting a Bible written in Arabic will be
 worthwhile and will provide the numbers of the chapters and verses to
@@ -352,7 +352,7 @@ intense whiteness. Al-Hasan has said that it means “supporters” or
 “helpers,” while Qatadah thinks that it means “the ones most fit to be
 successors of their master.”
 
-[^1]: Since there is no copyright on The Gospel of Barnabas, the copy of
+[^1] Since there is no copyright on The Gospel of Barnabas, the copy of
 it which I consulted for the writing of this book does not contain the
 Publisher's name or the place or date of publication.
 
@@ -412,7 +412,7 @@ Lord, and there is no fear for them, nor shall they grieve. (2:62) Such
 is the tolerance of Islam, and such is the perfect code of Islamic
 ethics.
 
-[^1]: Some Arab writers say that the Sabeans were a certain sect of
+[^1] Some Arab writers say that the Sabeans were a certain sect of
 unbelievers who worshipped the stars secretly and openly professed to be
 Christians. According to others, they are followers of the religion of
 Sabi' son of Seth son of Adam, which is more accurate, for the Holy

@@ -3,9 +3,9 @@ NOTES
 
 ------------------------------------------------------------------------
 
-[^1]: Wittgenstein (1934), pp. 4-[^6]:
+[^1] Wittgenstein (1934), pp. 4-[^6]:
 
-[^2]: A methodological directive for this clarification comes from
+[^2] A methodological directive for this clarification comes from
 Wittgenstein’s Tractatus [^6]:521:
 
 “The solution to the problem of life is seen in the vanishing of the
@@ -15,14 +15,14 @@ problem.
 doubt that the sense of life became clear to them have then been unable
 to say what constituted that sense?)”
 
-[^3]: In what follows, I use “meaning” or “linguistic meaning” to
+[^3] In what follows, I use “meaning” or “linguistic meaning” to
 characterize anything that can be the answer to the questions “What is
 the meaning of ‘…’?” or “What do you mean by ‘…’?” where ‘…’ is a sign
 or sequence of signs. By “meaningfulness” I mean whatever serves to
 answer the question whether such a sign or sequence has meaning (in a
 particular context and on a particular occasion of use).
 
-[^4]: Within the logical space of structural views, it is possible to
+[^4] Within the logical space of structural views, it is possible to
 distinguish several sub-variants. One variant -- what we might call
 "content-structuralism," – holds that the basic elements structured or
 organized by the logic of language are already contents before they are
@@ -42,7 +42,7 @@ defined in terms of its relations of similarity or difference with other
 elements, but does not necessarily involve its decomposition into
 simpler elements.
 
-[^5]: The commitments of structuralism so defined are obviously closely
+[^5] The commitments of structuralism so defined are obviously closely
 related (especially if one brackets number 5) to some of the assumptions
 underlying the project of the analysis of generative and
 transformational grammar suggested by Chomsky (1957, 1965). Some of the
@@ -56,17 +56,17 @@ the relationship of the syntax they describe to the semantics or
 meanings of ordinary terms and utterances. (For some discussion, see,
 e.g., Searle (1972)).
 
-[^6]: In what follows, I use “structure” to mean any totality of elements
+[^6] In what follows, I use “structure” to mean any totality of elements
 that, minimally, i) bear intelligible relations of identity, similarity,
 and difference to one another and ii) are intelligibly interconnected by
 rules, regularities, or principles governing or underlying these
 relations.
 
-[^7]: Hahn, Neurath, et. al (1929), p. [^309]:
+[^7] Hahn, Neurath, et. al (1929), p. [^309]:
 
-[^8]: Hahn, Neurath, et. al (1929), pp. 306-[^307]:
+[^8] Hahn, Neurath, et. al (1929), pp. 306-[^307]:
 
-[^9]: Cf. Carnap’s statement in the 1932 article “The Elimination of
+[^9] Cf. Carnap’s statement in the 1932 article “The Elimination of
 Metaphysics Through Logical Analysis of Language:” “The researches of
 applied logic or the theory of knowledge, which aim at clarifying the
 cognitive content of scientific statements and thereby the meanings of
@@ -81,7 +81,7 @@ in this domain are entirely meaningless. Therewith a radical elimination
 of metaphysics is attained, which was not yet possible from the earlier
 antimetaphysical standpoints.” (Carnap 1932a, pp. 60-61).
 
-[^10]: It is instructive to compare Moritz Schlick’s description, written
+[^10] It is instructive to compare Moritz Schlick’s description, written
 in 1931, of the revolution in philosophy to which he saw the new logical
 methods as leading: “There are consequently no questions which are in
 principle unanswerable, no problems which are in principle insoluble.
@@ -92,21 +92,21 @@ grammar, but in truth they consist of empty sounds, because they
 transgress the profound inner rules of logical syntax discovered by the
 new analysis.” (Schlick 1931, pp. 55-56).
 
-[^11]: Frege (1879), p. [^49]:
+[^11] Frege (1879), p. [^49]:
 
-[^12]: Russell 1900, p. 8
+[^12] Russell 1900, p. 8
 
-[^13]: Russell (1905).
+[^13] Russell (1905).
 
-[^14]: Russell (1914)
+[^14] Russell (1914)
 
-[^15]: Russell formulated the slogan of this practice of analysis: “The
+[^15] Russell formulated the slogan of this practice of analysis: “The
 supreme maxim in scientific philosophizing is this: Wherever possible,
 logical constructions are to be substituted for inferred entities”
 (Russell 1914, p. 112). The motto subsequently served as the epigraph
 for Carnap’s Der Logische Aufbau der Welt.
 
-[^16]: Frege’s critique of psychologism about logic, particularly in the
+[^16] Frege’s critique of psychologism about logic, particularly in the
 Grundlagen (Frege 1884), was anticipated by nineteenth-century
 philosophical logicians such as Bolzano and Lotze, who had held that the
 contents of thoughts must be sharply distinguished from the
@@ -119,7 +119,7 @@ for discussion, see, e.g., Skorupski (1998). Frege’s critique of
 psychologism was also the basis of his notorious attack on Husserl’s
 first work, The Philosophy of Arithmetic, in [^1894]:
 
-[^17]: In 1959, Russell described his initial motivations this way: “It
+[^17] In 1959, Russell described his initial motivations this way: “It
 was towards the end of 1898 that Moore and I rebelled against both Kant
 and Hegel. Moore led the way, but I followed closely in his footsteps… I
 felt … a great liberation, as if I had escaped from a hot house onto a
@@ -127,7 +127,7 @@ windswept headland. In the first exuberance of liberation, I became a
 naïve realist and rejoiced in the thought that grass really is green.”
 (Russell 1959, p. 22).
 
-[^18]: The hope to “structuralize” science by showing its logical
+[^18] The hope to “structuralize” science by showing its logical
 structure – and thus demonstrate the objectivity of its claims by
 purging them of any dependence on ‘subjective’ or ‘ostensively
 indicated’ elements was, in particular, the central ambition of the
@@ -135,7 +135,7 @@ indicated’ elements was, in particular, the central ambition of the
 Logische Aufbau der Welt of [^1928]: See, e.g., Carnap (1928), section
 16.
 
-[^19]: Throughout much of his career, Russell insisted that the proper
+[^19] Throughout much of his career, Russell insisted that the proper
 task of philosophy must be the investigation of “the world” rather than
 language or thought. Prior to 1918, he saw language as “transparent,”
 and even afterwards he conceived of the task of logical analysis as
@@ -144,18 +144,18 @@ showing the structure of the world rather than language. (Monk 1997, pp.
 language is equally complex. For helpful discussions, see Dummett
 (1981b, chapter 3), Sluga (1997) and Hylton (1990), chapter [^6]:
 
-[^20]: (Leibniz 1679, p. 8) Compare Frege’s description, in
+[^20] (Leibniz 1679, p. 8) Compare Frege’s description, in
 Begriffsschrift, of the powers of his new conceptual notation (Frege
 1879, p. 49).
 
-[^21]: Carnap (1928), section [^3]:
+[^21] Carnap (1928), section [^3]:
 
-[^22]: Michael Friedman has convincingly documented the pronounced legacy
+[^22] Michael Friedman has convincingly documented the pronounced legacy
 of post-Kantian philosophy in the logical positivism of Reichenbach,
 Schlick, and Carnap. See Friedman (1999), especially chapters 1, 3, and
 [^6]:
 
-[^23]: Although Schlick and Carnap initially conceived of this program,
+[^23] Although Schlick and Carnap initially conceived of this program,
 in strongly reductionist terms, as involving the isolation of the
 private, experiential content of any empirical proposition, their circle
 colleague Otto Neurath conceived of the project differently. Recognizing
@@ -169,13 +169,13 @@ and their implications for the subsequent “protocol sentence debate,”
 see, e.g., Coffa (1991), Uebel (1992), Oberdan (1996), Friedman (1999),
 and Livingston (2004), chapter [^2]:
 
-[^24]: See Livingston (2004), chapter [^2]:
+[^24] See Livingston (2004), chapter [^2]:
 
-[^25]: The terms “analytic” or “analyticalphilosophy themselves, though
+[^25] The terms “analytic” or “analyticalphilosophy themselves, though
 used occasionally as early as the 1930s, were not in widespread use
 until after 1940 (Richardson 2005), (Hacker 1997).
 
-[^26]: A. J. Ayer gave the principle of verification a clear and
+[^26] A. J. Ayer gave the principle of verification a clear and
 influential early expression in Language, Truth, and Logic (Ayer 1936,
 p. 35). This formulation was responsible for much of the discussion that
 followed, but the verification principle itself had actually played only
@@ -185,9 +185,9 @@ empirical meaning of individual propositions was less important than the
 overall determination, by analytical means, of the structure of
 scientific concepts.
 
-[^27]: Quine (1950).
+[^27] Quine (1950).
 
-[^28]: Significantly, even when the new generation of philosophers
+[^28] Significantly, even when the new generation of philosophers
 rejected the metaphor of “analysis,” they still tended to employ
 metaphors that imply a structuralist picture of language and the
 interrelationships of its terms. Ryle, for instance, described his
@@ -197,7 +197,7 @@ geography” of concepts (Ryle 1949, p. 7). Along similar lines, Strawson
 avoiding reductionism, nevertheless preserves the project of tracing
 structural, grammatical relations among concepts.
 
-[^29]: Attention to the continuity of structuralism in determining the
+[^29] Attention to the continuity of structuralism in determining the
 main problematics of the analytic tradition therefore provides grounds
 for doubting the accuracy of a standard and received picture of the
 history of the tradition as a whole. On this standard and received
@@ -217,7 +217,7 @@ this picture would suggest, and it obscures the underlying dynamics of
 some of the tradition’s most pervasive conceptual determinants, from its
 earliest phases to the present. (See also Livingston (2005) and (2006)).
 
-[^30]: Much recent work has been devoted to the question of the best way
+[^30] Much recent work has been devoted to the question of the best way
 to define and understand the tradition as a unity. See, e.g., Hacker
 (1997) and (1998), Ross (1998), Matar (1998), Rorty (1979), Dummett,
 (1994), Føllesdal (1997). Sluga (1997) Typically, these considerations
@@ -249,7 +249,7 @@ projects and theories that are commonly recognized as part of the
 tradition. For more on the specific legacy of structuralism within this
 tradition, see Livingston (2004) and Peregrine (2002).
 
-[^31]: The tendency to take “analytic philosophy” to be equivalent to the
+[^31] The tendency to take “analytic philosophy” to be equivalent to the
 (presumably now repudiated) project of “conceptual analysis”
 simpliciter, and accordingly to deny that there is anything interesting
 to say about its legacy for contemporary projects, is evident, for
@@ -268,7 +268,7 @@ philosophical projects or that there is no need to reflect on it. For a
 recent attempt to rehabilitate a form of “conceptual analysis” in the
 context of the philosophy of mind, see Chalmers and Jackson (2001).
 
-[^32]: As early as 1913, Saussure defined language as a system of
+[^32] As early as 1913, Saussure defined language as a system of
 “differences without positive terms.” (Saussure 1913, p. 653).
 Benveniste gives a clear and general articulation of structuralism in
 the article “Categories of Thought and Language”: “Now this language has
@@ -284,7 +284,7 @@ the analytic tradition is that the Saussurian picture does not typically
 see the significant relations between signs as primarily, or
 predominantly, logical in character.
 
-[^33]: Ryle (1949), Austin (1947), Sellars (1956), Wittgenstein (1951),
+[^33] Ryle (1949), Austin (1947), Sellars (1956), Wittgenstein (1951),
 and Quine (1960), in particular, were seen as reversing methodologically
 solipsistic prejudices earlier prevalent of theories of mind and
 experience. In fact the philosopher who had first formulated the project
@@ -292,7 +292,7 @@ of “methodological solipsism” – namely Carnap – had already abandoned
 this position, in favor of a “physicalist” position influenced by
 Neurath, as early as 1931; see Carnap (1931) and (1932b).
 
-[^34]: Quine gives an exemplary statement of the picture of language as
+[^34] Quine gives an exemplary statement of the picture of language as
 inculcated and controlled by means of public, social practices in Word
 and Object “ ‘Ouch’ is a one-word sentence which a man may volunteer
 from time to time by way of laconic comment on the passing show. The
@@ -309,7 +309,7 @@ manifestations, has been able to train the individual to say the
 socially proper thing in response even to socially undetectable
 stimulations.” (Quine 1960, p. 5)
 
-[^35]: See, e.g., Brandom (1994), Rorty, (1979), Kripke, (1984) and
+[^35] See, e.g., Brandom (1994), Rorty, (1979), Kripke, (1984) and
 Davidson, (1984). Brandom’s statement of the presumed identity of
 language and social practices, on the first page of the “Preface” to
 Making it Explicit, is typical: "This book is an investigation into the
@@ -325,13 +325,13 @@ work out; and Apel (1972) construes participation in a Wittgensteinian
 “language-game” to be a pragmatic precondition for any possibility of
 mutual understanding or communication.
 
-[^36]: A particularly explicit formulation of this kind of interpretation
+[^36] A particularly explicit formulation of this kind of interpretation
 is given by Bloor (1983). Among commentators who favor this kind of
 interpretation, it is typically to take Wittgenstein’s supposed failure
 to develop such a theory as an indication of his ‘quietism.’ See, e.g.,
 Brandom (1994) , pp. xii-xiii.
 
-[^37]: Here, the exegetical situation is complicated by the internal
+[^37] Here, the exegetical situation is complicated by the internal
 complexity of Wittgenstein’s method and the tendency of commentators to
 read his remarks, out of contexts, as contributions to a philosophical
 theory of language or to the expression of what are supposed to be his
@@ -349,9 +349,9 @@ discussion regularity does not subsume a theory of practices, but rather
 refers to a kind of teaching (of a first language) that is not, and
 cannot be, captured by a communicable concept of practice.
 
-[^38]: Wittgenstein (1934), p. [^5]:
+[^38] Wittgenstein (1934), p. [^5]:
 
-[^39]: Wittgenstein’s use of this method of diagnosis, with particular
+[^39] Wittgenstein’s use of this method of diagnosis, with particular
 reference to Frege, occurs more than once in his corpus. For instance,
 in Philosophical Grammar he gives it a briefer formulation:
 
@@ -385,7 +385,7 @@ understandable). But Frege doesn’t see that this picture is in turn
 nothing but a sign, or a calculus, that explains the written calculus to
 us.”
 
-[^40]: Within the twentieth-century projects Priest considers, at least,
+[^40] Within the twentieth-century projects Priest considers, at least,
 the operator of transcendence is typically diagonalization. Given an
 arbitrary set of elements, all of which are within the larger set,
 diagonalization generates an element that is in the larger set but not
@@ -393,19 +393,19 @@ in the smaller one. The method, which was crucial to Cantor’s proof of
 the existence of multiple infinities, also plays a crucial role in the
 proof of Gödel’s incompleteness theorem.
 
-[^41]: See Livingston (2004), chapter [^2]:
+[^41] See Livingston (2004), chapter [^2]:
 
-[^42]: See, e.g., Haugeland (1998), Searle (1992).
+[^42] See, e.g., Haugeland (1998), Searle (1992).
 
-[^43]: For more on the genealogy of the concept of “qualia” (which
+[^43] For more on the genealogy of the concept of “qualia” (which
 derives from C.I. Lewis (1929)) and their relationship to the problem of
 ostensive definition, see Livingston (2004), chapter [^1]:
 
-[^44]: For Neurath’s structuralist criticism of Schlick’s views on the
+[^44] For Neurath’s structuralist criticism of Schlick’s views on the
 given contents of experience, see Neurath (1931), (1932), and (1934);
 see also discussion in Livingston (2004), chapter [^2]:
 
-[^45]: As Priest notes, the underlying reason for the inclosure paradox
+[^45] As Priest notes, the underlying reason for the inclosure paradox
 in all of its forms is the phenomenon of self-reference; both the
 closure and the transcendence operations typically rely on some form of
 it. Here, the situation is no different; it is the capacity of language
@@ -414,7 +414,7 @@ refer to itself and to its relationship to the world that involves
 systematic theories of the referents of these terms in the paradoxical
 situation under discussion here.
 
-[^46]: The internal ambiguities of structuralism I discuss here also do
+[^46] The internal ambiguities of structuralism I discuss here also do
 not (much) affect the prospects, positive or negative, for giving a
 generative and transformative grammar of natural languages in the sense
 of Chomsky (1957, 1965). For the problem that Wittgenstein identifies in
@@ -427,12 +427,12 @@ relationship of Wittgenstein’s rule-following considerations to
 Chomsky’s project, see Baker (1981), Peacocke (1981), and Chomsky
 (1986).
 
-[^47]: See, e.g, TLP [^4]:112
+[^47] See, e.g, TLP [^4]:112
 
-[^48]: For the interpretation, see, e.g., Diamond (1991) and (2000),
+[^48] For the interpretation, see, e.g., Diamond (1991) and (2000),
 Conant (1989) and (2000), and Ricketts (1996).
 
-[^49]: At TLP [^5]:5563, Wittgenstein held that:
+[^49] At TLP [^5]:5563, Wittgenstein held that:
 
 In fact, all the propositions of our everyday language, just as they
 stand, are in perfect logical order.—That utterly simple thing, which we
@@ -442,7 +442,7 @@ in its entirety.
 Russell, in his 1922 “Introduction” to the Tractatus, notoriously
 misunderstood the implications of this remark.
 
-[^50]: Hintikka and Hintikka (1986), along similar lines, interpret
+[^50] Hintikka and Hintikka (1986), along similar lines, interpret
 Wittgenstein’s philosophical thought as a whole as determined by the
 guiding opposition between a conception of language as a calculus (whose
 principles could be determined, described and explained from an outside
@@ -457,15 +457,15 @@ misleadingly read into Wittgenstein a “linguistic relativism” that would
 deny the possibility of knowledge of things as they are “in themselves”,
 independently of language.
 
-[^51]: Carnap (1934b), pp. 9-[^10]:
+[^51] Carnap (1934b), pp. 9-[^10]:
 
-[^52]: See, e.g., the project of eliminative materialism defined by
+[^52] See, e.g., the project of eliminative materialism defined by
 Churchland (1981) and Rorty (1965).
 
-[^53]: Frege (1879), preface; compare Frege (1892), which makes the
+[^53] Frege (1879), preface; compare Frege (1892), which makes the
 sense/reference distinction explicit.
 
-[^54]: It is striking, in reference to the most usual way of talking
+[^54] It is striking, in reference to the most usual way of talking
 Wittgenstein’s “language-game” concept, that here he explicitly and
 decisively rejects any claim that language is in fact something like a
 game. Such comparisons are, as he says, useful to bring certain features
@@ -481,21 +481,21 @@ Russell), for this only results in injustices. – Rather, I present the
 games as games and allow them to shine their illuminating effects on
 particular problems.” (Wittgenstein 1933b, p. 156).
 
-[^55]: Kripke says in the introductory chapter of Wittgenstein on Rules
+[^55] Kripke says in the introductory chapter of Wittgenstein on Rules
 and Private Language that the interpretation first occurred to him in
 the academic year 1962-1963; it was first presented in seminar at
 Princeton in 1965 and subsequently, to a broader audience, at the
 Wittgenstein Conference in London, Ontario in [^1976]:
 
-[^56]: Kripke (1982), pp. 8-[^11]:
+[^56] Kripke (1982), pp. 8-[^11]:
 
-[^57]: Kripke (1982), p. [^55]:
+[^57] Kripke (1982), p. [^55]:
 
-[^58]: Kripke (1982), p. [^66]:
+[^58] Kripke (1982), p. [^66]:
 
-[^59]: Kripke (1982), pp. 74-[^75]:
+[^59] Kripke (1982), pp. 74-[^75]:
 
-[^60]: Kripke (1982), pp. 96-[^97]:; cf. pp. 92: “Now Wittgensten’s
+[^60] Kripke (1982), pp. 96-[^97]:; cf. pp. 92: “Now Wittgensten’s
 general picture of language, as sketched above, requires for an account
 of a type of utterance not merely that we say under what conditions an
 utterance of that type can be made, but also what role and utility in
@@ -513,9 +513,9 @@ countless such interactions, and on the ‘game’ of attributing to others
 the mastery of certain concepts or rules, thereby showing that we expect
 them to behave as we do.” (pp. 92-93).
 
-[^61]: For a helpful overview and review, see Boghossian (1989).
+[^61] For a helpful overview and review, see Boghossian (1989).
 
-[^62]: For a sustained critical discussion of the significance of the
+[^62] For a sustained critical discussion of the significance of the
 “natural” as it may be seen to operate in this, and similar, contexts,
 see Cavell (1979), chapter 5, “Natural and Conventional.” Compare, also,
 Cavell’s recent discussion of the difference between his and Kripke’s
@@ -523,13 +523,13 @@ ways of understanding the upshot of Wittgenstein’s “rule-following”
 paradox, with respect to the threat that skepticism represents, in
 Cavell (2005), pp. 134-[^138]:
 
-[^63]: See, e.g., Saussure (1913); Husserl (1900), especially
+[^63] See, e.g., Saussure (1913); Husserl (1900), especially
 Investigation 1, and Cassirer (1929). For more on some of these points
 of comparison, see, e.g., Dummett (1994) and Friedman (2000).
 
-[^64]: Heidegger (1927), p. [^20]:
+[^64] Heidegger (1927), p. [^20]:
 
-[^65]: Some instructive recent historical work has focused on the
+[^65] Some instructive recent historical work has focused on the
 notorious episode of Carnap’s rejection, in the 1932 article “The
 Overcoming of Metaphysics Through the Logical Analysis of Langauge,” of
 Heidegger’s claims about the relationship of being to nothingness in his
@@ -542,13 +542,13 @@ personal and philosophical dispute between the two young philosophers
 that came to a head in the disputation between Heidegger and Cassirer
 over the interpretation of Kant’s philosophy at Davos in [^1929]:
 
-[^66]: Derrida (1966).
+[^66] Derrida (1966).
 
-[^67]: Derrida (1966), pp. 279-[^80]:
+[^67] Derrida (1966), pp. 279-[^80]:
 
-[^68]: Derrida (1966), p. [^280]:
+[^68] Derrida (1966), p. [^280]:
 
-[^69]: For decades, analytic philosophers have routinely ignored or
+[^69] For decades, analytic philosophers have routinely ignored or
 ridiculed Derrida’s project. An unfortunate paradigm for their reaction
 to it has been Searle’s (1977) scathing critical response to Derrida’s
 interpretation of Austin in Derrida (1972). Derrida’s side of the
@@ -573,17 +573,17 @@ of the issues – especially the question of philosophical “seriousness” –
 at stake among Austin, Derrida and Searle in Cavell (1994), chapter
 [^2]:
 
-[^70]: Frege (1884), p. 90 (p. x in original).
+[^70] Frege (1884), p. 90 (p. x in original).
 
-[^71]: Frege (1884), p. 108 (p. 71 in original).
+[^71] Frege (1884), p. 108 (p. 71 in original).
 
-[^72]: Frege (1884), pp. 109-110 (p. 73 in original). The principle
+[^72] Frege (1884), pp. 109-110 (p. 73 in original). The principle
 expressed here, to the effect that numbers can be defined in terms of
 judgments of equinumerosity, traces to Hume and has recently become the
 basis for an attempt to rehabilitate Frege’s original logicist program.
 For a useful review of the “neo-logicist” project, see MacBride (2003).
 
-[^73]: Interpretation of the role of the context principle in Frege’s
+[^73] Interpretation of the role of the context principle in Frege’s
 philosophy as a whole is notoriously complicated, not only because Frege
 seems, after the Grundlagen, to accord it less and less emphasis, but
 also because it is not immediately clear how to read the principle
@@ -595,16 +595,16 @@ fact that Frege’s statements of the principle, even in the Grundlagen
 alone, vary widely in their strength and level of applicability. (see,
 .e.g, Baker and Hacker (1984) pp. 199-205).
 
-[^75]: Frege (1918)
+[^75] Frege (1918)
 
-[^76]: See, e.g, Husserl (1900), Investigation II. Frege had famously
+[^76] See, e.g, Husserl (1900), Investigation II. Frege had famously
 reviewed Husserl’s earlier work, The Philosophy of Arithmetic, in 1894;
 Frege had found it rife with psychologistic prejudices. Husserl seems to
 have accepted the criticism in developing the Logical Investigations’
 deeply anti-psychologistic theory of logic. For useful commentary on the
 exchange, see Dummett (1994).
 
-[^77]: “Now all those features of language that result only from the
+[^77] “Now all those features of language that result only from the
 interaction of speaker and listener … have no counterpart in my formula
 language, since here the only thing that is relevant in a judgment is
 that which influences its possible consequences. Everything that is
@@ -615,23 +615,23 @@ discussion of the connections between Frege’s inferentialism and his
 contextualism and anti-psychologism, see Conant (2000), especially pages
 180-[^82]:
 
-[^78]: For a contemporary formulation of the same project, see Brandom
+[^78] For a contemporary formulation of the same project, see Brandom
 (1994), chapter [^2]:
 
-[^79]: Dummett (1981a), pp. 193-[^94]:
+[^79] Dummett (1981a), pp. 193-[^94]:
 
-[^80]: Dummett (1991), pp. 244-[^245]:
+[^80] Dummett (1991), pp. 244-[^245]:
 
-[^81]: Compare Tractatus [^4]:024: “To understand a proposition means to
+[^81] Compare Tractatus [^4]:024: “To understand a proposition means to
 know what is the case if it is true…”
 
-[^82]: Dummett (1956), p. [^492]:
+[^82] Dummett (1956), p. [^492]:
 
-[^83]: Dummett (1981b), p. [^383]:
+[^83] Dummett (1981b), p. [^383]:
 
-[^84]: Dummett (1981a), p. [^194]:
+[^84] Dummett (1981a), p. [^194]:
 
-[^85]: “At this point a number of difficult problems arise which are,
+[^85] “At this point a number of difficult problems arise which are,
 however, irrelevant to the appreciation of the point Frege is making …
 we may raise the question how we recognize that someone has this
 knowledge, since we can only test his understanding of finitely many
@@ -640,7 +640,7 @@ notoriously difficult to explain, of a type of context: a notion which,
 it seems to me, plays an important but almost unacknowledged role in
 Wittgenstein’s Investigations).” Dummett (1956), p. [^493]:
 
-[^86]: Diamond (1978, p. 79) raises the same question, albeit quickly and
+[^86] Diamond (1978, p. 79) raises the same question, albeit quickly and
 in passing, against Dummett’s way of seeing the significance of Frege’s
 supposed appeal to the use of a word. Elsewhere, however, Diamond,
 though at pains to resist Dummett’s reading of the context principle as
@@ -650,12 +650,12 @@ practice of a language, nevertheless concurs uncritically with the
 suggestion that understanding senses may be taken to be a matter simply
 of grasping rules of use. See, e.g., Diamond (1980), p. [^111]:
 
-[^87]: For the distinction, see Chomsky (1965).
+[^87] For the distinction, see Chomsky (1965).
 
-[^88]: Compare Kripke’s (1982) discussion of a “dispositionalist”
+[^88] Compare Kripke’s (1982) discussion of a “dispositionalist”
 response to Wittgenstein’s rule-following paradox: pp. 22-[^28]:
 
-[^89]: Davidson himself normally calls the kind of theory he is after a
+[^89] Davidson himself normally calls the kind of theory he is after a
 “theory of interpretation” or a “theory of truth”; he says in Davidson
 (1974a, p. 142 that such a theory “can be used to describe what every
 interpreter [of a language] knows.” There has been some debate over
@@ -664,40 +664,40 @@ by the pre-theoretic notion of “meaning,” or should rather be taken as a
 replacement for this notion; see, e.g., Lepore and Ludwig (2005) for an
 extended discussion.
 
-[^90]: For the project, see Davidson (1967), Davidson (1970), Davidson
+[^90] For the project, see Davidson (1967), Davidson (1970), Davidson
 (1973a), and Davidson (1973b).
 
-[^91]: Davidson (1965); Davidson (1973b); cf. Dummett (1975).
+[^91] Davidson (1965); Davidson (1973b); cf. Dummett (1975).
 
-[^92]: See, e.g., the articles collected in Davidson and Harman (1973).
+[^92] See, e.g., the articles collected in Davidson and Harman (1973).
 
-[^93]: See, e.g., Burge (1986), Elugardo (1999), Lepore (1999) and the
+[^93] See, e.g., Burge (1986), Elugardo (1999), Lepore (1999) and the
 extended and comprehensive discussion in Lepore and Ludwig (2007);
 Davidson takes up the issue of metaphor himself in Davidson (1978).
 
-[^94]: For the term “modesty,” see Dummett (“What is a Theory of
+[^94] For the term “modesty,” see Dummett (“What is a Theory of
 Meaning?”). Cf., also, McDowell (1997)
 
-[^95]: Cf. McDowell’s gloss on this point in McDowell (1997), pp.
+[^95] Cf. McDowell’s gloss on this point in McDowell (1997), pp.
 116-[^17]:
 
-[^96]: Dummett (1981a), p. 227; Dummett (1991) pp. 238-[^39]:
+[^96] Dummett (1981a), p. 227; Dummett (1991) pp. 238-[^39]:
 
-[^97]: See, e.g., TLP [^4]:022: “A proposition shows its sense. A
+[^97] See, e.g., TLP [^4]:022: “A proposition shows its sense. A
 proposition shows how things stand if it is true. And it says that they
 do so stand.”
 
-[^98]: Frege (1903).
+[^98] Frege (1903).
 
-[^99]: Frege (1903), pp. 83-84 (p. 91 in original).
+[^99] Frege (1903), pp. 83-84 (p. 91 in original).
 
-[^100]: See the epigraph to chapter 1, above.
+[^100] See the epigraph to chapter 1, above.
 
-[^101]: “The mistake we are liable to make could be expressed thus: We
+[^101] “The mistake we are liable to make could be expressed thus: We
 are looking for the use of a sign, but we look for it as though it were
 an object co-existing with the sign.” (Wittgenstein 1934, p. 3)
 
-[^102]: The immediate basis for Wittgenstein’s use of the metaphor of
+[^102] The immediate basis for Wittgenstein’s use of the metaphor of
 ‘life’ in connection with Frege may be Frege’s statement at the
 conclusion of his discussion of the errors of the formalists: “Formal
 arithmetic can remain alive only by being untrue to itself. Its
@@ -706,23 +706,23 @@ usually hurry over the foundations of their science (if indeed they have
 any concern for them), in order to reach more important matters.” (Frege
 1903, pp. 344-45 (p. 137 in original).
 
-[^103]: Cf., e.g., PI 224-[^225]:
+[^103] Cf., e.g., PI 224-[^225]:
 
-[^104]: Compare PI 241-[^242]: For more on Wittgenstein’s complicated use
+[^104] Compare PI 241-[^242]: For more on Wittgenstein’s complicated use
 of the term “criteria” in relation to “forms of life,” compare Cavell
 (1979).
 
-[^105]: Dummett puts the issue roughly this way, for instance, at Dummett
+[^105] Dummett puts the issue roughly this way, for instance, at Dummett
 (1991), pp. 247-48; see also Dummett (1981a), chapter 10 for discussion
 of the form such a theory might take.
 
-[^106]: E.g. Phaedo 78e-79b; 103b-104b; Meno 75a.
+[^106] E.g. Phaedo 78e-79b; 103b-104b; Meno 75a.
 
-[^107]: TLP [^2]:18, 2.2ff.
+[^107] TLP [^2]:18, 2.2ff.
 
-[^108]: TLP [^2]:18-2.182.
+[^108] TLP [^2]:18-2.182.
 
-[^109]: TLP [^2]:15. This also explains the somewhat enigmatic 3.1432:
+[^109] TLP [^2]:15. This also explains the somewhat enigmatic 3.1432:
 “Instead of, ‘The complex sign “aRb” says that a stands to b in the
 relation R’, we ought to put, ‘That “a” stands to “b” in a certain
 relation says that aRb.” Only a fact – never simply a sign – can stand
@@ -730,11 +730,11 @@ for a fact; if they are to stand for facts, propositions must also be
 facts with an articulated combinatorial structure that is mirrored in
 the facts they stand for. See also TLP 3.14ff.
 
-[^110]: TLP [^3]:1431.
+[^110] TLP [^3]:1431.
 
-[^111]: TLP [^3]:143.
+[^111] TLP [^3]:143.
 
-[^112]: Insofar as standard commentaries express a view about the
+[^112] Insofar as standard commentaries express a view about the
 logically prior conditions for the meaningfulness of simple signs, they
 typically make some version of the claim that simple signs get their
 meaning in virtue of an ostensive connection between them and simple
@@ -742,24 +742,24 @@ objects. But Wittgenstein actually never so much as suggests this
 account of the meaning of simple signs, and its interpretive ascription
 to him is deeply misleading.
 
-[^113]: Wittgenstein does not generally draw type/token distinctions
+[^113] Wittgenstein does not generally draw type/token distinctions
 explicitly. But since, as we shall see, the logically relevant parts of
 a sentence are defined by sameness of use rather than sameness of
 orthographic sign, we can take it that signs in a sentence, prior to
 such definition, are just to be understood as tokens; orthographic
 sign-types may, then, crosscut symbol-types defined by uses.
 
-[^114]: TLP [^3]:32, 3.322, 3.323, 3.326, 3.327. For interesting
+[^114] TLP [^3]:32, 3.322, 3.323, 3.326, 3.327. For interesting
 discussions (which I partially follow here) of the sign/symbol
 distinction in the broader context of Wittgenstein’s views about meaning
 and use, see Conant (1998) and Conant (2000).
 
-[^115]: TLP [^3]:341.
+[^115] TLP [^3]:341.
 
-[^116]: Significantly, Wittgenstein calls this logically perspicuous
+[^116] Significantly, Wittgenstein calls this logically perspicuous
 notation, following Frege, “concept-writing” or Begriffsschrift.
 
-[^117]: The problem goes back at least to Stoic theories of the sign.
+[^117] The problem goes back at least to Stoic theories of the sign.
 Augustine may have been the first to define the sign explicitly as
 “something that shows itself to the senses and something other than
 itself to the mind” (Augustine, De Dialectica, 1975, 86). But compare
@@ -783,21 +783,21 @@ unlike letters express things?” Wittgenstein discusses the Cratylus and
 its question of the signifying power of names explicitly in Wittgenstein
 (1933b), p. [^35]:
 
-[^118]: Compare Locke’s Essay, Book III, chapter 10, sections 26-29,
+[^118] Compare Locke’s Essay, Book III, chapter 10, sections 26-29,
 where Locke says that words may fail in their purpose “when complex
 ideas are without names annexed to them”; “when the same sign is not put
 for the same idea”; and “when words are diverted from their common use”.
 
-[^119]: TLP [^3]:33; Wittgenstein reaffirms this, in the context of a
+[^119] TLP [^3]:33; Wittgenstein reaffirms this, in the context of a
 describing the rules governing inference, at TLP 6.126.
 
-[^120]: TLP [^3]:331.
+[^120] TLP [^3]:331.
 
-[^121]: Anscombe (1959), p. [^91]:
+[^121] Anscombe (1959), p. [^91]:
 
-[^122]: Wittgenstein puts it this way in the Blue Book, p. [^5]:
+[^122] Wittgenstein puts it this way in the Blue Book, p. [^5]:
 
-[^123]: As developed, e.g., in Brandom (1994), chapter [^2]: In the
+[^123] As developed, e.g., in Brandom (1994), chapter [^2]: In the
 Tractatus, it is true, Wittgenstein did not distinguish between what
 were subsequently called, following Carnap, formation rules and
 transformation rules; nor did he distinguish between definitional
@@ -808,22 +808,22 @@ among propositions are expressed by these propositions themselves,
 provided they are written in a symbolism that shows their form
 (5.13-5.1311).
 
-[^124]: TLP [^3]:3; here Wittgenstein endorses Frege’s context principle.
+[^124] TLP [^3]:3; here Wittgenstein endorses Frege’s context principle.
 
-[^125]: TLP [^3]:31.
+[^125] TLP [^3]:31.
 
-[^126]: TLP [^3]:317.
+[^126] TLP [^3]:317.
 
-[^127]: TLP [^3]:315.
+[^127] TLP [^3]:315.
 
-[^129]: “A proposition is completely logically analysed if its grammar is
+[^129] “A proposition is completely logically analysed if its grammar is
 made clear – in no matter what idiom. All that is possible and necessary
 is to separate what is essential from what is inessential in our
 language – which amounts to the construction of a phenomenological
 language. Phenomenology as the grammar of those facts on which physics
 builds its theories.” (PR I, 1, p. 9).
 
-[^130]: See, e.g., PR s. 1, para. 9: “Asked whether philosophers have
+[^130] See, e.g., PR s. 1, para. 9: “Asked whether philosophers have
 hitherto spoken nonsense, you could reply: no, they have only failed to
 notice that they are using a word in quite different senses. In this
 sense, if we say it’s nonsense to say that one thing is as identical as
@@ -832,13 +832,13 @@ conviction, then at that moment he means something by the word
 ‘identical’ (perhaps ‘large’), but isn’t aware that he is using the word
 with a different meaning from that in 2+2=[^4]:”
 
-[^131]: PR, section 8, para. 82, 84, [^85]: For a helpful and fascinating
+[^131] PR, section 8, para. 82, 84, [^85]: For a helpful and fascinating
 discussion of Wittgenstein’s route to appreciating this point about
 systematicity, see Hacker (1996), pp. 78ff.
 
-[^132]: See PR III.[^26]:
+[^132] See PR III.[^26]:
 
-[^133]: For the criticism of Russell’s view, see PR III.21-26;
+[^133] For the criticism of Russell’s view, see PR III.21-26;
 Wittgenstein contrasts it unfavorably with the Tractatus picture theory
 in III.21, III.25, and III.[^26]: The Russellian theory that
 Wittgenstein had in mind seems to have been the one in the 1913
@@ -846,20 +846,20 @@ manuscript “Theory of Knowledge”(Russell 1913) to which Wittgenstein
 had, during the period of their initial close interaction, already
 expressed deep-seated objections.
 
-[^134]: PR III. [^21]:
+[^134] PR III. [^21]:
 
-[^135]: PR III. [^24]:
+[^135] PR III. [^24]:
 
-[^136]: PR III. [^24]:
+[^136] PR III. [^24]:
 
-[^137]: Compare Wittgenstein 1933b, p. 116: “So: The word ‘ball’ works
+[^137] Compare Wittgenstein 1933b, p. 116: “So: The word ‘ball’ works
 only because of the way it is used. But if ‘understanding the meaning of
 a word’ means knowing its grammatical use (the possibility of its
 grammatical use) then it can be asked: ‘How can I know straightaway what
 I mean by ‘ball?’ After all, I can’t have the complete irnage of the use
 of this word in my head all at once.”
 
-[^138]: The relevance of this to the critique of the Tractatus is most
+[^138] The relevance of this to the critique of the Tractatus is most
 clear at PI 82, where Wittgenstein directly mentions his own earlier
 conception of language as a calculus: “All this, however, can only
 appear in the right light when one has attained greater clarity about
@@ -868,7 +868,7 @@ also become clear what may lead us (and did lead me) to think that if
 anyone utters a sentence and means or understands it he is operating a
 calculus according to definite rules.”
 
-[^139]: Compare Wittgenstein 1933b, p. 121, where Wittgenstein expresses
+[^139] Compare Wittgenstein 1933b, p. 121, where Wittgenstein expresses
 doubts about the Tractatus doctrine of the separable ‘uses’ of words:
 “For what does it mean when I say that ‘is’ in the sentence ‘The rose is
 red’ has a different meaning than in ‘Twice two is four’? If we say that
@@ -881,9 +881,9 @@ And this is in turn connected with the question of how we can be aware
 of all the rules when we use a word with a certain meaning, considering
 that the rules, after all, constitute the meaning?”
 
-[^140]: Hahn, Neurath, et. al (1929), p. [^157]:
+[^140] Hahn, Neurath, et. al (1929), p. [^157]:
 
-[^141]: The direct links between the Vienna Circle’s program and the
+[^141] The direct links between the Vienna Circle’s program and the
 project of a particular kind of modernist, Enlightenment progressivism
 grounded in the claim that adherence to a scientific method, and the
 technical developments that result from it, could have profound and
@@ -905,17 +905,17 @@ while the other group . faces modern times, rejects these views and
 takes its stand on the ground of empirical science.” (p. 157). For more
 on the Vienna Circle’s politics, see also Wartofsky (1982).
 
-[^142]: See, e.g., Conant (2001).
+[^142] See, e.g., Conant (2001).
 
-[^143]: Tarski (1933).
+[^143] Tarski (1933).
 
-[^144]: Strictly speaking, because of the apparatus of Gödel numbering,
+[^144] Strictly speaking, because of the apparatus of Gödel numbering,
 the Gödel sentence for any particular formal system is not explicitly
 self-referential. Nevertheless it can be informally treated as such.
 
-[^145]: Tarski (1944), p. [^345]:
+[^145] Tarski (1944), p. [^345]:
 
-[^146]: Thus, the results that Gödel and Tarski derived from the
+[^146] Thus, the results that Gödel and Tarski derived from the
 paradoxes of linguistic self-reference demonstrated, for many of the
 philosophers who followed them, the impossibility of a purely syntactic
 analysis of language. It was not, at first, so. When Carnap learned of
@@ -935,15 +935,15 @@ transformation rules, provided that the metalanguage used was at least
 as strong as the object language itself. (for discussion, see Coffa
 1991, pp. 303-305).
 
-[^147]: Morris (1938)
+[^147] Morris (1938)
 
-[^148]: Morris (1938), p. [^43]:
+[^148] Morris (1938), p. [^43]:
 
-[^149]: Morris (1938), p. [^59]:
+[^149] Morris (1938), p. [^59]:
 
-[^150]: Austin (1955), pp. v-vi.
+[^150] Austin (1955), pp. v-vi.
 
-[^151]: Contrary to the most common interpretation of him, Austin
+[^151] Contrary to the most common interpretation of him, Austin
 therefore did not see the methods of logical positivism as falling prey
 to the dogma of the primacy of propositional meaning that he most
 directly opposes. Rather, he cites these methods approvingly, as showing
@@ -951,62 +951,62 @@ that the work of sentences is more complex than had earlier been
 thought; his own suggestion of performatives simply continues and
 develops this discovery (Austin 1955, p. 2).
 
-[^152]: Austin 1955, p. 3
+[^152] Austin 1955, p. 3
 
-[^153]: Austin 1955, p. [^5]:
+[^153] Austin 1955, p. [^5]:
 
-[^154]: Austin 1955, pp. 14-[^15]:
+[^154] Austin 1955, pp. 14-[^15]:
 
-[^155]: Austin 1955, p. [^54]:
+[^155] Austin 1955, p. [^54]:
 
-[^156]: Austin 1955, p. [^67]:
+[^156] Austin 1955, p. [^67]:
 
-[^157]: Austin 1955, pp. 61-[^62]:
+[^157] Austin 1955, pp. 61-[^62]:
 
-[^158]: Austin 1955, p. [^60]:
+[^158] Austin 1955, p. [^60]:
 
-[^159]: Austin 1955, pp. 148-[^49]:
+[^159] Austin 1955, pp. 148-[^49]:
 
-[^160]: Austin 1955, p. [^149]:
+[^160] Austin 1955, p. [^149]:
 
-[^161]: Drawing on the “metapragmatics” of Silverstein (1993), Lee (1997)
+[^161] Drawing on the “metapragmatics” of Silverstein (1993), Lee (1997)
 has recently given a far-ranging analysis of the implications of this
 entanglement for questions of the relationship between the meaning of
 utterances, their contexts, and accounts of subjectivity.
 
-[^162]: Of course, this assumption was, in general, a vast
+[^162] Of course, this assumption was, in general, a vast
 oversimplification. Compare discussion in chapter 1, above, and
 Livingston (2004), chapters 2 and [^4]:
 
-[^163]: Ryle (1932).
+[^163] Ryle (1932).
 
-[^164]: Ryle (1938)
+[^164] Ryle (1938)
 
-[^165]: Ryle (1938), p. [^287]:
+[^165] Ryle (1938), p. [^287]:
 
-[^166]: Ryle (1938), p. 283
+[^166] Ryle (1938), p. 283
 
-[^167]: Ryle (1949), p. 29; for more discussion see Livingston (2004), p.
+[^167] Ryle (1949), p. 29; for more discussion see Livingston (2004), p.
 121ff.
 
-[^168]: Ryle [^1953]:
+[^168] Ryle [^1953]:
 
-[^169]: Ryle 1953, p. [^173]: For some well-placed early doubts about
+[^169] Ryle 1953, p. [^173]: For some well-placed early doubts about
 Ryle’s conception of meaningfulness as grounded in “rules of use” see
 Abelson (1957).
 
-[^170]: Gellner (1959), p. [^32]:
+[^170] Gellner (1959), p. [^32]:
 
-[^171]: For a fascinating discussion of Gellner’s book and its
+[^171] For a fascinating discussion of Gellner’s book and its
 (unfortunate) influence, see Uschanov (2002). See also Cavell’s roughly
 contemporary discussion, with reference to the distinctive methods of
 ordinary language philosophy, in Cavell (1969), chapter [^4]:
 
-[^172]: Austin (1947); Ryle (1949); Sellars (1955)
+[^172] Austin (1947); Ryle (1949); Sellars (1955)
 
-[^173]: Ryle (1949), pp 29-[^32]:
+[^173] Ryle (1949), pp 29-[^32]:
 
-[^174]: On a standard misinterpretation of Ryle’s project, though, the
+[^174] On a standard misinterpretation of Ryle’s project, though, the
 dispositionalist analyses he suggests of particular mental terms is an
 analysis of the referents of these terms as dispositions or their
 categorical bases, for instance patterns of behavior or the
@@ -1018,40 +1018,40 @@ thoroughly as he does the Cartesian’s “para-mechanical” explanations
 (see, e.g., pp. 327-30); for more discussion, see Livingston (2004),
 chapter [^4]:
 
-[^175]: Ryle (1949), pp. 119-[^21]:
+[^175] Ryle (1949), pp. 119-[^21]:
 
-[^176]: Ryle (1949), p. [^121]:
+[^176] Ryle (1949), p. [^121]:
 
-[^177]: Ryle (1949), pp. 122-[^23]:
+[^177] Ryle (1949), pp. 122-[^23]:
 
-[^178]: Ryle (1949), p. [^125]:
+[^178] Ryle (1949), p. [^125]:
 
-[^179]: Ryle (1949), p. [^123]:
+[^179] Ryle (1949), p. [^123]:
 
-[^180]: Ryle (1949), p. [^141]:
+[^180] Ryle (1949), p. [^141]:
 
-[^181]: Ryle (1949), pp. 217-[^18]:
+[^181] Ryle (1949), pp. 217-[^18]:
 
-[^182]: Ryle (1949), pp. 219-[^220]:
+[^182] Ryle (1949), pp. 219-[^220]:
 
-[^183]: Ryle (1949), p. [^229]:
+[^183] Ryle (1949), p. [^229]:
 
-[^184]: This default assumption is recognizable as the semantic core of
+[^184] This default assumption is recognizable as the semantic core of
 what is traditionally discussed as epistemic ‘privileged access’ to
 one’s own mental states. For helpful discussion, see, e.g., the essays
 collected in Gertler (2003), especially chapters 8, 10, 11, and [^13]:
 
-[^185]: Sellars (1955), p. [^86]:
+[^185] Sellars (1955), p. [^86]:
 
-[^186]: Sellars (1955), p. [^87]:
+[^186] Sellars (1955), p. [^87]:
 
-[^187]: Sellars (1955), pp. 87-[^88]:
+[^187] Sellars (1955), pp. 87-[^88]:
 
-[^188]: Sellars 1955, p. [^78]:
+[^188] Sellars 1955, p. [^78]:
 
-[^189]: Sellars 1955, p. [^74]:
+[^189] Sellars 1955, p. [^74]:
 
-[^190]: Sellars 1955, p. [^75]: Another formulation of the same point is
+[^190] Sellars 1955, p. [^75]: Another formulation of the same point is
 in section 19, p. 44: “Now, it just won’t do to reply that to have the
 concept of green, to know what it is for something to be green, it is
 sufficient to respond, when one is in point of fact in standard
@@ -1060,67 +1060,67 @@ must the conditions be of a sort that is appropriate for determining the
 color of an object by looking, the subject must know that conditions of
 this sort are appropriate.”
 
-[^191]: Sellars (1955), pp. 75-[^76]:
+[^191] Sellars (1955), pp. 75-[^76]:
 
-[^192]: Sellars summarizes Schlick’s view, quite accurately, in section
+[^192] Sellars summarizes Schlick’s view, quite accurately, in section
 [^32]: Schlick originally expressed it in Schlick (1934) and Schlick
 (1935).
 
-[^193]: Sellars (1955), section [^34]:
+[^193] Sellars (1955), section [^34]:
 
-[^194]: Sellars (1955), section [^38]:
+[^194] Sellars (1955), section [^38]:
 
-[^195]: Sellars (1955), section [^36]:
+[^195] Sellars (1955), section [^36]:
 
-[^196]: Sellars 1955, p. [^74]:
+[^196] Sellars 1955, p. [^74]:
 
-[^197]: Brandom (1998) has recently discussed the question of Sellars’
+[^197] Brandom (1998) has recently discussed the question of Sellars’
 relationship to reliabilism.
 
-[^198]: Sellars (1955), p. [^74]:
+[^198] Sellars (1955), p. [^74]:
 
-[^199]: Sellars (1955), p. [^92]:
+[^199] Sellars (1955), p. [^92]:
 
-[^200]: Sellars (1955), section [^56]:
+[^200] Sellars (1955), section [^56]:
 
-[^201]: Sellars (1955), section [^57]:
+[^201] Sellars (1955), section [^57]:
 
-[^202]: Some of the relevant articles are Sellars (1947a) , (1947b)
+[^202] Some of the relevant articles are Sellars (1947a) , (1947b)
 (1948a), and (1948b).
 
-[^203]: Sellars (1947b), p. [^33]:
+[^203] Sellars (1947b), p. [^33]:
 
-[^204]: Sellars (1947b), p. [^31]:
+[^204] Sellars (1947b), p. [^31]:
 
-[^205]: The suggestion was influential, in particular, in leading to the
+[^205] The suggestion was influential, in particular, in leading to the
 “functionalism” of Putnam (1967), Armstrong (1968), and Lewis (1966).
 
-[^206]: The discussion unfolds, mostly by dialogue, in sections V and VI
+[^206] The discussion unfolds, mostly by dialogue, in sections V and VI
 of Sellars (1953).
 
-[^207]: Sellars’ attribution of “logical behaviorism” to Ryle is in fact
+[^207] Sellars’ attribution of “logical behaviorism” to Ryle is in fact
 inaccurate. Ryle was never a behaviorist of any kind (see discussion in
 Livingston (2004, chapter 4).
 
-[^208]: Sellars (1953), pp. 230-[^34]:
+[^208] Sellars (1953), pp. 230-[^34]:
 
-[^209]: Sellars (1953), pp. 234-[^35]:
+[^209] Sellars (1953), pp. 234-[^35]:
 
-[^210]: Sellars (1953), p. [^235]:
+[^210] Sellars (1953), p. [^235]:
 
-[^211]: Sellars (1953), p. [^236]:
+[^211] Sellars (1953), p. [^236]:
 
-[^212]: Sellars (1953), p. [^237]:
+[^212] Sellars (1953), p. [^237]:
 
-[^213]: Sellars (1953), p. [^237]:
+[^213] Sellars (1953), p. [^237]:
 
-[^214]: Sellars (1953), p. [^245]:
+[^214] Sellars (1953), p. [^245]:
 
-[^215]: Sellars (1953), p. [^244]:
+[^215] Sellars (1953), p. [^244]:
 
-[^216]: Sellars (1955), pp. 92-[^93]:
+[^216] Sellars (1955), pp. 92-[^93]:
 
-[^217]: Thomasson (2005) draws a suggestive analogy between Sellars’
+[^217] Thomasson (2005) draws a suggestive analogy between Sellars’
 theory of first-person knowledge in EPM and Husserl’s method of epoche
 or bracketing to gain access to the contents of first-person experience.
 Somewhat like Husserl, Thomasson suggests, Sellars can be seen as
@@ -1133,17 +1133,17 @@ suggestion could perhaps be developed even further in connection with
 Sellars’ earlier account of the semantic knowledge involved in our
 ability to describe first-person experience.
 
-[^218]: Carnap (1934a), p. 2
+[^218] Carnap (1934a), p. 2
 
-[^219]: Carnap (1934a), p. [^2]:
+[^219] Carnap (1934a), p. [^2]:
 
-[^220]: Carnap (1934a). p. [^284]:
+[^220] Carnap (1934a). p. [^284]:
 
-[^221]: Carnap (1934a), p. [^2]:
+[^221] Carnap (1934a), p. [^2]:
 
-[^222]: Carnap (1934a), pp. xiv – xv.
+[^222] Carnap (1934a), pp. xiv – xv.
 
-[^223]: In 1950, in “Empiricism, Semantics, and Ontology,” Carnap would
+[^223] In 1950, in “Empiricism, Semantics, and Ontology,” Carnap would
 make this even more explicit by introducing the term “linguistic
 framework” and distinguishing between questions internal and those
 extenral to such frameworks. According to this later work, metaphysical
@@ -1152,14 +1152,14 @@ pragmatic choice of a language framework, rather than as the substantial
 “internal” questions about the nature of entities or objects that they
 might otherwise appear to be.
 
-[^224]: Carnap (1934a), p. 286, p. [^301]:
+[^224] Carnap (1934a), p. 286, p. [^301]:
 
-[^225]: Carnap (1934a), p. 286, p. [^298]:
+[^225] Carnap (1934a), p. 286, p. [^298]:
 
-[^226]: Cf. the discussion of Carnap’s project in intercalary chapter 1,
+[^226] Cf. the discussion of Carnap’s project in intercalary chapter 1,
 above.
 
-[^227]: Significantly in view of Quine’s later formulation of the radical
+[^227] Significantly in view of Quine’s later formulation of the radical
 translation scenario, Carnap’s conception of languages in Syntax also
 contains a conception of the translation, or interpretation, of one
 language in another. For Carnap, a language is interpretible in another
@@ -1167,7 +1167,7 @@ language if both can be formulated as sub-languages of a third whose
 syntactical rules correlate sentences in the first with sentences in the
 second as equivalent in meaning (Carnap 1934a, p. 229).
 
-[^228]: It is true that Carnap stops short of identifying languages with
+[^228] It is true that Carnap stops short of identifying languages with
 calculi; in addition to their purely formal aspects, he holds, languages
 also have semantic and pragmatic aspects that are not accessible to the
 study of pure syntax (Carnap 1934a, p. 5). But it is essential to his
@@ -1177,11 +1177,11 @@ responsible for a language’s signs having the meanings that they do, and
 so that any language can, for the purposes of logical syntax, indeed be
 treated as a pure, otherwise uninterpreted calclulus.
 
-[^229]: Carnap 1934a, p. xv.
+[^229] Carnap 1934a, p. xv.
 
-[^230]: Carnap 1934a, p. xiii.
+[^230] Carnap 1934a, p. xiii.
 
-[^231]: At one point in Syntax, Carnap seems to admit this. On page 228,
+[^231] At one point in Syntax, Carnap seems to admit this. On page 228,
 while discussing the possibility of translation of one language into
 another, he writes: “We have already seen that, in the case of an
 individual language like German, the construction of the syntax of that
@@ -1193,7 +1193,7 @@ restriction unimportant, to be used only in making the decision whether
 a given calculus adequately captures an existing natural language,
 rather than in the derivation of the calculus itself.
 
-[^232]: A closely related problem for Carnap’s logical syntax project is
+[^232] A closely related problem for Carnap’s logical syntax project is
 the problem of the “name of the name” already pointed out by K. Reach in
 1938 (Reach (1938)). Carnap had held that it is possible for logical
 syntax to speak of the names of a language through the ordinary device
@@ -1214,23 +1214,23 @@ description of what is said in that language when a name is named.
 more general implications of this problem for the question of linguistic
 self-reference.
 
-[^233]: Quine (1934b), p. [^61]:
+[^233] Quine (1934b), p. [^61]:
 
-[^234]: Quine (1934b), p. [^60]:
+[^234] Quine (1934b), p. [^60]:
 
-[^235]: Quine (1934a), pp. 49-[^50]:
+[^235] Quine (1934a), pp. 49-[^50]:
 
-[^236]: Quine (1934a), p. [^50]:
+[^236] Quine (1934a), p. [^50]:
 
-[^237]: Quine (1935), p. [^73]:
+[^237] Quine (1935), p. [^73]:
 
-[^238]: Carroll (1895).
+[^238] Carroll (1895).
 
-[^239]: Quine (1935), p. [^97]:
+[^239] Quine (1935), p. [^97]:
 
-[^240]: Quine (1935), pp. 98-[^99]:
+[^240] Quine (1935), pp. 98-[^99]:
 
-[^241]: Following the publication of “Truth by Convention,” Quine’s
+[^241] Following the publication of “Truth by Convention,” Quine’s
 incipient doubts about analyticity and related issues developed during
 some correspondence with Carnap about intensionality in 1938 (Quine and
 Carnap 1990, p. 240) and, more importantly, in discussions with Carnap
@@ -1239,7 +1239,7 @@ the argument against analyticity explicitly, largely in correspondence
 with Nelson Goodman and Morton White. For a helpful review of this
 history, see Isaacson (2003), pp. 233-35.
 
-[^242]: One reason for its notoriety is that it has been considered to
+[^242] One reason for its notoriety is that it has been considered to
 represent a turning-point in the methods of analytic philosophy. For
 Quine’s rejection of the analytic/synthetic distinction seemed,
 especially in conjunction with the semantic holism and epistemological
@@ -1266,40 +1266,40 @@ essentially complete by 1934; it was only much later that Quine would
 set it within the context of the naturalist view of epistemology that he
 drew from Neurath and the behaviorism that he drew from Skinner.
 
-[^243]: Quine (1950), p. [^33]:
+[^243] Quine (1950), p. [^33]:
 
-[^244]: Quine (1950), p. [^24]:
+[^244] Quine (1950), p. [^24]:
 
-[^245]: Quine (1954), ,pp. 119-[^120]:
+[^245] Quine (1954), ,pp. 119-[^120]:
 
-[^246]: Carnap (1938), p. [^169]:
+[^246] Carnap (1938), p. [^169]:
 
-[^247]: Carnap (1963), p. [^919]:
+[^247] Carnap (1963), p. [^919]:
 
-[^248]: See, also, Ricketts (2003).
+[^248] See, also, Ricketts (2003).
 
-[^249]: Ebbs (1997), pp. 105-[^107]:
+[^249] Ebbs (1997), pp. 105-[^107]:
 
-[^250]: Ebbs (1997), p. [^98]:
+[^250] Ebbs (1997), p. [^98]:
 
-[^251]: It would hold equally, for instance, against any view according
+[^251] It would hold equally, for instance, against any view according
 to which the practice of a language is determined by rules thought to be
 represented explicitly (not in the social practice of a language but) in
 the brain or mind of an individual speaker; for these rules, too, there
 would be an open question about the source of their interpretation and
 their justificatory application.
 
-[^252]: Quine (1960), p. [^28]:
+[^252] Quine (1960), p. [^28]:
 
-[^253]: Quine (1960), p. [^71]:
+[^253] Quine (1960), p. [^71]:
 
-[^254]: Quine (1960), pp. 29-[^30]:
+[^254] Quine (1960), pp. 29-[^30]:
 
-[^255]: Quine (1960), p. [^27]:
+[^255] Quine (1960), p. [^27]:
 
-[^256]: See, e.g.,Quine (1960), p. [^28]:
+[^256] See, e.g.,Quine (1960), p. [^28]:
 
-[^257]: For another argument to the effect that the indeterminacy result
+[^257] For another argument to the effect that the indeterminacy result
 does not depend in any deep way on behaviorism, see Harman (1969). There
 is a large literature about the implications of Quine’s particular way
 of restricting, and describing, the facts available to the radical
@@ -1319,7 +1319,7 @@ independently of an interpretation of that language; and this does not
 require any particular further characterization of the form or subject
 matter of those facts.
 
-[^258]: There is a substantial literature debating the extent to which
+[^258] There is a substantial literature debating the extent to which
 the indeterminacy result differs from, or is similar to, Quine’s
 independent thesis of the underdetermination of theory by evidence in
 scientific theorizing generally. See, e.g., Gibson (1986). In Quine’s
@@ -1329,7 +1329,7 @@ by all actually available evidence, yet still be considered to embody
 facts, a translation manual outstrips all the actual or even possible
 facts of the matter. (See, e.g., Quine (1986a)).
 
-[^259]: The point is significant, as well, in that it affects the status
+[^259] The point is significant, as well, in that it affects the status
 and scope of the indeterminacy result itself. For decades after Quine’s
 formulation of indeterminacy, commentators repeatedly attempted to
 respond to it by suggesting that the introduction of further facts,
@@ -1349,9 +1349,9 @@ antecedently observe. There is no bar, explicit or implied, to facts
 practice of language that is evident in observable linguistic or
 non-linguistic behavior.
 
-[^260]: Quine 1960, p. [^68]:
+[^260] Quine 1960, p. [^68]:
 
-[^261]: Quine’s example of this is the rabbit-fly that the native uses to
+[^261] Quine’s example of this is the rabbit-fly that the native uses to
 recognize the presence of a rabbit; given the collateral information
 that rabbit-flies are reliable indicators of the presence of rabbits,
 information which the translator lacks, the native will assent to
@@ -1359,14 +1359,14 @@ information which the translator lacks, the native will assent to
 translator will assent to “rabbit”, necessitating an interpretive
 decision undetermined by the observable facts. (Quine 1960, p. 37).
 
-[^262]: Quine (1960), pp. 51-[^53]:
+[^262] Quine (1960), pp. 51-[^53]:
 
-[^263]: Quine (1960), pp. 51-[^52]:
+[^263] Quine (1960), pp. 51-[^52]:
 
-[^264]: Quine (1969b), p. 46; see the helpful discussion of this in
+[^264] Quine (1969b), p. 46; see the helpful discussion of this in
 Hookway (1988), pp. 141-[^42]:
 
-[^265]: This is obscured, according to Quine, by the fact that in
+[^265] This is obscured, according to Quine, by the fact that in
 understanding our compatriots, we ordinarily translate “automatically”
 or homophonically, associating token sentences in our compatriots’
 mouths with the like-sounding sentences for us. But this does not
@@ -1377,9 +1377,9 @@ indeed, it would be possible (though perverse) to use a non-homophonic
 translation manual, while still preserving all the facts about
 linguistic usage (p. 78).
 
-[^266]: Quine (1960), p. [^26]:
+[^266] Quine (1960), p. [^26]:
 
-[^267]: See, e.g., Alston (1986) and Ebbs (1997), both of whom appeal to
+[^267] See, e.g., Alston (1986) and Ebbs (1997), both of whom appeal to
 versions of the thought that being a master of a language must qualify a
 speaker to know the meanings of her own sentences; for a similar
 thought, expressed in terms of intuitions about the “supervenience” of
@@ -1392,7 +1392,7 @@ thesis can also naturally be posed as a question about the relationship
 between facts and norms of linguistic behavior, without prejudicing the
 question of what is the object of translation.
 
-[^268]: Alston’s (1986) statement of this is typical: “Clearly … it seems
+[^268] Alston’s (1986) statement of this is typical: “Clearly … it seems
 obvious that I know what I mean by ‘rabbit’ and other words in my
 language. I know that, e.g., I use ‘rabbit’ to denote complete enduring
 organisms like that, rather than the parts or stages of such organisms
@@ -1406,30 +1406,30 @@ is an essential part of what it is to have that language; knowing this
 is required for being able to use that language as a vehicle of thought
 and means of communication.” (pp. 59-60).
 
-[^269]: Nevertheless, it may break down at any point as well.
+[^269] Nevertheless, it may break down at any point as well.
 
-[^270]: In chapter 6 of Word and Object, Quine argues for the systematic
+[^270] In chapter 6 of Word and Object, Quine argues for the systematic
 eliminability of posited entities such as ‘propositions’ and ‘sentence
 meanings’ from a regimented analysis of natural language; it is unclear
 whether he thinks reflection on the systematic basis of what we
 intuitively grasp as “linguistic meaning” is similarly eliminable.
 
-[^271]: Quine (1960), chapter [^5]:
+[^271] Quine (1960), chapter [^5]:
 
-[^272]: Quine (1969a).
+[^272] Quine (1969a).
 
-[^273]: It is an interesting, and remarkable, fact of ordinary discourse
+[^273] It is an interesting, and remarkable, fact of ordinary discourse
 that the question “what does that mean?” can ask after both what words
 mean and what people mean “by them”; the first asks after something like
 a dictionary definition; the other (and herein lies its significance)
 asks after something else which, although not independent of
 definitions, is not exhausted by them. Compare Cavell (1979, p. 207ff).
 
-[^274]: Kant (1789), A vii.
+[^274] Kant (1789), A vii.
 
-[^275]: TLP [^4]:0031.
+[^275] TLP [^4]:0031.
 
-[^276]: “The book deals with the problems of philosophy and shows, as I
+[^276] “The book deals with the problems of philosophy and shows, as I
 believe, that the posing of these problems rests on the misunderstanding
 of the logic of our language … The book will, therefore, draw a limit to
 thinking, or rather – not to thinking, but to the expression of
@@ -1461,18 +1461,18 @@ made completeness my chief aim, and I venture to assert that there is
 not a single metaphysical problem which has not been solved, or for the
 solution of which the key at least has not been supplied.” (Axi-Axiii)
 
-[^277]: PI 201; I modify Anscombe’s translation slightly to bring out the
+[^277] PI 201; I modify Anscombe’s translation slightly to bring out the
 sense of Wittgenstein’s German more clearly.
 
-[^278]: More specifically, this is the question of the power of reason to
+[^278] More specifically, this is the question of the power of reason to
 motivate, which Kant treats in terms of our capacity to recognize its
 force. But part of Wittgenstein’s point is that if there is a problem of
 force here, there is just as much a problem of the conditions for the
 possibility of recognizing it.
 
-[^279]: PI [^217]:
+[^279] PI [^217]:
 
-[^280]: Cavell (1979), p. [^175]: Compare Cavell (2005), chapter 8, and
+[^280] Cavell (1979), p. [^175]: Compare Cavell (2005), chapter 8, and
 Cavell (1989) “Declining Decline,” where Cavell characterizes the
 Philosophical Investigations as containing a kind of “philosophy of
 culture:” “Wittgenstein’s appeal or ‘approach’ to the everyday finds the
@@ -1486,13 +1486,13 @@ the actual is the womb, contains the terms, of the eventual.” (p. 46).
 See also Cavell’s recent discussion of “The Investigations’ Everyday
 Aesthetics of Itself,” (Cavell 2004).
 
-[^281]: Cf. von Wright (1993), who describes the history of modern logic,
+[^281] Cf. von Wright (1993), who describes the history of modern logic,
 in the analytic tradition, “as a process of ‘rational disenchantment’”
 (p. 19) and indeed situates the entirety of the tradition, as well as
 its legacy for the future, within the extended development of
 enlightenment modes of disenchantment and demystification (eg., p. 50).
 
-[^282]: “Language (or thought) is something unique” – this proves to be a
+[^282] “Language (or thought) is something unique” – this proves to be a
 superstition (not a mistake!) itself produced by grammatical illusions.”
 (PI 110). Cf. what Wittgenstein says in reference to behaviorism at PI
 307: “ ‘Are you not realy a behaviourist in disguise? Aren’t you at
@@ -1500,7 +1500,7 @@ bottom really saying that everything except human behaviour is a
 fiction?’ –If I do speak of a fiction, then it is of a grammatical
 fiction.”
 
-[^283]: In particular, one might say, psychologism presents language as
+[^283] In particular, one might say, psychologism presents language as
 ultimately under the control of thought, and thus as secondary and
 inessential to the content that is lodged in the privileged interiority
 of a subject wholly intelligible to itself. This picture of agency and
@@ -1511,20 +1511,20 @@ of our mutuality as well, on the ways that, in intersubjective
 discourse, words are risked or ventured, their significance discovered
 or lost.
 
-[^284]: E.g., Dummett (1994).
+[^284] E.g., Dummett (1994).
 
-[^285]: Hylton (1990) gives a fascinating account of this rebellion.
+[^285] Hylton (1990) gives a fascinating account of this rebellion.
 
-[^286]: Heidegger (1929); Carnap (1932a). For interesting commentary, see
+[^286] Heidegger (1929); Carnap (1932a). For interesting commentary, see
 Friedman (2000).
 
-[^287]: E.g. McCumber (2001).
+[^287] E.g. McCumber (2001).
 
-[^288]: One such incident was the polemic between Schlick and Husserl
+[^288] One such incident was the polemic between Schlick and Husserl
 over the analysis of experience (see Livingston 2004, chapter 2 for
 discussion).
 
-[^289]: See, for instance, John Searle’s (1977) notorious and scathing
+[^289] See, for instance, John Searle’s (1977) notorious and scathing
 critical response to Derrida’s discussion of Austin in “Signature,
 Event, Context.” The polemic between Searle and Derrida about the
 reception of Austin has unfortunately represented, for several decades,
@@ -1535,7 +1535,7 @@ has discussed the question of Austin’s reception helpfully in Cavell
 (1969), chapter 4 and, with reference to the Searle-Derrida polemic,
 (1994).
 
-[^290]: Gebrauch or “use” in this sense ought to be distinguished from
+[^290] Gebrauch or “use” in this sense ought to be distinguished from
 cognates like Benutzung (“employment”), which Wittgenstein uses
 generally to occurrences of words in the speaking of a language, and
 Anwendung or “application,” which Wittgenstein uses most often in
@@ -1548,12 +1548,12 @@ employment [Benutzung] of the word ‘meaning’, this word, [viz.,
 ‘meaning’] can be explained [erklaren] by saying that the ‘meaning’ of a
 word is its use [Gebrauch] in the language.
 
-[^291]: A 302/B [^359]: Unless otherwise noted, citations in this chapter
+[^291] A 302/B [^359]: Unless otherwise noted, citations in this chapter
 are to Kant (1789).
 
-[^292]: A 305/B 361
+[^292] A 305/B 361
 
-[^293]: “Thus the pure concepts of reason, now under consideration, are
+[^293] “Thus the pure concepts of reason, now under consideration, are
 transcendental ideas. They are concepts of pure reason, in that they
 view all knowledge gained in experience as being determined through an
 absolute totality of conditions. They are not arbitrarily invented; they
@@ -1563,17 +1563,17 @@ they are transcendent and overstep the limits of all experience; no
 object adequate to the transcendental idea can ever be found within
 experience.” (A 327/ B384)
 
-[^294]: (A 322/B 378-79)
+[^294] (A 322/B 378-79)
 
-[^295]: A 323/B 379
+[^295] A 323/B 379
 
-[^296]: Sallis (1980), pp. 154-[^55]:
+[^296] Sallis (1980), pp. 154-[^55]:
 
-[^297]: Adorno (1959), p. [^66]:
+[^297] Adorno (1959), p. [^66]:
 
-[^298]: Adorno 1966, p. [^5]:
+[^298] Adorno 1966, p. [^5]:
 
-[^299]: [Wittgenstein’s] philosophy was a critique of language very
+[^299] [Wittgenstein’s] philosophy was a critique of language very
 similar in scope and purpose to Kant’s critique of thought. Like Kant,
 he believed that philosophers often unwittingly stray beyond the limits
 into the kind of specious nonsense that seems to express genuine
@@ -1590,14 +1590,14 @@ because the limits and the structure have a common origin. The nature of
 language dictates both what you can and what you cannot do with it.”
 (Pears 1970, pp. 2-3).
 
-[^300]: E.g., Gellner (1959). Philosophers within the tradition of
+[^300] E.g., Gellner (1959). Philosophers within the tradition of
 critical theory have also sometimes rejected Wittgenstein’s thought as
 fundamentally conservative in its supposed limitation of philosophical
 criticism to the standard of “ordinary use”; see, e.g., Marcuse (1964).
 
-[^301]: See, e.g., Nyiri (1981).
+[^301] See, e.g., Nyiri (1981).
 
-[^302]: Thus, Winch (1958) argues on what he takes to be Wittgensteinian
+[^302] Thus, Winch (1958) argues on what he takes to be Wittgensteinian
 grounds against projects in anthropology and social science that attempt
 to interrogate social practices “from without,” holding that the only
 way appropriately to practice social science is reflexively, from within
@@ -1609,18 +1609,18 @@ language-game, through whose context the meaning structure of a
 situation is revealed a priori.” (p. 31). For an instructive criticism
 of Winch’s position, see Pitkin (1972), pp. 254-[^63]:
 
-[^303]: In particular, the usual interpretation of the Kantian element in
+[^303] In particular, the usual interpretation of the Kantian element in
 Wittgenstein is continuous with a long-standing tendency, within the
 analytic tradition’s interpretations of Kant, to emphasize the
 limit-fixing project of the Transcendental Analytic over that of the
 dialectical one of the Dialectic. The tendency may have its origin in
 Strawson (1966). For a helpful criticism of it, see Neiman (2000).
 
-[^304]: Crary 2000, p. [^119]:
+[^304] Crary 2000, p. [^119]:
 
-[^305]: Crary (2000), p. [^138]:
+[^305] Crary (2000), p. [^138]:
 
-[^306]: Along similar lines, Cerbone (2003) argues that we should resist
+[^306] Along similar lines, Cerbone (2003) argues that we should resist
 the temptation to interpret Wittgenstein as holding any view according
 to which “ ‘our form of life’ serves as a boundary, a set of
 constraints, in short a limit, ‘within’ which our concepts can be
@@ -1638,9 +1638,9 @@ or in a way transcendent to them, then there is no way to employ these
 methods to support either a relativist or an absolutist theory of this
 fixation.
 
-[^307]: Diamond (1991), pp. 155-[^56]:
+[^307] Diamond (1991), pp. 155-[^56]:
 
-[^308]: See, e.g., Ostrow (2001): My contention … is that the
+[^308] See, e.g., Ostrow (2001): My contention … is that the
 Wittgensteinian view of the nature of his own claims, of philosophy
 generally, … is contained in the seeing how our philosophical assertions
 change their character, how they undermine their own initial
@@ -1650,7 +1650,7 @@ nature of Wittgenstein’s thought in the Tractatus. It brings to the fore
 the extent to which we are, at every juncture of the book, engaged with
 the very metaphysics that is apparently being disparaged. (p. 12)
 
-[^309]: “ ‘It is as if we could grasp the whole use of the word in a
+[^309] “ ‘It is as if we could grasp the whole use of the word in a
 flash.’ Like what e.g.? – Can’t the use – in a certain sense – be
 grasped in a flash? And in what sense can it not? – The point is, that
 it is as if we could ‘grasp it in a flash’ in yet another and much more
@@ -1658,27 +1658,27 @@ direct sense than that. – But have you a model for this? No. It is just
 that this expression suggests itself to us. As the result of the
 crossing of different pictures” (PI 191).
 
-[^310]: PI [^11]:
+[^310] PI [^11]:
 
-[^311]: PI 3, [^4]:
+[^311] PI 3, [^4]:
 
-[^312]: PI [^4]:
+[^312] PI [^4]:
 
-[^313]: PI 13, PI [^22]:
+[^313] PI 13, PI [^22]:
 
-[^314]: “It is interesting to compare the multiplicity of the tools in
+[^314] “It is interesting to compare the multiplicity of the tools in
 language and of the ways they are used, the multiplicity of kinds of
 words and sentence, with what logicians have said about the structure of
 language. (Including the author of the Tractatus Logico-Philosophicus)”
 (PI 23).
 
-[^315]: PI [^117]:
+[^315] PI [^117]:
 
-[^316]: PI [^102]:
+[^316] PI [^102]:
 
-[^317]: PI 103, [^107]:
+[^317] PI 103, [^107]:
 
-[^318]: “When someone says the word ‘cube’ to me, for example, I know
+[^318] “When someone says the word ‘cube’ to me, for example, I know
 what it means. But can the whole use of the word come before my mind,
 when I understand it in this way?”
 
@@ -1688,20 +1688,20 @@ conflict? Can what we grasp in a flash accord with a use, fit or fail to
 fit it? And how can what is present to us in an instant, what comes
 before our mind in an instant, fit a use?” (PI 139).
 
-[^319]: PI [^195]:
+[^319] PI [^195]:
 
-[^320]: Wittgenstein (1984).
+[^320] Wittgenstein (1984).
 
-[^321]: Thus Cavell (1989) has read Wittgenstein as a “philosopher of
+[^321] Thus Cavell (1989) has read Wittgenstein as a “philosopher of
 culture” in that he gives, in the Investigations, something like a
 critical “portrait of a complete sophisticated culture” (p. 74). Cf.
 also the instructive analysis given by Pitkin (1974) of some of the
 implications of Wittgenstein’s thought for questions of justice, power,
 and the nature of action.
 
-[^322]: E.g. Carnap (1928); see next chapter.
+[^322] E.g. Carnap (1928); see next chapter.
 
-[^323]: Recently, some commentators have begun to explore the possibility
+[^323] Recently, some commentators have begun to explore the possibility
 of reading Wittgenstein in a way that shows the relevance of his
 commentary to Marxist critique. Andrews (2002), for instance, argues
 that Marx’s description of the origin of value in Capital can be read,
@@ -1722,9 +1722,9 @@ contemporary political and social problems, a prospect that is much more
 reminiscent of the work of Adorno, Horkheimer, and other members of the
 early Frankfurt School.
 
-[^324]: See also Horkheimer and Adorno (1944).
+[^324] See also Horkheimer and Adorno (1944).
 
-[^325]: Robert Pippin (2005, chapter 5) has recently criticized the
+[^325] Robert Pippin (2005, chapter 5) has recently criticized the
 position of Adorno’s Negative Dialectics on the basis that Adorno’s
 notion of “identity thinking” is too broad to serve as a useful term for
 the critique of prevelant social practices and norms and that Adorno’s
@@ -1740,7 +1740,7 @@ involved in “applying concepts” in ordinary cases that do not simply
 amount to this kind of supplementation to (what is supposed to be) the
 ordinary operation of subsuming particulars under concepts.
 
-[^326]: Cavell (1979, p. 175) gives an apt description of the form of
+[^326] Cavell (1979, p. 175) gives an apt description of the form of
 this self-critique: “If philosophy is the criticism a culture produces
 of itself, and proceeds essentially by criticizing past efforts at this
 criticism, then Wittgenstein’s originality lies in having developed
@@ -1750,19 +1750,19 @@ which proceed not by trying to argue a given statement false or wrong,
 but by showing that the person making an assertion does not really know
 what he means, has not really said what he wished.”
 
-[^327]: Pippin (2005), chapter 3, has recently given a helpful account of
+[^327] Pippin (2005), chapter 3, has recently given a helpful account of
 Heidegger’s description of the structure of Dasein in Being and Time, as
 well, as determined by the possibility of a withdrawal or failure of
 “meaning.”
 
-[^328]: E.g., section 34: “Discourse is existentially equiprimordial with
+[^328] E.g., section 34: “Discourse is existentially equiprimordial with
 attunement and understanding.” (Heidegger 1927, p. 161)
 
-[^329]: Heidegger 1927, section 34, p. [^166]: I modify the Stambaugh
+[^329] Heidegger 1927, section 34, p. [^166]: I modify the Stambaugh
 translation in a couple of places to bring out the sense of the original
 more clearly.
 
-[^330]: “Recognizing the ontologically insufficient interpretation of the
+[^330] “Recognizing the ontologically insufficient interpretation of the
 logos at the same time sharpens our insight into the lack of
 primordiality of the methodical basis on which ancient ontology
 developed. The logos is experienced as something objectively present and
@@ -1773,22 +1773,22 @@ that being in the sense of a formal being-something is at the same time
 fused with it and we are unable to obtain a clear-cut division between
 these two realms.” (Heidegger 1927, p. 160).
 
-[^331]: “Presence” is meant here in both a temporal and a non-temporal
+[^331] “Presence” is meant here in both a temporal and a non-temporal
 sense.
 
-[^332]: Heidegger 1938a, p. [^3]:
+[^332] Heidegger 1938a, p. [^3]:
 
-[^333]: I follow the practice of the English-language translators in
+[^333] I follow the practice of the English-language translators in
 translating “Seyn” as “Be-ing”
 
-[^334]: “This saying does not describe or explain, does not proclaim or
+[^334] “This saying does not describe or explain, does not proclaim or
 teach. This saying does not stand over against what is said. Rather, the
 saying itself is the ‘to be said,’ as the essential swaying of be-ing.”
 (Heidegger 1938a, p. 4);
 
-[^335]: Heidegger 1938a, p. [^26]:
+[^335] Heidegger 1938a, p. [^26]:
 
-[^336]: This point about language’s failure remains constant throughout
+[^336] This point about language’s failure remains constant throughout
 Heidegger’s treatments of language and its being. Consider, e.g., his
 statement of it in “The Nature of Language” in 1957: “There is some
 evidence that the essential nature of language flatly refuses to express
@@ -1797,7 +1797,7 @@ about language. If language everywhere withholds its nature in this
 sense, then such withholding is in the very nature of language.”
 (Heidegger 1957a, p. 81).
 
-[^337]: Thus, in section 34 of Being and Time, keeping silent [Schweigen]
+[^337] Thus, in section 34 of Being and Time, keeping silent [Schweigen]
 and hearing are described as possibilities of discourse [Rede], which is
 itself equiprimordial with “state-of-mind” and “understanding” as
 constituents of the existential structure of “Being-in” as such. There
@@ -1815,32 +1815,32 @@ conscience. Insofar as an individual Da-sein can practice “reticence” in
 this sense, she “takes the words away” from the fallenness of “idle
 talk.”
 
-[^338]: See, especially, “The Nature of Language,” (Heidegger 1957a) and
+[^338] See, especially, “The Nature of Language,” (Heidegger 1957a) and
 for an exceptionally clear reading of the implications of “words failing
 one” in this lecture, see Bernasconi (1985), especially chapter [^4]:
 Cf., also, Heidegger (1929).
 
-[^339]: As Heidegger uses it, the term die Seienden can be translated
+[^339] As Heidegger uses it, the term die Seienden can be translated
 “beings” or “entities.” Entities are whatever has any kind of existence:
 things and objects, but also properties, acts, and events.
 
-[^340]: In colloquial German, “Machenschaft” refers, like the English
+[^340] In colloquial German, “Machenschaft” refers, like the English
 word “machination,” to calculating and technical ways of making and
 doing; but we should also keep in mind the etymological connection
 between “Machenschaft” and “Macht” or power, as well as the
 corresponding resonances of Heidegger’s critique of machination with his
 critical consideration of Nietzsche’s “will to power” [Wille zur Macht].
 
-[^341]: Heidegger 1938a, section [^50]:
+[^341] Heidegger 1938a, section [^50]:
 
-[^342]: But the second beginning is by no means just like the first
+[^342] But the second beginning is by no means just like the first
 beginning in its fundamental character and attitude. Whereas the first
 beginning was “attuned” towards wonder and the questioning contemplation
 of beings, the second beginning is attuned toward “foreboding” and opens
 the question of the truth of be-ing itself. (Heidegger 1938a, section
 6).
 
-[^343]: The character of machination is thus deeply ambiguous;
+[^343] The character of machination is thus deeply ambiguous;
 machination comes to the fore as an aspect of the absence and withdrawal
 of being, but nevertheless does so as an expression or aspect of being
 itself, and therefore harbors within itself the possibility of giving us
@@ -1849,27 +1849,27 @@ nature of technology is a familiar theme of Heidegger’s later writings
 about technology. See, e.g., “The Question Concerning Technology,”
 (Heidegger 1953).
 
-[^344]: Heidegger 1938a, section [^58]:
+[^344] Heidegger 1938a, section [^58]:
 
-[^345]: See, e.g., Dilthey (1931).
+[^345] See, e.g., Dilthey (1931).
 
-[^346]: Heidegger (1927), p. [^44]:
+[^346] Heidegger (1927), p. [^44]:
 
-[^347]: For an interesting analysis of the influence of Lebensphilosophie
+[^347] For an interesting analysis of the influence of Lebensphilosophie
 in phenomenology and in relation to Wittgenstein’s thought, see Gier
 (1981), especially chapter [^3]:
 
-[^348]: Heidegger 1938a , section [^66]:
+[^348] Heidegger 1938a , section [^66]:
 
-[^349]: Heidegger 1938a, section 63
+[^349] Heidegger 1938a, section 63
 
-[^350]: Heidegger (1953).
+[^350] Heidegger (1953).
 
-[^351]: Heidegger (1938b), pp. 153-55
+[^351] Heidegger (1938b), pp. 153-55
 
-[^352]: Heidegger (1938b), p. [^155]:
+[^352] Heidegger (1938b), p. [^155]:
 
-[^353]: “There was a time when it was not technology alone that bore the
+[^353] “There was a time when it was not technology alone that bore the
 name techne. Once the revealing that brings forth truth into the
 splendour of radiant appearance was also called techne.
 
@@ -1877,26 +1877,26 @@ There was a time when the bringing-forth of the true into the beautiful
 was called techne. The poiesis of the fine arts was also called techne.”
 (Heidegger 1953,p. 339).
 
-[^354]: Heidegger (1938b) p. [^155]:
+[^354] Heidegger (1938b) p. [^155]:
 
-[^355]: Heidegger (1938b) p. [^155]:
+[^355] Heidegger (1938b) p. [^155]:
 
-[^356]: Heidegger 1938a , section [^61]:
+[^356] Heidegger 1938a , section [^61]:
 
-[^357]: Heidegger 1952, p. [^244]:
+[^357] Heidegger 1952, p. [^244]:
 
-[^358]: Heidegger 1952, p. [^241]:
+[^358] Heidegger 1952, p. [^241]:
 
-[^359]: Heidegger 1957b, p. [^25]:
+[^359] Heidegger 1957b, p. [^25]:
 
-[^360]: Compare also the largely parallel discussion in Heidegger (1954),
+[^360] Compare also the largely parallel discussion in Heidegger (1954),
 pp. 81-[^83]:
 
-[^361]: Heidegger 1957b, pp. 25-[^26]:
+[^361] Heidegger 1957b, pp. 25-[^26]:
 
-[^362]: Wittgenstein 1930, p. [^7]:
+[^362] Wittgenstein 1930, p. [^7]:
 
-[^363]: Carnap 1928, pp. xvi-xvii. I owe this juxtaposition of the Carnap
+[^363] Carnap 1928, pp. xvi-xvii. I owe this juxtaposition of the Carnap
 and Wittgenstein quotations, as well as the suggestion that Wittgenstein
 may have had Carnap in mind, to von Wright (1993), pp. 208-[^09]: For
 more on the deep linkages between the attitude expressed by Carnap and
@@ -1904,9 +1904,9 @@ contemporary versions of utopian and progressivist thought, including
 the architectural modernism of the Bauhaus architects, see Galison
 (1996).
 
-[^364]: Carnap 1928, p. [^29]:
+[^364] Carnap 1928, p. [^29]:
 
-[^365]: Of course, Carnap’s underlying motivation is not to portray a
+[^365] Of course, Carnap’s underlying motivation is not to portray a
 picture of subjectivity but rather to eliminate it from the structural
 description of the ‘objective’ world; it is for this reason that the
 description of objective statements as grounded structurally in basic
@@ -1918,9 +1918,9 @@ strikingly convergent in their underlying critical motivations but
 strikingly (and decisively) divergent in the ways they sought to carry
 them out.
 
-[^366]: PI [^23]:
+[^366] PI [^23]:
 
-[^367]: The connection is evident in the only known remark by
+[^367] The connection is evident in the only known remark by
 Wittgenstein about Heidegger, from December 30, 1929, which begins:
 
 I can readily think what Heidegger means by Being and Dread [Angst]. Man
@@ -1937,23 +1937,23 @@ translation appeared, without the title “Zu Heidegger” and the first and
 last sentences, at the end of Wittgenstein (1933c); see also Murray
 (1974).
 
-[^368]: TLP [^5]:6, 6.45.
+[^368] TLP [^5]:6, 6.45.
 
-[^369]: TLP [^6]:522.
+[^369] TLP [^6]:522.
 
-[^370]: TLP 7
+[^370] TLP 7
 
-[^371]: Compare Heidegger (1957a): “There is some evidence that the
+[^371] Compare Heidegger (1957a): “There is some evidence that the
 essential nature of language flatly refuses to express itself in words –
 in the language, that is, in which we make statements about language. If
 language everywhere withholds its nature in this sense, then such
 withholding is in the very nature of language.” (p. 81).
 
-[^372]: Cf. also PI 34, where an interlocutor is presented as holding
+[^372] Cf. also PI 34, where an interlocutor is presented as holding
 that “I always do the same thing when I attend to a shape: my eye
 follows the outline and I feel…”
 
-[^373]: In a footnote to his now-classic discussion of Wittgenstein’s
+[^373] In a footnote to his now-classic discussion of Wittgenstein’s
 rule-following paradox (Kripke 1982), pp. 18-19 discusses the question
 of whether the paradox might be construed as an attack on some notion of
 “absolute” identity and thereby resolved by some concept of identity as
@@ -1962,11 +1962,11 @@ this resolution cannot work, since no standard of identity, even a
 ‘relative’ one, suffices by itself to establish that my way of following
 a rule can indeed always be seen as grounded in its repetition.
 
-[^374]: PI. [^218]:
+[^374] PI. [^218]:
 
-[^375]: PI. [^201]:
+[^375] PI. [^201]:
 
-[^376]: Wittgenstein has sometimes been taken to be criticizing the
+[^376] Wittgenstein has sometimes been taken to be criticizing the
 language of metaphysics by supposing it possible to return to a more
 innocent “ordinary language’ in which metaphysical confusions “cannot
 arise.” Such an impression of Wittgenstein’s sense of the origination of
@@ -1976,28 +1976,28 @@ fullest expression in the projects of philosophers are, for
 Wittgenstein, already present in the ordinary forms of language
 themselves and in our standing tendencies to mistake them.
 
-[^377]: Some recent discussions that connect Heidegger with Wittgenstein
+[^377] Some recent discussions that connect Heidegger with Wittgenstein
 are: Apel (1998), chapter 6, Rorty (1993), and Guignon (1990).
 
-[^378]: Versions of the “social pragmatist” interpretation of Heidegger
+[^378] Versions of the “social pragmatist” interpretation of Heidegger
 are given by Haugeland (1982), Brandom (1983), and Rorty (1993). The
 further development of this interpretation has also been influenced by
 Dreyfus’ (1990) analysis of the first division of Being and Time.
 
-[^379]: Some prominent examples of projects that make this appeal, in one
+[^379] Some prominent examples of projects that make this appeal, in one
 way or another, include: Brandom (1994), Rorty (1979), Kripke (1984),
 and Davidson (2001).
 
-[^380]: These historical readings are spelled out, in more detail, in
+[^380] These historical readings are spelled out, in more detail, in
 Brandom (2002).
 
-[^381]: Brandom (1994), p. [^20]:
+[^381] Brandom (1994), p. [^20]:
 
-[^382]: Brandom,(1994) [^11]:
+[^382] Brandom,(1994) [^11]:
 
-[^383]: Brandom (1994), [^32]:
+[^383] Brandom (1994), [^32]:
 
-[^384]: For another representative example of this kind of appeal, see,
+[^384] For another representative example of this kind of appeal, see,
 e.g., Robert Pippin’s (2005) description of the significance of norms in
 the course of his recent attempt to rehabilitate a Hegelian conception
 of freedom and subjectivity: “Genuinely leading a life is rightly taken
@@ -2007,29 +2007,29 @@ justify, and stand behind one’s deeds (reclaim them as my own), and that
 involves (so it is argued) understanding what it is to be responsive to
 norms, reasons..” (p. 11).
 
-[^385]: Brandom (1994) 19-[^20]:
+[^385] Brandom (1994) 19-[^20]:
 
-[^386]: Brandom, (1994), p. [^20]:
+[^386] Brandom, (1994), p. [^20]:
 
-[^387]: Brandom, (1994), p. [^20]:
+[^387] Brandom, (1994), p. [^20]:
 
-[^388]: In the Tractatus, at [^4]:002, Wittgenstein does speak of “tacit
+[^388] In the Tractatus, at [^4]:002, Wittgenstein does speak of “tacit
 conventions” underlying the use of everyday language; but the claim that
 language-use depends on conventions in this sense is, as I have argued,
 a direct target of the later Wittgenstein’s criticism of his earlier
 position. Compare, also, the somewhat fuller discussion of Ramsey’s
 remark in the Big Typescript (Wittgenstein 1933b), pp. 198ff.
 
-[^389]: Cf. PI 60-63, where Wittgenstein critically discusses the
+[^389] Cf. PI 60-63, where Wittgenstein critically discusses the
 prospects for an analysis of orders, and PI [^133]:
 
-[^390]: Brandom (1994), p. [^34]:
+[^390] Brandom (1994), p. [^34]:
 
-[^391]: Brandom (1994), p. [^36]:
+[^391] Brandom (1994), p. [^36]:
 
-[^392]: Brandom, (1994), p. [^39]:
+[^392] Brandom, (1994), p. [^39]:
 
-[^393]: “The challenge is to show how these two approaches (normative
+[^393] “The challenge is to show how these two approaches (normative
 pragmatics modeled on deontic scorekeeping and inferential semantics)
 can be combined into a single story about social practices of treating
 speech acts as having the significance of assertions … Describing
@@ -2046,50 +2046,50 @@ practical deontic attitudes of attributing and undertaking assertional
 commitments and their corresponding entitlements.” (Brandom 1994, p.
 167).
 
-[^394]: P. [^134]: Brandom follows Sellars in speaking of these
+[^394] P. [^134]: Brandom follows Sellars in speaking of these
 “inferential norms,” in an extended sense, as determining the complex
 “roles” that “expressions…play in the behavioral economy of those to
 whom they are attributed.” (Brandom, 1994, p. 134).
 
-[^395]: Some support for the latter interpretation is apparently given by
+[^395] Some support for the latter interpretation is apparently given by
 PI 25, 415, and perhaps 206; but for a different and much more subtle
 view of what might be meant by Wittgenstein’s “naturalism”, see Cavell
 (1979), chapter [^5]:
 
-[^396]: The word that Anscombe translates as “abolish” can also mean
+[^396] The word that Anscombe translates as “abolish” can also mean
 “sublate.”
 
-[^397]: For these doubts, see PI 126-[^132]:
+[^397] For these doubts, see PI 126-[^132]:
 
-[^398]: PI 224-[^225]:
+[^398] PI 224-[^225]:
 
-[^399]: PI [^228]: Thus it cannot be the point of Wittgenstein’s
+[^399] PI [^228]: Thus it cannot be the point of Wittgenstein’s
 discussion to (as Habermas (1981, pp. 17-18) suggests) provide grounds
 for “securing” the “identity of rules” and so for practices of
 “reciprocal criticism and mutual instruction.”
 
-[^400]: Cf. PI 211: “How can he know he is to continue a pattern by
+[^400] Cf. PI 211: “How can he know he is to continue a pattern by
 himself – whatever instructions you give him? -- Well, how do I know? –
 If that means “Have I reasons?” the answer is: my reasons will soon give
 out. And then I shall act, without reasons.”
 
-[^401]: PI 201
+[^401] PI 201
 
-[^402]: PI 221
+[^402] PI 221
 
-[^403]: PI 84, [^288]:
+[^403] PI 84, [^288]:
 
-[^404]: Another reason Brandom seems to miss the force of Wittgenstein’s
+[^404] Another reason Brandom seems to miss the force of Wittgenstein’s
 paradox, indeed, is that he spends so much effort arguing against such
 conceptions of “norms” as autonomous that he misses Wittgenstein’s more
 basic challenge to the explanatory utility of the notions of “norms” and
 “facts” themselves.
 
-[^405]: PI [^81]:
+[^405] PI [^81]:
 
-[^406]: See, e.g.Brandom (1994), p. 34, p. [^63]:
+[^406] See, e.g.Brandom (1994), p. 34, p. [^63]:
 
-[^407]: Brandom appears to concur with this when he follows Samuel
+[^407] Brandom appears to concur with this when he follows Samuel
 Pufendorf in treating the institution of normative statuses as depending
 on the operation of authority, which is itself conceived as depending on
 the power of “obligating,” what Pufendorf calls “sovereignty.” Brandom
@@ -2101,7 +2101,7 @@ description of the constitution of this “us,” the ways its practices are
 defined and derived, and the possibility of the kind of failure of
 acknowledgment that I’ve discussed above.
 
-[^408]: In a recent text, Cavell reacts explicitly against Kripke’s
+[^408] In a recent text, Cavell reacts explicitly against Kripke’s
 interpretation of Wittgenstein’s rule-following paradox as requiring a
 “skeptical solution” in terms of the formulation of socially inculcated
 standards for various kinds of conventional language use. His criticism
@@ -2122,20 +2122,20 @@ the other goes on alone, and within bounds of mutuality, or not.”
 (Cavell 2005, p. 138) Compare also the deconstructive treatment of some
 of these issues of force, authority, and violence in Derrida (1992).
 
-[^409]: In this paragraph and the next one, I am heavily indebted to
+[^409] In this paragraph and the next one, I am heavily indebted to
 Mulhall (2003).
 
-[^410]: Cavell (1969); Cavell (1979).
+[^410] Cavell (1969); Cavell (1979).
 
-[^411]: Cavell (1979), p. [^185]:
+[^411] Cavell (1979), p. [^185]:
 
-[^412]: Cavell (1969), p. [^52]:
+[^412] Cavell (1969), p. [^52]:
 
-[^413]: Cavell (1969), 49-50; compare the sentence from Brandom quoted
+[^413] Cavell (1969), 49-50; compare the sentence from Brandom quoted
 above: “Applying a rule in particular circumstances is itself
 essentially something that can be done correctly or incorrectly.”
 
-[^414]: Again, the reason for this is not that at some point norms must
+[^414] Again, the reason for this is not that at some point norms must
 cede to “facts” purged of normativity or normative implications. It is,
 rather, that there is in an important sense no “all the way down,” –
 that is, nothing requires that it must even be so much as possible for
@@ -2146,7 +2146,7 @@ agreement lacking; and here (as I shall argue) what is needed is not
 further facts or norms, but something of a fundamentally different kind
 than either.
 
-[^415]: “… I should emphasize that, while I regard it as empty to call
+[^415] “… I should emphasize that, while I regard it as empty to call
 this idea of mutual attunement ‘merely metaphorical’, I also do not take
 it to prove or explain anything. On the contrary, it is meant to
 question whether a philosophical explanation is needed, or wanted, for
@@ -2156,21 +2156,21 @@ propositions which are to provide the foundation of our agreements. For
 nothing is deeper than the fact, or the extent, of agreement itself.”
 (Cavell 1979, p. 32).
 
-[^416]: “Appealing to criteria is not a way of explaining or proving the
+[^416] “Appealing to criteria is not a way of explaining or proving the
 fact of our attunement in words (hence in forms of life). It is only
 another description of the same fact; or rather, it is an appeal we make
 when the attunement is threatened or lost.” Cavell (1979, p. 34).
 
-[^417]: Cavell (1979), [^115]:
+[^417] Cavell (1979), [^115]:
 
-[^418]: In a helpful recent discussion of Cavell’s uptake of the methods
+[^418] In a helpful recent discussion of Cavell’s uptake of the methods
 of ordinary language philosophy, Espen Hammer (Hammer 2002, p. 9) makes
 a similar point with respect to the responsibility of the speaker for
 her utterances; along similar lines Eldridge (1986) urges that claims of
 reason are essentially connected to claims of self-knowledge or
 understanding.
 
-[^419]: “If what can be said in a language is not everywhere determined
+[^419] “If what can be said in a language is not everywhere determined
 by rules, nor its understanding anywhere secured through universals, and
 if there are always new contexts to be met, new needs, new
 relationships, new objects, new perceptions to be recorded and shared,
@@ -2185,20 +2185,20 @@ masters?” (Cavell 1979, p. 180) For Brandom, by contrast, the
 reducible to non-normative facts or definable only in terms of other
 norms. (Brandom 1994, pp. 44-45).
 
-[^420]: Cavell 1979, p. [^207]:
+[^420] Cavell 1979, p. [^207]:
 
-[^421]: Levinas (1961).
+[^421] Levinas (1961).
 
-[^422]: Levinas (1974).
+[^422] Levinas (1974).
 
-[^423]: Of course, there are alternatives to this reading of the
+[^423] Of course, there are alternatives to this reading of the
 significance of logos in Heidegger’s texts (see chapter 7 above).
 
-[^424]: Levinas (1974), pp. 45-[^46]:
+[^424] Levinas (1974), pp. 45-[^46]:
 
-[^425]: Levinas (1974), p. [^48]:
+[^425] Levinas (1974), p. [^48]:
 
-[^426]: Cavell discusses Levinas briefly in his recent (2005), chapter
+[^426] Cavell discusses Levinas briefly in his recent (2005), chapter
 [^6]: One remaining question that Cavell suggests, while nevertheless
 acknowledging the similarities between his and Levinas’ understanding of
 the ethical relationship to the other, is about the basis for Levinas’
@@ -2206,9 +2206,9 @@ claim that my responsibility to the other is “infinite” and his
 position, with respect to mine, necessarily captured in figures of
 “elevation” and height. (Cavell 2005, p. 205).
 
-[^427]: Wittgenstein (1933c), p. [^11]:
+[^427] Wittgenstein (1933c), p. [^11]:
 
-[^428]: “The aspects of things that are most important for us are hidden
+[^428] “The aspects of things that are most important for us are hidden
 because of their simplicity and familiarity. (One is unable to notice
 something – because it is always before one’s eyes.) The real
 foundations of his enquiry do not strike a man at all. Unless that fact
@@ -2225,7 +2225,7 @@ another familiar. Hence ordinary language procedures, like the
 procedures of psychoanalysis, inherently partake of the uncanny.” (p.
 47)
 
-[^429]: Cf. the first sentences of Jacques Derrida’s Of Grammatology,
+[^429] Cf. the first sentences of Jacques Derrida’s Of Grammatology,
 which declares, in a different register, the same paradoxical turn to
 language: “However the topic is considered, the problem of language has
 never been simply one problem among others. But never as much as at
@@ -2242,20 +2242,20 @@ its own finitude at the very moment when its limits seem to disappear,
 when it ceases to be self-assured, contained, and guaranteed by the
 infinite signified which seemed to exceed it.” (Derrida 1967, p. 6).
 
-[^430]: A typical statement is given in the preface of Biletzki and Matar
+[^430] A typical statement is given in the preface of Biletzki and Matar
 (1998): “It seems beyond argument that analytic philosophy has been, for
 some time now, in a state of crisis – dealing with its self-image, its
 relationships with philosophical alternatives, its fruitfulness and even
 legitimacy in the general philosophical community.” (p. xi)
 
-[^431]: Some recent versions of the naturalist project that bear on
+[^431] Some recent versions of the naturalist project that bear on
 language are, e.g., Millikan (1984), Papineau (1993), Dretske (1997) and
 Fodor (1992). Several of these projects, in particular, attempt to
 explain meaning or intentionality in terms of teleological notions drawn
 from the philosophy of biology. Others attempt to “naturalize” meaning
 by portraying it as a kind of natural correspondence.
 
-[^432]: Of course, if the phrase “adequately explained” is taken as
+[^432] Of course, if the phrase “adequately explained” is taken as
 meaning “explained in terms of structures of facts,” then this claim
 becomes a tautology and is certainly justified (although it no longer
 determines a research project). To take it this way, however, is to beg
@@ -2265,28 +2265,28 @@ for a “complete,” “total,” or “adequate” causal explanation; and sec
 (and more importantly) whether and to what extent what is wanted from an
 understanding of language is an “explanation” at all.
 
-[^433]: Kripke (1972).
+[^433] Kripke (1972).
 
-[^434]: The suggestion of applying Kripke’s framework to natural-kind
+[^434] The suggestion of applying Kripke’s framework to natural-kind
 terms is developed by Putnam (1975).
 
-[^435]: For these developments, , see, e.g., Lewis (1986) and Stalnaker
+[^435] For these developments, , see, e.g., Lewis (1986) and Stalnaker
 (1976).
 
-[^436]: For a recent comprehensive treatment that develops all of these
+[^436] For a recent comprehensive treatment that develops all of these
 historical and interpretive suggestions, see Soames (2003), volume II.
 
-[^437]: “Couldn’t I look at language as a social institution that is
+[^437] “Couldn’t I look at language as a social institution that is
 subject to certain rules because otherwise it wouldn’t be effective? But
 here’s the problem: I cannot make this last claim; I cannot give any
 justification of the rules, not even like this. I can only describe them
 as a game that people play.” (Wittgenstein 1933b, p. 145).
 
-[^438]: Cf. PI 23: “But how many kinds of sentence are there? Say
+[^438] Cf. PI 23: “But how many kinds of sentence are there? Say
 assertion, question, and command?—There are countless kinds: countless
 different kinds of use of what we call ‘symbols’, ‘words’, ‘sentences’.”
 
-[^439]: In a far-ranging recent text (Hanna and Harrison 2004), Patricia
+[^439] In a far-ranging recent text (Hanna and Harrison 2004), Patricia
 Hanna and Bernard Harrison undertake to solve what they take to be a
 central debate between realism and conventionalism about linguistic
 categories and reference. They do so by means of a “two-stage” theory of
@@ -2301,7 +2301,7 @@ how any symbol gains sense. (Consider, for instance, their endorsement
 of the practice-based “solution” to Kripke’s rule-following paradox that
 they derive from Goddard (1961) (Hanna and Harrison 2004), p. [^185]:
 
-[^440]: Cf PI 363: “I should like to say: you regard it much too much as
+[^440] Cf PI 363: “I should like to say: you regard it much too much as
 a matter of course that one can tell anything to anyone. That is to say:
 we are so much accustomed to communication through language, in
 conversation, that it looks to us as if the whole point of communication
@@ -2316,16 +2316,16 @@ remark comes in a section of the Typescript entitled “Language in Our
 Sense not Defined as an Instrument for a Particular Purpose. Grammar is
 not a Mechanism Justified by its Purpose.”
 
-[^441]: Austin (1940), p. [^56]:
+[^441] Austin (1940), p. [^56]:
 
-[^442]: Austin (1940), pp. 57-[^58]: I owe some of the ideas in the
+[^442] Austin (1940), pp. 57-[^58]: I owe some of the ideas in the
 paragraphs to follow to Alan Nelson.
 
-[^443]: Austin (1940), P. 61
+[^443] Austin (1940), P. 61
 
-[^444]: Austin (1940), P. 62
+[^444] Austin (1940), P. 62
 
-[^445]: Cf. Ryle (1953): ” Later on, when philosophers were in revolt
+[^445] Cf. Ryle (1953): ” Later on, when philosophers were in revolt
 against psychologism in logic, there was a vogue for another idiom, the
 idiom of talking about the meanings of expressions … They construed the
 verb 'to mean' as standing for a relation between an expression and some
@@ -2342,7 +2342,7 @@ learning how to manage the words 'if', 'ought' and 'limit'.” (pp.
 “museum myth” of substantial meanings and the “externalist” argument of
 Putnam (1975).
 
-[^446]: Compare Cavell’s (1979) reading of the same tendency to criticize
+[^446] Compare Cavell’s (1979) reading of the same tendency to criticize
 ‘the objectification of meaning:’ “ ‘The meaning is the use’ calls
 attention to the fact that what an expression means is a function of
 what it is used to mean or to say on specific occasions by human beings.
@@ -2357,19 +2357,19 @@ being achievable only through the construction of a perfect language. A
 fitting title for this history would be: Philosophy and the Rejection of
 the Human.” (pp. 206-207).
 
-[^447]: Hampshire’s reaction to Ryle.
+[^447] Hampshire’s reaction to Ryle.
 
-[^448]: Davidson (1973b).
+[^448] Davidson (1973b).
 
-[^449]: Davidson (1965); Davidson (1970); Davidson (1973).
+[^449] Davidson (1965); Davidson (1970); Davidson (1973).
 
-[^450]: Davidson (1973b); Davidson (1974a).
+[^450] Davidson (1973b); Davidson (1974a).
 
-[^451]: Davidson (1974b)
+[^451] Davidson (1974b)
 
-[^452]: Davidson 1986, p. [^446]:
+[^452] Davidson 1986, p. [^446]:
 
-[^453]: Rorty (1986, p. 353) reads Davidson’s moral as allowing a
+[^453] Rorty (1986, p. 353) reads Davidson’s moral as allowing a
 dissolution of the temptation to impose tertia between “us” and “the
 world” which, according to Rorty “created the old metaphysical issues in
 the first place.” This conclusion is continuous with Rorty’s
@@ -2381,18 +2381,18 @@ the analytic tradition to be seen as critically continuous with the
 metaphysics they (partially) repudiate in their ability to interpret
 this temptation itself.
 
-[^454]: McDowell (1994), p. xvi.
+[^454] McDowell (1994), p. xvi.
 
-[^455]: McDowell (1994), p. 9ff.
+[^455] McDowell (1994), p. 9ff.
 
-[^456]: This conception of “world” itself has its roots in Heidegger’s
+[^456] This conception of “world” itself has its roots in Heidegger’s
 (1927) description of “being-in-the-world”.
 
-[^457]: McDowell 1994, pp. 124-[^25]:
+[^457] McDowell 1994, pp. 124-[^25]:
 
-[^458]: McDowell (1994), p. [^126]:
+[^458] McDowell (1994), p. [^126]:
 
-[^459]: McDowell’s text, like many of the twentieth-century texts that
+[^459] McDowell’s text, like many of the twentieth-century texts that
 formulate structuralism, thus enlists what is envisioned as our access
 to the rational structure of language in part to help consolidate a
 distinction between human beings and those animals that are conceived
@@ -2404,11 +2404,11 @@ the zoon logon echon, the “animal having language” or “animale
 rationale”; for some critical thoughts, see Derrida (1987) and Agamben
 (2002).
 
-[^460]: McDowell (1994), pp. 34-35
+[^460] McDowell (1994), pp. 34-35
 
-[^461]: Cf. the moral of Rorty (1975).
+[^461] Cf. the moral of Rorty (1975).
 
-[^462]: The point seems to affect some versions of the “resolute
+[^462] The point seems to affect some versions of the “resolute
 interpretation” of Wittgenstein’s Tractatus (cf. chapters 1, 3 and 6
 above). For it is indeed incoherent to (even so much as) suppose there
 could be a perspective “outside language” from which we could view it as
@@ -2416,9 +2416,9 @@ a whole, then it cannot be the point of Wittgenstein’s practice to (even
 so much as) repudiate the claim that there is such a perspective. For a
 version of this point, see Hacker (2000).
 
-[^463]: Cavell 1979, p. [^239]:
+[^463] Cavell 1979, p. [^239]:
 
-[^464]: In a far-ranging recent work, Ranier Schürmann (1996) has
+[^464] In a far-ranging recent work, Ranier Schürmann (1996) has
 described the history of Western thought and action in terms of the
 successive dominance of a series of guiding images or idealities,
 imaginatively grounded structures of pre-determination that he calls
@@ -2437,7 +2437,7 @@ drive. … There is an evil lodged in everyday speech, manifesting itself
 in the dispersion of singular cases from which rises the megalomania of
 saying what is …” (Schürmann 1996, p. 33)
 
-[^465]: “Grammatical rules, as they currently exist, are rules for the
+[^465] “Grammatical rules, as they currently exist, are rules for the
 use of words. Even if we transgress them we can still use words
 meaningfully. Then what do they exist for? To make language-use as a
 whole uniform? (Say for aesthetic reasons?) To make possible the use of
@@ -2447,7 +2447,7 @@ happens?) The collision that mustn’t come about must be the collision
 that can’t come about! That is to say, without grammar it isn’t a bad
 language, but no language.” (Wittgenstein 1933b, p. 147).
 
-[^466]: In this paragraph I am indebted to the reflective analysis of
+[^466] In this paragraph I am indebted to the reflective analysis of
 Giorgio Agamben (1993). In “Form-of-Life” he hyphenates the
 Wittgensteinian phrase to interpret it as alluding to the possibility of
 a futural life that can no longer be separated from its form (and so
@@ -2468,9 +2468,9 @@ that is, it always puts at stake living itself.” (unnumbered pages). For
 more on the significance of the vision of language for this vision of
 life, see also Agamben (1984).
 
-[^467]: Wittgenstein (1933b), p. [^210]:
+[^467] Wittgenstein (1933b), p. [^210]:
 
-[^468]: Compare, also, Plato’s Cratylus 400b-d:
+[^468] Compare, also, Plato’s Cratylus 400b-d:
 
 “Hermogenes: What are we going to say about the next one?
 
@@ -2485,7 +2485,7 @@ is entombed in its present life, while others say that it is correctly
 called ‘a sign’ (‘sema’) because the soul signifies whatever it wants to
 signify by means of the body…”
 
-[^469]: The picture is the same as the one that produces the metaphysical
+[^469] The picture is the same as the one that produces the metaphysical
 conception of a rule: “You say that pointing to a red object is the
 primary sign for ‘red’. But pointing to a red object is nothing more
 than a particular motion of the hand towards a red object, and is no
@@ -2507,7 +2507,7 @@ were drawn.” (Wittgenstein 1933b, pp. 126-27). Compare, also, PI 36:
 “Where our language suggests a body and there is none: there, we should
 like to say, is a spirit.”
 
-[^470]: Elsewhere, Wittgenstein puts the point this way:
+[^470] Elsewhere, Wittgenstein puts the point this way:
 
 I don’t think that logic can talk about sentences in any other sense
 than we ordinarily do when we say “Here’s a sentence that’s been written
@@ -2522,7 +2522,7 @@ We are talking about the spatial and temporal phenomenon of language,
 not about some non-spatial, non-temporal chimera [Note in margin: Only
 it is possible to be interested in a phenomenon in a variety of ways].”
 
-[^471]: “The difference between signified and signifier belongs in a
+[^471] “The difference between signified and signifier belongs in a
 profound and implicit way to the totality of the great epoch covered by
 the history of metaphysics, and in a more explicit and more
 systematically articulated way to the narrower epoch of Christian
@@ -2538,9 +2538,9 @@ as self-evident by the most careful linguists and semiologists, even by
 those who believe that the scientificity of their work begins where
 metaphysics ends.” (Derrida (1967), p. 13).
 
-[^472]: Heidegger 1959, pp. 400-401
+[^472] Heidegger 1959, pp. 400-401
 
-[^473]: Heidegger quotes Wilhelm von Humboldt’s (1836) On the Diversity
+[^473] Heidegger quotes Wilhelm von Humboldt’s (1836) On the Diversity
 of the Structure of Human Language and Its Influence on the Intellectual
 Development of Mankind: “Even its preservation through writing is always
 a merely incomplete preservation, a kind of mummification, which is
@@ -2553,9 +2553,9 @@ definition of every instance of speaking; but in the true and essential
 sense, one can also regard the totality of such speech only as an
 approximation to language.” (Heidegger 1959, p. 403).
 
-[^474]: Heidegger (1938a), pp. 353-[^54]:
+[^474] Heidegger (1938a), pp. 353-[^54]:
 
-[^475]: In Heidegger’s own texts after the 1930s, constant reminders of
+[^475] In Heidegger’s own texts after the 1930s, constant reminders of
 the ongoing prevalence of the categories of metaphysics and the
 difficulties of simply escaping them are delicately balanced with
 attempts, like that in the quotation above, to portray the unity of
@@ -2573,15 +2573,15 @@ experienced; whether it is sufficient to associate sound exclusively
 with the body understood in physiological terms, and to place it within
 the metaphsysically conceived confines of the sensuous…”
 
-[^476]: Cf. Wittgenstein: “ “Language” and ‘living being’. The concept of
+[^476] Cf. Wittgenstein: “ “Language” and ‘living being’. The concept of
 a living being is as indeterminate as the concept of language.”
 (Wittgenstein 1933b, p. 146).
 
-[^477]: Saussure (1913) first formulated the notorious thesis of the
+[^477] Saussure (1913) first formulated the notorious thesis of the
 “arbitrariness” of the signifier/signified relation; see also Derrida’s
 critical discussion in Derrida (1967), chapter [^1]:
 
-[^478]: We may therefore take the late Wittgenstein’s critique of
+[^478] We may therefore take the late Wittgenstein’s critique of
 rule-following to involve, to a first approximation, what Diamond (1991)
 calls the “realistic spirit” in contrast to the spirit of metaphysics:
 “…I understand by metaphysics the laying down of metaphysical
@@ -2603,7 +2603,7 @@ how shall we know, and how, guarantee what Diamond assumes, that we can
 indeed see them to be satisfied by the circumstances of an ordinary life
 that we can know as such?
 
-[^479]: “In order to exceed metaphysics it is necessary that a trace be
+[^479] “In order to exceed metaphysics it is necessary that a trace be
 inscribed within the text of metaphysics, a trace that continues to
 signal not in the direction of another presence, or another form of
 presence, but in the direction of an entirely other text. Such a trace
@@ -2624,11 +2624,11 @@ then, is the trace of the trace, the trace of the erasure of the trace.
 Such is, for us, the text of metaphysics, and such is, for us, the
 language which we speak.” (Derrida 1968, pp. 65-66).
 
-[^480]: Wittgenstein 1933c, p. [^6]:
+[^480] Wittgenstein 1933c, p. [^6]:
 
-[^481]: Wittgenstein 1933c, p. [^6]:
+[^481] Wittgenstein 1933c, p. [^6]:
 
-[^482]: Wittgenstein 1933c, p. [^7]: Wittgenstein’s claim here does not
+[^482] Wittgenstein 1933c, p. [^7]: Wittgenstein’s claim here does not
 rest on some (possibly tendentious) attempt to distinguish “facts” from
 “norms” or purge language of an inherently “normative” vocabulary. For
 even a “normative” proposition remains a proposition; it stands in
@@ -2636,21 +2636,21 @@ relationships of justification and inference to other propositions and
 cannot express the claims of absolute value in which Wittgenstein is
 interested.
 
-[^483]: Wittgenstein 1933c, p. [^7]:
+[^483] Wittgenstein 1933c, p. [^7]:
 
-[^484]: Wittgenstein’s scattered references to the problem of the
+[^484] Wittgenstein’s scattered references to the problem of the
 existence of the world bears comparison to phenomenological analyses of
 the nature of the “world,” including Husserl’s notion of the
 “life-world.” For an interesting discussion, see Gier (1983), chapter
 [^6]:
 
-[^485]: Wittgenstein 1933c, p. [^10]:
+[^485] Wittgenstein 1933c, p. [^10]:
 
-[^486]: Wittgenstein 1933c, pp. 11-[^12]:
+[^486] Wittgenstein 1933c, pp. 11-[^12]:
 
-[^487]: TLP [^6]:45.
+[^487] TLP [^6]:45.
 
-[^488]: “That there is language is as certain as it is incomprehensible,
+[^488] “That there is language is as certain as it is incomprehensible,
 and this incomprehensibility and certainty constitute faith and
 revelation.” (Agamben 1984, p. 42). Compare Wittgenstein (1933b): “Again
 and again there is the attempt to delimit and to display the world in
@@ -2658,7 +2658,7 @@ language – but that doesn’t work. The self-evidence of the world is
 expressed in the very fact that language signifies only it, and can only
 signify it.” (p. 315).
 
-[^489]: Cf. Derrida’s response, in a 2001 conference, to the question
+[^489] Cf. Derrida’s response, in a 2001 conference, to the question
 whether ordinary language “constantly invites its own misunderstanding”:
 “I don’t know if I am answering your question, but if I never use the
 concept of ordinary language in my name – I just quote it or borrow it –
@@ -2678,4 +2678,4 @@ appearance in language, of something which resists anything simply
 ordinary. So, while I am not against distinctions, I cannot rely on the
 concept of ‘ordinary language.’” Glenndining (2001), pp. 119-[^120]:
 
-[^490]: Agamben 1984, p. [^45]:
+[^490] Agamben 1984, p. [^45]:

@@ -85,7 +85,7 @@ thousand and then to three hundred thousand, but to no avail. Finally
 Mu'awiyah offered him four hundred thousand dirhams, and Samurah agreed
 and narrated a 'hadith' to that effect. [^12]
 
-[^8]: Shaykh 'Abbas al Qummi, Safinatu 'l-Bihar, vol. 2 p. 474. Countless
+[^8] Shaykh 'Abbas al Qummi, Safinatu 'l-Bihar, vol. 2 p. 474. Countless
 ahadith to this effect may be seen in the books of both sects, including
 Sahih al-Bukhari, vol. 1 (kitabu l- ilm: bab ithm man kadhiba 'ala
 n-Nabi ) p. 38.

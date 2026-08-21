@@ -408,7 +408,7 @@ affirmatively.
 The Imam (a.s.) then asked him whether he had seen the following Quranic
 Verses:**“Say: I do not ask of you any reward for it but love for my
 near relatives.”** [^271] **“And give to the near relatives his due.”**
-[^272]: **“And know that whatever thing you gain, a fifth of it is for
+[^272] **“And know that whatever thing you gain, a fifth of it is for
 Allah (s.w.t.) and for the Messenger and for the near relatives.”**
 [^273]
 

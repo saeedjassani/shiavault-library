@@ -157,7 +157,7 @@ if it were so, they could also present such verses with the help of the
 Jews and the People of the Book. Therefore, their inability to do it is
 the reason of their lie and
 
-[^1]: Thr word /ja'u/ means to come, but here it means to bring.
+[^1] Thr word /ja'u/ means to come, but here it means to bring.
 
 their lie is the reason of their iniquity. So the short sentence
 saying: "... so indeed they have done injustice and (uttered) a

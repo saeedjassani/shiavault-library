@@ -182,7 +182,7 @@ servants of Allah between ‘fear’ and ‘hope’. And we know that the
 constant movement toward development is not possible without being
 qualified with these two characters.
 
-[^1]: Majma'-ul-Baya-n, following the verse.
+[^1] Majma'-ul-Baya-n, following the verse.
 
 [^2]: Ibid
 

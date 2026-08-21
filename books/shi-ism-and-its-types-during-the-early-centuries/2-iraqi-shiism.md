@@ -56,7 +56,7 @@ of the Ahl al-Hadith during the 3rd/9th century: He is cited as having
 said: "I say: Abu Bakr, Umar, then Uthman." [^11] Ahmad ibn Hanbal was
 somewhat moderate and he would say "We do not find fault with someone
 who considers Ali as the fourth caliph" (la nu'ibu man rabba'a bi Ali).
-[^12]: In this regard there were many who were opposed to Ahmad ibn
+[^12] In this regard there were many who were opposed to Ahmad ibn
 Hanba1. [^13] It appears that towards the end of his life Ahmad ibn
 Hanbal had become firmer in his belief in the legitimacy of the
 caliphate of Ali ('a) as the fourth caliph, and accordingly he would say

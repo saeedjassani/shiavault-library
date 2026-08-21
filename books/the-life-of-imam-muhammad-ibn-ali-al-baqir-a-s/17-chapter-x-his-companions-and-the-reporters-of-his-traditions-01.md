@@ -1250,7 +1250,7 @@ vol.1, p.23, Aban died in the year 141 A.H. See also al-Tusi, Fihrast.
 
 [^82]: Al-Tusi, Rijal.
 
-[^83]: He was called al-Kanasi, for he lived at Kanasa, a famous district
+[^83] He was called al-Kanasi, for he lived at Kanasa, a famous district
 in Kufa.
 
 [^84]: Al-Tusi, Rijal.

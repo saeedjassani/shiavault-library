@@ -200,22 +200,22 @@ see and hear things which were not possible for ordinary people to hear
 or see. These were due to his sensitive mind, piercing eyes, sensitive
 ears and specific insight.
 
-[^1]: Tarikh al-tabari 2:191; Ibn al-Athir, Usd al-Ghabah 1:13; tabarsi,
+[^1] Tarikh al-tabari 2:191; Ibn al-Athir, Usd al-Ghabah 1:13; tabarsi,
 I\`lam al-Wara, pp. 5-6.
 
-[^2]: Ibn al-Athir, op cit, pp. 13; al-Bayhaqi, Dala'il al-Nubuwwah, pp.
+[^2] Ibn al-Athir, op cit, pp. 13; al-Bayhaqi, Dala'il al-Nubuwwah, pp.
 118; Mas\`udi, al-Tanbih wa’l-Ishraf, pp. 195-196; Ibn al-Athir,
 al-Kamil fi’l-Tarikh 2:33; Ibn \`Anbah, \`Umdat al-talib, pp. 28.
 
-[^3]: Ibn Sa\`d, al-tabaqat al-Kubra 1:56; Al-Kalbi, Jamharat al-Nasab,
+[^3] Ibn Sa\`d, al-tabaqat al-Kubra 1:56; Al-Kalbi, Jamharat al-Nasab,
 pp. 17.
 
-[^4]: Ibn Shahrashub, Manaqib 1:155; tabarsi, op cit, pp. 6; al-Majlisi,
+[^4] Ibn Shahrashub, Manaqib 1:155; tabarsi, op cit, pp. 6; al-Majlisi,
 Bihar al-Anwar 15:105.
 
-[^5]: Ibn Shahrashub, op cit, pp. 155; Ibn \`Anbah, op cit, p28.
+[^5] Ibn Shahrashub, op cit, pp. 155; Ibn \`Anbah, op cit, p28.
 
-[^6]: Ibn Shahrashub, op cit, pp. 154; Ibn \`Anbah, op cit, pp. 26;
+[^6] Ibn Shahrashub, op cit, pp. 154; Ibn \`Anbah, op cit, pp. 26;
 tabarsi, op cit, pp. 6; Ibn Qutaybah, al-Ma\`arif, pp. 67; tabarsi,
 Majma\` al-Bayan 10:546; Ibn Husham, al-Sirah al-Nabawiyyah 1:96; Ibn
 \`Abd-Rabbih, al-\`Iqd al-Farid 3:312; Ibn Kathir, al-Sirah
@@ -232,7 +232,7 @@ Jamharat Ansab al-\`Arab, pp. 12; Halabi, al-Sirah al-Halabiyyah
 There are some other statements regarding this issue. See al-Sirah
 al-Halabiyyah 1:27.
 
-[^7]: The Arab groups and tribes are given different names, such as
+[^7] The Arab groups and tribes are given different names, such as
 sha\`b, qabilah, \`imarah, batn, fadkhdh and fasilah in accordance with
 their extension and size. For instance, Khuzaymah was a sha\`b; Kinanah
 qabilah, Quraysh \`imarah, Qusay batn, Hashim fakhdh, and \`Abbas
@@ -245,22 +245,22 @@ a suspect; some researchers would not accept it as such. See The History
 of Quraysh, pp. 215-216. Here, we will refer to Quraysh as a qabilah
 (tribe).
 
-[^8]: Mas\`udi states that the tribe of Quraysh had twenty-five branches
+[^8] Mas\`udi states that the tribe of Quraysh had twenty-five branches
 and he mentions them by names. See Muruj al-Dhahab 2:269.
 
-[^9]: Halabi, op cit, pp. 6.
+[^9] Halabi, op cit, pp. 6.
 
-[^10]: op cit, p6; Shukri al-alusi; Bulugh al-Irab 1:324.
+[^10] op cit, p6; Shukri al-alusi; Bulugh al-Irab 1:324.
 
-[^11]: Halabi, op cit, pp. 6, al-alusi, op cit, pp. 323; Ibn al-Athir,
+[^11] Halabi, op cit, pp. 6, al-alusi, op cit, pp. 323; Ibn al-Athir,
 al-Kamil fi’l-Tarikh 2:15, al-Buladhari, Ansab al-Ashraf 1:73.
 
-[^12]: Halabi, op cit, pp. 7; Mas\`udi, Muruj al-Dhahab 2:109.
+[^12] Halabi, op cit, pp. 7; Mas\`udi, Muruj al-Dhahab 2:109.
 
-[^13]: al-alusi, op cit, pp. 324, Ibn Wazih, Tarikh al-Ya\`qubi 2:7;
+[^13] al-alusi, op cit, pp. 324, Ibn Wazih, Tarikh al-Ya\`qubi 2:7;
 al-Sirah al-Halabiyyah 1:7; Shaykh al-saduq, al-Khisal 2:312-313.
 
-[^14]: saduq, al-I\`tiqadat, pp. 135; al-Majlisi, Bihar al-Anwar 15:117;
+[^14] saduq, al-I\`tiqadat, pp. 135; al-Majlisi, Bihar al-Anwar 15:117;
 Usul al-Kafi 1:445.
 
 Among the issues concerning \`Abd al-Muttalib is his vow to sacrifice
@@ -269,36 +269,36 @@ suffers some documental considerations and needs further clarifications.
 See \`Ali Dawani, The History Of Islam From The Start To Hegira, pp.
 54-59; Shaykh al-saduq, Man-La-Yahzuruhu’l-Faqih 3:89.
 
-[^15]: saduq, op cit, pp. 135; al-Majlisi, op cit, pp. 117; Mufid, Awa’il
+[^15] saduq, op cit, pp. 135; al-Majlisi, op cit, pp. 117; Mufid, Awa’il
 al-Maqalat, pp. 12; tabarsi, Majma\` al-Bayan 4:322.
 
 Some researchers have interpreted this narration in the form of the
 cleanliness of the progenitor. See Sayyid Hashim Rasuli Mahallati, Some
 Lectures On The Analytic History Of Islam 1:64.
 
-[^16]: Mufid, op cit, saduq, op cit.
+[^16] Mufid, op cit, saduq, op cit.
 
 Some Sunni distinguished scholars, such as al-Fakhr al-Razi and
 al-Suyuti, believe the same thing in this regard as the Twelver Shi\`ah.
 See Bihar al-Anwar 15:118-122.
 
-[^17]: saduq, Kamal al-Din, pp. 175; al-Ghadir 7:387.
+[^17] saduq, Kamal al-Din, pp. 175; al-Ghadir 7:387.
 
-[^18]: For further information regarding these events, see Mas\`udi,
+[^18] For further information regarding these events, see Mas\`udi,
 al-Tanbih wa’l-Ishraf, pp. 172-181; Muhammad Ibrahim ayati, The History
 Of The Prophet Of Islam, pp. 26-27.
 
-[^19]: Mas\`udi, op cit, pp. 27.
+[^19] Mas\`udi, op cit, pp. 27.
 
-[^20]: Shaykh al-tusi, al-Amali, pp. 80-82; al-Bayhaqi, op cit, pp.
+[^20] Shaykh al-tusi, al-Amali, pp. 80-82; al-Bayhaqi, op cit, pp.
 94-97; Ibn Husham, op cit, pp. 44-55; al-Buladhari, op cit, pp. 67-69;
 Muhammad Ibn Habib, al-Munammaq, pp. 70-77.
 
-[^21]: Prior to the event of the Elephant Army, Quraysh had appointed the
+[^21] Prior to the event of the Elephant Army, Quraysh had appointed the
 death of Qusay as a historical point of reference. See Tarikh
 al-Ya\`qubi 2:4.
 
-[^22]: Shaykh al-Kulayni, Usul al-Kafi 1:439; Ibn Wazih, Tarikh
+[^22] Shaykh al-Kulayni, Usul al-Kafi 1:439; Ibn Wazih, Tarikh
 al-Ya\`qubi 2:4; Mas\`udi, Muruj al-Dhahab 2:274; al-Majlisi, Bihar
 al-Anwar 15:250-252; Halabi, op cit, pp. 95; al-Bayhaqi, op cit, pp.
 72-73; Ibn Kathir, al-Sirah al-Nabawiyyah 1:201; Ibn Sa\`d, al-tabaqat
@@ -306,7 +306,7 @@ al-Kubra 1:101; Ibn al-Athir, Usd al-Ghabah 1:14; Ibn Husham, al-Sirah
 al-Nubawiyyah 1:167; \`Abd al-Qadir Badran, The Clarification Of The
 History Of Damascus; Ibn Ishaq, al-Siyar wal-Maghazi, pp. 61.
 
-[^23]: \`Ali Akbar Fayyaz, the History of Islam, pp. 62; \`Abbas Ziryab,
+[^23] \`Ali Akbar Fayyaz, the History of Islam, pp. 62; \`Abbas Ziryab,
 Sirat Rasulillah, pp. 86-87; Sayyid Ja\`far Shahidi, Tarikh Tahlili
 Islam ta Payan Umawiyyan, pp. 37.
 
@@ -327,43 +327,43 @@ be religious due to the competition between the Church in Yemen and the
 Kaaba in Hijaz. See Fayyaz, op cit, pp. 62; Abu’-l-Qasim Payandeh,
 introduction of the translation of Qur’an into Persian.
 
-[^24]: Shaykh al-Kulayni, op cit, pp. 439; Ibn Wazih, op cit, pp. 6.
+[^24] Shaykh al-Kulayni, op cit, pp. 439; Ibn Wazih, op cit, pp. 6.
 al-Karajaki, Kanz al-Fawa'id 2:167.
 
 The age of the Holy Prophet at his father's death is also recorded as
 eleven months and twenty-eight days. See Ibn Sa\`d, al-tabaqat al-Kubra
 1:100.
 
-[^25]: Tahdhib Tarikh Dimashq 17:282; Ibn Sa\`d, op cit, 1:99; Mas\`udi,
+[^25] Tahdhib Tarikh Dimashq 17:282; Ibn Sa\`d, op cit, 1:99; Mas\`udi,
 al-Tanbih wa’l-Ishraf, pp. 196; tabari, Tarikh al-Umam wa’l-Muluk 2:176;
 Ibn al-Athir, al-Kamil fi’l-Tarikh 2:10.
 
-[^26]: Tarikh al-Ya\`qubi 2:6; Halabi, op cit, 1:143.
+[^26] Tarikh al-Ya\`qubi 2:6; Halabi, op cit, 1:143.
 
-[^27]: Tarikh al-Ya\`qubi 2:6; I\`lam al-Wara, pp. 6; al-Bayhaqi, op cit,
+[^27] Tarikh al-Ya\`qubi 2:6; I\`lam al-Wara, pp. 6; al-Bayhaqi, op cit,
 pp. 110; Ibn al-Athir, Usd al-Ghabah 1:15; al-Majlisi, Bihar al-Anwar
 15:384.
 
-[^28]: Halabi, op cit, 1:146.
+[^28] Halabi, op cit, 1:146.
 
-[^29]: Tarikh al-Ya\`qubi 2:7; Ibn Husham, op cit, 1:171; Ibn Sa\`d, op
+[^29] Tarikh al-Ya\`qubi 2:7; Ibn Husham, op cit, 1:171; Ibn Sa\`d, op
 cit, pp. 110; Mas\`udi, al-Tanbih wa’l-Ishraf, pp. 196, Muruj al-Dhahab,
 2:274; tabarsi, I\`lam al-Wara, pp. 6; al-Bayhaqi, op cit, pp. 101-102;
 Ibn Kathir, al-Siyar wal-Maghazi, pp. 49.
 
-[^30]: Al-Buladhari, Ansab al-Ashraf 1:94; al-Maqdisi, al-Bad’ wal-Tarikh
+[^30] Al-Buladhari, Ansab al-Ashraf 1:94; al-Maqdisi, al-Bad’ wal-Tarikh
 4:131; al-Majlisi, Bihar al-Anwar 15:401; Ibn Sa\`d, op cit, 1:112.
 
-[^31]: Tarikh al-Ya\`qubi 2:7; Ibn Shahrashub, op cit, 1:33;
+[^31] Tarikh al-Ya\`qubi 2:7; Ibn Shahrashub, op cit, 1:33;
 al-Buladhari, op cit, pp. 44; Mas\`udi, Muruj al-Dhahab 2:275.
 
-[^32]: Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 13:203; al-Majlisi, op
+[^32] Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 13:203; al-Majlisi, op
 cit, pp. 401.
 
-[^33]: Ja\`far Subhani, Forugh Abadiyyat 1:159; Sayyid Ja\`far Murtaza
+[^33] Ja\`far Subhani, Forugh Abadiyyat 1:159; Sayyid Ja\`far Murtaza
 al-\`amili, al-sahih min Sirat al-Nabi al-A\`zam 1:81.
 
-[^34]: Ibn Husham, al-Sirah al-Nabawiyyah, 1:176; Ibn Sa\`d, op cit, pp.
+[^34] Ibn Husham, al-Sirah al-Nabawiyyah, 1:176; Ibn Sa\`d, op cit, pp.
 113; Halabi, op cit, pp. 146; Khargushi, Sharaf Al-Nabi, pp. 146.
 
 It is said while the Holy Prophet was living with Halimah al-Sa\`diyyah
@@ -374,47 +374,47 @@ al-Nabi al-A\`zam 1:82; Sayyid Hashim Rasuli Mahallati, Lessons From The
 Analytical History Of Islam 1:189, 204; Sheikh Muhmud Abu-Rayyah,
 Azwa'un \`Ala al-Sunnah al-Muhammadiyyah 1:175-177.
 
-[^35]: Ibn Husham, op cit, 1:171-172; al-Buladhari, op cit, pp. 93, Ibn
+[^35] Ibn Husham, op cit, 1:171-172; al-Buladhari, op cit, pp. 93, Ibn
 Sa\`d, op cit, pp. 110-111.
 
-[^36]: Ibn Shahrashub, a distinguished narrator, has dealt with this
+[^36] Ibn Shahrashub, a distinguished narrator, has dealt with this
 issue but has not dealt with the Holy Prophet’s orphanage. See
 al-Manaqib 1:33.
 
-[^37]: Salma, the mother of \`Abd al-Muttalib was from Yathrib and from
+[^37] Salma, the mother of \`Abd al-Muttalib was from Yathrib and from
 Banu’l-Najjar. See al-Bayhaqi, op cit, 1:121.
 
-[^38]: Ibn Ishaq, op cit, p65; al-Buladhari, op cit, pp. 94 Ibn Sa\`d, op
+[^38] Ibn Ishaq, op cit, p65; al-Buladhari, op cit, pp. 94 Ibn Sa\`d, op
 cit, pp. 116; Ibn Husham, op cit, pp. 177; al-Bayhaqi, op cit, p121;
 tabarsi, op cit, pp. 9; saduq, Kamal al-Din 1:172; Tarikh al-Ya\`qubi
 2:7; \`Abd al-Qadir Badran, Tahdhib Tarikh Dimashq 1:223.
 
-[^39]: Halabi, op cit, 1:172.
+[^39] Halabi, op cit, 1:172.
 
-[^40]: Ibn Husham, op cit, 1:178; saduq, op cit, pp. 171; al-Majlisi, op
+[^40] Ibn Husham, op cit, 1:178; saduq, op cit, pp. 171; al-Majlisi, op
 cit, pp. 406; Tarikh al-Ya\`qubi 2:9.
 
-[^41]: Ibn Husham, op cit, pp. 189; al-Majlisi, op cit, pp. 406; tabari,
+[^41] Ibn Husham, op cit, pp. 189; al-Majlisi, op cit, pp. 406; tabari,
 op cit, 2:194.
 
-[^42]: Tarikh al-Ya\`qubi, pp. 1; Ibn Sa\`d, op cit, 1:119; al-Majlisi,
+[^42] Tarikh al-Ya\`qubi, pp. 1; Ibn Sa\`d, op cit, 1:119; al-Majlisi,
 op cit, pp. 407; al-Suhayli, al-Rawz al-Anif 1:193.
 
-[^43]: Tarikh al-Ya\`qubi 2:11; Jawad \`Ali, al-Mufassal 4:82.
+[^43] Tarikh al-Ya\`qubi 2:11; Jawad \`Ali, al-Mufassal 4:82.
 
-[^44]: Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 15:219.
+[^44] Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 15:219.
 
-[^45]: Ibn Sa\`d, op cit, 1:119; Ibn Shahrashub, op cit, 1:36;
+[^45] Ibn Sa\`d, op cit, 1:119; Ibn Shahrashub, op cit, 1:36;
 al-Majlisi, op cit, pp. 407; \`Abd al-Qadir Badran, Tahdhib Tarikh
 Dimashq 1:285.
 
-[^46]: Tarikh al-Ya\`qubi 2:11; Ibn Abi’l-Hadid, op cit, 1:14; Usul
+[^46] Tarikh al-Ya\`qubi 2:11; Ibn Abi’l-Hadid, op cit, 1:14; Usul
 al-Kafi 1:453.
 
-[^47]: A village in Hawran, a province of Damascus. See Yaqut al-Hamawi,
+[^47] A village in Hawran, a province of Damascus. See Yaqut al-Hamawi,
 Mu\`jam al-Buldan 1:441.
 
-[^48]: This issue is brought up by the following Muslim historians and
+[^48] This issue is brought up by the following Muslim historians and
 narrators: Ibn Husham, al-Sirah al-Nabawiyyah 1:191-193; tabari, Tarikh
 al-Umam wa’l-Muluk 2:195; Sunan al-Tirmidhi 5:90, h. 2620; Ibn Ishaq,
 al-Siyar wa’l-Maghazi, pp. 73; Ibn Sa\`d, Al-tabaqat al-Kubra 1:121;
@@ -425,40 +425,40 @@ al-Buladhari, Ansab al-Ashraf 1:96; al-Bayhaqi, Dala'il al-Nubuwwah
 Sirat al-Nabi 1:243-249, al-Bidayah wa’l-Nihayah 2:229-230; al-Sirah
 al-Halabiyyah 1:141; al-Majlisi, Bihar al-Anwar 15:409.
 
-[^49]: Qur’an 2:41, 42, 89, 146; 7:157; 6: 20; 61: 6.
+[^49] Qur’an 2:41, 42, 89, 146; 7:157; 6: 20; 61: 6.
 
-[^50]: Ibn Husham, op cit, 1:193; al-Bayhaqi, op cit, pp. 195; Sunan
+[^50] Ibn Husham, op cit, 1:193; al-Bayhaqi, op cit, pp. 195; Sunan
 al-Tirmidhi 5:590; \`Abd al-Qadir Badran, Tahdhib Tarikh Dimashq 1:278;
 Ibn Kathir, al-Sirah al-Nabawiyyah 1:245; saih al-Bukhari 5:28.
 
-[^51]: Tarikh al-Ya\`qubi 2:11; al-Buladhari, Ansab al-Ashraf 1:81; Usul
+[^51] Tarikh al-Ya\`qubi 2:11; al-Buladhari, Ansab al-Ashraf 1:81; Usul
 al-Kafi 1:447.
 
-[^52]: Gustav Le Bon, The Islamic And Arab Civilization, pp. 101, Igna'z
+[^52] Gustav Le Bon, The Islamic And Arab Civilization, pp. 101, Igna'z
 Goldziher, Doctrine and Law in Islam, pp. 25; Muhammad Ghazzali, Trial
 of Goldziher the Zionist, pp. 47; Karl Brockleman, History of Muslim
 Peoples, pp. 34; Treason in Historical Accounts 1:220-225
 
-[^53]: Will Durant, The Story of Civilization, pp. 207.
+[^53] Will Durant, The Story of Civilization, pp. 207.
 
-[^54]: Qur’an 4:47,51,171; 5:72-73; 9:630.
+[^54] Qur’an 4:47,51,171; 5:72-73; 9:630.
 
-[^55]: Shaykh \`Abbas al-Qummi, Safinat al-Bihar 2:727; Ibn al-Athir,
+[^55] Shaykh \`Abbas al-Qummi, Safinat al-Bihar 2:727; Ibn al-Athir,
 al-Nihayah fi Gharib al-hadith wa’l-Athar 5:282.
 
-[^56]: Murtaza al-\`amili, al-sahih mi Sirat al-Rasul al-A\`zam, pp.
+[^56] Murtaza al-\`amili, al-sahih mi Sirat al-Rasul al-A\`zam, pp.
 106.
 
-[^57]: Halabi, op cit, 2:332.
+[^57] Halabi, op cit, 2:332.
 
-[^58]: Muhammad, a prophet who should be re-evaluated, pp. 5. This book
+[^58] Muhammad, a prophet who should be re-evaluated, pp. 5. This book
 includes weak points, errors and distortions which decrease the
 scientific value of its content. The style of the translator, too, is
 quite peculiar; see Nashr Danish Magazine, eighth year, Issue, 2, pp.
 52, Article: a phenomenon called Zabihollah Mansuri, written by Karim
 Emami.
 
-[^59]: Muhammad, the last of the prophets 1:188, the article of Sayyid
+[^59] Muhammad, the last of the prophets 1:188, the article of Sayyid
 Ja\`far Shahidi. Some contemporary Iranian historians have raised some
 doubts on the issue of the Holy Prophet’s visit to Bahira, such doubts
 and disturbances should be taken care of. We shouldn’t that even if we
@@ -469,7 +469,7 @@ reason why we have brought up the claims of the Orientalists here is to
 show that they have used this issue to make some distortions in the
 history of Islam.
 
-[^60]: One of the events in which the Holy Prophet is said to have
+[^60] One of the events in which the Holy Prophet is said to have
 participated in while he was young was the war of al-Fujjar. It is said
 that this war had taken place prior to Hilf al-Fuzul when the Holy
 Prophet was 14-20 years old. However, since his participation in this
@@ -477,23 +477,23 @@ war is doubtful, we will not follow it up here. See al-sahih min Sirat
 al-Nabi al-A\`zam 1:95-97; Some analytical lessons of the history of
 Islam 1:303-503.
 
-[^61]: Ibn Sa\`d, al-tabaqat al-Kubra 1:128; Muhammad Ibn Habib,
+[^61] Ibn Sa\`d, al-tabaqat al-Kubra 1:128; Muhammad Ibn Habib,
 al-Munammaq, pp. 52.
 
-[^62]: Muhammad Ibn Habib, op cit, pp. 52-53; Ibn Sa\`d, op cit, pp. 128;
+[^62] Muhammad Ibn Habib, op cit, pp. 52-53; Ibn Sa\`d, op cit, pp. 128;
 Tarikh al-Ya\`qubi 2:13; Ibn Husham, al-Sirah al-Nabawiyyah 1:142;
 al-Buladhari, Ansab al-Ashraf 2:12.
 
-[^63]: Muhammad Ibn Sa\`d, op cit. It is recorded that the age of the
+[^63] Muhammad Ibn Sa\`d, op cit. It is recorded that the age of the
 Holy Prophet was even older at this time. Tarikh al-Ya\`qubi 2:13;
 al-Munammaq, pp. 53; Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 15:225.
 
-[^64]: Ibn Husham, op cit, pp. 142; Tarikh al-Ya\`qubi, op cit, pp. 13;
+[^64] Ibn Husham, op cit, pp. 142; Tarikh al-Ya\`qubi, op cit, pp. 13;
 al-Buladhari, op cit, pp. 16; Muhammad Ibn Habib, op cit, pp. 188.
 
-[^65]: Muhammad Ibn Habib, op cit, pp. 54-55
+[^65] Muhammad Ibn Habib, op cit, pp. 54-55
 
-[^66]: al-Buladhari 2:13. The memory of this treaty was still fresh at
+[^66] al-Buladhari 2:13. The memory of this treaty was still fresh at
 the start of Islam. For instance, during the reign of Mu\`awiyah
 al-Walid ibn \`Utbah ibn Abi-Sufyan was the governor of Medina. He
 quarreled with Imam al-Husayn on a financial issue about the grove of
@@ -511,41 +511,41 @@ See Ibn Husham, op cit, 1:142; al-Buladhari, op cit, 2:14; Halabi, op
 cit, 1:215; Ibn Abi’l-Hadid, op cit, 15:226; Ibn al-Athir, al-Kamil
 fi’l-Tarikh 2:42.
 
-[^67]: Ibn Husham, op cit, 1:199; Ibn Ishaq, al-Siyar wa’l-Maghazi, pp.
+[^67] Ibn Husham, op cit, 1:199; Ibn Ishaq, al-Siyar wa’l-Maghazi, pp.
 81. Sibt ibn al-Jawzi, in Tadhkirat al-Khawass pp. 301, says “Khadijah
 used to employ them in the form of limited partnership.” Ibn al-Athir,
 in Usd al-Ghabah 1:16, says: “She used to employ either in the form of
 limited partnership or on a wage-system.”
 
-[^68]: Ibn Sa\`d, op cit, 1:129.
+[^68] Ibn Sa\`d, op cit, 1:129.
 
-[^69]: There are some pieces of evidence which show that the Holy
+[^69] There are some pieces of evidence which show that the Holy
 Prophet’s job was in the form of limited participation and not on the
 basis of wage-earning system. See al-sahih min Sirat al-Nabi al-A\`zam
 1:112.
 
-[^70]: Ibn Husham, op cit, pp. 199; Ibn Ishaq, op cit, pp. 81.
+[^70] Ibn Husham, op cit, pp. 199; Ibn Ishaq, op cit, pp. 81.
 
-[^71]: Ibn Sa\`d, op cit, pp. 130.
+[^71] Ibn Sa\`d, op cit, pp. 130.
 
-[^72]: Ibn Sa\`d, op cit, 130.
+[^72] Ibn Sa\`d, op cit, 130.
 
-[^73]: Ibn Ishaq, op cit, pp. 82; Ibn Sa\`d, op cit, p131; Ibn al-Athir,
+[^73] Ibn Ishaq, op cit, pp. 82; Ibn Sa\`d, op cit, p131; Ibn al-Athir,
 al-Kamil fi’l-Tarikh 2:39; Tarikh al-tabari 2:196; al-Bayhaqi, Dala’il
 al-Nubuwwah 1:215; Ibn al-Athir, Usd al-Ghabah 5:435; al-Dulabi,
 al-Dhurriyyah al-tahirah, pp. 45-46.
 
-[^74]: Ibn Husham, op cit, 1:200-201; Ibn Sa\`d, op cit, 1:131;
+[^74] Ibn Husham, op cit, 1:200-201; Ibn Sa\`d, op cit, 1:131;
 al-Bayhaqi, op cit, 1:215; al-Dulabi, op cit, pp. 46; Ibn al-Athir,
 al-Kamil fi’l-Tarikh 2:39.
 
-[^75]: Ibn al-Athir, Usd al-Ghabah 5:434; Halabi, op cit, 1:224;
+[^75] Ibn al-Athir, Usd al-Ghabah 5:434; Halabi, op cit, 1:224;
 \`Asqalani, al-Isabah fi Tamyiz al-sahabah 4:281; Ibn \`Abd al-Barr,
 al-Isi\`ab 4:279.
 
-[^76]: Halabi, op cit, 1:224.
+[^76] Halabi, op cit, 1:224.
 
-[^77]: Her previous husbands were \`Utayq ibn \`a’idh and Abu-Halah Hind
+[^77] Her previous husbands were \`Utayq ibn \`a’idh and Abu-Halah Hind
 ibn Nabbash. See Ibn al-Athir, Usd al-Ghabah 5:434; Ibn Hajar, op cit,
 pp. 281; Ibn \`Abd al-Barr, op cit, pp. 280; Halabi, op cit, 1:229;
 Khargushi, Sharaf Al-Nabi, pp. 201; \`Abd al-Qadir Badran, Tahdhib
@@ -556,23 +556,23 @@ Holy Prophet who, accordingly, was her first and last husband. Some
 contemporary experts emphasize this point. Murtaza al-\`amili, al-sahih
 min Sirat al-Nabi al-A\`zam 1:121.
 
-[^78]: Ibn Sa\`d, op cit, al-Bayhaqi, op cit, pp. 215; tabari, op cit,
+[^78] Ibn Sa\`d, op cit, al-Bayhaqi, op cit, pp. 215; tabari, op cit,
 2:197; Halabi, op cit, Ibn al-Athir, op cit, Ibn al-Athir, al-Kamil
 fi’l-Tarikh 2:40.
 
-[^79]: al-Majlisi, Bihar al-Anwar 16:22.
+[^79] al-Majlisi, Bihar al-Anwar 16:22.
 
-[^80]: al-Majlisi, op cit, pp. 20-21; Ibn Husham, op cit, 1:203; Ibn
+[^80] al-Majlisi, op cit, pp. 20-21; Ibn Husham, op cit, 1:203; Ibn
 Shahrashub, Manaqib 1:41.
 
-[^81]: al-Majlisi, op cit, pp. 21-23.
+[^81] al-Majlisi, op cit, pp. 21-23.
 
-[^82]: Ibn Ishaq, op cit, pp. 82; al-Buladhari, Ansab al-Ashraf 1:98;
+[^82] Ibn Ishaq, op cit, pp. 82; al-Buladhari, Ansab al-Ashraf 1:98;
 Tarikh al-Ya\`qubi 2:16; Ibn al-Athir, al-Kamil fi’l-Tarikh 2:40;
 Dulabi; op cit, pp. 46; Halabi, op cit, pp. 227; al-Majlisi, op cit,
 16:19.
 
-[^83]: al-Buladhari, op cit, pp. 98; Ibn Sa\`d, op cit, 1:132; tabari, op
+[^83] al-Buladhari, op cit, pp. 98; Ibn Sa\`d, op cit, 1:132; tabari, op
 cit, 2:196: Halabi, op cit, pp. 228; Ibn \`Abd al-Barr, al-Isi\`ab
 4:280; Ibn al-Athir, Usd al-Ghabah 5:435; al-Kamil fi’l-Tarikh 2:39.
 
@@ -580,14 +580,14 @@ Regarding Lady Khadijah’s age, there are various statements and
 records. See Amir Muhanna al-Khayyami, Zawjat al-Nabi wa-Awladuhu, pp.
 53-54.
 
-[^84]: Ibn Husham, op cit, 1:201; Dulabi, op cit, pp. 49; al-Bayhaqi, op
+[^84] Ibn Husham, op cit, 1:201; Dulabi, op cit, pp. 49; al-Bayhaqi, op
 cit, 1:216; Khargushi, op cit, pp. 201; \`Abd al-Qadir Badran, Tahdhib
 Tarikh Dimashq 1:302; Ibn al-Athir, Usd al-Ghabah 5:434.
 
-[^85]: Ibn Sa\`d, op cit, 1:121; Ibn Husham, op cit, 1:210; al-Bayhaqi,
+[^85] Ibn Sa\`d, op cit, 1:121; Ibn Husham, op cit, 1:210; al-Bayhaqi,
 op cit, 1:211; al-Majlisi, op cit, 15:369.
 
-[^86]: This stone, being the most sacred component of the Kaaba, is
+[^86] This stone, being the most sacred component of the Kaaba, is
 introduced as a heavenly stone which became a component of Kaaba by
 Prophet Abraham due to God's command. See al-Majlisi, op cit, 12:84, 99;
 al-Azraqi, Akhbar Makkah 1:62-63. Al-Hajar al-Aswad is a reddish-black,
@@ -595,7 +595,7 @@ oval piece of stone set in the eastern side of the Kaaba at a height of
 one meter and a half from the ground. It is the center of
 circumambulation.
 
-[^87]: Ibn Sa\`d, op cit, 1:145-146, Tarikh al-Ya\`qubi 2:14-15;
+[^87] Ibn Sa\`d, op cit, 1:145-146, Tarikh al-Ya\`qubi 2:14-15;
 al-Majlisi, op cit, 15:337-338; al-Buladhari, op cit, 1:99-100;
 Mas\`udi, Muruj al-Dhahab 2:271-272. Some historians have given other
 reasons for the reconstruction of the Kaaba. However, every historian
@@ -603,21 +603,21 @@ has referred to the Holy Prophet’s Judgment. See Ibn Ishaq, al-Siyar
 wal-Maghazi, pp. 103; Ibn Husham, op cit, 1:205; al-Bayhaqi, Dala'il
 al-Nubuwwah.
 
-[^88]: Ibn Husham, al-Sirah al-Nabawiyyah 1:262; tabari, Tarikh al-Umam
+[^88] Ibn Husham, al-Sirah al-Nabawiyyah 1:262; tabari, Tarikh al-Umam
 wa’l-Muluk 2:213; Ibn al-Athir, al-Kamil fi’l-Tarikh 2:58; al-Buladhari,
 Ansab al-Ashraf 2:90; Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 13:119,
 and 1:15.
 
-[^89]: Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 1:15; Ibn Shahrashub,
+[^89] Ibn Abi’l-Hadid, Sharh Nahj al-Balaghah 1:15; Ibn Shahrashub,
 Manaqib, 2:180.
 
-[^90]: Abu’l-Faraj al-Isfahani, Maqatil al-talibiyyin, pp. 15.
+[^90] Abu’l-Faraj al-Isfahani, Maqatil al-talibiyyin, pp. 15.
 
-[^91]: Ibn Abi’l-Hadid, op cit, pp. 13, pp. 200.
+[^91] Ibn Abi’l-Hadid, op cit, pp. 13, pp. 200.
 
-[^92]: Shaykh al-tusi, al-Amali, pp. 624.
+[^92] Shaykh al-tusi, al-Amali, pp. 624.
 
-[^93]: Al-Suyuti, Tarikh al-Khulafa', pp. 170.
+[^93] Al-Suyuti, Tarikh al-Khulafa', pp. 170.
 
-[^94]: Nahj al-Balaghah, Sermon 192.
+[^94] Nahj al-Balaghah, Sermon 192.
 

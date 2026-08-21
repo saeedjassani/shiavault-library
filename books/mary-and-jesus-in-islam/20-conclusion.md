@@ -154,7 +154,7 @@ reciter receives; so, let each one of you accumulate of such available
 goodness, for it surely is a great gain. Do not let it pass you by,
 for
 
-[^1]: Balqees Queen of Saba’ (Sheba) belonged to the Arab tribe of Himyar
+[^1] Balqees Queen of Saba’ (Sheba) belonged to the Arab tribe of Himyar
 which for centuries has been residing in Yemen. Her people used to
 worship the sun and the moon and other stars, and some of the ruins of
 the temples she had built for them can still be seen in Saba’. Solomon
@@ -206,7 +206,7 @@ ailments except death, and 9) al-Salat, the prayers, or the basic
 requirement of the daily prayers, one without the recitation of which no
 prayer can be accepted. The Prophet has quoted the Almighty as saying,
 “The prayers have been divided between Me
-[^1]: al-Tabari, Tarikh, Vol. 1, p. 88.
+[^1] al-Tabari, Tarikh, Vol. 1, p. 88.
 
 (125)
 

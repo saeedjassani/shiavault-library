@@ -3,24 +3,24 @@ Notes
 
 ------------------------------------------------------------------------
 
-[^1]: - It is worth mentioning that Abu Rabi'a uses the phrase 'narrated
+[^1] - It is worth mentioning that Abu Rabi'a uses the phrase 'narrated
 to us' whereas the other two reporters have made use of the phrase 'told
 us'.
 
-[^2]: - The letter‘s’ stands for ‘peace be upon him and his progeny’.
+[^2] - The letter‘s’ stands for ‘peace be upon him and his progeny’.
 Though the Sunnite sources suffice to saying ‘peace be upon him’ after
 mentioning the name of the Prophet (s), omitting ‘and his progeny’, we
 have intended to mention the whole version of this supplication,
 whenever we have used the abbreviation‘s’.
 
-[^3]: - Sahih Bukhari, vol. 3, p. [^1345]: (Book of the virtues of the
+[^3] - Sahih Bukhari, vol. 3, p. [^1345]: (Book of the virtues of the
 companions of the Holy Prophet (s)), tradition no. 3274. Sahih Muslim,
 vol. 5, p. 12 (Book of the virtues of the companions of the Holy Prophet
 (s)), tradition no. 2389.
 
-[^4]: - Tahzib al-Tahzib, vol. 5, p. [^272]:
+[^4] - Tahzib al-Tahzib, vol. 5, p. [^272]:
 
-[^5]: - Sahih Bukhari, vol. 3, pp. 1343 and 1344, Tradition no. [^3471]:
+[^5] - Sahih Bukhari, vol. 3, pp. 1343 and 1344, Tradition no. [^3471]:
 Elsewhere in Sahih Bukhari the same tradition has appeared with a
 somewhat different wording. See for example the following:
 
@@ -52,11 +52,11 @@ calamity which will befall him. "Behold ! It was 'Uthman, I informed him
 of what Allah's Apostle had said. He praised Allah and said, "I seek
 Allah's aid."
 
-[^6]: - Sahih Muslim, vol. 5, pp. 20 and 21, tradition no. [^2403]:
+[^6] - Sahih Muslim, vol. 5, pp. 20 and 21, tradition no. [^2403]:
 
-[^7]: - Sahih Bukhari, vol. 3, pp. 1350 and 1351, tradition no. [^3490]:
+[^7] - Sahih Bukhari, vol. 3, pp. 1350 and 1351, tradition no. [^3490]:
 
-[^8]: - Sahih Muslim, vol. 5, pp. 19 and 20, tradition no. [^2403]: His
+[^8] - Sahih Muslim, vol. 5, pp. 19 and 20, tradition no. [^2403]: His
 version of this tradition is not the same either. See for example the
 following:
 
@@ -134,19 +134,19 @@ gave him the glad tidings of Paradise and informed him (what the Prophet
 had said). Thereupon he said: O Allaah, grant me steadfastness. Allaah
 is one Whose help is to be sought.(Sahih Muslim tradition, no. 5909).
 
-[^9]: - MIzan al-Itidal, vol. 3, p. 372 and Tahdib al-Tahdib, vol. 4, p.
+[^9] - MIzan al-Itidal, vol. 3, p. 372 and Tahdib al-Tahdib, vol. 4, p.
 [^308]:
 
-[^10]: - Murji'a was a group of Muslims who believed that committing a
+[^10] - Murji'a was a group of Muslims who believed that committing a
 sin is not harmful as long as one is faithful.
 
-[^11]: - Tahdib al-Tahdib, vol. 7, pp. 129-[^130]: Mizan al-Itidal, vol.
+[^11] - Tahdib al-Tahdib, vol. 7, pp. 129-[^130]: Mizan al-Itidal, vol.
 5, p. 65.
 
-[^12]: - Mizan al-Itidal, vol. 2, p. 357 and Tahdib al-Tahdib, vol. 3, p.
+[^12] - Mizan al-Itidal, vol. 2, p. 357 and Tahdib al-Tahdib, vol. 3, p.
 [^4]:
 
-[^13]: - Sahih Muslim, vol. [^5]: Pp. 18-19, tradition, no. 2402. Another
+[^13] - Sahih Muslim, vol. [^5]: Pp. 18-19, tradition, no. 2402. Another
 version of this tradition has also been reported by Muslim in his Sahih.
 See: A'isha reported: Allah's Messenger (may peace be upon him) was
 lying in the bed in my apartment with his thigh or his shank uncovered
@@ -166,19 +166,19 @@ up and set your clothes right, thereupon he said: Should I not show
 modesty to one whom even the Angels show modesty (Sahih Muslim, Book 31,
 Tradition, Number 5906).
 
-[^14]: - Mizan al-Itidal, vol. 5, p. [^111]:
+[^14] - Mizan al-Itidal, vol. 5, p. [^111]:
 
-[^15]: - Sharh Nahj al-Balagha, vol. 4, p. [^102]:
+[^15] - Sharh Nahj al-Balagha, vol. 4, p. [^102]:
 
-[^16]: - Al-Isti'ab, vol. 2, p. [^117]:
+[^16] - Al-Isti'ab, vol. 2, p. [^117]:
 
-[^17]: - Al-Kashif, vol. 2, p. [^301]:
+[^17] - Al-Kashif, vol. 2, p. [^301]:
 
-[^18]: - Wafiyat al-A'ayan, vol. 4, p. [^178]:
+[^18] - Wafiyat al-A'ayan, vol. 4, p. [^178]:
 
-[^19]: - Tahdib al-Tahdib, vol. 4, p. [^204]:
+[^19] - Tahdib al-Tahdib, vol. 4, p. [^204]:
 
-[^20]: - واعلم أن أدنى ما كتمت وأخف ما احتملت أن آنست وحشة الظالم وسهلت
+[^20] - واعلم أن أدنى ما كتمت وأخف ما احتملت أن آنست وحشة الظالم وسهلت
 له طريق الغي  بدنوك منه حين دنوت وإجابتك له حين دعيت، فما أخوفني أن تكون
 تبوء بإثمك غدا مع الخونة، وأن تسأل عما أخذت بإعانتك على ظلم الظلمة، إنك
 أخذت ما ليس لك ممن أعطاك ودنوت ممن لم يرد على أحد حقا ولم ترد باطلا حين
@@ -238,7 +238,7 @@ Tradition, Number 5906).
 al-Uqul 'an Al al-Rasul, pp. 274 – 277 and Ihya al-Ulum, vol. 2, p. 143
 ).
 
-[^21]: - Sahih Muslim, vol. 5, p. 33 and 34, tradition no. [^2417]:
+[^21] - Sahih Muslim, vol. 5, p. 33 and 34, tradition no. [^2417]:
 Another version of this tradition is also reported by Muslim. See: Abu
 Huraira reported: Allah's Messenger (may peace be upon him) was upon the
 mountain of Hira,' and there were along with him Abu Bakr, Umar, Uthman.
@@ -266,134 +266,134 @@ Prophet hit it with his foot and said, "O Uhud ! Be firm, for on you
 there is none but a Prophet, a Siddiq and a martyr. (Vol. 5, Book 57,
 Number 35)
 
-[^22]: - See, al-Shifa and its commentary Nasim al-Riyad, vol. 3, p.
+[^22] - See, al-Shifa and its commentary Nasim al-Riyad, vol. 3, p.
 [^192]:
 
-[^23]: - Al-Du'afa wa al-Matrukun, p. [^51]:
+[^23] - Al-Du'afa wa al-Matrukun, p. [^51]:
 
-[^24]: - Mizan al-Itidal, vol. 1, pp. 379-[^380]:
+[^24] - Mizan al-Itidal, vol. 1, pp. 379-[^380]:
 
-[^25]: - Tahdib al-Tahdib, vol. 1, p. [^280]:
+[^25] - Tahdib al-Tahdib, vol. 1, p. [^280]:
 
-[^26]: - Ibid, p. [^281]:
+[^26] - Ibid, p. [^281]:
 
-[^27]: - Umda al-Qari, vol. 1, p. 8,
+[^27] - Umda al-Qari, vol. 1, p. 8,
 
-[^28]: - Sunan Ibn Majah, vol. 1, p. 139 and 130, tradition, no, [^113]:
+[^28] - Sunan Ibn Majah, vol. 1, p. 139 and 130, tradition, no, [^113]:
 
-[^29]: - Al-Mustadrak als al-Sahihain, vol. 3, p. 106, tradition, no,
+[^29] - Al-Mustadrak als al-Sahihain, vol. 3, p. 106, tradition, no,
 [^4543]:
 
-[^30]: - Mizan al-Itidal, vol. 5, p. 476 and Tahdib al-Tahdib, vol. 8, p.
+[^30] - Mizan al-Itidal, vol. 5, p. 476 and Tahdib al-Tahdib, vol. 8, p.
 [^336]:
 
-[^31]: - Tadrib al-Rawi, vol. 1, pp. 278 and [^279]:
+[^31] - Tadrib al-Rawi, vol. 1, pp. 278 and [^279]:
 
-[^32]: - Al-Mustadrala al-Sahihain, vol. 3, p. 616, tradition, no.
+[^32] - Al-Mustadrala al-Sahihain, vol. 3, p. 616, tradition, no.
 [^6281]:
 
-[^33]: - Mizan al-Itidal, vol. 3, p. 18 and Tahdib al-Tahdib, vol. 3, p.
+[^33] - Mizan al-Itidal, vol. 3, p. 18 and Tahdib al-Tahdib, vol. 3, p.
 [^173]:
 
-[^34]: - Tahdib al-Tahdib, vol. 8, pp. 307-[^309]: See also other Sunni
+[^34] - Tahdib al-Tahdib, vol. 8, pp. 307-[^309]: See also other Sunni
 sources.
 
-[^35]: -Mizan al-Itidal, vol. 6, p. [^79]:
+[^35] -Mizan al-Itidal, vol. 6, p. [^79]:
 
-[^36]: - Ibid, vol. 4, p. [^434]:
+[^36] - Ibid, vol. 4, p. [^434]:
 
-[^37]: - Tahdib al-Tahdib, vol. 3, pp. 110 and [^111]:
+[^37] - Tahdib al-Tahdib, vol. 3, pp. 110 and [^111]:
 
-[^38]: - Ibid, vol. 5, p. 201 and [^202]: Mizan al-Itidal, vol. 4, p. 103
+[^38] - Ibid, vol. 5, p. 201 and [^202]: Mizan al-Itidal, vol. 4, p. 103
 and 104.
 
-[^39]: - Fayd al-Qadir, vol. 5, p. [^589]:
+[^39] - Fayd al-Qadir, vol. 5, p. [^589]:
 
-[^40]: - Mizan al-Itidal, vol. 6, p. 372, Tahdib al-Tahdib, vol. 9, p.
+[^40] - Mizan al-Itidal, vol. 6, p. 372, Tahdib al-Tahdib, vol. 9, p.
 452, Taqrib al-Tahdib, vol. 2, p. [^174]:
 
-[^41]: - Al-Mughni fi al-Du'afa, vol. 2, p. [^388]:
+[^41] - Al-Mughni fi al-Du'afa, vol. 2, p. [^388]:
 
-[^42]: - See the above mentioned works and also al-Mizan, vol. 5, p. 504
+[^42] - See the above mentioned works and also al-Mizan, vol. 5, p. 504
 and Lisan al-Mizan, vol. 4, pp. 589-[^590]:
 
-[^43]: - Fayz al-Qadir, vol. 1, p. [^589]:
+[^43] - Fayz al-Qadir, vol. 1, p. [^589]:
 
-[^44]: - Al-Mustadrak al al-Sahihain, vol. 3, p. 103, tradition, no.
+[^44] - Al-Mustadrak al al-Sahihain, vol. 3, p. 103, tradition, no.
 [^4533]:
 
-[^45]: - Mizan al-Itidal, vol. 1, pp. 253 and [^254]:
+[^45] - Mizan al-Itidal, vol. 1, pp. 253 and [^254]:
 
-[^46]: - Talkhis al-Mustadr ala al-Sahihain, vol. 3, p. [^97]:
+[^46] - Talkhis al-Mustadr ala al-Sahihain, vol. 3, p. [^97]:
 
-[^47]: - Sunan Abu Dawood, vol. 3, pp. 213 -214, tradition, no. [^4636]:
+[^47] - Sunan Abu Dawood, vol. 3, pp. 213 -214, tradition, no. [^4636]:
 
-[^48]: - Al-Mustadrak ala al-Sahihain, tradition, no. [^4439]:
+[^48] - Al-Mustadrak ala al-Sahihain, tradition, no. [^4439]:
 
-[^49]: - Ibid, vol. 3, p. 109, tradition, no. [^4551]:
+[^49] - Ibid, vol. 3, p. 109, tradition, no. [^4551]:
 
-[^50]: - Majma'a al-Zawaed, vol. 9, p. 51 and Kanz al-Ummal, vol. 11, p.
+[^50] - Majma'a al-Zawaed, vol. 9, p. 51 and Kanz al-Ummal, vol. 11, p.
 [^296]:
 
-[^51]: - Tahdib al-Tahdib, vol. 8, p. [^97]:
+[^51] - Tahdib al-Tahdib, vol. 8, p. [^97]:
 
-[^52]: - Mizan al-Itidal, vol. 5, pp. 349-[^351]:
+[^52] - Mizan al-Itidal, vol. 5, pp. 349-[^351]:
 
-[^53]: - Kanz al-Ummal, vol. 1, p.293, tradition no. [^33099]:
+[^53] - Kanz al-Ummal, vol. 1, p.293, tradition no. [^33099]:
 
-[^54]: - Mizan al-Itidal, vol. 3, p. [^308]:
+[^54] - Mizan al-Itidal, vol. 3, p. [^308]:
 
-[^55]: - Lisan al-Mizan, vol. 3, p. [^113]:
+[^55] - Lisan al-Mizan, vol. 3, p. [^113]:
 
-[^56]: - Al-Khasaes al-Kubra, vol. 2, p. [^438]:
+[^56] - Al-Khasaes al-Kubra, vol. 2, p. [^438]:
 
-[^57]: - Tarikh Baghdad, vol. 9, pp. 340 and [^341]:
+[^57] - Tarikh Baghdad, vol. 9, pp. 340 and [^341]:
 
-[^58]: - Umda al-Qari, vol. 16, pp. 176 -[^177]:
+[^58] - Umda al-Qari, vol. 16, pp. 176 -[^177]:
 
-[^59]: - Mizan al-Itidal, vol. 3, pp. 434 and [^435]:
+[^59] - Mizan al-Itidal, vol. 3, pp. 434 and [^435]:
 
-[^60]: - LIsan al-Mizan, vol. 3, pp. 227 and [^228]:
+[^60] - LIsan al-Mizan, vol. 3, pp. 227 and [^228]:
 
-[^61]: - It has to mentioned that Musnad Abd al-Wahhab Kilabi contains
+[^61] - It has to mentioned that Musnad Abd al-Wahhab Kilabi contains
 Musnad Demishq.
 
-[^62]: - Tarikah Baghadad, vol. 9, p. [^348]:
+[^62] - Tarikah Baghadad, vol. 9, p. [^348]:
 
-[^63]: - Al-Mawdu'at, vol. 1, pp. 301 and [^302]:
+[^63] - Al-Mawdu'at, vol. 1, pp. 301 and [^302]:
 
-[^64]: - Mizan al-Itidal, vol. 1, pp. 301 and [^302]:
+[^64] - Mizan al-Itidal, vol. 1, pp. 301 and [^302]:
 
-[^65]: - Lisan al-Mizan, vol. 3, pp. 238 and [^239]:
+[^65] - Lisan al-Mizan, vol. 3, pp. 238 and [^239]:
 
-[^66]: = Ibid, p. [^250]:
+[^66] = Ibid, p. [^250]:
 
-[^67]: - The army that was dispatched to Tabuk is called Jaish al-Usra.
+[^67] - The army that was dispatched to Tabuk is called Jaish al-Usra.
 This is because this army was dispatched at a time of prevalence of
 famine, drought and scarcity of food.
 
-[^68]: - Sunan Ibn Majah, vol. 5, p. 297, tradition, no. [^3798]:
+[^68] - Sunan Ibn Majah, vol. 5, p. 297, tradition, no. [^3798]:
 
-[^69]: - Al-Jami'a al-Saghir, vol. 2, p. 9, tradition, no. [^4412]:
+[^69] - Al-Jami'a al-Saghir, vol. 2, p. 9, tradition, no. [^4412]:
 
-[^70]: - Tahdib al-Tahdib, vol. 10, p. [^63]:
+[^70] - Tahdib al-Tahdib, vol. 10, p. [^63]:
 
-[^71]: - Al-Ilal al-Mutanahiya, vol. 1, pp. 255 and [^256]:
+[^71] - Al-Ilal al-Mutanahiya, vol. 1, pp. 255 and [^256]:
 
-[^72]: - Mizan al-Itidal, vol. 6, p. [^386]:
+[^72] - Mizan al-Itidal, vol. 6, p. [^386]:
 
-[^73]: - Fayz al-Qadir, vol. 4, p. [^25]:
+[^73] - Fayz al-Qadir, vol. 4, p. [^25]:
 
-[^74]: - Ta'arikh Baghadad, vol. 5, p. [^207]:
+[^74] - Ta'arikh Baghadad, vol. 5, p. [^207]:
 
-[^75]: - Al-Mawdu'at, vol. 1, p. [^251]:
+[^75] - Al-Mawdu'at, vol. 1, p. [^251]:
 
-[^76]: - Mizan al-itidal, vol. 5, p. [^144]:
+[^76] - Mizan al-itidal, vol. 5, p. [^144]:
 
-[^77]: - Al-Lu'ali al-Masnu'a, vol. 1, pp. 292 and [^293]:
+[^77] - Al-Lu'ali al-Masnu'a, vol. 1, pp. 292 and [^293]:
 
-[^78]: - Al-Mawdu'at, vol. 1, pp. 302 and [^303]:
+[^78] - Al-Mawdu'at, vol. 1, pp. 302 and [^303]:
 
-[^79]: - Mizan al-Itidal, vo. 1, pp. 160 and [^161]:
+[^79] - Mizan al-Itidal, vo. 1, pp. 160 and [^161]:
 
-[^80]: - Lisan al-Mizan, vol. 1, p. [^169]:
+[^80] - Lisan al-Mizan, vol. 1, p. [^169]:

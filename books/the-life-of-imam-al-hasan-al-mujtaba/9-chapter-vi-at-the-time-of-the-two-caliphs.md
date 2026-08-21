@@ -40,8 +40,8 @@ People hurried to pledge allegiance and seized the opportunity. Imam
 Ali (a.s) was busy preparing the corpse of the Prophet (a.s) for
 burying. The people did not give him time to bury the Prophet (a.s) lest
 the authority should escape
-[^1]: Qur’an, 3, 144.
-[^2]: Nahjj al-Balagha, (explained by Muhammed ‘Abda), 248.
+[^1] Qur’an, 3, 144.
+[^2] Nahjj al-Balagha, (explained by Muhammed ‘Abda), 248.
 
 them, and their wishes and hopes for seizing the reins of government
 and authority would be lost. Anyhow, it is necessary for us to talk
@@ -72,11 +72,11 @@ This is the text of his oration: “O Community of the Ansar, you have
 precedence in religion and excellence in Islam that no one of the Arab
 tribe is like you. Most surely, Muhammad (a.s) remained among his
 
-[^1]: Al-Tulaqa’ are those who converted to Islam at the time of the
+[^1] Al-Tulaqa’ are those who converted to Islam at the time of the
 conquest of Mecca.
-[^2]: Al-Saqifa is a shelter. It was the place where the Ansar held their
+[^2] Al-Saqifa is a shelter. It was the place where the Ansar held their
 meetings and seminars.
-[^3]: Sa’d bin Ubada was the master of the Khazrajite and leader of the
+[^3] Sa’d bin Ubada was the master of the Khazrajite and leader of the
 Ansar. His people admitted his leadership over them. He, his father, his
 grandfather, and his son Qays were famous for generosity. It was said
 that no house from al-Aws and al-Khazrajj had four successive, generous
@@ -140,7 +140,7 @@ authority?
 
 Most likely, they came to know of the dangerous plot schemed by the
 remarkable Muhajireen against Imam Ali, the Commander of the faithful.
-[^1]: Al-Tabari, Tarikh, vol. 3, p. 207.
+[^1] Al-Tabari, Tarikh, vol. 3, p. 207.
 
 They feared that the Muhajireen would win the caliphate and deprive
 them of it; so, they hurried to seize the opportunity through nominating
@@ -186,9 +186,9 @@ killed, will you turn back upon your heels?
 The people yielded to Abu Bakr’s statement and repeated the verse.
 Umar
 
-[^1]: Al-Sanah is a place one mile from Medina. It was said that it was
+[^1] Al-Sanah is a place one mile from Medina. It was said that it was
 among its outskirts, and was three or four miles far from it.
-[^2]: Ibn Abi al-Hadeed, Sharh Nahjj al-Balagha.
+[^2] Ibn Abi al-Hadeed, Sharh Nahjj al-Balagha.
 
 hurried to believe Abu Bakr’s statement and showed no objection toward
 it. He accompanied him. He walked with him, supported him, and protected
@@ -234,8 +234,8 @@ party were A’isha and Hafsa.”
 This viewpoint is very trustworthy, for if someone reflects on the
 people’s
 
-[^1]: Qur’an, 29, 57.
-[^2]: Qur’an, 39, 30.
+[^1] Qur’an, 29, 57.
+[^2] Qur’an, 39, 30.
 
 steps and carefully considers their deeds concludes that there was an
 previously prepared plot, and that the people had woven its threads
@@ -279,9 +279,9 @@ that through which Allah has made them better. I have accepted for you
 one of these two men, namely Umar bin al-Khattab and Abu Ubayda bin
 al-Jarrah.”[^3]
 
-[^1]: Al-‘Aqd al-Fareed, vol. 3, p. 62.
-[^2]: Al-Tabari, Tarikh, vol. 3, p. 208.
-[^3]: Al-‘Aqd al-Fareed, vol. 3, p. 62.
+[^1] Al-‘Aqd al-Fareed, vol. 3, p. 62.
+[^2] Al-Tabari, Tarikh, vol. 3, p. 208.
+[^3] Al-‘Aqd al-Fareed, vol. 3, p. 62.
 
 Indeed the most reliable proofs Abu Bakr gave for the right of the
 Muhajireen in the caliphate and power are as follows:
@@ -331,7 +331,7 @@ When Abu Bakr ended his previous speech during which he nominated Umar
 and Abu Ubayda for the office of the caliphate, Umar hurried to him and
 said:
 
-[^1]: Al-Nisa’i, Khasa’is, p. 18. Al-Hakim, Mustadrak, vol. 3, p. 126.
+[^1] Al-Nisa’i, Khasa’is, p. 18. Al-Hakim, Mustadrak, vol. 3, p. 126.
 
 “Will this be while you are alive?” None (has the right) to hinder you
 from your position where Allah’s Apostle (a.s) had installed you!” We do
@@ -373,10 +373,10 @@ him!”[^4]
 This statement has the severest kind of criticism and slander. It has
 the following:
 
-[^1]: Al-‘Aqd al-Fareed, vol. 3, p. 62.
-[^2]: Ibn Abi al-Haddeed, Sharh Nahjj al-Balagha, vol. 2, p. 8.
-[^3]: Ibid., vol. 2, p. 5.
-[^4]: Al-Bukhari, Saheeh, vol. 10, p. 44. Ahmed, Musnad, vol. 1, p. 55.
+[^1] Al-‘Aqd al-Fareed, vol. 3, p. 62.
+[^2] Ibn Abi al-Haddeed, Sharh Nahjj al-Balagha, vol. 2, p. 8.
+[^3] Ibid., vol. 2, p. 5.
+[^4] Al-Bukhari, Saheeh, vol. 10, p. 44. Ahmed, Musnad, vol. 1, p. 55.
 Tamam al-Mutun, p. 137.
 
 1. Most surely Umar has described the pledge of allegiance to Abu Bakr
@@ -423,8 +423,8 @@ might not be surprised by something like that through which they were
 surprised, while the injury did not heal and the Apostle was not buried
 yet?”[^2]
 
-[^1]: Qur’an, 9, 128.
-[^2]: Al-Nas wa al-Ijtihad, p. 7.
+[^1] Qur’an, 9, 128.
+[^2] Al-Nas wa al-Ijtihad, p. 7.
 
 The Prophet (a.s) was laid out in the bed of death, his grave did not
 make him absent from the eyes of the people, while they impatiently and
@@ -469,8 +469,8 @@ should follow Allah’s Book and the Sunna of His Prophet just as they
 stipulated in respect of the Caliphs after him. Perhaps, for these
 reasons Umar decided that the
 
-[^1]: Al-Khulafa’ al-Rashidun, p. 16.
-[^2]: Ibn al-Athir, Tarikh.
+[^1] Al-Khulafa’ al-Rashidun, p. 16.
+[^2] Ibn al-Athir, Tarikh.
 
 pledge of allegiance to Abu Bakr and its ways were illegal; likewise,
 he decided that he would kill those who would return to the like of
@@ -517,5 +517,5 @@ his displeasure toward them. He advanced arguments and debated with
 them. He showed his strong grumble and his intense displeasure with the
 people because they plundered his inheritance, and denied his authority
 and his rights.
-[^1]: Ali wa Banuh, p. 19.
+[^1] Ali wa Banuh, p. 19.
 

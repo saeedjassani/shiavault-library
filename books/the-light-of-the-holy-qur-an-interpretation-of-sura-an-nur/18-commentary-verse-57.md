@@ -141,7 +141,7 @@ want to come and go frequently and they have to take permission, every
 time it will become a difficult job (Kanz-ul-'Irfan, Vol. 2, P.
 225).[^1]
 
-[^1]: If we look one more time to this Sura from the beginning, we find
+[^1] If we look one more time to this Sura from the beginning, we find
 that the policy of prevention from indecency is behind its verses. For
 example, adulterer and adulteress should be punished before others' eye
 (verse 1), their marriage is limited (verse 3), if without four
@@ -293,5 +293,5 @@ It is interesting that there is a tradition from the Prophet (p.b.u.h.)
 who said: "Be careful that you do not have sexual intercourse while a
 child is looking at you from cradle."[^1]
 
-[^1]: Bihar-ul-'Anwar, Vol. 103, p. 295
+[^1] Bihar-ul-'Anwar, Vol. 103, p. 295
 

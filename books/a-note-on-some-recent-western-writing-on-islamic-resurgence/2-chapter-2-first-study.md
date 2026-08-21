@@ -41,7 +41,7 @@ Muslims: "Western investment means the integration of the Islamic world
 into the system of the multinationals, which is totally alien to Muslim
 concepts of interests, insurance, taxation, and so on."
 
-[^10]: Then he reaches the following major conclusion without providing
+[^10] Then he reaches the following major conclusion without providing
 enough historical evidence and introduction: "Islam thus comes out badly
 bruised from the encounter with modernity."
 

@@ -23,7 +23,7 @@ of Jesus Christ as the “son of God.”
 This concept is directly linked to the pagan “sun god,” or god of the
 sun, hence Sunday[^1], the day when the sun god, in his various names
 
-[^1]: According to The Columbia Viking Desk Encyclopedia, early
+[^1] According to The Columbia Viking Desk Encyclopedia, early
 Christians observed the first day of the week (Monday) as their Sabbath
 “in commemoration of the Resurrection.” Some sects, such as Seventh-Day
 Baptists, have reverted to Saturday. “Monday,” by the way, was the
@@ -68,7 +68,7 @@ hence, were celebrated in midsummer festival in Adonia, Saturday was
 “Saturn's day,” the day when Saturn, god of the harvest, was to be
 worshipped. This is another proof of the pagan roots in Christianity.
 
-[^1]: In the text to follow, I have benefitted from Fazlul-Rahman
+[^1] In the text to follow, I have benefitted from Fazlul-Rahman
 Ansari's book Islam and Christianity in the Modern World.
 
 (114)
@@ -114,7 +114,7 @@ interred but came again to life after remaining in hell for two or three
 days and three nights. After his death, it was the custom of his
 votaries to keep his image in a box and bring out the
 
-[^1]: Godfrey Higgins, Anacalypsis, Vol. 1, p. 322.
+[^1] Godfrey Higgins, Anacalypsis, Vol. 1, p. 322.
 
 (115)
 
@@ -157,7 +157,7 @@ baptism, confirmation, and Eucharistic supper, at which the communicants
 partook of the divine nature of Mithra under the species of bread and
 wine.”[^1]
 
-[^1]: The Nineteenth Century, September 1905, p. 496.
+[^1] The Nineteenth Century, September 1905, p. 496.
 
 (116)
 
@@ -174,7 +174,7 @@ his passion play has a very close resemblance with the Christian passion
 story even in details. The Jews had passed a long time in captivity in
 Babylon during the reign of Nebuchadnezzar[^1] II
 
-[^1]: Nebuchadnezzar (reigned 605-562 B.C.) was a king of Babylon during
+[^1] Nebuchadnezzar (reigned 605-562 B.C.) was a king of Babylon during
 whose long and eventful reign the Neo-Babylonian Empire attained its
 peak and the city of Babylon its greatest glory. Nebuchadnezzar - more
 properly Nebuchadrezzar - is the biblical form of the name
@@ -257,7 +257,7 @@ Hilla, metropolis of today's Babylon governorate) and reckoned among the
 Seven Wonders of the World. It was said that he built it to please his
 mountain-born wife, Amytis, daughter of Cyaxares, the Median king.
 
-[^1]: In the following text, I have utilized Fazlul Rahman Ansari's
+[^1] In the following text, I have utilized Fazlul Rahman Ansari's
 excellent book Islam and Christianity in the Modern World, pp. 70-72.
 
 (118)

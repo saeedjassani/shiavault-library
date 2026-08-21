@@ -34,7 +34,7 @@ commentators use the same expression, although in sections of the
 statutes relating to this kind of marriage they also employ the terms
 istimta' and the related word tamattu'. Al-Shahid al Thani [^3] employs
 the same term as al-Hilli [^4] , but others, such as al-Shahid al-Awwal,
-[^5]: al-'Allama al-Hilli [^6] and al-Shaykh al-Ansari [^7] prefer the term
+[^5] al-'Allama al-Hilli [^6] and al-Shaykh al-Ansari [^7] prefer the term
 mut'a. [^8]
 
 Among Sunni jurisprudents there is a discussion concerning whether or
@@ -184,7 +184,7 @@ reason of the 'principle of correctness' as applied to the Muslim's act.
 It is also reprehensible, without any exceptions, to contract a
 temporary marriage with a virgin, by reason of the words of the Imam
 Ja'far: 'It is reprehensible, because it is a stain upon her family.'
-[^29]: If a contract should nevertheless be concluded, it is not
+[^29] If a contract should nevertheless be concluded, it is not
 permissible for the man to consummate the marriage, unless the marriage
 took place with the permission of her father-a condition almost
 impossible to imagine in Muslim society. 'A virgin may not be married
@@ -230,7 +230,7 @@ according to the accepted standard, when a contract has been concluded,
 the transaction has taken place. [^35] The most authoritative view holds
 that if the stipulated period is not mentioned in the text of the
 contract, the marriage cannot take place and the contract is invalid.
-[^36]: The consensus of the community has established that one of the two
+[^36] The consensus of the community has established that one of the two
 pillars that differentiate mut'a from permanent marriage is mention of
 the time period; whenever this pillar is not present, everything that
 depends on it is invalidated. In addition, a contract follows the

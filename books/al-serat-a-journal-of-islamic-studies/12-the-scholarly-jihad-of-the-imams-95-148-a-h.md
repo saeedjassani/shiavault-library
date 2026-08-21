@@ -423,7 +423,7 @@ found therein has the highest degree of beauty and splendour.' [^34]
 [^1]: Muhammad Jawad al Mughniya, ash Shia wal Hakimun, al Maktab al
 Ahliya, Beirut, 1st edition 1961, p. 75
 [^2]: Taha Husain, Ali wa Banuh as quoted in ash Shia, p. 80
-[^3]: J. Wellhausen, al Khawarij wa shia (trans into Arabic of his The
+[^3] J. Wellhausen, al Khawarij wa shia (trans into Arabic of his The
 Kharijites and the Shi'ites ed. 1985 p. 499) quoted by M. J. al Mughniya
 in his ash Shia wat Tashayyu, Maktaba al Madrasa wa Dar al Kitab al
 Libnani, Beirut, note 8 p. 68
@@ -439,12 +439,12 @@ Shia wal Hakimun, p. 134
 [^10]: Muhammad Baqir al Majlisi, Bihar al Anwar, new edition, Tehran,
 1385 A.H, vol. 47, p. 171 quoting Qutb al Din ar Rawandi, al Kharaij wa
 l Jaraih, p. 234
-[^11]: Ibn Shahr ashub, Manaqib, vol. 4 al Matba al Alimiya, Qum, p.
+[^11] Ibn Shahr ashub, Manaqib, vol. 4 al Matba al Alimiya, Qum, p.
 238
 [^12]: ibid, many similar reports are given in Fadl b. Hasan at Tabarsi,
 al Ihtijaj, and al Majlisi, op cit
 [^13]: ibid
-[^14]: Ibn Hajar al Asqalani, Tadhib al Tadhib, Hyderabad, 1325 A.H, vol.
+[^14] Ibn Hajar al Asqalani, Tadhib al Tadhib, Hyderabad, 1325 A.H, vol.
 2, p. 104
 [^15]: Ibn Shahr ashub, Manaqab, vol. 4 p 247-8
 [^16]: Ibn Shahr ashub, op cit, p. 248

@@ -73,7 +73,7 @@ Question: Taking this verse which says in Hereafter the burden of
 everybody is on one’s own shoulder and it does not harm others, can we
 say we should leave alone the sinners,
 
-[^1] Sura Al-'Ankabu-t, No. 29, verse 12
+[^1]: Sura Al-'Ankabu-t, No. 29, verse 12
 
 because they themselves will carry the burden of their own sins and it
 does not relate to us?

@@ -19,7 +19,7 @@ thus, some of them disbelieved in him twelve times after having believed
 in him, and they were divided into three sects: One of the sects said
 that God was among them, then He ascended to heaven.
 
-[^1]: According to the distorted story of Jesus, soldiers of the Roman
+[^1] According to the distorted story of Jesus, soldiers of the Roman
 empire (which then ruled Palestine) crucified Jesus. Muslims believe
 that: 1) the Jews, not the Romans, crucified a man thinking that he was
 Jesus, that the plot against him was not politically but religiously
@@ -47,7 +47,7 @@ Allah Almighty has said,
 “Such is Jesus son of Mary; (this is) the saying of truth about which
 they dispute[^4]. It does not befit Allah to take to Himself a\`
 
-[^1]: Named after Jacob Baradaeus, this sect of Christianity spread in
+[^1] Named after Jacob Baradaeus, this sect of Christianity spread in
 the 6th. century throughout Syria, Iraq, and India. Its views sharply
 contradict those held by Roman Catholics and by the Orthodox. Its head
 is the patriarch of Antioch (at Syrian Homs), and it uses Syriac as its
@@ -62,7 +62,7 @@ after Aram, a descendant of Nahor, grandfather of Prophet Abraham
 ancient cities in the world. It dates back to 3000 B.C., hence it is now
 about five thousand years old.
 
-[^2]: They are named after Nestorius, 5th century patriarch of
+[^2] They are named after Nestorius, 5th century patriarch of
 Constantinople. Followers of this Church reject the labeling of Virgin
 Mary, mother of Christ, as “the Mother of God,” saying that she bore
 Jesus as a man. It flourished in Syria and ancient Persia, and one of
@@ -73,7 +73,7 @@ trip. Salman al-Farisi, one of Prophet Muhammed's early disciples and
 traditionists, had converted from Zoroastrianism to Nestorianism then to
 Islam.
 
-[^3]: Notice that I did not use the word “Allah” for the previous sects.
+[^3] Notice that I did not use the word “Allah” for the previous sects.
 This is due to the fact that those sects did not have the correct
 concept of the Almighty. The word “Allah” here refers to the complete
 and perfect concept of God. [^4] Christians have been disputing with one

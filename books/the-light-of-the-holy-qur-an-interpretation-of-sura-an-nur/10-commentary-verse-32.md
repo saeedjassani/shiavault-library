@@ -68,11 +68,11 @@ says in this way the reward of one year worshiping that in its nights
 the one establishes prayers and in its days he fasts, will be recorded
 in one's book of deeds."[^3]
 
-[^1]: Wasa'il-ush-Shi'ah, Vol. 14, p. 27
+[^1] Wasa'il-ush-Shi'ah, Vol. 14, p. 27
 
-[^2]: Ibid
+[^2] Ibid
 
-[^3]: Ibid
+[^3] Ibid
 
 Since an almost public pretext for escaping marriage is poverty and not
 being financially supported, the holy Qur'an answers them and implies
@@ -107,11 +107,11 @@ In another tradition by the Prophet (p.b.u.h.) we read: "One who gets
 married has saved one half of his religion and must protect the other
 half."[^3]
 
-[^1]: Nur-uth-Thaqalyn
+[^1] Nur-uth-Thaqalyn
 
-[^2]: Safanah-tul-Bihar, Vol. 1, p. 561
+[^2] Safanah-tul-Bihar, Vol. 1, p. 561
 
-[^3]: Ibid
+[^3] Ibid
 
 The Prophet (p.b.u.h.) said: "The worst of you is the one who is
 unmarried."[^1]
@@ -125,11 +125,11 @@ The Prophet (p.b.u.h.) in a tradition said: "Marry virgin girls because
 their mouth is sweet and charming and their uterus is more proper and
 they learn soon and their kindness is more stable."[^3]
 
-[^1]: Majam'ul-Bayan, under the verse
+[^1] Majam'ul-Bayan, under the verse
 
-[^2]: Man la Yahduruh ul-Faqih, Vol. 3, p 255
+[^2] Man la Yahduruh ul-Faqih, Vol. 3, p 255
 
-[^3]: Bihar ul-Anwar, Vol. 103, p. 237
+[^3] Bihar ul-Anwar, Vol. 103, p. 237
 
 **Commentary : Verse 33**
 
@@ -331,7 +331,7 @@ civilized world, some crimes are committed which are worse than the age
 of slavery. May Allah save the people of the world from these
 pseudo-civilized men! We thank Allah
 
-[^1]: Majma' ul-Bayan and QurtAbi Commentary
+[^1] Majma' ul-Bayan and QurtAbi Commentary
 
 that such shameful crimes have considerably been wound up in Iran after
 Islamic Revolution.

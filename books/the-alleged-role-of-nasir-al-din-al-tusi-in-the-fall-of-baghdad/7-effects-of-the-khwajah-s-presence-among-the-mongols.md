@@ -3,7 +3,7 @@ Effects of the Khwajah's Presence Among the Mongols
 
 It is a fact that the Khwajah joined the Mongols and remained with them
 till the time of his death. After him, his son too lived among them.
-[^64]: In this context some points deserve attention.
+[^64] In this context some points deserve attention.
 
 The first point is that Khwajah Nasir al-Din was an Imami Shi'i. He was
 heir to a legacy and tradition in which taqiyyah played an important

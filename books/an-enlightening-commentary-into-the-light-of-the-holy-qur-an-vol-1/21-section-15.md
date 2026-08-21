@@ -442,8 +442,8 @@ all good examples for Muslims, and those who pave the path towards
 Allah*,* to take and follow in their lives as their models.
 
 As the Qur'an says about Abraham (as), he was of the elect and good,
-[^5]: in the ranks of the Righteous, [^6] a model, [^7] a man of truth,
-[^8]: most tender-hearted, and forbearing. [^9] Furthermore, he was
+[^5] in the ranks of the Righteous, [^6] a model, [^7] a man of truth,
+[^8] most tender-hearted, and forbearing. [^9] Furthermore, he was
 incomparably, brave and extraordinarily generous as well.
 
 *Allah* Willing, we will offer a more detailed explanation concerning

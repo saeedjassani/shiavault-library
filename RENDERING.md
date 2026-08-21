@@ -23,8 +23,16 @@ after importing or hand-editing a book:
 ```sh
 python3 tools/normalize_markdown.py books          # fix in place
 python3 tools/normalize_markdown.py --check books  # report only
-python3 tools/verify_against_head.py               # prove no text was lost
+python3 tools/verify_against_head.py               # prove no source text was lost
+python3 tools/verify_rendered.py <old-worktree>    # prove no DISPLAYED text was lost
 ```
+
+The last check matters most. Source-level comparison proves no characters left
+the file; it does not prove they still reach the page. Footnote definitions are
+the case in point — they survive in the Markdown and vanish from the render.
+`verify_rendered.py` renders both revisions with CommonMark + footnotes and
+compares the visible text, which is the only way that class of regression shows
+up before a reader hits it.
 
 ## What the reader must do
 
@@ -68,21 +76,32 @@ A renderer that ignores them shows a stray backslash before the character; one
 that also ignores the backtick's meaning can swallow a whole paragraph into a
 code span.
 
-### 4. Support footnotes, including book-level notes chapters
+### 4. Support footnotes, and expect two different layouts
 
 Footnotes use the standard `[^n]` / `[^n]:` extension (pandoc / markdown-it-
-footnote / GFM-style). Two layouts occur:
+footnote / GFM-style). Two layouts occur, and they are deliberately **not**
+unified:
 
-* **Per-chapter** — definitions sit at the end of the same file. These resolve
-  normally.
-* **Per-book** — the chapter files carry only references, and one `Notes`
-  chapter at the end of the book carries every definition. 858 files rely on
-  this.
+* **Per-chapter footnotes** — references in the prose, definitions as `[^n]:`
+  at the end of the same file. These resolve normally and render in a footnotes
+  block. About 2,570 definitions across the library use this form.
+* **Notes chapters** — a book keeps every citation in a standalone `Notes` or
+  `Endnotes` chapter. There the entries are written as **plain text**
+  (`[^1] Bin means "son of".`), not as `[^n]:` definitions, and they are meant
+  to render as ordinary visible prose.
 
-In the per-book case a reference has no definition in its own file. The reader
-should resolve footnotes **across the book**, not just the current chapter, or
-at minimum link an unresolved reference to the book's notes chapter rather than
-rendering a dead `[^n]` marker.
+The second form looks like a mistake and is not one. A footnote-aware renderer
+lifts `[^n]:` definitions out of the body and prints them only where a matching
+reference appears in the *same document*. A notes chapter contains no
+references, so writing its entries as real definitions blanks the entire
+chapter. 332 files are kept as prose for this reason — 206 because they carry no
+local references, and 126 more because they reuse the same footnote number
+several times over (see below).
+
+Chapter files in such books therefore contain references whose definitions live
+in another file. A reader should either resolve footnotes across the whole book,
+or link an unresolved reference to the book's notes chapter — but it must not
+drop the marker silently.
 
 ### 5. Treat setext underlines as headings, not rules
 
@@ -115,3 +134,9 @@ need a human reading the original book, so the normalizer leaves them alone:
 * Emphasis fragmented mid-phrase in a few books (`*al* *‑* *\`umr*`), which
   renders as several adjacent italic runs instead of one.
 * Occasional missing spaces around emphasis (`are**مبني** in its entirety`).
+* **Footnote numbers that restart inside one chapter.** 126 files number their
+  notes per printed page of the original book, so a single file defines `[^1]`,
+  `[^2]`, `[^3]` several times over. Footnote renderers keep the first
+  definition of a number and discard the rest, so these files are left as plain
+  text rather than being turned into real footnotes — correct numbering would
+  mean renumbering against the printed source.

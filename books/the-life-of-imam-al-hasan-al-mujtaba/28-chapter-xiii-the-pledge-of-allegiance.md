@@ -37,8 +37,8 @@ regulating life, protecting rights, putting an end to deception and
 oppression, establishing security and justice in the country. Of course
 they are in need of a force and a state to protect them and apply them
 to the reality of life.
-[^1]: Al-Nizam al-Siyasi fi al-Islam, p. 15.
-[^2]: Al-Islam wan-Nasraniya, p. 65.
+[^1] Al-Nizam al-Siyasi fi al-Islam, p. 15.
+[^2] Al-Islam wan-Nasraniya, p. 65.
 
 Imam Ali, the Commander of the faithful, has talked about the qualities
 of one who undertakes the leadership of government and manages the
@@ -83,8 +83,8 @@ uncleanness from them and purified them thoroughly. The Prophet, may
 Allah bless him and his family, compared them to Allah’s Holy Book,
 falsehood shall not come to it from before it nor from behind it, and
 regarded them as life-ships and security for mankind. Of
-[^1]: Muhammed ‘Abda, Sharh Nahj al-Balagha, vol. 2, p. 19.
-[^2]: Qur’an, 1, 124.
+[^1] Muhammed ‘Abda, Sharh Nahj al-Balagha, vol. 2, p. 19.
+[^2] Qur’an, 1, 124.
 
 course, such great care of them resulted from nothing except their
 importance and that they were unique in man’s history. Imam Ali, the
@@ -128,7 +128,7 @@ to him. They gathered in Kufa Mosque in the morning, the 21st of
 Ramadan, in the year 40 AH. Then Imam al-Hasan (a.s) came accompanied by
 the remainder of the Muhajireen and of the Ansar. He ascended the
 pulpit, praised and
-[^1]: Muhammed ‘Abda, Sharh Nahj al-Balagha, vol. 2, p. 259.
+[^1] Muhammed ‘Abda, Sharh Nahj al-Balagha, vol. 2, p. 259.
 
 lauded Allah. Then he praised his father the greatest lost justice. He
 mentioned some of his merits and talents, saying: “Last night a man died
@@ -172,7 +172,7 @@ speech. And indeed, Ameerul Mo'minin was the greatest personality who
 surpassed all the reformers throughout the stages of history. Indeed he
 was so. Throughout the past and the present none has surpassed Imam Ali
 in his ideals, his talents, and his unequal struggle for Islam.
-[^1]: Al-Futooh, vol. 1, p. 146.
+[^1] Al-Futooh, vol. 1, p. 146.
 
 2. In his wonderful speech he has displayed the sacredness of the night
 on which his father went to the Gardens of immortality. On that night,
@@ -217,7 +217,7 @@ than him.”[^1]
 
 They hurried to Imam al-Hasan to pay homage to him; and they indeed
 paid homage to Allah and His Apostle.
-[^1]: Maqatil al-Talibiyyin, p. 34. Al-Irshad, p. 167.
+[^1] Maqatil al-Talibiyyin, p. 34. Al-Irshad, p. 167.
 
 Qays bin Sa‘d al-Ansari, a believing, revolutionist, resolute, and
 leader, was the first to pledge allegiance to Imam al-Hasan. He was full
@@ -262,9 +262,9 @@ admitted that as true, then that was with the Kharijites, who intended
 to create disorders and riot among the Iraqi people, to spread fear and
 terrorism among them through the fact that the Imam had decided to war
 
-[^1]: Ibn al-Athir, Tarikh, vol. 3, p. 174. Ibn Khaldun, Tarikh, vol. 2,
+[^1] Ibn al-Athir, Tarikh, vol. 3, p. 174. Ibn Khaldun, Tarikh, vol. 2,
 p. 186.
-[^2]: Al-Imama wa al-Siyasa, vol. 1, p. 170.
+[^2] Al-Imama wa al-Siyasa, vol. 1, p. 170.
 
 (against his opponent Mu’awiya). The proof for that is that they
 refrained from paying homage to him in the first place. This shows that
@@ -353,7 +353,7 @@ troops hundred per cent. Imam Ali did that at the Battle of al-Jamal.
 Through this first plan of good deeds and charity he gave to the
 military troops, al-Hasan possessed the hearts and the swords. Ibn
 Katheer has said: “They loved him more than they
-[^1]: Sulh al-Hasan, p. 47.
+[^1] Sulh al-Hasan, p. 47.
 
 loved his father.”[^1] In this manner Imam al-Hasan (a.s) spared no
 effort to reform his state, to make it firm, and to protect it. He
@@ -399,10 +399,10 @@ al-Khudari has mentioned: “Al-Hasan regarded the allegiance to him as
 not similar to that of his father. That is because it was not general,
 but it was
 
-[^1]: Al-Bidaya wa al-Nihaya, vol. 8, p. 41.
-[^2]: Vol. 1, p. 363.
-[^3]: Al-Tanbeeh wa al-Ashraf, p. 260.
-[^4]: Da’irat al-Ma‘arif, vol. 3, p. 443. He has repeated that in his
+[^1] Al-Bidaya wa al-Nihaya, vol. 8, p. 41.
+[^2] Vol. 1, p. 363.
+[^3] Al-Tanbeeh wa al-Ashraf, p. 260.
+[^4] Da’irat al-Ma‘arif, vol. 3, p. 443. He has repeated that in his
 book Kanz al-‘Uloom wa al-Lugha, p. 380.
 
 limited to his followers (Shia) from among the people of Iraq.”[^1] This
@@ -446,8 +446,8 @@ and far from correctness. He passed by Imam al-Hasan’s life and his
 making peace with Mu’awiya but he did not understand the fact nor did he
 approach the reality. We will mention his historical mistakes or
 conclusions concerning the research.
-[^1]: Itmam al-Wafa’ fi Sirat al-Khulafa’, p. 225.
-[^2]: ‘Ali wa Banuh, p. 195.
+[^1] Itmam al-Wafa’ fi Sirat al-Khulafa’, p. 225.
+[^2] ‘Ali wa Banuh, p. 195.
 
 Unfortunately, many historians and writers have not carefully gone
 through the researches on Imam al-Hasan (a.s) nor have they understood

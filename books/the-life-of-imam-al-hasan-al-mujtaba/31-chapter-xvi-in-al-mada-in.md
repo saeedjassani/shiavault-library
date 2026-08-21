@@ -39,12 +39,12 @@ desert. They arrived in Sinor, and then they went to Shahi[^2] .
 Ubaydillah walked past the Euphrates and through al-Fallujah. Then he
 arrived at Maskan and resided
 
-[^1]: A place near Awana on al-Dujayl river. The battle between ‘Abd
+[^1] A place near Awana on al-Dujayl river. The battle between ‘Abd
 al-Malik bin Marwan and Mas‘ab bin al-Zubayr took place at it in the
 year 72 A. H. Mas‘ab and Ibrahim bin Malik al-Ashtar were killed and
 buried at it. They have famous graves. (This has been mentioned in the
 book) Mu‘jam al-Buldan, vol. 8, p. 54.
-[^2]: Shahi is a place near al-Qadisiya.
+[^2] Shahi is a place near al-Qadisiya.
 
 there. He was face to face with the enemy. As for Mu’awiya, he
 practiced destruction and spoiling. He used all the means to put an end
@@ -86,9 +86,9 @@ otherwise, you shall enter (into it) while you are a follower. If you
 responded to me now, you shall have a million dirhams, half of which you
 shall have immediately, and the other half on my entry into Kufa.”[^3]
 
-[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 15.
-[^2]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 28.
-[^3]: Ibid.
+[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 15.
+[^2] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 4, p. 28.
+[^3] Ibid.
 
 The clear lying and flagrant cunning appeared in his statement: “Most
 surely al-Hasan is corresponding with me about making peace.” When did
@@ -131,7 +131,7 @@ Therefore, Ubaydillah, the sinful traitor, was responsible for
 destroying al-Hasan’s Army. That is because his treason led to shake the
 army, divide its units, and make it disordered.
 
-[^1]: Al-Ya‘qubi, Tarikh, vol. 2, p. 191.
+[^1] Al-Ya‘qubi, Tarikh, vol. 2, p. 191.
 
 The plan Mu’awiya followed was the most important reason for paving the
 way to his success, winning a victory over the attitude, and overcoming
@@ -166,7 +166,7 @@ of the Army. The army came to know that there was a true logic in his
 speech and firm faith in his personality. It was clear that Ubaydillah
 was worthy of
 
-[^1]: Ka‘b bin ‘Amr al-Ansari al-Salami witnessed (the Battle of) Badr
+[^1] Ka‘b bin ‘Amr al-Ansari al-Salami witnessed (the Battle of) Badr
 after al-‘Aqaba. It was he who took al-‘Abbas as a prisoner of war at
 (the Battle of) Badr. He took the polytheists’ standard, which was in
 Abu ‘Uzayz’s hand. He witnessed (the Battle of) Siffin with (Imam Ali),
@@ -182,7 +182,7 @@ enjoy him!’” So he was the last of the companions (of the Prophet) to
 die. When he narrated this tradition, he wept and said: “Enjoy me, for
 my lifetime (is so long) that I am the last of them!”
 
-[^2]: Maqatil al-Talibiyyin, p. 35.
+[^2] Maqatil al-Talibiyyin, p. 35.
 
 treason and of accusation of evil. It came to know that if he had owned
 noble feelings and human sentiments, he would not have escaped and let
@@ -226,8 +226,8 @@ Mu’awiya and joined him.[^2] The Army had no doubt about this rumor. That
 is because Ubaydillah bin al-Abbas, who was the closest of the people to
 Imam al-Hasan in kinship, deserted and betrayed him.
 
-[^1]: Maqatil al-Talibiyyin, p. 35.
-[^2]: Al-Bidaya wa al-Nihaya, vol. 8, p. 14.
+[^1] Maqatil al-Talibiyyin, p. 35.
+[^2] Al-Bidaya wa al-Nihaya, vol. 8, p. 14.
 
 2. In Maskan they rumored that Imam al-Hasan made peace with Mu’awiya
 and responded to him.[^1]
@@ -270,9 +270,9 @@ him. He walked through Hammam ‘Umar until he reached Deir Ka‘b, at
 Muzlim Sabat [^3] and stayed there. As for Mu’awiya, he made mischief
 among Imam al-
 
-[^1]: Al-Ya‘qubi, Tarikh, vol. 2, p. 191.
-[^2]: Al-Dimyari, Hayat al-Hayawan, vol. 1, p. 57.
-[^3]: Muzlim Sabat was a place near al-Mada’in. This has been mentioned
+[^1] Al-Ya‘qubi, Tarikh, vol. 2, p. 191.
+[^2] Al-Dimyari, Hayat al-Hayawan, vol. 1, p. 57.
+[^3] Muzlim Sabat was a place near al-Mada’in. This has been mentioned
 in the book Mu‘jam al-Buldan, vol. 8, p. 91.
 
 Hasan’s Army and spread terror over it, to the extent that the Army led
@@ -322,7 +322,7 @@ marrying a daughter of his. Al-Saduq, may Allah have mercy on him, has
 mentioned these groups of people, saying: “Mu’awiya sent a spy of his to
 ‘Amr bin Hurayth[^1] , al-Ash‘ath
 
-[^1]: ‘Amru bin Hurayth bin ‘Uthman al-Makhzumi, al-Kufi was 12 years old
+[^1] ‘Amru bin Hurayth bin ‘Uthman al-Makhzumi, al-Kufi was 12 years old
 when
 
 bin Qays, and Hajjar bin Abjar[^1] . He had made them desire for leading
@@ -352,7 +352,7 @@ governor of Kufa after Ziyad and his son ‘Ubayd Allah. He died in the
 year 75. (This has been mentioned in the book) Tahdhib al-Tahdhib, vol.
 7, p. 17.
 
-[^1]: Hajjar’s father was a Christian. Hajjar said to his father: “I have
+[^1] Hajjar’s father was a Christian. Hajjar said to his father: “I have
 come to know that some people have followed this religion and become
 honorable. I want to embrace it.” His father said to him: “O my little
 son, be patient till I go with you to ‘Umar, that he may honor you.
@@ -371,8 +371,8 @@ have mentioned that Hajjar was among the people who sent letters to
 (Imam al-Husayn), the master of martyrs, peace be on him, urging him to
 come to Iraq. When he came to Iraq, this sinful person (Hajjar) was on
 top of those who attacked him.
-[^2]: ‘Ilal al-Sharaiya‘, p. 84.
-[^3]: Jannat al-Khuld, Chapter 9. Kashf al-Ghumma, p. 154. And others.
+[^2] ‘Ilal al-Sharaiya‘, p. 84.
+[^3] Jannat al-Khuld, Chapter 9. Kashf al-Ghumma, p. 154. And others.
 
 An example of the influence of bribe on those sick souls void of all
 kinds of honor is that Imam al-Hasan (a.s) appointed a commander from
@@ -417,7 +417,7 @@ Imam al-Hasan’s property. Most likely the Kharijites played a major role
 in practicing such a crime. That is because they paid no attention to
 the Imam’s property and to
 
-[^1]: Bihar al-Anwar, vol. 10, p. 110.
+[^1] Bihar al-Anwar, vol. 10, p. 110.
 
 other than that. Their crooked plans regarded as lawful plundering the
 properties of those who did not follow their thought and religion.
@@ -463,9 +463,9 @@ stop at this limit; rather they exceeded more than that. That was when
 the bribed persons and the Kharijites attempted to kill him. The Imam
 (a.s) faced three attempts of assassination, but he was safe from them.
 They are as follows:
-[^1]: Bihar al-Anwar, vol. 10, p. 110, A‘yan al-Shia. Al-Ya‘qubi,
+[^1] Bihar al-Anwar, vol. 10, p. 110, A‘yan al-Shia. Al-Ya‘qubi,
 Tarikh.
-[^2]: Bihar al-Anwar. Ibn Abi al-Hadeed, Sharh Nahj al-Balagha.
+[^2] Bihar al-Anwar. Ibn Abi al-Hadeed, Sharh Nahj al-Balagha.
 
 1. While he was performing the prayer, a person threw an arrow at him
 but the arrow had no effect on him at all.
@@ -553,8 +553,8 @@ All the endeavors the Imam made to set them right were useless. The
 attitude became more critical, his tribulation became greater, the
 troubles and
 
-[^1]: Al-Irshad, p. 170.
-[^2]: Yanabee‘ al-Mawadda, p. 292.
+[^1] Al-Irshad, p. 170.
+[^2] Yanabee‘ al-Mawadda, p. 292.
 
 misfortunes became worse. The military commanders made use of that the
 Imam was busy treating his wound. So they flagrantly communicated with
@@ -599,7 +599,7 @@ for he had neither a supporter nor a helper, and there was no strong
 support to which he had to resort. He realized the clear plans the
 military commanders had taken to hand him over to Mu’awiya as a prisoner
 of war or to assassinate him.
-[^1]: Human al-Islam, vol. 1, p. 123. Ibn Druid, al-Mujjtama, p. 36.
+[^1] Human al-Islam, vol. 1, p. 123. Ibn Druid, al-Mujjtama, p. 36.
 
 After all of this he concluded that the attitude required quick
 peacemaking. Yazid bin Wahab al-Juhani has given an outline of the
@@ -683,5 +683,5 @@ suffered, we will give other reasons for explaining the attitude,
 raising the influence of the doubt, and refuting the criticisms of the
 critics.
 
-[^1]: Ansab al-Ashraf, Q 11/200.
+[^1] Ansab al-Ashraf, Q 11/200.
 

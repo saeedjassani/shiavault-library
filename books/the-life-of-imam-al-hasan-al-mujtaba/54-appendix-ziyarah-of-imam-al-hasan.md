@@ -220,7 +220,7 @@ Peace be upon you: O the Leaders of true guidance.
 alssala-mu \`alaykum ahla alttaqwa-
 
 Peace be upon you: O the people of piety.
-[^1] This form of Ziyarah is common for the four Holy Imams who are
+[^1]: This form of Ziyarah is common for the four Holy Imams who are
 buried in al-Baqee’ Cemetery; namely, Imam al-Hasan, Imam Zayn
 al-Abideen, Imam al-Baqir, and Imam al-Sadiq—peace be upon them all.
 

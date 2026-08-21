@@ -83,9 +83,9 @@ mediator, and the witness. However Mu’awiya paid no attention to what
 Islam had prohibited. It has been reported on the authority of Atta’ bin
 Yasar that
 
-[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 2, p. 357.
-[^2]: Al-Nasaa’ih al-Kafiya, p. 97.
-[^3]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 10, p. 101.
+[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 2, p. 357.
+[^2] Al-Nasaa’ih al-Kafiya, p. 97.
+[^3] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 10, p. 101.
 
 Mu’awiya sold a gold container for more than its weight. Abu
 al-Darda’[^1] said to him: “I have heard that Allah’s Apostle, may Allah
@@ -110,7 +110,7 @@ respect Allah’s Apostle (a.s) has said: “There is neither azan nor Iqama
 in the two Eids Prayer[^3] ”[^4] The Caliphs after Allah’s Apostle
 followed this sunna.[^5] However
 
-[^1]: It has been differed over the name of Abu al-Darda’. It was said
+[^1] It has been differed over the name of Abu al-Darda’. It was said
 that his name was ‘Aamir or ‘Uwaymir. It has also been differed over his
 father’s name. It was said that his name was ‘Aamir or Malik or
 Abdullah. His lineage goes back to Ka‘b bin al-Khazrajj al-Ansari. Abu
@@ -128,11 +128,11 @@ he said: ‘Most surely the heaviest thing in the scale of the believer’s
 moral traits is the good manner; and Allah detests the one who is
 obscene.”
 
-[^2]: Al-Nasaa’ih, p. 94.
-[^3]: The two ‘Ids are the Lesser Bairam (1st of Shawwal) and the Greater
+[^2] Al-Nasaa’ih, p. 94.
+[^3] The two ‘Ids are the Lesser Bairam (1st of Shawwal) and the Greater
 Bairam, Feast of Immolation.
-[^4]: Al-Sha‘rani, Kashif al-Ghumma, vol. 1, p. 123.
-[^5]: Abu Dawud, Sunan, vol. 1, p. 79.
+[^4] Al-Sha‘rani, Kashif al-Ghumma, vol. 1, p. 123.
+[^5] Abu Dawud, Sunan, vol. 1, p. 79.
 
 Mu’awiya did not pay attention to that. He innovated the azan and Iqama
 before the Eid Prayer.[^1] In this manner he opposed Allah’s Apostle and
@@ -176,13 +176,13 @@ Mu’awiya intentionally opposed that. He used them for his eating and
 drinking. When the tradition of Allah’s Apostle, may Allah bless him and
 his family, in
 
-[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 1, p. 470.
-[^2]: Abu Dawud, Sunan, vol. 1, p. 178.
-[^3]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 3, p.470.
-[^4]: Al-Ya‘qubi, Tarikh, vol. 2, p. 207.
-[^5]: Ihram means the state of ritual consecration during the ‘umra
+[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 1, p. 470.
+[^2] Abu Dawud, Sunan, vol. 1, p. 178.
+[^3] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 3, p.470.
+[^4] Al-Ya‘qubi, Tarikh, vol. 2, p. 207.
+[^5] Ihram means the state of ritual consecration during the ‘umra
 (minor hajj) and hajj.
-[^6]: Al-Nasaa’i, p. 100.
+[^6] Al-Nasaa’i, p. 100.
 
 respect of making that forbidden was recited to him, he said: “I see no
 harm in that.”[^1] Wearing silk Garments Islam has made it forbidden for
@@ -221,10 +221,10 @@ religion (for money) and entrusted you with your religion!”
 “Buy my religion from me!” retorted al-Hattat. So Mu’awiya ordered a
 gift to be given to him.[^4]
 
-[^1]: Al-Nasaa’i, p. 101.
-[^2]: Ibid., p. 101.
-[^3]: Al-Ya‘qubi, Tarikh, vol. 2, p. 207.
-[^4]: Al-Kamil fi al-Tarikh, vol. 3, p. 185.
+[^1] Al-Nasaa’i, p. 101.
+[^2] Ibid., p. 101.
+[^3] Al-Ya‘qubi, Tarikh, vol. 2, p. 207.
+[^4] Al-Kamil fi al-Tarikh, vol. 3, p. 185.
 
 **His Dissoluteness and Impudence**
 
@@ -250,7 +250,7 @@ Allah send him far!
 
 Yazid turned to his father and said to him:
 
-[^1]: ‘Abd al-Rahman bin Hassan bin Thabit al-Ansari al-Khazraji was born
+[^1] ‘Abd al-Rahman bin Hassan bin Thabit al-Ansari al-Khazraji was born
 during the time of the Prophet, may Allah bless him and his family. He
 was a poet and narrated few traditions. Ibn Ma‘een has regarded him as
 among the second generations in Medina. As for Ibn Hayyan, he has
@@ -313,7 +313,7 @@ Through that he opened a door to corruption and enabled the dissolute to
 interfere with the Muslims’ daughters, to the extent that they
 extremely
 
-[^1]: Abu al-Faraj al-Isfahani, al-Aghani, vol. 13, p. 149. rushed upon
+[^1] Abu al-Faraj al-Isfahani, al-Aghani, vol. 13, p. 149. rushed upon
 pleasure during Mu’awiya’s reign and the reign of the other Umayyads.
 Yet another example on that was that Abu Dahbal al-Jahmi[^1] wooed
 Mu’awiya’s daughter, but the latter gently treated the former. He linked
@@ -336,14 +336,14 @@ children!”[^5]
 The historians have mentioned many examples of Mu’awiya’s dissoluteness
 and recklessness which indicate that he was void of all human values.
 
-[^1]: His name is Wahab bin Zam‘a bin Usayd. He was a good poet. He was
+[^1] His name is Wahab bin Zam‘a bin Usayd. He was a good poet. He was
 famous for praise.
 This has been mentioned in Mu‘jam al-Shu‘ra’, vol. 1, p. 117. A lot of
 his poetry has been mentioned in the British, Asian Magazine.
 
-[^2]: Abu al-Faraj al-Isfahani, al-Aghani, vol. 6, pp. 39-159.
-[^3]: Al-Bidaya wa al-Nihaya, vol. 8, p. 140.
-[^4]: Abdullah bin Mas‘ada bin Hikma al-Fazari was still young when he
+[^2] Abu al-Faraj al-Isfahani, al-Aghani, vol. 6, pp. 39-159.
+[^3] Al-Bidaya wa al-Nihaya, vol. 8, p. 140.
+[^4] Abdullah bin Mas‘ada bin Hikma al-Fazari was still young when he
 was taken as a prisoner of war. Allah’s Apostle (a.s.) granted him to
 his daughter Fatim. She released him while still young. Then he was with
 (Imam) Ali. Then he joined Mu‘awiya and was the most hostile of the
@@ -402,8 +402,8 @@ Caliphs and of a group of other companions. Then he, may Allah bless him
 and his family, mentioned Mu’awiya saying: “And Mu’awiya bin Abi Sufyan
 is the most clement of my community and the most generous of them!”[^2]
 
-[^1]: Qur’an, 16, 105.
-[^2]: Tatheer al-Jinan and al-Lisan printed on the footnote of al-Sawa‘iq
+[^1] Qur’an, 16, 105.
+[^2] Tatheer al-Jinan and al-Lisan printed on the footnote of al-Sawa‘iq
 al-Muhriqa, p. 24.
 
 They narrated that the Prophet (a.s) praised the excellence of his
@@ -438,7 +438,7 @@ and said to him strike him with it. Mu’awiya struck him with it. I went
 home and suddenly came to know that the man suffered from the stroke of
 the night and he died. The man was called Rasheed al-Kindi.”[^4]
 
-[^1]: Tatheer al-Jinan and al-Lisan, p. 26. Ibn Hajar has depended on the
+[^1] Tatheer al-Jinan and al-Lisan, p. 26. Ibn Hajar has depended on the
 fabricated narrations about Mu‘awiya and regarded him as above the sins
 and offenses he had committed and as among the companions (of the
 Prophet) who conformed to their religion. Allah blinded Ibn Hajar’s
@@ -449,9 +449,9 @@ afflicted with such historians who do not look at the reality except
 through black binoculars. They committed crimes against Islam and
 Muslims through their fabrications and lies.
 
-[^2]: Al-Maqdisi, p. 126.
-[^3]: Al-Muntazam, p. 60.
-[^4]: Al-Ghadir, vol. 10, p. 138.
+[^2] Al-Maqdisi, p. 126.
+[^3] Al-Muntazam, p. 60.
+[^4] Al-Ghadir, vol. 10, p. 138.
 
 The naïve and simple-minded sided with Mu’awiya and went too far in
 respecting him because of these fabricated traditions and false rumors.
@@ -495,9 +495,9 @@ may Allah bless him and his family, and to degrade their importance.
 This is the text of what he wrote. “Most surely the traditions about me
 have become many and spread all over
 
-[^1]: Al-Sabaki, Tabaqat, vol. 2, p. 84. Wafayat al-A‘yan, vol. 1, p.
+[^1] Al-Sabaki, Tabaqat, vol. 2, p. 84. Wafayat al-A‘yan, vol. 1, p.
 37.
-[^2]: Tahdhib al-Tahdhibin
+[^2] Tahdhib al-Tahdhibin
 
 the countries and districts. If this letter of mine comes to you, then
 summon them (the fabricators) to narrate (traditions) about Abu Bakr and
@@ -529,21 +529,21 @@ Then Imam al-Baqir went on mentioning the fabricated traditions to the
 extent that he mentioned more than a hundred traditions the people
 regarded as true.[^4]
 
-[^1]: Saleem bin Qays, p. 29. Ibn Abi al-Hadeed, Sharh Nahj al-Balagha,
+[^1] Saleem bin Qays, p. 29. Ibn Abi al-Hadeed, Sharh Nahj al-Balagha,
 vol. 3, p.15.
-[^2]: The mercenaries fabricated the tradition to oppose the authentic
+[^2] The mercenaries fabricated the tradition to oppose the authentic
 tradition narrated from the Prophet, may Allah bless him and his family,
 concerning his two grandsons: “Al-Hasan and al-Husayn are the two
 masters of the youths of the Garden.” Imam al-Jawad was asked about the
 fabricated tradition, and he refuted it saying: “By Allah there are no
 middle-aged in the Garden; rather all of them are beardless young
 men.”
-[^3]: The sign of fabrication in this tradition is clear. Why were the
+[^3] The sign of fabrication in this tradition is clear. Why were the
 angels ashamed of ‘Uthman bin ‘Affan? Did he pass by them and see them
 do ugly deeds and commit something abominable, and so they were ashamed
 of him? Or did he do that, and they were ashamed of him? I (the author)
 think that this claimed shame is meaningless!
-[^4]: In a narration: “To the extent that he mentioned more than two
+[^4] In a narration: “To the extent that he mentioned more than two
 hundred traditions.”
 
 Then he (a.s) said: “All of them are untrue and false!”[^1]
@@ -575,8 +575,8 @@ defended Allah’s Apostle, may Allah bless him and his family, during all
 the attitudes and battles, and forced Mu’awiya and his father to embrace
 Islam.
 
-[^1]: Saleem bin Qays, p. 45.
-[^2]: His name is Ibrahim bin Muhammed bin ‘Arafa al-Azdi. He was born in
+[^1] Saleem bin Qays, p. 45.
+[^2] His name is Ibrahim bin Muhammed bin ‘Arafa al-Azdi. He was born in
 Wasit in the year 244 A. H. He has good books. He was called Naftawayh
 because of his ugliness. He was likened to oil (naft). Some of his
 poetry are the following lines:
@@ -592,9 +592,9 @@ his name, and made the rest as crying over him! He (Naftawayh) died in
 the month of Safar, in the year 323 A. H. (This has been mentioned in
 the book) Wafayat al-A‘yan, vol. 1, p. 30.
 
-[^3]: Al-Nasaa’ih al-Kafiya, p. 74. Other sources have mentioned that.
-[^4]: Qur’an, 1, 203-204.
-[^5]: Al-Nasaa’ih al-Kafiya, p. 253. Other sources have mentioned that.
+[^3] Al-Nasaa’ih al-Kafiya, p. 74. Other sources have mentioned that.
+[^4] Qur’an, 1, 203-204.
+[^5] Al-Nasaa’ih al-Kafiya, p. 253. Other sources have mentioned that.
 
 Anyhow the men of ambitions and the devious from Islam hurried to
 fabricate traditions to degrade the Prophet’s Household, that they might
@@ -630,11 +630,11 @@ came to Abdullah bin Abbas and narrated to him: ‘Allah’s Apostle, may
 Allah bless him and his family, has said.’ However Ibn Abbas did not
 permit him nor did he look at him. He made
 
-[^1]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.3, p.15.
-[^2]: Saleem bin Qays, p. 45.
-[^3]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.4, p.63. Printed by
+[^1] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.3, p.15.
+[^2] Saleem bin Qays, p. 45.
+[^3] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol.4, p.63. Printed by
 Dar Ihya’ al-Kutub al-‘Arabiya.
-[^4]: His full name is Bashir bin Ka‘b bin Abi al-Himyari al-‘Adawi. It
+[^4] His full name is Bashir bin Ka‘b bin Abi al-Himyari al-‘Adawi. It
 was said that his nickname was al-‘Amiri. Ibn Sa‘d has mentioned him as
 among the second class from among the people of Basrah. He said that he
 was trustworthy, if Allah willed. Al-Nisa’i has said: “He (Bashir
@@ -682,9 +682,9 @@ The books are full of such traditions and are filled with the Israeli
 fables (Isra’iliyat)[^3] and Abu Hurayra’s traditions. Without doubt
 these traditions
 
-[^1]: Fajr al-Islam, p. 258. Other sources have mentioned that.
-[^2]: Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 3, p.16.
-[^3]: The Isra’iliyat are the fables made up by the hypocrites from among
+[^1] Fajr al-Islam, p. 258. Other sources have mentioned that.
+[^2] Ibn Abi al-Hadeed, Sharh Nahj al-Balagha, vol. 3, p.16.
+[^3] The Isra’iliyat are the fables made up by the hypocrites from among
 the Jews who became Muslims and affected Islam to put in it things of
 which it is innocent. Ka‘b al-Ahbar was on the top of those Jews who
 fabricated such fables.
@@ -730,8 +730,8 @@ caliphate should not come together in one house!” After this how was it
 possible for them to write down the traditions of the Prophet (a.s)
 concerning his Household?
 
-[^1]: Tadhkirat al-Huffaz, vol. 1, p. 5.
-[^2]: Taqyyid al-‘Ilim, p. 50. (A speech) similar to it (speech has been
+[^1] Tadhkirat al-Huffaz, vol. 1, p. 5.
+[^2] Taqyyid al-‘Ilim, p. 50. (A speech) similar to it (speech has been
 mentioned) in Ibn Sa‘d’s Tabaqat, 31, p. 206.
 
 Anyway the greatest disaster with which the Muslims were afflicted was

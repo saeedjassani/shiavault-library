@@ -387,7 +387,7 @@ is very sensitive for the Wahhabis.
 
 One of their writers by the name of al-San'ani in his book *Tathir
 al-'i'tiqad* has reckoned it to be the source of *shirk* (polytheism)
-[^16]: and the author of *al-Hadiyyat al-saniyya* has called it as minor
+[^16] and the author of *al-Hadiyyat al-saniyya* has called it as minor
 shirk. [^17]
 
 However we shall, by the Grace of God, discuss the matter without any

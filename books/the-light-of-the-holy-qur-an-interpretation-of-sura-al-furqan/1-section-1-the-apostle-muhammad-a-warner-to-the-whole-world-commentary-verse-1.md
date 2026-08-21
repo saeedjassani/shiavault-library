@@ -53,11 +53,11 @@ falsehood. This shows that the best favour and blessing is that man has
 got a means for cognition, knowing the difference between truth and
 falsehood.
 
-[^1]: Sura Al-Qadr, No. 97, verse 1
+[^1] Sura Al-Qadr, No. 97, verse 1
 
-[^2]: Sura Al-'Issra', No. 17, verse 106
+[^2] Sura Al-'Issra', No. 17, verse 106
 
-[^3]: The verse under discussion
+[^3] The verse under discussion
 
 Another interesting thing is that the Qur'anic word Furqan has
 sometimes been used in the sense of Qur'an and sometimes it means the
@@ -95,9 +95,9 @@ This matter is also important that the verse says: "... Who sent down
 the Furqan (The Distinction of right and wrong) upon His servant ..."
 Yes, it is the sincere servitude and
 
-[^1]: Burhan, Vol. 3, p. 155
+[^1] Burhan, Vol. 3, p. 155
 
-[^2]: Sura Al-'Anfal, No. 8, verse 29
+[^2] Sura Al-'Anfal, No. 8, verse 29
 
 submission that makes a man deserving and worthy for receiving Furqan
 and accepting the criteria of knowing truth and falsehood.

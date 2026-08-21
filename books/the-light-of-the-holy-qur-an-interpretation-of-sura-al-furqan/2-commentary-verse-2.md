@@ -32,7 +32,7 @@ unstable, insignificant, and, in the meantime, dependent on Him.
 
 Then polytheists' beliefs are one by one rejected:
 
-[^1]: According to Raqib in Mufradat, the word /mulk/ means: 'To take
+[^1] According to Raqib in Mufradat, the word /mulk/ means: 'To take
 something in one's authority and having dominion on it.'
 
 "... and He has not taken any son (unto Himself),..."
@@ -197,6 +197,6 @@ maladies we have fought during many centuries. How wonderfully we were
 formerly protected against these maladies while we did not know any
 health matters![^1]
 
-[^1]: Extracted from the book 'The Mystery of Man Creation', pages
+[^1] Extracted from the book 'The Mystery of Man Creation', pages
 33-449
 

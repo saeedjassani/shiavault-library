@@ -263,6 +263,6 @@ what the creed, 'There is no god but Allah", visualizes.
 
 **Notes**
 
-[^13] The Islamic Seminary has published this book in English language
+[^13]: The Islamic Seminary has published this book in English language
 under the caption, Peak of Eloquence, 1984
 

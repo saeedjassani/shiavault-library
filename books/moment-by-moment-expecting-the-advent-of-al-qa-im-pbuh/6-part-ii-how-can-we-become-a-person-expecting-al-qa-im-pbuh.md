@@ -74,7 +74,7 @@ his words."[^2]
 
 Furthermore, it has been narrated:
 
-[^1] al-Kafi, vol. 1, p. 371, Hadith 2; al-Ghaiba, al-Nu'mani, p. 329,
+[^1]: al-Kafi, vol. 1, p. 371, Hadith 2; al-Ghaiba, al-Nu'mani, p. 329,
 Hadith 2; Bihar al-Anwar, vol. 52, p. 141, Hadith 53.
 
 [^2]Bihar al-Anwar, vol. 36, p. 407, Hadith 16.

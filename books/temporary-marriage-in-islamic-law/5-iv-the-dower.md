@@ -146,7 +146,7 @@ dower is compensation for 'mistaken intercourse'. Since the contract was
 invalid without the knowledge of the husband and wife, their intercourse
 is 'mistaken'. Therefore the man must pay the normal dowry of permanent
 marriage, which is demanded in any instance of 'mistaken intercourse'.
-[^61]: The time period for which the woman was at the man's disposal is
+[^61] The time period for which the woman was at the man's disposal is
 irrelevant, just as there is no difference between one act of sexual
 intercourse and several acts as long as the mistake remains in force.
 [^62]

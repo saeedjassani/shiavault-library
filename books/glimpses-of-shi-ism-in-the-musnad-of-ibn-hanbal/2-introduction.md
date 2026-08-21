@@ -220,7 +220,7 @@ Sha-kir), p. 21.
 Musnad al-Imam Ahmad, p. 39. This treatise has also been included by
 Sha-kir in his introduction to the Musnad.
 
-[^5]: Ibid, p. 28.
+[^5] Ibid, p. 28.
 
 [^6]: Al-Suyuti-, Jala-l al-Di-n, Ja-mi‘ al-Aha-di-th, compiled and
 arranged by ‘Abba-s Ahmad Saqar and Ahmad ‘Abd al-Jawa-d, pulished in 21
@@ -256,7 +256,7 @@ published by Maktabah al-Nihzat al-Misriyyah, 1961.
 
 [^13]: Ibn al-Jawzi-, Mana-qib al-Imam Ahmad bin Hanbal, p. 165.
 
-[^14]: Ibid.
+[^14] Ibid.
 
 [^15]: Ibn Abi- al-Hadi-d, Sharh Nahj al-Bala-ghah, vol. 1, p. 17.
 

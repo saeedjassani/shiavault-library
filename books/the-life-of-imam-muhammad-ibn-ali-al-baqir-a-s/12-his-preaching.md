@@ -943,58 +943,58 @@ outstanding grandfathers, who illumined the cultural life for people.
 
 ###
 
-[^1]: Al-Tabari, Tarikh, vol.3, p.73.
+[^1] Al-Tabari, Tarikh, vol.3, p.73.
 
-[^2]: Ibn Hisham, al-Sira al-Nabawiya, vol.2, pp.429-[^430]:
+[^2] Ibn Hisham, al-Sira al-Nabawiya, vol.2, pp.429-[^430]:
 
-[^3]: Sharh Nahjj al-Balagha, vol.4, pp.109-[^110]:
+[^3] Sharh Nahjj al-Balagha, vol.4, pp.109-[^110]:
 
-[^4]: Ibid, vol.2, p.386.
+[^4] Ibid, vol.2, p.386.
 
-[^5]: Al-Tabari, Tarikh, vol.5, p.153.
+[^5] Al-Tabari, Tarikh, vol.5, p.153.
 
-[^6]: Ibn Abi al-Haddid, Sharh Nahjj al-Balagha, vol.3, p.324.
+[^6] Ibn Abi al-Haddid, Sharh Nahjj al-Balagha, vol.3, p.324.
 
-[^7]: Waqq‘at Siffin, p.267.
+[^7] Waqq‘at Siffin, p.267.
 
-[^8]: Ibid, pp.354-[^356]:
+[^8] Ibid, pp.354-[^356]:
 
-[^9]: Sharh Nahjj al-Balagha, vol.2, pp.212-[^213]:
+[^9] Sharh Nahjj al-Balagha, vol.2, pp.212-[^213]:
 
-[^10]: Al-‘Aqida wa al-Shari‘a fi al-Islam, p.190.
+[^10] Al-‘Aqida wa al-Shari‘a fi al-Islam, p.190.
 
-[^11]: Sharh Nahjj al-Balagha, vol.2, p.212.
+[^11] Sharh Nahjj al-Balagha, vol.2, p.212.
 
-[^12]: Ibid, pp.233-[^234]:
+[^12] Ibid, pp.233-[^234]:
 
-[^13]: The historians know that Moslem was the first to stop at
+[^13] The historians know that Moslem was the first to stop at
 al-Mukhtar’s house.
 
-[^14]: Al-Tabari, Tarikh, vol.5, pp.347-[^349]:
+[^14] Al-Tabari, Tarikh, vol.5, pp.347-[^349]:
 
-[^15]: Ibid, pp.349-[^351]:
+[^15] Ibid, pp.349-[^351]:
 
-[^16]: Ibid, pp.389-[^390]:
+[^16] Ibid, pp.389-[^390]:
 
-[^17]: Hayat al-Imam al-Husayn, vol.3, p.129.
+[^17] Hayat al-Imam al-Husayn, vol.3, p.129.
 
 [^18]: Al-Fusul al-Muhimma, p.29.
 
-[^19]: Al-Khisal, p.157.
+[^19] Al-Khisal, p.157.
 
-[^20]: Al-Bayan wa al-Tabiyyin, vol.3, p.280.
+[^20] Al-Bayan wa al-Tabiyyin, vol.3, p.280.
 
-[^21]: Abi ‘Ali al-Qali, al-Amali, vol.2, p.308.
+[^21] Abi ‘Ali al-Qali, al-Amali, vol.2, p.308.
 
-[^22]: Tarikh Dimashq, vol.51, p.38.
+[^22] Tarikh Dimashq, vol.51, p.38.
 
-[^23]: Koran, al-A‘raf, [^200]:
+[^23] Koran, al-A‘raf, [^200]:
 
-[^24]: Tuhaf al-‘Uqul, pp.284-[^286]:
+[^24] Tuhaf al-‘Uqul, pp.284-[^286]:
 
-[^25]: Tarikh Dimashq, vol.51, p.38.
+[^25] Tarikh Dimashq, vol.51, p.38.
 
-[^26]: Ibn Hamdun, Tadhkirat, p.27.
+[^26] Ibn Hamdun, Tadhkirat, p.27.
 
 [^27]: Tuhaf al-‘Uqul, p.299.
 

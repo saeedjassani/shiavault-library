@@ -63,9 +63,9 @@ altogether, in the end of the verse, as a warning, it says:
 He hears what is told and He knows what is in the hearts and what is in
 minds.
 
-[^1]: Wasa-'il-ush-shi-'ah, the book of An-Nika-h, Vol. 14, P. 147, Ch.
+[^1] Wasa-'il-ush-shi-'ah, the book of An-Nika-h, Vol. 14, P. 147, Ch.
 110
-[^2]: For more explanation refer to the above book (the same reference)
+[^2] For more explanation refer to the above book (the same reference)
 
 In short, the matter of veiling is one of the stable and necessary
 ordinances of Islam, but the issues of how the veil should be is
@@ -97,12 +97,12 @@ their garments, of course, their outer clothes.
 In some narrations we read the answer of this question that which
 garments can be taken off; Imam Sadiq (a.s.) has said:
 
-[^1]: Wasa-'il-ush-shi-'ah, Vol. 14, the book of An-Nika-h, C.110,
+[^1] Wasa-'il-ush-shi-'ah, Vol. 14, the book of An-Nika-h, C.110,
 Tradition No. 4
 
-[^2]: The above book
+[^2] The above book
 
-[^3]: Jawa-hir Vol. 29, P.85 and Kanz-ul- 'Irfan, Vol. 2, p.226
+[^3] Jawa-hir Vol. 29, P.85 and Kanz-ul- 'Irfan, Vol. 2, p.226
 
 "Chador."[^1] While in other narration it has been interpreted as chador
 and scarf.[^2]
@@ -124,10 +124,10 @@ as other women do, it is more preferred, as it is explicitly mentioned
 in the end of the verse, because there is the possibility of deviation
 and offence in such people, although very rarely.
 
-[^1]: Wasa-'il-ush-shi-'ah, the book of Al-Nekaah, C.110, Tradition
+[^1] Wasa-'il-ush-shi-'ah, the book of Al-Nekaah, C.110, Tradition
 No.1
 
-[^2]: The above book, Traditions 2 and 3
+[^2] The above book, Traditions 2 and 3
 
 **Commentary : Verse 61**
 
@@ -187,7 +187,7 @@ any reason they had , so the blind, the lame and the sick withdrew
 themselves, because it was possible that they caused others to worry and
 also thought that this was a sin.
 
-[^1]: Nar-uth-Thaqalyn, the Commentary
+[^1] Nar-uth-Thaqalyn, the Commentary
 
 This matter was presented to the Prophet (p.b.u.h.) and this verse was
 sent down, indicating that there is no blame upon the blind, nor any
@@ -221,7 +221,7 @@ Then the holy Qur'an adds implying that there is not any blame on
 yourselves if you eat from these houses without permission: from your
 houses, (the objective is the children
 
-[^1]: Dur-ul-Manthar and Nar-uth-Thaqalyn, following the verse. A part of
+[^1] Dur-ul-Manthar and Nar-uth-Thaqalyn, following the verse. A part of
 other commentators also have mentioned this narration in their books
 such as: Tabarsa in Majma‘-ul-Bayan, the deceased Fiyd in
 Tafsar-us-Safa, Fakhr-i-Raza in Tafsar-ul-Kabar, and Shaykh Tasa in
@@ -257,9 +257,9 @@ unjust custom with the above sentence.
 There is no problem if this verse refers to all of above affairs. Then
 the verse refers to another ethical matter, where it says:
 
-[^1]: Tibyan, the Commentary, following the verse
+[^1] Tibyan, the Commentary, following the verse
 
-[^2]: Ibid
+[^2] Ibid
 
 "... But when you enter houses, salute one another with a greeting from
 Allah, blessed and good...."
@@ -297,7 +297,7 @@ Ali's closeness to the Prophet (p.b.u.h.) is stated in this way.
 Some commentators say that this verse refers to the houses in which no
 one lives and when one wants to enter them one
 
-[^1]: Sura Al-Baqarah, No.2, verse 54
+[^1] Sura Al-Baqarah, No.2, verse 54
 
 salutes himself with this sentence: "Our greeting and peace will be
 from our Lord." or "Our peace be upon us and upon Allah's righteous
@@ -328,9 +328,9 @@ and it will not be limited to these 11 houses. But, is obtaining inward
 consent necessary as a condition because of intimacy and close
 acquaintance that is between two parties?
 
-[^1]: Nar-uth-Thaqalyn, vol. 3, p. 627
+[^1] Nar-uth-Thaqalyn, vol. 3, p. 627
 
-[^2]: Ibid
+[^2] Ibid
 
 The holy verse apparently rejects this condition, too, and considers it
 enough if only he or she is likely consent.
@@ -365,10 +365,10 @@ mentioned it explicitly.[^2]
 The only thing that remains is a narration that is about this matter.
 It says: "Only special nutritional materials can be
 
-[^1]: Wasa’il-ush-Sha‘ah, Vol. 16, p. 434, the book of “At‘imah wa
+[^1] Wasa’il-ush-Sha‘ah, Vol. 16, p. 434, the book of “At‘imah wa
 Ashribah”, chapters of ’adab-ul-Ma’idah, C. 24, Tradition No. 1
 
-[^2]: Ibid
+[^2] Ibid
 
 eaten, not every food." But since this narration is objected by Islamic
 jurists, its document would not be valid.
@@ -406,7 +406,7 @@ conceits, exclusionisms, and selfishness must be wiped out from it.
 Undoubtedly, the ordinances of usurpation exist in fields other than
 this, but in this special field Islam gives priority to
 
-[^1]: For more explation refer to the book Jawahir-ul-Kalam, Vol. 36, p.
+[^1] For more explation refer to the book Jawahir-ul-Kalam, Vol. 36, p.
 406
 
 sentimental issues and humane relationships and it is, in fact, an
@@ -480,9 +480,9 @@ If we read in some narrations that this phrase has been interpreted as
 a lawyer who is responsible for someone's property, it is, indeed, only
 expressing the extension of the meaning and it is not limited to it.
 
-[^1]: ’Usal-i-Kafa, Vol. 2, p. 467
+[^1] ’Usal-i-Kafa, Vol. 2, p. 467
 
-[^2]: Qurtaba, the Commentary, following the verse
+[^2] Qurtaba, the Commentary, following the verse
 
 **5. Salutation and greeting:**
 
@@ -516,11 +516,11 @@ answers it."[^3]
 4. Imam Sadiq (a.s.) said: "(This is the sign) of modesty that you
 salute to whom you meat."
 
-[^1]: Bihar, Vol. 73, p. 12
+[^1] Bihar, Vol. 73, p. 12
 
-[^2]: Ibid
+[^2] Ibid
 
-[^3]: Bihar, Vol. 75, p. 471
+[^3] Bihar, Vol. 75, p. 471
 
 5. Imam Sadiq (a.s.) said: "One who starts saluting is more prior to
 (have the blessing and favour of) Allah and the Prophet (p.b.u.h.)."
@@ -537,9 +537,9 @@ better way, and when someone confers you a blessing, you confer him a
 better blessing. But prior is the one who has started saluting and
 offering blessing."[^3]
 
-[^1]: Wasa’il-ush-Sha‘ah, Vol. 5, p. 442
+[^1] Wasa’il-ush-Sha‘ah, Vol. 5, p. 442
 
-[^2]: Bihar, Vol. 75, p. 12
+[^2] Bihar, Vol. 75, p. 12
 
-[^3]: Nahj-ul-Balaqah, Translated by Fiydul-Islam, p. 1114
+[^3] Nahj-ul-Balaqah, Translated by Fiydul-Islam, p. 1114
 

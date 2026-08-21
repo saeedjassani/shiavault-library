@@ -209,7 +209,7 @@ by no one but Imam.[^40]
 The Prophet (S) charged him with the duty of teaching ablution and
 tradition to people.[^41] 'Ayisha, whose animosity toward Fatima and
 'Ali (a) dated back to prophet's time, said, **علي أعلم الناس بالسنة**
-[^42]: ”'Ali is most conscious of Sunna.”
+[^42] ”'Ali is most conscious of Sunna.”
 
 According to one of the well-known successors called 'Ata', 'Ali is the
 most impoverished one among the Prophet's companions.[^43]
@@ -2562,7 +2562,7 @@ secured allegiance of Damascus people.
 He asked Zubayr to seize Iraq, Damascus will be ready for him. In that
 case, there remains nothing for 'Ali. These talks led to their moving on
 to Basra hoping that friends of Talha and Zubayr in Basra and Kufa
-[^293]: to assist them. Ya'la Ibn Umayya arriving with a lot of property
+[^293] to assist them. Ya'la Ibn Umayya arriving with a lot of property
 from Yemen, gave them all to rebels and they mobilized a group and
 mounted them on Ya'la Ibn Umayya's horses and moved up to Basra.
 
@@ -3880,7 +3880,7 @@ They inwardly rendered blasphemy until they found helpers today.”[^469]
 In another speech in Siffin, he rightly stressed over the point that
 these people deceitfully posed blood of 'Uthman, yet their aim is,
 **ليكونوا بذ لك جبابرة وملوكاً** He may become a tyrant by doing this.”
-[^470]: “
+[^470] “
 
 In Siffin, 'Ammar seemed to many a sign of distinguishing gospel truth
 from credal error. The Prophet (S) said about him, **تقتلك الفئة الباغية

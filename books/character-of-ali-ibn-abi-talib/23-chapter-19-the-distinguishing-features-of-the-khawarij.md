@@ -434,7 +434,7 @@ their blood as lawful and marriage with them as prohibited.
 
 [^15]. Nahju 'l-balaghah, Sermon no.60.
 [^16]. ibid., Sermon no.92
-[^17]: ibid., Sermon no.40.
+[^17] ibid., Sermon no.40.
 [^18]: Surah at-Tawbah, 9:84
 [^19]. For the text of this sermon see Nahju 'l-balaghah, Sermon no.
 126.
